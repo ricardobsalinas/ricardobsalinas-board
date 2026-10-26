@@ -1,5 +1,5 @@
 {
- "title": "Daily X narrative digest — 2026-10-26",
+ "title": "Resumen diario de X — 2026-10-26",
  "date": "2026-10-26",
  "timezone": "America/Mexico_City",
  "updated": "2026-10-26T03:10:00-06:00",
@@ -115,8 +115,7 @@
     "libertad",
     "instituciones"
    ],
-   "video_tip": "Video vertical 15-20 s: tú a cámara, una frase por corte, subtítulos grandes en blanco; cierra con la última línea en pantalla negra.",
-   "original_en": "Viva la democracia, ganó el pueblo de Brasil. ¡Felicidades presidente Lula!"
+   "video_tip": "Video vertical de 15-20 s: tú hablando a cámara, una frase por corte, subtítulos grandes en blanco; cierra con la última línea en pantalla negra."
   },
   {
    "handle": "@elonmusk",
@@ -341,8 +340,7 @@
     "corrupción",
     "responsabilidad"
    ],
-   "video_tip": "Clip de 20-30 s caminando en oficina o planta; texto sobreimpreso 'Liderar = responsabilidad'; sin nombrar a nadie, deja que la audiencia conecte con Taddei/INE.",
-   "original_en": "El reportero de @latinus_us Jorge Monroy haciendo la pregunta correcta hace meses y ganándose el insulto de Taddei. \n\nCómo son las cosas… https://t.co/oYFzSGNwpa"
+   "video_tip": "Clip de 20-30 s caminando por la oficina o la planta, con el texto en pantalla «Liderar = responsabilidad». Sin nombrar a nadie: que la audiencia haga la conexión sola."
   },
   {
    "handle": "@ClaudioOchoaH",
@@ -374,8 +372,7 @@
     "emprender",
     "patrimonio"
    ],
-   "video_tip": "Carrusel de 3 tomas reales de familias/colaboradores con su casa o negocio + 10 s de ti a cámara con la frase final; música suave, subtítulos.",
-   "original_en": "La vivienda es un derecho, no un privilegio. Las y los trabajadores de México merecen un hogar digno, un patrimonio para sus familias y la tranquilidad de saber que su esfuerzo se traduce en bienestar.\n\nHoy, en Morelia, Michoacán, entregamos 931 Viviendas del Bienestar para que https://t.co/cHJQfpwiTs"
+   "video_tip": "Tres tomas reales de familias o colaboradores en su casa o negocio, y luego 10 s tuyos a cámara con la frase final; música suave y subtítulos."
   },
   {
    "handle": "@pedroferriz3",
@@ -918,18 +915,18 @@
  "no_hits": [
   {
    "handle": "@LuisKuryaki",
-   "reason": "Not scanned in this run (handle corrected after the scan).",
+   "reason": "No se escaneó en esta corrida (el handle se corrigió después del escaneo).",
    "max_views": 0
   },
   {
    "handle": "@El_Universal_Mx",
-   "reason": "No sampled original reached 5,000 views; highest observed 4,394.",
+   "reason": "Ningún post original de la muestra llegó a 5,000 vistas; el máximo fue de 4,394.",
    "max_views": 4394
   }
  ],
- "virals_narrative": "Window: 2026-10-24 13:00 → 2026-10-26 03:00 (America/Mexico_City). Sampled via read-only search; some pages not fetched.",
+ "virals_narrative": "Ventana: del 24 oct, 03:00 al 26 oct, 03:00 (hora del centro de México). Muestra tomada con búsqueda de solo lectura; no se revisaron todas las páginas.",
  "narrative_synthesis": "Dominan Taddei/INE, la victoria de Lula y los programas sociales de Sheinbaum.",
- "virals_window": "last ~48h",
+ "virals_window": "últimas ~48 h",
  "virals_target": 20,
  "hits_count": 72,
  "outsiders_count": 0,
@@ -1017,5 +1014,6 @@
   "lula",
   "democracia",
   "corrupción"
- ]
+ ],
+ "lang": "es"
 }

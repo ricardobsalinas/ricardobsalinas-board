@@ -633,14 +633,14 @@ footer{margin-top:52px;padding-top:22px;border-top:1px solid var(--line);color:v
             <div class="x-mark" aria-hidden="true"><svg viewBox="0 0 24 24"><path fill="currentColor" d="M18.244 2.25h3.308l-7.227 8.26 8.502 11.24h-6.657l-5.214-6.817-5.967 6.817H1.68l7.73-8.835L1.254 2.25H8.08l4.713 6.231 5.45-6.231Zm-1.161 17.52h1.833L7.084 4.126H5.117L17.083 19.77Z"/></svg></div>
             <h2>X Score</h2>
           </div>
-          <p>Impulso diario según el número de hits de la watchlist y la velocidad total de vistas.</p>
+          <p>Impulso diario según el número de publicaciones de la watchlist y la velocidad total de vistas.</p>
         </div>
         <div class="score-col"><div class="score-ring" id="score-ring"><div class="score-inner"><div class="score-number" id="x-score" data-count="0">0</div><div class="score-of">/ 100</div></div></div><div class="score-trend-wrap"><div class="trend flat" id="score-trend"><span class="trend-arrow">→</span><span>calculando</span></div></div></div>
       </article>
       <article class="panel target-panel reveal">
         <div class="target-head"><div><div class="panel-label"><strong>02 /</strong> objetivo diario</div><div class="target-title">Meta del día</div></div><div class="target-state pending" id="target-state">◷ PENDIENTE</div></div>
         <div class="target-list">
-          <div><div class="target-row-head"><span>Hits de la watchlist</span><b id="hits-target-copy">—</b></div><div class="target-track"><div class="target-fill" id="hits-progress"></div></div></div>
+          <div><div class="target-row-head"><span>Publicaciones de la watchlist</span><b id="hits-target-copy">—</b></div><div class="target-track"><div class="target-fill" id="hits-progress"></div></div></div>
           <div><div class="target-row-head"><span>Vistas totales</span><b id="views-target-copy">—</b></div><div class="target-track"><div class="target-fill" id="views-progress"></div></div></div>
         </div>
         <div class="your-day" id="your-day">
@@ -662,11 +662,11 @@ footer{margin-top:52px;padding-top:22px;border-top:1px solid var(--line);color:v
       <div class="roster-list" id="day-roster"></div>
     </section>
 
-    <div class="section-head reveal"><div><div class="section-index">04 / velocidad</div><h2>Gráficas</h2></div><div class="section-note">mejores hits · comparación diaria · cobertura semanal</div></div>
+    <div class="section-head reveal"><div><div class="section-index">04 / velocidad</div><h2>Gráficas</h2></div><div class="section-note">mejores publicaciones · comparación diaria · cobertura semanal</div></div>
     <div class="charts-row">
       <section class="panel chart-panel reveal">
-        <div class="chart-head"><div><div class="panel-label"><strong>A /</strong> mapa de velocidad</div><h2>Vistas de los mejores hits</h2></div><div class="chart-scale" id="chart-scale">mejores señales de la watchlist</div></div>
-        <svg id="sparkline" viewBox="0 0 1000 130" preserveAspectRatio="none" role="img" aria-label="Minigráfica de vistas de los mejores hits"></svg>
+        <div class="chart-head"><div><div class="panel-label"><strong>A /</strong> mapa de velocidad</div><h2>Vistas de las mejores publicaciones</h2></div><div class="chart-scale" id="chart-scale">mejores señales de la watchlist</div></div>
+        <svg id="sparkline" viewBox="0 0 1000 130" preserveAspectRatio="none" role="img" aria-label="Minigráfica de vistas de las mejores publicaciones"></svg>
         <div class="spark-labels" id="spark-labels"></div>
       </section>
       <section class="panel chart-panel reveal">
@@ -677,18 +677,18 @@ footer{margin-top:52px;padding-top:22px;border-top:1px solid var(--line);color:v
       </section>
     </div>
 
-    <div class="section-head reveal"><div><div class="section-index">05 / clasificaciones</div><h2>Semana · Mes</h2></div><div class="section-note" id="lb-note">mejor / total (hits ≥5 mil)</div></div>
+    <div class="section-head reveal"><div><div class="section-index">05 / clasificaciones</div><h2>Semana · Mes</h2></div><div class="section-note" id="lb-note">mejor / total (publicaciones ≥5 mil)</div></div>
     <section class="boards" aria-label="Clasificaciones semanal y mensual">
       <article class="panel board-panel reveal"><div class="panel-label"><strong>W /</strong> últimos 7 días</div><h3 id="week-title">Semana</h3><div id="week-board"></div></article>
       <article class="panel board-panel reveal"><div class="panel-label"><strong>M /</strong> mes calendario</div><h3 id="month-title">Mes</h3><div id="month-board"></div></article>
     </section>
 
-    <div class="section-head reveal"><div><div class="section-index">06 / cuentas vigiladas</div><h2>Mejores hits</h2></div><div class="section-note" id="hits-note">las autocitas cuentan (insignia) · borradores solo para el TOP-10</div></div>
+    <div class="section-head reveal"><div><div class="section-index">06 / cuentas vigiladas</div><h2>Mejores publicaciones</h2></div><div class="section-note" id="hits-note">las autocitas cuentan (insignia) · borradores solo para el TOP-10</div></div>
     <section class="hits-col" id="hits"></section>
 
     <div class="section-head reveal"><div><div class="section-index">07 / patrones</div><h2>Resumen de patrones</h2></div><div class="section-note">palabras clave + ganchos y estructuras recurrentes</div></div>
     <section class="tags" id="patterns"></section>
-    <div class="section-head reveal" id="trend-kw-head" hidden><div><div class="section-index">07b / palabras clave en tendencia</div><h2>Palabras clave en tendencia · 24 h</h2></div><div class="section-note">ordenadas por hits del día, últimas 24 h, externos y el resumen · integradas en los borradores</div></div>
+    <div class="section-head reveal" id="trend-kw-head" hidden><div><div class="section-index">07b / palabras clave en tendencia</div><h2>Palabras clave en tendencia · 24 h</h2></div><div class="section-note">ordenadas por publicaciones del día, últimas 24 h, externos y el resumen · integradas en los borradores</div></div>
     <section class="tags" id="trend-kw" hidden></section>
 
     <div class="section-head reveal"><div><div class="section-index">08 / radar externo</div><h2>Virales externos · últimas 48 h</h2></div><div class="section-note" id="viral-count">20 señales externas</div></div>
@@ -701,7 +701,7 @@ footer{margin-top:52px;padding-top:22px;border-top:1px solid var(--line);color:v
     <div class="section-head reveal" id="exp-head" hidden><div><div class="section-index">08c / experimento</div><h2>Experimento: tendencia vs no tendencia</h2></div><div class="section-note" id="exp-note">tus posts · comparación del mismo formato</div></div>
     <section class="exp" id="exp" hidden></section>
 
-    <div class="section-head reveal"><div><div class="section-index">09 / bajo el mínimo</div><h2>Sin hits ≥5 mil</h2></div><div class="section-note">cuentas + razones probables</div></div>
+    <div class="section-head reveal"><div><div class="section-index">09 / bajo el mínimo</div><h2>Sin publicaciones ≥5 mil</h2></div><div class="section-note">cuentas + razones probables</div></div>
     <section class="nohits-block" id="nohits" aria-label="Cuentas sin posts de 5 mil"></section>
   </main>
 
@@ -891,7 +891,7 @@ function renderLeaderboard(el, entries, op){
   if(!entries||!entries.length){el.innerHTML='<p class="muted">Aún no hay datos de clasificación.</p>';return}
   el.innerHTML=entries.map((e,i)=>{
     const you=isYouEntry(e,op);
-    return `<div class="lb-row${you?' you':''}"><div class="rank">${String(i+1).padStart(2,'0')}</div><div><div class="lb-handle">${esc(e.handle||'')}${you?'<span class="you-chip">TÚ</span>':''}</div><div class="lb-meta">${esc(e.name||'—')} · ${num(e.hits)} hits · ${num(e.days)}d</div></div><div class="lb-views">${esc(fmtBestTotal(e.best||0,e.views))}</div></div>`;
+    return `<div class="lb-row${you?' you':''}"><div class="rank">${String(i+1).padStart(2,'0')}</div><div><div class="lb-handle">${esc(e.handle||'')}${you?'<span class="you-chip">TÚ</span>':''}</div><div class="lb-meta">${esc(e.name||'—')} · ${num(e.hits)} ${num(e.hits)===1?'publicación':'publicaciones'} · ${num(e.days)}d</div></div><div class="lb-views">${esc(fmtBestTotal(e.best||0,e.views))}</div></div>`;
   }).join('');
 }
 function renderDayRoster(list, op, youRank){
@@ -914,7 +914,7 @@ function renderDayRoster(list, op, youRank){
     const best=num(r.views);
     const total=r.total_views!=null?num(r.total_views):best;
     const cell=best===0&&!hit?'—':esc(fmtBestTotal(best,total));
-    return `<div class="roster-row${you?' you':''}"><div class="rank">${String(i+1).padStart(2,'0')}</div><div><div class="roster-handle">${esc(r.handle||'')}${you?'<span class="you-chip">TÚ</span>':''}</div><div class="roster-name">${esc(r.name||'—')}</div></div><div class="roster-views">${cell}</div><div class="roster-badge ${hit?'hit':'miss'}">${hit?'HIT':'DEBAJO'}</div></div>`;
+    return `<div class="roster-row${you?' you':''}"><div class="rank">${String(i+1).padStart(2,'0')}</div><div><div class="roster-handle">${esc(r.handle||'')}${you?'<span class="you-chip">TÚ</span>':''}</div><div class="roster-name">${esc(r.name||'—')}</div></div><div class="roster-views">${cell}</div><div class="roster-badge ${hit?'hit':'miss'}">${hit?'PUBLICACIÓN':'DEBAJO'}</div></div>`;
   }).join('');
 }
 function renderYourDay(youRank, handle){
@@ -969,7 +969,7 @@ function renderNoHits(list){
     const bv=b.max_views==null?-1:num(b.max_views);
     return bv-av;
   });
-  el.innerHTML=sorted.map(n=>`<article class="nohit"><div><div class="nohit-handle">${esc(n.handle)}</div><div class="nohit-badge">sin hit ≥5 mil</div></div><div class="nohit-reason">${esc(n.reason)}</div><div class="nohit-max">máx. visto<b>${n.max_views==null?'—':esc(fmt(n.max_views))}</b></div></article>`).join('');
+  el.innerHTML=sorted.map(n=>`<article class="nohit"><div><div class="nohit-handle">${esc(n.handle)}</div><div class="nohit-badge">sin publicación ≥5 mil</div></div><div class="nohit-reason">${esc(n.reason)}</div><div class="nohit-max">máx. visto<b>${n.max_views==null?'—':esc(fmt(n.max_views))}</b></div></article>`).join('');
 }
 function staggerCards(rootSel){
   const reduce=window.matchMedia('(prefers-reduced-motion: reduce)').matches;
@@ -998,7 +998,7 @@ async function boot(){
   requestAnimationFrame(()=>{[['hits-progress',hp],['views-progress',vp]].forEach(([id,p])=>{const el=document.getElementById(id);el.style.width=Math.min(100,p)+'%';if(p>=100)el.classList.add('done')})});
   const targetDone=hp>=100&&vp>=100;const targetState=document.getElementById('target-state');targetState.className='target-state '+(targetDone?'done':'pending');targetState.textContent=targetDone?'✓ LISTO':'◷ PENDIENTE';
   const metrics=[
-    ['Hits',hits.length,null,trendMarkup(hits.length-DASHBOARD_TARGETS.hits,'vs meta')],
+    ['Publicaciones',hits.length,null,trendMarkup(hits.length-DASHBOARD_TARGETS.hits,'vs meta')],
     ['★ Destacados',highlights,null,{dir:highlights?'up':'flat',html:`${highlights?'↑':'→'} ≥${fmt(DASHBOARD_TARGETS.starViews)} c/u`}],
     ['Vistas totales',totalViews,fmt,trendMarkup(pct(totalViews,DASHBOARD_TARGETS.views)-100,'vs meta')],
     ['Externos',virals.length,null,trendMarkup(virals.length-num(d.virals_target||20),'vs resumen')],
@@ -1037,7 +1037,7 @@ async function boot(){
   document.getElementById('theme-toggle')?.addEventListener('click',()=>{
     setTimeout(()=>{renderSparkline(hits);renderDayCompare(d.day_roster||[], op)}, 50);
   });
-  const sorted=[...hits].sort((a,b)=>num(b.views)-num(a.views));document.getElementById('hits').innerHTML=sorted.map((h,i)=>{const threshold=h.highlight===true?DASHBOARD_TARGETS.starViews:DASHBOARD_TARGETS.minHitViews;const done=num(h.views)>=threshold;const draftId='draft-'+i;const draft=h.draft_en||'';return`<article class="card"><div class="card-top"><div class="identity"><div class="rank">${String(i+1).padStart(2,'0')}</div><div><div class="name">${esc(h.name||h.display_name||'Unknown')}</div><div class="handle">${esc(h.handle||'')}${sqHtml(h)}</div></div></div><div class="views-big">${esc(h.views_label||fmt(h.views))}<small>vistas</small></div></div><div class="hit-target ${done?'done':'not-done'}"><span class="mark">${done?'✓':'×'}</span><span>${done?'LISTO':'PENDIENTE'} · day target ≥${fmt(threshold)}${threshold===DASHBOARD_TARGETS.starViews?' ★':''}</span></div>${topBadge(h)}<div class="hook">${esc(h.hook||h.text||'')}</div>${whyLine(h.why_hit)}${h.video_tip?`<div class="chip">${esc(h.video_tip)}</div>`:''}${draftBlock(h,draftId)}<a class="post-link" href="${esc(h.url||h.status_url||'#')}" target="_blank" rel="noopener">ABRIR POST ↗</a></article>`}).join('')||'<p class="muted">Hoy no hay hits de la watchlist.</p>';
+  const sorted=[...hits].sort((a,b)=>num(b.views)-num(a.views));document.getElementById('hits').innerHTML=sorted.map((h,i)=>{const threshold=h.highlight===true?DASHBOARD_TARGETS.starViews:DASHBOARD_TARGETS.minHitViews;const done=num(h.views)>=threshold;const draftId='draft-'+i;const draft=h.draft_en||'';return`<article class="card"><div class="card-top"><div class="identity"><div class="rank">${String(i+1).padStart(2,'0')}</div><div><div class="name">${esc(h.name||h.display_name||'Unknown')}</div><div class="handle">${esc(h.handle||'')}${sqHtml(h)}</div></div></div><div class="views-big">${esc(h.views_label||fmt(h.views))}<small>vistas</small></div></div><div class="hit-target ${done?'done':'not-done'}"><span class="mark">${done?'✓':'×'}</span><span>${done?'LISTO':'PENDIENTE'} · day target ≥${fmt(threshold)}${threshold===DASHBOARD_TARGETS.starViews?' ★':''}</span></div>${topBadge(h)}<div class="hook">${esc(h.hook||h.text||'')}</div>${whyLine(h.why_hit)}${h.video_tip?`<div class="chip">${esc(h.video_tip)}</div>`:''}${draftBlock(h,draftId)}<a class="post-link" href="${esc(h.url||h.status_url||'#')}" target="_blank" rel="noopener">ABRIR POST ↗</a></article>`}).join('')||'<p class="muted">Hoy no hay publicaciones de la watchlist.</p>';
   bindCopy(document.getElementById('hits'));
   staggerCards('#hits .card');
   document.getElementById('patterns').innerHTML=(d.patterns||[]).map(p=>`<span class="tag">${esc(p)}</span>`).join('');document.getElementById('viral-count').textContent=`${virals.length} outsider signals`;

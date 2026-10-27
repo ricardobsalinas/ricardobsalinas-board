@@ -882,7 +882,7 @@ function applyBrand(d){
   const tEl=document.getElementById('brand-title');
   const yd=document.getElementById('your-day-label');
   if(tEl) tEl.innerHTML=`${esc(title)} <span class="handle" id="brand-handle">· ${esc(handle)}</span>`;
-  if(yd) yd.textContent=`Your day · ${handle}`;
+  if(yd) yd.textContent=`Tu día · ${handle}`;
   document.title=`${title} · ${handle}`;
   return {handle, name:op.name||'Operador', profile_url:op.profile_url};
 }

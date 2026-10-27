@@ -908,6 +908,7 @@ function renderDayRoster(list, op, youRank){
   }).join('');
 }
 function renderYourDay(youRank, handle){
+  if(youRank){youRank=Object.assign({},youRank);if(youRank.best_views==null&&youRank.best!=null)youRank.best_views=youRank.best;if(youRank.total_views==null&&youRank.total!=null)youRank.total_views=youRank.total;if(youRank.rank_among_watchlist==null&&youRank.rank!=null)youRank.rank_among_watchlist=youRank.rank;if(youRank.total_accounts==null&&youRank.of!=null)youRank.total_accounts=youRank.of;const b=num(youRank.best_views);if(youRank.best_views!=null){youRank.vs_5k=youRank.vs_5k||(b>=5000?'done':'pending');youRank.vs_10k=youRank.vs_10k||(b>=10000?'done':'pending')}}
   const meta=document.getElementById('your-day-meta');
   if(!youRank){
     if(meta) meta.textContent=`Aún no hay datos del día propios — falta escanear a ${handle||'@operator'}.`;
@@ -921,7 +922,7 @@ function renderYourDay(youRank, handle){
     }else{
       const link=youRank.best_url?` · <a href="${esc(youRank.best_url)}" target="_blank" rel="noopener">abrir mejor post ↗</a>`:'';
       const rk=youRank.rank_among_watchlist!=null?` · rank #${youRank.rank_among_watchlist}/${youRank.total_accounts||'?'} `:'';
-      meta.innerHTML=`Today <b style="color:var(--text)">${esc(fmtBestTotal(bv,tv))}</b> mejor / total${rk}${link}`;
+      meta.innerHTML=`Hoy <b style="color:var(--text)">${esc(fmtBestTotal(bv,tv))}</b> mejor / total${rk}${link}`;
     }
   }
   const v=num(bv);

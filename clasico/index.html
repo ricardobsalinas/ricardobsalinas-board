@@ -967,7 +967,7 @@ async function boot(){
   const brand=applyBrand(d);
   const op={handle:brand.handle, name:brand.name, ...(d.operator||{})};
   const hits=Array.isArray(d.hits)?d.hits:[];const virals=Array.isArray(d.virals)?d.virals:(Array.isArray(d.outsiders)?d.outsiders:[]);
-  const totalViews=hits.reduce((a,h)=>a+num(h.views),0);const maxViews=hits.length?Math.max(...hits.map(h=>num(h.views))):0;const destacados=hits.filter(h=>h.highlight===true||num(h.views)>=DASHBOARD_TARGETS.starViews).length;
+  const totalViews=hits.reduce((a,h)=>a+num(h.views),0);const maxViews=hits.length?Math.max(...hits.map(h=>num(h.views))):0;const highlights=hits.filter(h=>h.highlight===true||num(h.views)>=DASHBOARD_TARGETS.starViews).length;
   const score=scoreFor(hits.length,totalViews);let delta=rawIndex(hits.length,totalViews)-100,label='vs meta';
   const prev=d.previous_day||d.previous||null;if(prev){let ps=Number(prev.x_score);if(!Number.isFinite(ps)){const ph=Array.isArray(prev.hits)?prev.hits.length:num(prev.hits_count);const pv=Array.isArray(prev.hits)?prev.hits.reduce((a,h)=>a+num(h.views),0):num(prev.total_views);ps=scoreFor(ph,pv)}if(Number.isFinite(ps)){delta=score-ps;label='vs día anterior'}}
   countUp(document.getElementById('x-score'), score, {duration:1200, format:v=>String(Math.round(v))});
@@ -981,7 +981,7 @@ async function boot(){
   const targetDone=hp>=100&&vp>=100;const targetState=document.getElementById('target-state');targetState.className='target-state '+(targetDone?'done':'pending');targetState.textContent=targetDone?'✓ LISTO':'◷ PENDIENTE';
   const metrics=[
     ['Hits',hits.length,null,trendMarkup(hits.length-DASHBOARD_TARGETS.hits,'vs meta')],
-    ['★ Highlights',highlights,null,{dir:highlights?'up':'flat',html:`${highlights?'↑':'→'} ≥${fmt(DASHBOARD_TARGETS.starViews)} c/u`}],
+    ['★ Destacados',highlights,null,{dir:highlights?'up':'flat',html:`${highlights?'↑':'→'} ≥${fmt(DASHBOARD_TARGETS.starViews)} c/u`}],
     ['Vistas totales',totalViews,fmt,trendMarkup(pct(totalViews,DASHBOARD_TARGETS.views)-100,'vs meta')],
     ['Externos',virals.length,null,trendMarkup(virals.length-num(d.virals_target||20),'vs resumen')],
     ['Mayor vista',maxViews,fmt,trendMarkup(pct(maxViews,DASHBOARD_TARGETS.starViews)-100,'vs ★ line')]

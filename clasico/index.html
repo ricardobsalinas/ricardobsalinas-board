@@ -1002,7 +1002,7 @@ async function boot(){
     ['★ Destacados',highlights,null,{dir:highlights?'up':'flat',html:`${highlights?'↑':'→'} ≥${fmt(DASHBOARD_TARGETS.starViews)} c/u`}],
     ['Vistas totales',totalViews,fmt,trendMarkup(pct(totalViews,DASHBOARD_TARGETS.views)-100,'vs meta')],
     ['Externos',virals.length,null,trendMarkup(virals.length-num(d.virals_target||20),'vs resumen')],
-    ['Mayor vista',maxViews,fmt,trendMarkup(pct(maxViews,DASHBOARD_TARGETS.starViews)-100,'vs ★ line')]
+    ['Mejor publicación',maxViews,fmt,trendMarkup(pct(maxViews,DASHBOARD_TARGETS.starViews)-100,'vs ★ line')]
   ];
   document.getElementById('stats').innerHTML=metrics.map(([k,v,formatter,t],i)=>`<article class="stat reveal"><div class="stat-k">${esc(k)}</div><div class="stat-v" id="stat-v-${i}" data-raw="${num(v)}">0</div><div class="stat-note ${t.dir}">${t.html}</div></article>`).join('');
   metrics.forEach(([k,v,formatter],i)=>{

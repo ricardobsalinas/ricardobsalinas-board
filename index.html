@@ -64,7 +64,8 @@ $('#who').textContent=(d.operator&&d.operator.name?d.operator.name+' · ':'')+(d
 $('#t').textContent='Resumen diario de X · '+(fmt(d.date+'T00:00').replace(/, 00:00$/,'')||'');
 $('#upd').textContent='Actualizado: '+fmt(d.updated)+' (hora de Ciudad de México)'+(d.virals_window?' · Ventana: '+d.virals_window:'');
 var dh=pv.hits_count?(hits.length-pv.hits_count):null,s='';
-s+='<section class="stats"><div class="st"><b>'+n(hits.length)+'</b>posts con +5 mil vistas'+(dh!=null?'<div class="mu '+(dh>=0?'up':'')+'">'+(dh>=0?'+':'')+dh+' vs. ayer ('+n(pv.hits_count)+')</div>':nocmp?'<div class="mu">'+e(pv.note||'Sin comparación con ayer')+'</div>':'')+'</div>';
+s+='<h2>Comportamiento de la lista</h2><p class="mu">Suma de actividad de cuentas vigiladas</p>';
+s+='<section class="stats"><div class="st"><b>'+n(hits.length)+'</b>posteos de la lista con +5 mil vistas'+(dh!=null?'<div class="mu '+(dh>=0?'up':'')+'">'+(dh>=0?'+':'')+dh+' vs. ayer ('+n(pv.hits_count)+')</div>':nocmp?'<div class="mu">'+e(pv.note||'Sin comparación con ayer')+'</div>':'')+'</div>';
 s+='<div class="st"><b>'+n(hits.filter(function(h){return h.views>=STAR}).length)+'</b>con +50 mil vistas</div>';
 s+='<div class="st"><b>'+cmp(tot)+'</b>vistas sumadas'+(pv.total_views?'<div class="mu">ayer: '+cmp(pv.total_views)+'</div>':'')+'</div></section>';
 if(d.narrative_synthesis)s+='<h2>Qué está funcionando</h2><p>'+e(d.narrative_synthesis)+'</p>';

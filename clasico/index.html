@@ -676,7 +676,7 @@ footer{margin-top:52px;padding-top:22px;border-top:1px solid var(--line);color:v
   </footer>
 </div>
 <script>
-const DASHBOARD_TARGETS = { hits: 12, views: 100000, minHitViews: 5000, starViews: 50000, basis: 'meta fija' };
+const DASHBOARD_TARGETS = { hits: 12, views: 100000, minHitViews: 5000, starViews: 50000, rankBestViews: 25000, basis: 'meta fija' };
 // Días medidos antes del filtro de la Lista a vigilar: no se comparan con hoy.
 const NON_COMPARABLE_DAYS=['2026-10-27'];
 const MESES=['ene','feb','mar','abr','may','jun','jul','ago','sep','oct','nov','dic'];
@@ -878,11 +878,11 @@ function renderDayRoster(list, op, youRank){
   el.innerHTML=[...list].sort((a,b)=>rosterBest(b)-rosterBest(a)).map((r,i)=>{
     const you=isYouEntry(r,op);
     const best=rosterBest(r);
-    const hit=r.hit===true||best>=DASHBOARD_TARGETS.minHitViews;
+    const hit=best>=DASHBOARD_TARGETS.rankBestViews;
     const total=rosterTotal(r)||best;
     const cell=best===0&&!hit?'—':esc(fmtBestTotal(best,total));
     const w=who(r,op);
-    return `<div class="roster-row${you?' you':''}"><div class="rank">${String(i+1).padStart(2,'0')}</div><div><div class="roster-handle">${esc(w.handle)}${you?'<span class="you-chip">TÚ</span>':''}</div><div class="roster-name">${esc(w.name||'—')}</div></div><div class="roster-views">${cell}</div><div class="roster-badge ${hit?'hit':'miss'}">${hit?'≥5 MIL ✓':'DEBAJO'}</div></div>`;
+    return `<div class="roster-row${you?' you':''}"><div class="rank">${String(i+1).padStart(2,'0')}</div><div><div class="roster-handle">${esc(w.handle)}${you?'<span class="you-chip">TÚ</span>':''}</div><div class="roster-name">${esc(w.name||'—')}</div></div><div class="roster-views">${cell}</div><div class="roster-badge ${hit?'hit':'miss'}">${hit?`≥${fmt(DASHBOARD_TARGETS.rankBestViews)} ✓`:`&lt;${fmt(DASHBOARD_TARGETS.rankBestViews)}`}</div></div>`;
   }).join('');
 }
 function renderYourDay(youRank, handle){

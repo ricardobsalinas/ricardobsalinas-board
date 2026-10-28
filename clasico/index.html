@@ -676,6 +676,8 @@ footer{margin-top:52px;padding-top:22px;border-top:1px solid var(--line);color:v
 </div>
 <script>
 const DASHBOARD_TARGETS = { hits: 12, views: 100000, minHitViews: 5000, starViews: 10000, basis: 'meta fija' };
+// Días medidos antes del filtro de la Lista a vigilar: no se comparan con hoy.
+const NON_COMPARABLE_DAYS=['2026-10-27'];
 const MESES=['ene','feb','mar','abr','may','jun','jul','ago','sep','oct','nov','dic'];
 // Meta del día: d.targets si viene en los datos; si no, el promedio diario de la Lista a vigilar
 // en los días registrados (clasificación semanal). Así el score no se queda pegado en 100.
@@ -954,7 +956,7 @@ async function boot(){
   const hits=Array.isArray(d.hits)?d.hits:[];const virals=Array.isArray(d.virals)?d.virals:(Array.isArray(d.outsiders)?d.outsiders:[]);
   const totalViews=hits.reduce((a,h)=>a+num(h.views),0);const maxViews=hits.length?Math.max(...hits.map(h=>num(h.views))):0;const highlights=hits.filter(h=>h.highlight===true||num(h.views)>=DASHBOARD_TARGETS.starViews).length;
   const score=scoreFor(hits.length,totalViews);let delta=null,label='sin comparación con ayer';
-  const prev=d.previous_day||d.previous||null;if(prev&&prev.comparable!==false){let ps=Number(prev.x_score);if(!Number.isFinite(ps)){const ph=Array.isArray(prev.hits)?prev.hits.length:num(prev.hits_count);const pv=Array.isArray(prev.hits)?prev.hits.reduce((a,h)=>a+num(h.views),0):num(prev.total_views);ps=scoreFor(ph,pv)}if(Number.isFinite(ps)){delta=score-ps;label='vs día anterior'}}
+  const prev=d.previous_day||d.previous||null;if(prev&&(prev.comparable===false||NON_COMPARABLE_DAYS.includes(prev.date))){prev.comparable=false;prev.note=prev.note||'Sin comparación con ayer: ayer se midió con otra lista de cuentas'}if(prev&&prev.comparable!==false){let ps=Number(prev.x_score);if(!Number.isFinite(ps)){const ph=Array.isArray(prev.hits)?prev.hits.length:num(prev.hits_count);const pv=Array.isArray(prev.hits)?prev.hits.reduce((a,h)=>a+num(h.views),0):num(prev.total_views);ps=scoreFor(ph,pv)}if(Number.isFinite(ps)){delta=score-ps;label='vs día anterior'}}
   countUp(document.getElementById('x-score'), score, {duration:1200, format:v=>String(Math.round(v))});
   const ring=document.getElementById('score-ring');
   const reduce=window.matchMedia('(prefers-reduced-motion: reduce)').matches;

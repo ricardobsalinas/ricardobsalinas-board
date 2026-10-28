@@ -56,7 +56,7 @@ function card(h,draft){var s='<article class="card"><div class="h"><span>'+e(h.h
 if(draft){s+='<blockquote>'+e(h.draft_en)+'</blockquote>';if(h.video_tip)s+='<p class="mu">🎬 '+e(h.video_tip)+'</p>';if(h.draft_keywords&&h.draft_keywords.length)s+='<p class="mu">Palabras clave: '+e(h.draft_keywords.join(', '))+'</p>';var src=String(h.text||'');s+='<p class="mu">Inspirado en: '+e(src.length>160?src.slice(0,160)+'…':src)+'</p>';s+='<button class="btn" data-c="'+e(h.draft_en)+'">Copiar borrador</button>'}
 else s+='<p class="txt">'+e(h.text)+'</p><p class="mu">'+e(h.created_local)+'</p>';
 return s+'<a class="v" href="'+e(h.url||h.status_url)+'" target="_blank" rel="noopener">Ver en X</a></article>'}
-var PAGE=20;
+var PAGE=20,STAR=50000;
 function render(d){
 var hits=(d.hits||[]).slice().sort(function(a,b){return b.views-a.views}),pv=d.previous_day||{},nocmp=pv.comparable===false,tot=0;if(nocmp)pv={note:pv.note};
 hits.forEach(function(h){tot+=+h.views||0});
@@ -65,7 +65,7 @@ $('#t').textContent='Resumen diario de X · '+(fmt(d.date+'T00:00').replace(/, 0
 $('#upd').textContent='Actualizado: '+fmt(d.updated)+' (hora de Ciudad de México)'+(d.virals_window?' · Ventana: '+d.virals_window:'');
 var dh=pv.hits_count?(hits.length-pv.hits_count):null,s='';
 s+='<section class="stats"><div class="st"><b>'+n(hits.length)+'</b>posts con +5 mil vistas'+(dh!=null?'<div class="mu '+(dh>=0?'up':'')+'">'+(dh>=0?'+':'')+dh+' vs. ayer ('+n(pv.hits_count)+')</div>':nocmp?'<div class="mu">'+e(pv.note||'Sin comparación con ayer')+'</div>':'')+'</div>';
-s+='<div class="st"><b>'+n(hits.filter(function(h){return h.views>=1e4}).length)+'</b>con +10 mil vistas</div>';
+s+='<div class="st"><b>'+n(hits.filter(function(h){return h.views>=STAR}).length)+'</b>con +50 mil vistas</div>';
 s+='<div class="st"><b>'+cmp(tot)+'</b>vistas sumadas'+(pv.total_views?'<div class="mu">ayer: '+cmp(pv.total_views)+'</div>':'')+'</div></section>';
 if(d.narrative_synthesis)s+='<h2>Qué está funcionando</h2><p>'+e(d.narrative_synthesis)+'</p>';
 if(d.virals_narrative)s+='<p class="mu">'+e(d.virals_narrative)+'</p>';

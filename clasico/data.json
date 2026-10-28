@@ -1156,7 +1156,7 @@
     },
     "summary": {
       "top10_line": "TOP-10: 0/10 (0%) coincidieron con tendencias · visual 5, coincidencia/otro 5",
-      "headline": "1 de 25 hits del tablero (4%) coincidieron con tendencias de 24-48 h. Mediana de vistas: con tendencia 21.4K vs sin tendencia 19.8K (promedio 21.4K vs 41.9K). Watchlist: 1/25 en tendencia. 5 hits con video, mediana 15.3K vs 18.7K sin video.",
+      "headline": "1 de 25 hits del tablero (4%) coincidieron con tendencias de 24-48 h. Mediana de vistas: con tendencia 21.4K vs sin tendencia 19.8K (promedio 21.4K vs 41.9K). Lista a vigilar: 1/25 en tendencia. 5 hits con video, mediana 15.3K vs 18.7K sin video.",
       "takeaway": "Frase corta con remate + imagen o video, montada sobre INE/rendición de cuentas o seguridad, es lo que más alcance tuvo hoy.",
       "stats": {
         "all": {
@@ -1966,7 +1966,7 @@
       "2026-10-28"
     ],
     "week": {
-      "label": "Rolling week · Oct 26–Oct 28",
+      "label": "Semana",
       "range": [
         "2026-10-26",
         "2026-10-28"
@@ -2047,7 +2047,7 @@
       ]
     },
     "month": {
-      "label": "October 2026 · from Oct 26",
+      "label": "Mes",
       "range": [
         "2026-10-26",
         "2026-10-28"

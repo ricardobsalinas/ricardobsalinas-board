@@ -968,7 +968,7 @@ async function boot(){
   requestAnimationFrame(()=>{[['hits-progress',hp],['views-progress',vp]].forEach(([id,p])=>{const el=document.getElementById(id);el.style.width=Math.min(100,p)+'%';if(p>=100)el.classList.add('done')})});
   const targetDone=hp>=100&&vp>=100;const targetState=document.getElementById('target-state');targetState.className='target-state '+(targetDone?'done':'pending');targetState.textContent=targetDone?'✓ LISTO':'◷ PENDIENTE';
   const metrics=[
-    ['Publicaciones',hits.length,null,ratioNote(hits.length,DASHBOARD_TARGETS.hits,'de la meta')],
+    ['Posteos de la lista',hits.length,null,ratioNote(hits.length,DASHBOARD_TARGETS.hits,'de la meta')],
     ['★ Destacados',highlights,null,{dir:highlights?'up':'flat',html:`${highlights?'↑':'→'} ≥${fmt(DASHBOARD_TARGETS.starViews)} c/u`}],
     ['Vistas totales',totalViews,fmt,ratioNote(totalViews,DASHBOARD_TARGETS.views,'de la meta')],
     ['Externos',virals.length,null,virals.length?ratioNote(virals.length,num(d.virals_target||20),'de lo esperado'):{dir:'flat',html:'→ sin datos hoy'}],

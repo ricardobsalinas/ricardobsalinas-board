@@ -58,7 +58,7 @@ function card(h,draft){var s='<article class="card"><div class="h"><span>'+e(h.h
 if(draft){s+='<blockquote>'+e(h.draft_en)+'</blockquote>';if(h.video_tip)s+='<p class="mu">🎬 '+e(h.video_tip)+'</p>';if(h.draft_keywords&&h.draft_keywords.length)s+='<p class="mu">Palabras clave: '+e(h.draft_keywords.join(', '))+'</p>';var src=String(h.text||'');s+='<p class="mu">Inspirado en: '+e(src.length>160?src.slice(0,160)+'…':src)+'</p>';s+='<button class="btn" data-c="'+e(h.draft_en)+'">Copiar borrador</button>'}
 else s+='<p class="txt">'+e(h.text)+'</p><p class="mu">'+e(h.created_local)+'</p>';
 return s+'<a class="v" href="'+e(h.url||h.status_url)+'" target="_blank" rel="noopener">Ver en X</a></article>'}
-var PAGE=20,STAR=50000;
+var PAGE=20,FIRST=2,STAR=50000;
 function render(d){
 var hits=(d.hits||[]).slice().sort(function(a,b){return b.views-a.views}),pv=d.previous_day||{},nocmp=pv.comparable===false,tot=0;if(nocmp)pv={note:pv.note};
 hits.forEach(function(h){tot+=+h.views||0});
@@ -77,11 +77,11 @@ if(dr.length)s+='<h2>Borradores para hoy</h2><div class="grid">'+dr.map(function
 if(d.trend_keywords&&d.trend_keywords.length)s+='<h2>Palabras clave en tendencia</h2><ul class="chips">'+d.trend_keywords.map(function(k){return'<li>'+e(k.keyword||k)+'</li>'}).join('')+'</ul>';
 if(d.patterns&&d.patterns.length)s+='<h2>Tendencias</h2><ul class="l">'+d.patterns.map(function(p){return'<li>'+e(p.text||p)+'</li>'}).join('')+'</ul>';
 s+='<h2>Posts que más pegaron</h2><div class="grid" id="hits"></div>';
-if(hits.length>PAGE)s+='<button class="btn" id="more"></button>';
+if(hits.length>FIRST)s+='<button class="btn" id="more"></button>';
 if(d.no_hits&&d.no_hits.length)s+='<h2>Cuentas sin posts destacados</h2><ul class="l">'+d.no_hits.map(function(x){return'<li><b>'+e(x.handle)+'</b>: '+e(x.reason)+'</li>'}).join('')+'</ul>';
 app.innerHTML=s;
 var shown=0,box=$('#hits'),more=$('#more');
-function page(){box.insertAdjacentHTML('beforeend',hits.slice(shown,shown+PAGE).map(function(h){return card(h)}).join(''));shown=Math.min(hits.length,shown+PAGE);if(more){if(shown>=hits.length)more.remove();else more.textContent='Ver más ('+(hits.length-shown)+' restantes)'}}
+function page(){var k=shown?PAGE:FIRST;box.insertAdjacentHTML('beforeend',hits.slice(shown,shown+k).map(function(h){return card(h)}).join(''));shown=Math.min(hits.length,shown+k);if(more){if(shown>=hits.length)more.remove();else more.textContent='Cargar más publicaciones ('+(hits.length-shown)+')'}}
 page();if(more)more.onclick=page;
 app.addEventListener('click',function(ev){var b=ev.target.closest('[data-c]');if(!b)return;var t=b.getAttribute('data-c'),done=function(ok){b.textContent=ok?'¡Copiado!':'No se pudo copiar';var l=$('#live');l.textContent=ok?'Borrador copiado al portapapeles':'No se pudo copiar. Selecciona el texto y cópialo a mano.';clearTimeout(b._t);b._t=setTimeout(function(){b.textContent='Copiar borrador'},ok?1500:2600)};
 if(navigator.clipboard&&navigator.clipboard.writeText)navigator.clipboard.writeText(t).then(function(){done(true)},function(){done(fb(t))});else done(fb(t))});

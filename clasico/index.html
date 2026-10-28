@@ -352,6 +352,19 @@ html[data-theme="day"] .kw-chip{border-color:#9ad3e0;background:#e8f7fb}
 .tag{border:1px solid var(--line);background:var(--panel-2);padding:9px 12px;color:var(--muted);font-size:13px;border-radius:999px;transition:border-color .2s, color .2s}
 .tag:hover{border-color:var(--cyan);color:var(--cyan)}
 .tag::before{content:"# ";color:var(--cyan)}
+/* patrones: frases largas, se leen como lista de tarjetas, no como etiquetas */
+#patterns{display:grid;grid-template-columns:repeat(auto-fill,minmax(min(100%,340px),1fr));gap:10px}
+#patterns .tag{display:block;border:1px solid var(--line-strong);border-left:4px solid var(--cyan);border-radius:10px;background:var(--bg-elev);color:var(--text);font:500 16px/1.55 var(--sans);padding:14px 16px;letter-spacing:0}
+#patterns .tag::before{content:none}
+#patterns .tag:hover{color:var(--text);border-color:var(--line-strong);border-left-color:var(--cyan)}
+@media(max-width:768px){#patterns .tag{font-size:17px;padding:14px}}
+#trend-kw{display:grid;grid-template-columns:repeat(auto-fill,minmax(min(100%,210px),1fr));gap:10px}
+#trend-kw .tag{display:flex;align-items:center;gap:12px;border:1px solid var(--line-strong);border-left:4px solid var(--cyan);border-radius:10px;background:var(--bg-elev);color:var(--text);font:600 16px/1.35 var(--sans);padding:12px 14px;letter-spacing:0}
+#trend-kw .tag::before{content:none}
+#trend-kw .tag:hover{color:var(--text);border-color:var(--line-strong);border-left-color:var(--cyan)}
+#trend-kw .tag.kw-trend b{flex:none;min-width:28px;height:28px;display:grid;place-items:center;margin:0;border-radius:8px;background:var(--cyan-dim);color:var(--cyan);font:700 13px var(--mono)}
+@media(max-width:768px){#trend-kw{grid-template-columns:1fr 1fr}#trend-kw .tag{font-size:16px;padding:12px}}
+@media(max-width:360px){#trend-kw{grid-template-columns:1fr}}
 .grid{display:grid;grid-template-columns:repeat(2,1fr);gap:11px}
 .grid .card{min-height:200px}
 .narrative{margin-top:11px;padding:20px;border-left:3px solid var(--lime);background:var(--panel-2);color:var(--muted);font-size:13px;line-height:1.65;border-radius:0 var(--radius-sm) var(--radius-sm) 0}
@@ -641,7 +654,7 @@ footer{margin-top:52px;padding-top:22px;border-top:1px solid var(--line);color:v
     </section>
 
 
-    <div class="section-head reveal"><div><div class="section-index">07 / patrones</div><h2>Resumen de patrones</h2></div><div class="section-note">palabras clave + ganchos y estructuras recurrentes</div></div>
+    <div class="section-head reveal"><div><div class="section-index">Patrones interesantes</div><h2>PATRONES QUE FUNCIONARON AYER</h2></div><div class="section-note">palabras clave + ganchos y estructuras recurrentes</div></div>
     <section class="tags" id="patterns"></section>
     <div class="section-head reveal" id="trend-kw-head" hidden><div><div class="section-index">07b / palabras clave en tendencia</div><h2>Palabras clave en tendencia · 24 h</h2></div><div class="section-note">ordenadas por publicaciones del día, últimas 24 h, externos y el resumen · integradas en los borradores</div></div>
     <section class="tags" id="trend-kw" hidden></section>

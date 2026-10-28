@@ -75,7 +75,7 @@ if(d.virals_narrative)s+='<p class="mu">'+e(d.virals_narrative)+'</p>';
 var dr=hits.filter(function(h){return h.draft_en});
 if(dr.length)s+='<h2>Borradores para hoy</h2><div class="grid">'+dr.map(function(h){return card(h,1)}).join('')+'</div>';
 if(d.trend_keywords&&d.trend_keywords.length)s+='<h2>Palabras clave en tendencia</h2><ul class="chips">'+d.trend_keywords.map(function(k){return'<li>'+e(k.keyword||k)+'</li>'}).join('')+'</ul>';
-if(d.patterns&&d.patterns.length)s+='<h2>Tendencias</h2><ul class="l">'+d.patterns.map(function(p){return'<li>'+e(p.text||p)+'</li>'}).join('')+'</ul>';
+if(d.patterns&&d.patterns.length)s+='<p class="ix">Patrones interesantes</p><h2 class="ixh">PATRONES QUE FUNCIONARON AYER</h2><ul class="l">'+d.patterns.map(function(p){return'<li>'+e(p.text||p)+'</li>'}).join('')+'</ul>';
 s+='<h2>Posts que más pegaron</h2><div class="grid" id="hits"></div>';
 if(hits.length>FIRST)s+='<button class="btn" id="more"></button>';
 if(d.no_hits&&d.no_hits.length)s+='<h2>Cuentas sin posts destacados</h2><ul class="l">'+d.no_hits.map(function(x){return'<li><b>'+e(x.handle)+'</b>: '+e(x.reason)+'</li>'}).join('')+'</ul>';

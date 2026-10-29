@@ -36,7 +36,7 @@
   "timezone": "America/Mexico_City",
   "title": "Digest diario de narrativa en X — 2026-10-29",
   "date": "2026-10-29",
-  "updated": "2026-10-29T15:11:18-06:00",
+  "updated": "2026-10-29T15:13:19-06:00",
   "hits": [
     {
       "handle": "@Claudiashein",
@@ -812,9 +812,9 @@
     }
   ],
   "previous_day": {
-    "date": "2026-10-28",
-    "hits_count": 25,
-    "total_views": 1028124
+    "date": "2026-10-29",
+    "hits_count": 22,
+    "total_views": 858046
   },
   "trend_input_only_posts": [],
   "trend_input_only": [],
@@ -907,7 +907,7 @@
       }
     },
     "summary": {
-      "top10_line": "TOP-10: 6/10 ligadas al fallecimiento de Cuauhtémoc Cárdenas o a INE/Taddei",
+      "top10_line": "TOP-10: 5/10 ligadas al fallecimiento de Cuauhtémoc Cárdenas o a INE/Taddei",
       "headline": "El fallecimiento de Cuauhtémoc Cárdenas concentró 6 de las 22 publicaciones arriba de 5 mil vistas (incluida la más vista del día, 270,926). INE/Taddei sigue como segundo tema.",
       "takeaway": "Mensaje de duelo o de postura personal, corto y sin adjetivos, fue lo que más alcance tuvo hoy; el humor político (Acosta Naranjo) también pegó.",
       "stats": {

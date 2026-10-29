@@ -36,7 +36,7 @@
   "timezone": "America/Mexico_City",
   "title": "Digest diario de narrativa en X — 2026-10-29",
   "date": "2026-10-29",
-  "updated": "2026-10-29T15:11:01-06:00",
+  "updated": "2026-10-29T15:11:18-06:00",
   "hits": [
     {
       "handle": "@Claudiashein",
@@ -1505,6 +1505,202 @@
         {
           "url": "https://x.com/LectorHistoria/status/2115621743343874327",
           "vistas": 224
+        }
+      ]
+    }
+  },
+  "leaderboards": {
+    "as_of": "2026-10-29",
+    "tracking_start": "2026-10-26",
+    "days_included": [
+      "2026-10-26",
+      "2026-10-27",
+      "2026-10-28",
+      "2026-10-29"
+    ],
+    "month_days_included": [
+      "2026-10-26",
+      "2026-10-27",
+      "2026-10-28",
+      "2026-10-29"
+    ],
+    "week": {
+      "label": "Semana",
+      "range": [
+        "2026-10-26",
+        "2026-10-29"
+      ],
+      "entries": [
+        {
+          "handle": "@Claudiashein",
+          "name": "Claudia Sheinbaum Pardo",
+          "hits": 12,
+          "days": 4,
+          "views": 4440003,
+          "best": 3413748,
+          "best_url": "https://x.com/Claudiashein/status/2114521671109660843"
+        },
+        {
+          "handle": "@ricardobsalinas",
+          "name": "Ricardo B. Salinas",
+          "hits": 17,
+          "days": 3,
+          "views": 1401235,
+          "best": 286825,
+          "best_url": "https://x.com/RicardoBSalinas/status/2114903974105014321"
+        },
+        {
+          "handle": "@LillyTellez",
+          "name": "Lilly Téllez",
+          "hits": 6,
+          "days": 4,
+          "views": 783313,
+          "best": 624084,
+          "best_url": "https://x.com/LillyTellez/status/2114419818422235404"
+        },
+        {
+          "handle": "@OHarfuch",
+          "name": "Omar H Garcia Harfuch",
+          "hits": 3,
+          "days": 2,
+          "views": 318312,
+          "best": 229015,
+          "best_url": "https://x.com/OHarfuch/status/2115151580164936162"
+        },
+        {
+          "handle": "@JorgeRoHe",
+          "name": "Jorge Romero Herrera",
+          "hits": 14,
+          "days": 2,
+          "views": 239328,
+          "best": 21352,
+          "best_url": "https://x.com/JorgeRoHe/status/2115155954765545707"
+        },
+        {
+          "handle": "@acostanaranjo",
+          "name": "Guadalupe Acosta Naranjo",
+          "hits": 4,
+          "days": 1,
+          "views": 145850,
+          "best": 107235,
+          "best_url": "https://x.com/acostanaranjo/status/2115696769564868961"
+        },
+        {
+          "handle": "@alitomorenoc",
+          "name": "Alejandro Moreno",
+          "hits": 5,
+          "days": 2,
+          "views": 88167,
+          "best": 37900,
+          "best_url": "https://x.com/alitomorenoc/status/2115186909206987156"
+        },
+        {
+          "handle": "@m_ebrard",
+          "name": "Marcelo Ebrard C.",
+          "hits": 3,
+          "days": 2,
+          "views": 55601,
+          "best": 33438,
+          "best_url": "https://x.com/m_ebrard/status/2115653586596077781"
+        },
+        {
+          "handle": "@samuel_garcias",
+          "name": "Samuel García",
+          "hits": 4,
+          "days": 2,
+          "views": 26433,
+          "best": 8363,
+          "best_url": "https://x.com/samuel_garcias/status/2115648226531344768"
+        }
+      ]
+    },
+    "month": {
+      "label": "Mes",
+      "range": [
+        "2026-10-26",
+        "2026-10-29"
+      ],
+      "entries": [
+        {
+          "handle": "@Claudiashein",
+          "name": "Claudia Sheinbaum Pardo",
+          "hits": 12,
+          "days": 4,
+          "views": 4440003,
+          "best": 3413748,
+          "best_url": "https://x.com/Claudiashein/status/2114521671109660843"
+        },
+        {
+          "handle": "@ricardobsalinas",
+          "name": "Ricardo B. Salinas",
+          "hits": 17,
+          "days": 3,
+          "views": 1401235,
+          "best": 286825,
+          "best_url": "https://x.com/RicardoBSalinas/status/2114903974105014321"
+        },
+        {
+          "handle": "@LillyTellez",
+          "name": "Lilly Téllez",
+          "hits": 6,
+          "days": 4,
+          "views": 783313,
+          "best": 624084,
+          "best_url": "https://x.com/LillyTellez/status/2114419818422235404"
+        },
+        {
+          "handle": "@OHarfuch",
+          "name": "Omar H Garcia Harfuch",
+          "hits": 3,
+          "days": 2,
+          "views": 318312,
+          "best": 229015,
+          "best_url": "https://x.com/OHarfuch/status/2115151580164936162"
+        },
+        {
+          "handle": "@JorgeRoHe",
+          "name": "Jorge Romero Herrera",
+          "hits": 14,
+          "days": 2,
+          "views": 239328,
+          "best": 21352,
+          "best_url": "https://x.com/JorgeRoHe/status/2115155954765545707"
+        },
+        {
+          "handle": "@acostanaranjo",
+          "name": "Guadalupe Acosta Naranjo",
+          "hits": 4,
+          "days": 1,
+          "views": 145850,
+          "best": 107235,
+          "best_url": "https://x.com/acostanaranjo/status/2115696769564868961"
+        },
+        {
+          "handle": "@alitomorenoc",
+          "name": "Alejandro Moreno",
+          "hits": 5,
+          "days": 2,
+          "views": 88167,
+          "best": 37900,
+          "best_url": "https://x.com/alitomorenoc/status/2115186909206987156"
+        },
+        {
+          "handle": "@m_ebrard",
+          "name": "Marcelo Ebrard C.",
+          "hits": 3,
+          "days": 2,
+          "views": 55601,
+          "best": 33438,
+          "best_url": "https://x.com/m_ebrard/status/2115653586596077781"
+        },
+        {
+          "handle": "@samuel_garcias",
+          "name": "Samuel García",
+          "hits": 4,
+          "days": 2,
+          "views": 26433,
+          "best": 8363,
+          "best_url": "https://x.com/samuel_garcias/status/2115648226531344768"
         }
       ]
     }

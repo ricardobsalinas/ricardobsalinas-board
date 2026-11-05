@@ -1,1000 +1,14 @@
 {
-  "brand_title": "Score de viralidad en X · Ricardo B. Salinas",
+  "date": "2026-11-05",
+  "timezone": "America/Mexico_City",
+  "updated": "2026-11-05T05:58:43-06:00",
   "brand_handle": "@ricardobsalinas",
   "operator": {
-    "handle": "@ricardobsalinas",
-    "name": "Ricardo B. Salinas",
-    "profile_url": "https://x.com/RicardoBSalinas"
-  },
-  "ui": {
-    "default_theme": "night"
-  },
-  "board_features": {
-    "count_up": true,
-    "live_pulse": true,
-    "theme_toggle": true,
-    "themes": [
-      "night",
-      "day"
-    ],
-    "grok_ambient": true,
-    "week_month_boards": true,
-    "day_roster_best_total": true,
-    "day_compare_chart": true,
-    "week_strip": true,
-    "no_hits_reasons": true,
-    "marker_class": "xvs-dash-2026",
-    "top10_drafts_v4": true,
-    "trend_keywords": true,
-    "trend_radar": true,
-    "x_keyword_table": true,
-    "experiment": true,
-    "self_quote_badge": true
+    "name": "Ricardo B. Salinas"
   },
   "virals_window": "últimas 24 h",
-  "virals_target": 20,
-  "timezone": "America/Mexico_City",
-  "title": "Digest de la mañana en X — 2026-11-05",
-  "date": "2026-11-05",
-  "updated": "2026-11-05T05:56:57-06:00",
-  "hits": [
-    {
-      "id": "2118021544467378610",
-      "handle": "@RicardoBSalinas",
-      "display_name": "Don Ricardo Salinas Pliego",
-      "name": "Don Ricardo Salinas Pliego",
-      "followers": 2235631,
-      "text": "Samuel García, el de la “nueva política”, también es el nuevo corrupto. \n\nMás de 6,000 millones de pesos desviados y triangulados con el método fosfo facturero. \n\nAhí acaba el dinero de las y los mexicanos, en manos de puro ladrón que más que gobernar saben robar. Y, obvio, MORENA los encubre. \n\nSe sabía que era facturero y aún así hicieron OTRO pacto de impunidad. Ahora lo amenazan para que les entregue Nuevo León.  \n\nPonte vivo, ponte León; que puro facturero anda gobernando en  Nuevo León",
-      "original_en": "Samuel García, el de la “nueva política”, también es el nuevo corrupto. \n\nMás de 6,000 millones de pesos desviados y triangulados con el método fosfo facturero. \n\nAhí acaba el dinero de las y los mexicanos, en manos de puro ladrón que más que gobernar saben robar. Y, obvio, MORENA los encubre. \n\nSe sabía que era facturero y aún así hicieron OTRO pacto de impunidad. Ahora lo amenazan para que les entregue Nuevo León.  \n\nPonte vivo, ponte León; que puro facturero anda gobernando en  Nuevo León",
-      "views": 1229873,
-      "views_label": "1,229,873",
-      "likes": 16613,
-      "reposts": 3713,
-      "replies": 379,
-      "quotes": 77,
-      "bookmarks": 372,
-      "url": "https://x.com/RicardoBSalinas/status/2118021544467378610",
-      "status_url": "https://x.com/RicardoBSalinas/status/2118021544467378610",
-      "created_local": "2026-11-04 10:44",
-      "created_at": "2026-11-04T16:44:21.000Z",
-      "posted_at": "2026-11-04T16:44:21.000Z",
-      "lang": "es",
-      "media": [],
-      "star": true,
-      "highlight": true,
-      "quote": false,
-      "top10_rank": 1,
-      "category": "Seguridad"
-    },
-    {
-      "id": "2118074349064483033",
-      "handle": "@OHarfuch",
-      "display_name": "Omar H Garcia Harfuch",
-      "name": "Omar H Garcia Harfuch",
-      "followers": 810102,
-      "text": "Personal de @SEMAR_mx, @SSPCMexico y @FGRMexico aseguró más de 43 millones de pesos en efectivo, entre moneda nacional y dólares, durante un cateo en la alcaldía Miguel Hidalgo, Ciudad de México.\n\nEn esta acción fue detenido Bojun “N”, identificado como presunto líder de una red de lavado de dinero al servicio de una organización criminal y relacionado con extorsiones a comerciantes y tráfico de personas. También se aseguraron droga, cartuchos, vehículos y documentación relacionada con la investigación.\n\nAgradecemos el apoyo y la colaboración de las autoridades de la Ciudad de México y de @SSC_CDMX.\n\nLas investigaciones sobre esta célula delictiva continúan. Seguiremos investigando las estructuras financieras de las organizaciones criminales para quitarles capacidad de operación y combatir la extorsión y la violencia que dañan a las familias.",
-      "original_en": "Personal de @SEMAR_mx, @SSPCMexico y @FGRMexico aseguró más de 43 millones de pesos en efectivo, entre moneda nacional y dólares, durante un cateo en la alcaldía Miguel Hidalgo, Ciudad de México.\n\nEn esta acción fue detenido Bojun “N”, identificado como presunto líder de una red de lavado de dinero al servicio de una organización criminal y relacionado con extorsiones a comerciantes y tráfico de personas. También se aseguraron droga, cartuchos, vehículos y documentación relacionada con la investigación.\n\nAgradecemos el apoyo y la colaboración de las autoridades de la Ciudad de México y de @SSC_CDMX.\n\nLas investigaciones sobre esta célula delictiva continúan. Seguiremos investigando las estructuras financieras de las organizaciones criminales para quitarles capacidad de operación y combatir la extorsión y la violencia que dañan a las familias.",
-      "views": 140636,
-      "views_label": "140,636",
-      "likes": 2002,
-      "reposts": 534,
-      "replies": 100,
-      "quotes": 19,
-      "bookmarks": 165,
-      "url": "https://x.com/OHarfuch/status/2118074349064483033",
-      "status_url": "https://x.com/OHarfuch/status/2118074349064483033",
-      "created_local": "2026-11-04 14:14",
-      "created_at": "2026-11-04T20:14:11.000Z",
-      "posted_at": "2026-11-04T20:14:11.000Z",
-      "lang": "es",
-      "media": [
-        "photo",
-        "photo",
-        "photo"
-      ],
-      "star": true,
-      "highlight": true,
-      "quote": false,
-      "draft_en": "Una meta, una cifra, una fecha. Escribe cuánto quieres ahorrar, vender o avanzar este mes y para cuándo: lo que se mide, mejora. La constancia diaria hace lo demás. ¿Cuál es tu cifra de este mes? Cuéntamela abajo. 💪🇲🇽",
-      "video_tip": "Carrusel de 3 fotos verticales o video de 12 s: una libreta con una meta escrita a mano (“Mi cifra del mes”), una taza de café y un calendario con la fecha límite circulada. Rótulos: “Una meta · Una cifra · Una fecha”. Cierra con la pregunta en pantalla; sin personas públicas ni referencias a gobiernos.",
-      "draft_keywords": [
-        "meta",
-        "cifra",
-        "constancia",
-        "negocios"
-      ],
-      "top10_rank": 2,
-      "category": "Corrupción y justicia"
-    },
-    {
-      "id": "2118162184954155167",
-      "handle": "@Claudiashein",
-      "display_name": "Claudia Sheinbaum Pardo",
-      "name": "Claudia Sheinbaum Pardo",
-      "followers": 5258666,
-      "text": "En el INE, dos grupos empresariales acapararon la producción de materiales electorales por más de 20 años. Además, los consejeros concentraron el poder para nombrar a representantes estatales tras la reforma de 2014. Esto, a partir del Pacto por México que incluyó a todos los partidos políticos; nuestro movimiento aún no existía como partido. \n\nEs importante investigar los periodos anteriores para entender cómo adquirió fuerza el duopolio y acabar con la corrupción; la Auditoría Superior de la Federación continúa las revisiones.",
-      "original_en": "En el INE, dos grupos empresariales acapararon la producción de materiales electorales por más de 20 años. Además, los consejeros concentraron el poder para nombrar a representantes estatales tras la reforma de 2014. Esto, a partir del Pacto por México que incluyó a todos los partidos políticos; nuestro movimiento aún no existía como partido. \n\nEs importante investigar los periodos anteriores para entender cómo adquirió fuerza el duopolio y acabar con la corrupción; la Auditoría Superior de la Federación continúa las revisiones.",
-      "views": 89771,
-      "views_label": "89,771",
-      "likes": 2907,
-      "reposts": 1147,
-      "replies": 912,
-      "quotes": 64,
-      "bookmarks": 85,
-      "url": "https://x.com/Claudiashein/status/2118162184954155167",
-      "status_url": "https://x.com/Claudiashein/status/2118162184954155167",
-      "created_local": "2026-11-04 20:03",
-      "created_at": "2026-11-05T02:03:13.000Z",
-      "posted_at": "2026-11-05T02:03:13.000Z",
-      "lang": "es",
-      "media": [
-        "video"
-      ],
-      "star": true,
-      "highlight": true,
-      "quote": false,
-      "draft_en": "Cuando pocos ganan siempre, pierde el ciudadano. La competencia abierta es buena para los negocios y para la libertad: más opciones, mejores precios y más calidad. Un contrato o un proveedor deberían ganarse cada vez, no heredarse. ¿Cuántas opciones comparas tú antes de elegir? Respóndeme en un número. 💪🇲🇽",
-      "video_tip": "Video vertical de 18 s: una mesa con dos cajas de colores y, una por una, aparecen otras cajas que se suman; rótulos cortos: “Una opción” · “Dos opciones” · “Muchas opciones”. Cierra con la pregunta en pantalla y pide la respuesta en una palabra; sin personas públicas, partidos ni logotipos.",
-      "draft_keywords": [
-        "competencia",
-        "proveedores",
-        "ciudadanos",
-        "libertad"
-      ],
-      "top10_rank": 3,
-      "category": "Elecciones e INE"
-    },
-    {
-      "id": "2118082345991557363",
-      "handle": "@LillyTellez",
-      "display_name": "Lilly Téllez",
-      "name": "Lilly Téllez",
-      "followers": 1127681,
-      "text": "Té de manzanilla de 70 pesos a 190 pesos 😱\nVean aquí lo que @A_MontielR compró a precios inflados.\n¿Dónde está el dinero? https://t.co/4rHTOTwu5M",
-      "original_en": "Té de manzanilla de 70 pesos a 190 pesos 😱\nVean aquí lo que @A_MontielR compró a precios inflados.\n¿Dónde está el dinero? https://t.co/4rHTOTwu5M",
-      "views": 84722,
-      "views_label": "84,722",
-      "likes": 6670,
-      "reposts": 3124,
-      "replies": 161,
-      "quotes": 59,
-      "bookmarks": 140,
-      "url": "https://x.com/LillyTellez/status/2118082345991557363",
-      "status_url": "https://x.com/LillyTellez/status/2118082345991557363",
-      "created_local": "2026-11-04 14:45",
-      "created_at": "2026-11-04T20:45:58.000Z",
-      "posted_at": "2026-11-04T20:45:58.000Z",
-      "lang": "es",
-      "media": [
-        "video"
-      ],
-      "star": true,
-      "highlight": true,
-      "quote": false,
-      "draft_en": "Compara antes de pagar: un mismo producto puede costar mucho menos en la tienda de al lado. Mirar la etiqueta, pedir la factura y preguntar por qué cuesta lo que cuesta es un derecho de todos, y también la mejor escuela para los negocios. Quien compara, no se deja. ¿Qué fue lo último que comparaste antes de comprar? 🇲🇽",
-      "video_tip": "Video vertical de 15 s en una tienda: una mano compara dos etiquetas de precio del mismo producto con una lupa, aparecen tres rótulos grandes (“Compara” · “Pide la factura” · “Pregunta por qué”) y cierra con la pregunta en pantalla. Sin personas públicas, marcas, partidos ni logotipos de gobierno.",
-      "draft_keywords": [
-        "precio justo",
-        "comparar",
-        "factura",
-        "libertad"
-      ],
-      "top10_rank": 4,
-      "category": "Economía y empleo"
-    },
-    {
-      "id": "2117974727591342462",
-      "handle": "@Claudiashein",
-      "display_name": "Claudia Sheinbaum Pardo",
-      "name": "Claudia Sheinbaum Pardo",
-      "followers": 5258666,
-      "text": "Cumplimos nuestros compromisos; hoy informamos avances del Plan Michoacán por la paz y la justicia. https://t.co/gpqrrxzX3z",
-      "original_en": "Cumplimos nuestros compromisos; hoy informamos avances del Plan Michoacán por la paz y la justicia. https://t.co/gpqrrxzX3z",
-      "views": 71196,
-      "views_label": "71,196",
-      "likes": 1778,
-      "reposts": 735,
-      "replies": 336,
-      "quotes": 92,
-      "bookmarks": 24,
-      "url": "https://x.com/Claudiashein/status/2117974727591342462",
-      "status_url": "https://x.com/Claudiashein/status/2117974727591342462",
-      "created_local": "2026-11-04 07:38",
-      "created_at": "2026-11-04T13:38:19.000Z",
-      "posted_at": "2026-11-04T13:38:19.000Z",
-      "lang": "es",
-      "media": [],
-      "star": true,
-      "highlight": true,
-      "quote": false,
-      "top10_rank": 5,
-      "category": "Otros"
-    },
-    {
-      "id": "2118206338723705032",
-      "handle": "@RicardoBSalinas",
-      "display_name": "Don Ricardo Salinas Pliego",
-      "name": "Don Ricardo Salinas Pliego",
-      "followers": 2235631,
-      "text": "¿Estado de derecho? ¿O Estado de chueco?\n\nPorque si las leyes, como la #LeyAntiMemes, las escriben políticos que llegaron al poder con el apoyo del crimen organizado, no estamos ante justicia. Estamos ante un sometimiento del sistema político que legisla leyes que los favorecen a ellos y a sus socios. Y un pacto con criminales no es legalidad, es complicitad disfrazada de ley.\n\n¿Ustedes qué opinan? Los leo en los comentarios. 😌",
-      "original_en": "¿Estado de derecho? ¿O Estado de chueco?\n\nPorque si las leyes, como la #LeyAntiMemes, las escriben políticos que llegaron al poder con el apoyo del crimen organizado, no estamos ante justicia. Estamos ante un sometimiento del sistema político que legisla leyes que los favorecen a ellos y a sus socios. Y un pacto con criminales no es legalidad, es complicitad disfrazada de ley.\n\n¿Ustedes qué opinan? Los leo en los comentarios. 😌",
-      "views": 27806,
-      "views_label": "27,806",
-      "likes": 1221,
-      "reposts": 288,
-      "replies": 84,
-      "quotes": 4,
-      "bookmarks": 38,
-      "url": "https://x.com/RicardoBSalinas/status/2118206338723705032",
-      "status_url": "https://x.com/RicardoBSalinas/status/2118206338723705032",
-      "created_local": "2026-11-04 22:58",
-      "created_at": "2026-11-05T04:58:40.000Z",
-      "posted_at": "2026-11-05T04:58:40.000Z",
-      "lang": "es",
-      "media": [
-        "video"
-      ],
-      "star": true,
-      "highlight": true,
-      "quote": false,
-      "top10_rank": 6,
-      "category": "Seguridad"
-    },
-    {
-      "id": "2118019601518747754",
-      "handle": "@LillyTellez",
-      "display_name": "Lilly Téllez",
-      "name": "Lilly Téllez",
-      "followers": 1127681,
-      "text": "Presento iniciativa para garantizar medicamentos en el sector público de salud: si las unidades médicas públicas no cuentan con ellos, el Estado deberá entregar un vale para obtenerlos gratuitamente en farmacias privadas: \nhttps://t.co/ewLsUTGzeq",
-      "original_en": "Presento iniciativa para garantizar medicamentos en el sector público de salud: si las unidades médicas públicas no cuentan con ellos, el Estado deberá entregar un vale para obtenerlos gratuitamente en farmacias privadas: \nhttps://t.co/ewLsUTGzeq",
-      "views": 26576,
-      "views_label": "26,576",
-      "likes": 1479,
-      "reposts": 430,
-      "replies": 94,
-      "quotes": 8,
-      "bookmarks": 4,
-      "url": "https://x.com/LillyTellez/status/2118019601518747754",
-      "status_url": "https://x.com/LillyTellez/status/2118019601518747754",
-      "created_local": "2026-11-04 10:36",
-      "created_at": "2026-11-04T16:36:38.000Z",
-      "posted_at": "2026-11-04T16:36:38.000Z",
-      "lang": "es",
-      "media": [],
-      "star": true,
-      "highlight": true,
-      "quote": false,
-      "top10_rank": 7,
-      "category": "Otros"
-    },
-    {
-      "id": "2118092903222476928",
-      "handle": "@samuel_garcias",
-      "display_name": "Samuel García",
-      "name": "Samuel García",
-      "followers": 444498,
-      "text": "HOY LA NUEVA PRESA LEÓN COMIENZA A DAR AGUA PARA NUEVO LEÓN\n\nConstruimos esta presa para aprovechar cada gota de lluvia, y aumentamos la capacidad de nuestro estado con la cortina más larga del continente. Hoy ya está a la mitad de su llenado, y la conectamos con el Acueducto Linares para que abastezca de agua la ciudad. LO NUEVO CUMPLE.",
-      "original_en": "HOY LA NUEVA PRESA LEÓN COMIENZA A DAR AGUA PARA NUEVO LEÓN\n\nConstruimos esta presa para aprovechar cada gota de lluvia, y aumentamos la capacidad de nuestro estado con la cortina más larga del continente. Hoy ya está a la mitad de su llenado, y la conectamos con el Acueducto Linares para que abastezca de agua la ciudad. LO NUEVO CUMPLE.",
-      "views": 23061,
-      "views_label": "23,061",
-      "likes": 213,
-      "reposts": 9,
-      "replies": 89,
-      "quotes": 5,
-      "bookmarks": 20,
-      "url": "https://x.com/samuel_garcias/status/2118092903222476928",
-      "status_url": "https://x.com/samuel_garcias/status/2118092903222476928",
-      "created_local": "2026-11-04 15:27",
-      "created_at": "2026-11-04T21:27:55.000Z",
-      "posted_at": "2026-11-04T21:27:55.000Z",
-      "lang": "es",
-      "media": [
-        "video"
-      ],
-      "star": true,
-      "highlight": true,
-      "quote": false,
-      "top10_rank": 8,
-      "category": "Otros"
-    },
-    {
-      "id": "2118101546311307579",
-      "handle": "@alitomorenoc",
-      "display_name": "Alejandro Moreno",
-      "name": "Alejandro Moreno",
-      "followers": 242544,
-      "text": "¡Es una vergüenza para México que @fernandeznorona haya sido nombrado Presidente de la Comisión de Relaciones Exteriores, América Latina y el Caribe del @senadomexicano! \n\nMORENA entrega una responsabilidad de enorme importancia a un personaje impresentable, cuestionado por sus actitudes violentas hacia las mujeres, su prepotencia y su trato autoritario hacia los ciudadanos.\n\n¡Noroña representa lo peor de la política mexicana! Un personaje soberbio, intolerante y profundamente cuestionado. ¡Un apestado político al que ni en su propio partido soportan! Imagínense nada más a este sujeto encabezando una Comisión que representa al Senado en asuntos internacionales. ¿Qué conocimientos tiene de política exterior? ¿Qué experiencia diplomática puede acreditar? ¿Con qué autoridad pretende hablar en nombre de una institución que representa la pluralidad de los mexicanos?\n\n¡Este nombramiento manda un mensaje terrible al mundo! ¿Qué política exterior pretende impulsar MORENA en América Latina y el Caribe? ¿Una subordinada a sus afinidades ideológicas corruptas y dictatoriales? ¡Son una bola de idiotas! La diplomacia mexicana exige preparación, seriedad y capacidad de diálogo. ¡México merece una explicación sobre los criterios que llevaron a semejante designación!",
-      "original_en": "¡Es una vergüenza para México que @fernandeznorona haya sido nombrado Presidente de la Comisión de Relaciones Exteriores, América Latina y el Caribe del @senadomexicano! \n\nMORENA entrega una responsabilidad de enorme importancia a un personaje impresentable, cuestionado por sus actitudes violentas hacia las mujeres, su prepotencia y su trato autoritario hacia los ciudadanos.\n\n¡Noroña representa lo peor de la política mexicana! Un personaje soberbio, intolerante y profundamente cuestionado. ¡Un apestado político al que ni en su propio partido soportan! Imagínense nada más a este sujeto encabezando una Comisión que representa al Senado en asuntos internacionales. ¿Qué conocimientos tiene de política exterior? ¿Qué experiencia diplomática puede acreditar? ¿Con qué autoridad pretende hablar en nombre de una institución que representa la pluralidad de los mexicanos?\n\n¡Este nombramiento manda un mensaje terrible al mundo! ¿Qué política exterior pretende impulsar MORENA en América Latina y el Caribe? ¿Una subordinada a sus afinidades ideológicas corruptas y dictatoriales? ¡Son una bola de idiotas! La diplomacia mexicana exige preparación, seriedad y capacidad de diálogo. ¡México merece una explicación sobre los criterios que llevaron a semejante designación!",
-      "views": 20782,
-      "views_label": "20,782",
-      "likes": 1122,
-      "reposts": 464,
-      "replies": 135,
-      "quotes": 9,
-      "bookmarks": 9,
-      "url": "https://x.com/alitomorenoc/status/2118101546311307579",
-      "status_url": "https://x.com/alitomorenoc/status/2118101546311307579",
-      "created_local": "2026-11-04 16:02",
-      "created_at": "2026-11-04T22:02:15.000Z",
-      "posted_at": "2026-11-04T22:02:15.000Z",
-      "lang": "es",
-      "media": [
-        "photo"
-      ],
-      "star": true,
-      "highlight": true,
-      "quote": false,
-      "top10_rank": 9,
-      "category": "Gobierno y políticas públicas"
-    },
-    {
-      "id": "2118006198410854498",
-      "handle": "@JorgeRoHe",
-      "display_name": "Jorge Romero Herrera",
-      "name": "Jorge Romero Herrera",
-      "followers": 105554,
-      "text": "🔵 EN VIVO |Conferencia de prensa\n\nSigue la conferencia de prensa desde el INE, con la participación de senadores y diputados federales de Acción Nacional, donde abordaremos temas importantes para nuestra democracia.\n\n¡Acompáñanos!\n🔗 https://t.co/6eyX2JkbU4",
-      "original_en": "🔵 EN VIVO |Conferencia de prensa\n\nSigue la conferencia de prensa desde el INE, con la participación de senadores y diputados federales de Acción Nacional, donde abordaremos temas importantes para nuestra democracia.\n\n¡Acompáñanos!\n🔗 https://t.co/6eyX2JkbU4",
-      "views": 20573,
-      "views_label": "20,573",
-      "likes": 359,
-      "reposts": 142,
-      "replies": 125,
-      "quotes": 2,
-      "bookmarks": 6,
-      "url": "https://x.com/JorgeRoHe/status/2118006198410854498",
-      "status_url": "https://x.com/JorgeRoHe/status/2118006198410854498",
-      "created_local": "2026-11-04 09:43",
-      "created_at": "2026-11-04T15:43:23.000Z",
-      "posted_at": "2026-11-04T15:43:23.000Z",
-      "lang": "es",
-      "media": [],
-      "star": true,
-      "highlight": true,
-      "quote": false,
-      "top10_rank": 10,
-      "category": "Elecciones e INE"
-    },
-    {
-      "id": "2118072893540360290",
-      "handle": "@JorgeRoHe",
-      "display_name": "Jorge Romero Herrera",
-      "name": "Jorge Romero Herrera",
-      "followers": 105554,
-      "text": "El PAN no permitirá que la presidencia del @INEMexico sea producto de una imposición. Su designación no puede ser una simulación ni una decisión de partido.\n\nExigimos un proceso transparente, con participación de la sociedad civil y de instituciones de prestigio, para garantizar un árbitro electoral autónomo y confiable rumbo al próximo proceso electoral.\n\n#UnINELibre #INESinMorena",
-      "original_en": "El PAN no permitirá que la presidencia del @INEMexico sea producto de una imposición. Su designación no puede ser una simulación ni una decisión de partido.\n\nExigimos un proceso transparente, con participación de la sociedad civil y de instituciones de prestigio, para garantizar un árbitro electoral autónomo y confiable rumbo al próximo proceso electoral.\n\n#UnINELibre #INESinMorena",
-      "views": 17288,
-      "views_label": "17,288",
-      "likes": 433,
-      "reposts": 114,
-      "replies": 70,
-      "quotes": 5,
-      "bookmarks": 3,
-      "url": "https://x.com/JorgeRoHe/status/2118072893540360290",
-      "status_url": "https://x.com/JorgeRoHe/status/2118072893540360290",
-      "created_local": "2026-11-04 14:08",
-      "created_at": "2026-11-04T20:08:24.000Z",
-      "posted_at": "2026-11-04T20:08:24.000Z",
-      "lang": "es",
-      "media": [
-        "video"
-      ],
-      "star": true,
-      "highlight": true,
-      "quote": false,
-      "category": "Elecciones e INE"
-    },
-    {
-      "id": "2118028474048721406",
-      "handle": "@JorgeRoHe",
-      "display_name": "Jorge Romero Herrera",
-      "name": "Jorge Romero Herrera",
-      "followers": 105554,
-      "text": "La defensa de nuestra democracia exige un @INEMexico independiente: #UnINELibre.\n\nPor eso, quien encabece esta institución debe ser garante de autonomía, sin afiliación partidista.\n\nDesde @AccionNacional seguiremos luchando por un árbitro electoral imparcial y elecciones libres. ¡México exige un #INESinMorena!\n\n#DefendamosMéxico",
-      "original_en": "La defensa de nuestra democracia exige un @INEMexico independiente: #UnINELibre.\n\nPor eso, quien encabece esta institución debe ser garante de autonomía, sin afiliación partidista.\n\nDesde @AccionNacional seguiremos luchando por un árbitro electoral imparcial y elecciones libres. ¡México exige un #INESinMorena!\n\n#DefendamosMéxico",
-      "views": 15358,
-      "views_label": "15,358",
-      "likes": 308,
-      "reposts": 76,
-      "replies": 30,
-      "quotes": 3,
-      "bookmarks": 0,
-      "url": "https://x.com/JorgeRoHe/status/2118028474048721406",
-      "status_url": "https://x.com/JorgeRoHe/status/2118028474048721406",
-      "created_local": "2026-11-04 11:11",
-      "created_at": "2026-11-04T17:11:53.000Z",
-      "posted_at": "2026-11-04T17:11:53.000Z",
-      "lang": "es",
-      "media": [
-        "photo",
-        "photo",
-        "photo",
-        "photo"
-      ],
-      "star": true,
-      "highlight": true,
-      "quote": false,
-      "category": "Elecciones e INE"
-    },
-    {
-      "id": "2118166797501301187",
-      "handle": "@JorgeRoHe",
-      "display_name": "Jorge Romero Herrera",
-      "name": "Jorge Romero Herrera",
-      "followers": 105554,
-      "text": "La autonomía del @INEMexico NO es negociable. \n\nExigimos que la presidencia del instituto esté ocupada por un perfil ciudadano real: sin ataduras, cuotas ni colores partidistas.\n\nLa democracia pertenece a los ciudadanos, no a un partido.\n\n#INEsinMORENA #UnINELibre https://t.co/X6WRQsX9IH",
-      "original_en": "La autonomía del @INEMexico NO es negociable. \n\nExigimos que la presidencia del instituto esté ocupada por un perfil ciudadano real: sin ataduras, cuotas ni colores partidistas.\n\nLa democracia pertenece a los ciudadanos, no a un partido.\n\n#INEsinMORENA #UnINELibre https://t.co/X6WRQsX9IH",
-      "views": 14910,
-      "views_label": "14,910",
-      "likes": 264,
-      "reposts": 67,
-      "replies": 25,
-      "quotes": 2,
-      "bookmarks": 0,
-      "url": "https://x.com/JorgeRoHe/status/2118166797501301187",
-      "status_url": "https://x.com/JorgeRoHe/status/2118166797501301187",
-      "created_local": "2026-11-04 20:21",
-      "created_at": "2026-11-05T02:21:32.000Z",
-      "posted_at": "2026-11-05T02:21:32.000Z",
-      "lang": "es",
-      "media": [
-        "video"
-      ],
-      "star": true,
-      "highlight": true,
-      "quote": false,
-      "category": "Elecciones e INE"
-    },
-    {
-      "id": "2118046625138704821",
-      "handle": "@alitomorenoc",
-      "display_name": "Alejandro Moreno",
-      "name": "Alejandro Moreno",
-      "followers": 242544,
-      "text": "Presentamos ante la @FGRMexico una DENUNCIA PENAL contra Guadalupe Taddei Zavala, José Alfredo Hernández Casillas, Carlos Daniel Luna Rosas, Guillermo Rafael Santiago Rodríguez y demás involucrados, por presuntos delitos de cohecho, tráfico de influencias, asociación delictuosa, entre otros. ¡Exigimos que se investigue la red criminal que operaba al interior del @INEMexico!\n\n¡Es una vergüenza que existan señalamientos de esta gravedad en el órgano encargado de cuidar nuestras elecciones! No vamos a permitir que se pisotee la democracia ni que el poder político sirva de escudo para la corrupción. Que la Fiscalía investigue hasta el fondo, sin proteger a nadie. ¡Que caiga quien tenga que caer y que todo el peso de la ley alcance a los responsables!\n\n#TaddeiEsMORENA",
-      "original_en": "Presentamos ante la @FGRMexico una DENUNCIA PENAL contra Guadalupe Taddei Zavala, José Alfredo Hernández Casillas, Carlos Daniel Luna Rosas, Guillermo Rafael Santiago Rodríguez y demás involucrados, por presuntos delitos de cohecho, tráfico de influencias, asociación delictuosa, entre otros. ¡Exigimos que se investigue la red criminal que operaba al interior del @INEMexico!\n\n¡Es una vergüenza que existan señalamientos de esta gravedad en el órgano encargado de cuidar nuestras elecciones! No vamos a permitir que se pisotee la democracia ni que el poder político sirva de escudo para la corrupción. Que la Fiscalía investigue hasta el fondo, sin proteger a nadie. ¡Que caiga quien tenga que caer y que todo el peso de la ley alcance a los responsables!\n\n#TaddeiEsMORENA",
-      "views": 14727,
-      "views_label": "14,727",
-      "likes": 1572,
-      "reposts": 734,
-      "replies": 93,
-      "quotes": 15,
-      "bookmarks": 8,
-      "url": "https://x.com/alitomorenoc/status/2118046625138704821",
-      "status_url": "https://x.com/alitomorenoc/status/2118046625138704821",
-      "created_local": "2026-11-04 12:24",
-      "created_at": "2026-11-04T18:24:01.000Z",
-      "posted_at": "2026-11-04T18:24:01.000Z",
-      "lang": "es",
-      "media": [
-        "photo",
-        "photo"
-      ],
-      "star": true,
-      "highlight": true,
-      "quote": false,
-      "category": "Elecciones e INE"
-    },
-    {
-      "id": "2118035482768720286",
-      "handle": "@JorgeRoHe",
-      "display_name": "Jorge Romero Herrera",
-      "name": "Jorge Romero Herrera",
-      "followers": 105554,
-      "text": "En @AccionNacional proponemos que sean ciudadanos, universidades y sociedad civil quienes conformen el comité técnico que elegirá la nueva presidencia del @INEMexico.\n\nHacemos un llamado a todos los mexicanos que creen en la democracia. México merece un árbitro que no sea títere del poder: #INESinMorena.\n\n¡Exigimos #UnINELibre!",
-      "original_en": "En @AccionNacional proponemos que sean ciudadanos, universidades y sociedad civil quienes conformen el comité técnico que elegirá la nueva presidencia del @INEMexico.\n\nHacemos un llamado a todos los mexicanos que creen en la democracia. México merece un árbitro que no sea títere del poder: #INESinMorena.\n\n¡Exigimos #UnINELibre!",
-      "views": 13799,
-      "views_label": "13,799",
-      "likes": 264,
-      "reposts": 77,
-      "replies": 42,
-      "quotes": 4,
-      "bookmarks": 0,
-      "url": "https://x.com/JorgeRoHe/status/2118035482768720286",
-      "status_url": "https://x.com/JorgeRoHe/status/2118035482768720286",
-      "created_local": "2026-11-04 11:39",
-      "created_at": "2026-11-04T17:39:44.000Z",
-      "posted_at": "2026-11-04T17:39:44.000Z",
-      "lang": "es",
-      "media": [
-        "photo"
-      ],
-      "star": true,
-      "highlight": true,
-      "quote": false,
-      "category": "Elecciones e INE"
-    },
-    {
-      "id": "2118017072655425751",
-      "handle": "@JorgeRoHe",
-      "display_name": "Jorge Romero Herrera",
-      "name": "Jorge Romero Herrera",
-      "followers": 105554,
-      "text": "Hoy, desde el @INEMexico, acompañado de legisladores de @AccionNacional, alzamos la voz por #UnINELibre.\n\nExigimos que quien llegue a presidir esta institución sea una persona ciudadana, independiente y sin afinidad partidista.\n\nDesde el PAN seguiremos defendiendo un #INESinMorena. México merece elecciones libres y que la voluntad ciudadana se respete.\n\n#DefendamosMéxico",
-      "original_en": "Hoy, desde el @INEMexico, acompañado de legisladores de @AccionNacional, alzamos la voz por #UnINELibre.\n\nExigimos que quien llegue a presidir esta institución sea una persona ciudadana, independiente y sin afinidad partidista.\n\nDesde el PAN seguiremos defendiendo un #INESinMorena. México merece elecciones libres y que la voluntad ciudadana se respete.\n\n#DefendamosMéxico",
-      "views": 13609,
-      "views_label": "13,609",
-      "likes": 329,
-      "reposts": 79,
-      "replies": 16,
-      "quotes": 2,
-      "bookmarks": 0,
-      "url": "https://x.com/JorgeRoHe/status/2118017072655425751",
-      "status_url": "https://x.com/JorgeRoHe/status/2118017072655425751",
-      "created_local": "2026-11-04 10:26",
-      "created_at": "2026-11-04T16:26:35.000Z",
-      "posted_at": "2026-11-04T16:26:35.000Z",
-      "lang": "es",
-      "media": [
-        "photo",
-        "photo",
-        "photo",
-        "photo"
-      ],
-      "star": true,
-      "highlight": true,
-      "quote": false,
-      "category": "Elecciones e INE"
-    },
-    {
-      "id": "2118121728538968235",
-      "handle": "@samuel_garcias",
-      "display_name": "Samuel García",
-      "name": "Samuel García",
-      "followers": 444498,
-      "text": "De nuevo solicitamos que este año NO HAYA TRASVASE. Gracias a que reconstruimos nuestro sistema hídrico y a las lluvias, tenemos nuestras presas llenas y toda esa agua se necesita para abastecer a Nuevo León. Escucha y comparte este mensaje. https://t.co/diXdITOaKv",
-      "original_en": "De nuevo solicitamos que este año NO HAYA TRASVASE. Gracias a que reconstruimos nuestro sistema hídrico y a las lluvias, tenemos nuestras presas llenas y toda esa agua se necesita para abastecer a Nuevo León. Escucha y comparte este mensaje. https://t.co/diXdITOaKv",
-      "views": 12984,
-      "views_label": "12,984",
-      "likes": 45,
-      "reposts": 3,
-      "replies": 51,
-      "quotes": 4,
-      "bookmarks": 4,
-      "url": "https://x.com/samuel_garcias/status/2118121728538968235",
-      "status_url": "https://x.com/samuel_garcias/status/2118121728538968235",
-      "created_local": "2026-11-04 17:22",
-      "created_at": "2026-11-04T23:22:27.000Z",
-      "posted_at": "2026-11-04T23:22:27.000Z",
-      "lang": "es",
-      "media": [
-        "video"
-      ],
-      "star": true,
-      "highlight": true,
-      "quote": false,
-      "category": "Motivación y liderazgo"
-    },
-    {
-      "id": "2118060788095037770",
-      "handle": "@alitomorenoc",
-      "display_name": "Alejandro Moreno",
-      "name": "Alejandro Moreno",
-      "followers": 242544,
-      "text": "¡Taddei es MORENA! MORENA impulsó su llegada a la presidencia del @INEMexico y hoy tiene que dar la cara ante los gravísimos señalamientos sobre irregularidades en los contratos del organismo. ¡Que se investigue a fondo y que nadie pretenda proteger a quienes resulten responsables!\n\n¡MORENA tiene una responsabilidad política que no puede evadir! ¡El @INEMexico pertenece a los mexicanos, no al partido en el poder!\n\n#TaddeiEsMORENA",
-      "original_en": "¡Taddei es MORENA! MORENA impulsó su llegada a la presidencia del @INEMexico y hoy tiene que dar la cara ante los gravísimos señalamientos sobre irregularidades en los contratos del organismo. ¡Que se investigue a fondo y que nadie pretenda proteger a quienes resulten responsables!\n\n¡MORENA tiene una responsabilidad política que no puede evadir! ¡El @INEMexico pertenece a los mexicanos, no al partido en el poder!\n\n#TaddeiEsMORENA",
-      "views": 12130,
-      "views_label": "12,130",
-      "likes": 238,
-      "reposts": 108,
-      "replies": 29,
-      "quotes": 3,
-      "bookmarks": 0,
-      "url": "https://x.com/alitomorenoc/status/2118060788095037770",
-      "status_url": "https://x.com/alitomorenoc/status/2118060788095037770",
-      "created_local": "2026-11-04 13:20",
-      "created_at": "2026-11-04T19:20:18.000Z",
-      "posted_at": "2026-11-04T19:20:18.000Z",
-      "lang": "es",
-      "media": [
-        "photo"
-      ],
-      "star": true,
-      "highlight": true,
-      "quote": false,
-      "category": "Elecciones e INE"
-    },
-    {
-      "id": "2117969650751353168",
-      "handle": "@samuel_garcias",
-      "display_name": "Samuel García",
-      "name": "Samuel García",
-      "followers": 444498,
-      "text": "Que orgullo CALIFORNIA.\nMi amigo Xavier Becerra gobernador de California Republic. Ex secretario de Salud de EEUU\nMadre tapatía y padre de Tijuana 🇲🇽👊🇺🇸\nEvento invitados por Clinton https://t.co/Ed7JijbfzJ",
-      "original_en": "Que orgullo CALIFORNIA.\nMi amigo Xavier Becerra gobernador de California Republic. Ex secretario de Salud de EEUU\nMadre tapatía y padre de Tijuana 🇲🇽👊🇺🇸\nEvento invitados por Clinton https://t.co/Ed7JijbfzJ",
-      "views": 12077,
-      "views_label": "12,077",
-      "likes": 89,
-      "reposts": 2,
-      "replies": 49,
-      "quotes": 8,
-      "bookmarks": 6,
-      "url": "https://x.com/samuel_garcias/status/2117969650751353168",
-      "status_url": "https://x.com/samuel_garcias/status/2117969650751353168",
-      "created_local": "2026-11-04 07:18",
-      "created_at": "2026-11-04T13:18:09.000Z",
-      "posted_at": "2026-11-04T13:18:09.000Z",
-      "lang": "es",
-      "media": [
-        "photo",
-        "photo"
-      ],
-      "star": true,
-      "highlight": true,
-      "quote": false,
-      "category": "Gobierno y políticas públicas"
-    },
-    {
-      "id": "2118041877358248087",
-      "handle": "@MaruCampos_G",
-      "display_name": "Maru Campos",
-      "name": "Maru Campos",
-      "followers": 79988,
-      "text": "Después de la jornada electoral de ayer en Estados Unidos, quiero reconocer a quienes encabezarán los estados fronterizos con nuestro país: @DebHaalandNM, en Nuevo México, nuestro vecino, primera mujer nativa americana electa gobernadora en la Unión Americana; @GinaHinojosaTX, que hace historia como la primera mujer latina en gobernar Texas; @XavierBecerra, primer latino electo gobernador de California, orgullo para millones de mexicanos de ambos lados de la frontera; y @GovernorHobbs, reelecta por un segundo periodo en Arizona.\n\nDesde Chihuahua, les envío mi más sincera y calurosa felicitación. Me dará mucho gusto colaborar con ellas y con él en todo lo que une a nuestra frontera y abone al bienestar, la prosperidad y la seguridad de nuestros pueblos, en particular de nuestras comunidades transfronterizas.",
-      "original_en": "Después de la jornada electoral de ayer en Estados Unidos, quiero reconocer a quienes encabezarán los estados fronterizos con nuestro país: @DebHaalandNM, en Nuevo México, nuestro vecino, primera mujer nativa americana electa gobernadora en la Unión Americana; @GinaHinojosaTX, que hace historia como la primera mujer latina en gobernar Texas; @XavierBecerra, primer latino electo gobernador de California, orgullo para millones de mexicanos de ambos lados de la frontera; y @GovernorHobbs, reelecta por un segundo periodo en Arizona.\n\nDesde Chihuahua, les envío mi más sincera y calurosa felicitación. Me dará mucho gusto colaborar con ellas y con él en todo lo que une a nuestra frontera y abone al bienestar, la prosperidad y la seguridad de nuestros pueblos, en particular de nuestras comunidades transfronterizas.",
-      "views": 10242,
-      "views_label": "10,242",
-      "likes": 236,
-      "reposts": 36,
-      "replies": 53,
-      "quotes": 3,
-      "bookmarks": 4,
-      "url": "https://x.com/MaruCampos_G/status/2118041877358248087",
-      "status_url": "https://x.com/MaruCampos_G/status/2118041877358248087",
-      "created_local": "2026-11-04 12:05",
-      "created_at": "2026-11-04T18:05:09.000Z",
-      "posted_at": "2026-11-04T18:05:09.000Z",
-      "lang": "es",
-      "media": [],
-      "star": true,
-      "highlight": true,
-      "quote": false,
-      "category": "Elecciones e INE"
-    },
-    {
-      "id": "2118043905694617995",
-      "handle": "@samuel_garcias",
-      "display_name": "Samuel García",
-      "name": "Samuel García",
-      "followers": 444498,
-      "text": "El nuevo Puente La Virgen ya está casi listo; a partir de este mes todo Nuevo León podrá conocerlo y usarlo. Y el próximo 12 de diciembre celebremos a la Virgen de Guadalupe desde este nuevo espacio. ¡Ánimo! 🦁👊🏻 https://t.co/Q4Rybr9Lsf",
-      "original_en": "El nuevo Puente La Virgen ya está casi listo; a partir de este mes todo Nuevo León podrá conocerlo y usarlo. Y el próximo 12 de diciembre celebremos a la Virgen de Guadalupe desde este nuevo espacio. ¡Ánimo! 🦁👊🏻 https://t.co/Q4Rybr9Lsf",
-      "views": 10113,
-      "views_label": "10,113",
-      "likes": 122,
-      "reposts": 6,
-      "replies": 39,
-      "quotes": 0,
-      "bookmarks": 5,
-      "url": "https://x.com/samuel_garcias/status/2118043905694617995",
-      "status_url": "https://x.com/samuel_garcias/status/2118043905694617995",
-      "created_local": "2026-11-04 12:13",
-      "created_at": "2026-11-04T18:13:13.000Z",
-      "posted_at": "2026-11-04T18:13:13.000Z",
-      "lang": "es",
-      "media": [
-        "photo",
-        "photo"
-      ],
-      "star": true,
-      "highlight": true,
-      "quote": false,
-      "category": "Otros"
-    },
-    {
-      "id": "2117983701552480417",
-      "handle": "@m_ebrard",
-      "display_name": "Marcelo Ebrard C.",
-      "name": "Marcelo Ebrard C.",
-      "followers": 2711161,
-      "text": "Todo listo para InnovaFest Mérida , 5000 participantes entre emprendedores , inventoras , científicas, universidades, empresas , investigadores, estudiantes y fondos de inversión. Construyendo futuro para Yucatán !! https://t.co/0dZnvhdLjp",
-      "original_en": "Todo listo para InnovaFest Mérida , 5000 participantes entre emprendedores , inventoras , científicas, universidades, empresas , investigadores, estudiantes y fondos de inversión. Construyendo futuro para Yucatán !! https://t.co/0dZnvhdLjp",
-      "views": 9588,
-      "views_label": "9,588",
-      "likes": 205,
-      "reposts": 49,
-      "replies": 7,
-      "quotes": 8,
-      "bookmarks": 3,
-      "url": "https://x.com/m_ebrard/status/2117983701552480417",
-      "status_url": "https://x.com/m_ebrard/status/2117983701552480417",
-      "created_local": "2026-11-04 08:13",
-      "created_at": "2026-11-04T14:13:59.000Z",
-      "posted_at": "2026-11-04T14:13:59.000Z",
-      "lang": "es",
-      "media": [
-        "photo"
-      ],
-      "star": false,
-      "highlight": false,
-      "quote": false,
-      "category": "Corrupción y justicia"
-    },
-    {
-      "id": "2118070060904329228",
-      "handle": "@m_ebrard",
-      "display_name": "Marcelo Ebrard C.",
-      "name": "Marcelo Ebrard C.",
-      "followers": 2711161,
-      "text": "InnovaFest Mérida https://t.co/rBwseTVkux",
-      "original_en": "InnovaFest Mérida https://t.co/rBwseTVkux",
-      "views": 8108,
-      "views_label": "8,108",
-      "likes": 134,
-      "reposts": 28,
-      "replies": 16,
-      "quotes": 4,
-      "bookmarks": 1,
-      "url": "https://x.com/m_ebrard/status/2118070060904329228",
-      "status_url": "https://x.com/m_ebrard/status/2118070060904329228",
-      "created_local": "2026-11-04 13:57",
-      "created_at": "2026-11-04T19:57:09.000Z",
-      "posted_at": "2026-11-04T19:57:09.000Z",
-      "lang": "und",
-      "media": [
-        "video"
-      ],
-      "star": false,
-      "highlight": false,
-      "quote": false,
-      "category": "Otros"
-    },
-    {
-      "id": "2118092625701916728",
-      "handle": "@alitomorenoc",
-      "display_name": "Alejandro Moreno",
-      "name": "Alejandro Moreno",
-      "followers": 242544,
-      "text": "El PRI de Campeche, junto con el ONMPRI, impulsa la capacitación y el liderazgo de las mujeres, brindándoles herramientas para participar activamente en la política y asumir mayores responsabilidades.\n\n¡Queremos más mujeres preparadas, participando y tomando decisiones para construir un mejor Campeche!",
-      "original_en": "El PRI de Campeche, junto con el ONMPRI, impulsa la capacitación y el liderazgo de las mujeres, brindándoles herramientas para participar activamente en la política y asumir mayores responsabilidades.\n\n¡Queremos más mujeres preparadas, participando y tomando decisiones para construir un mejor Campeche!",
-      "views": 6488,
-      "views_label": "6,488",
-      "likes": 26,
-      "reposts": 3,
-      "replies": 19,
-      "quotes": 1,
-      "bookmarks": 1,
-      "url": "https://x.com/alitomorenoc/status/2118092625701916728",
-      "status_url": "https://x.com/alitomorenoc/status/2118092625701916728",
-      "created_local": "2026-11-04 15:26",
-      "created_at": "2026-11-04T21:26:48.000Z",
-      "posted_at": "2026-11-04T21:26:48.000Z",
-      "lang": "es",
-      "media": [],
-      "star": false,
-      "highlight": false,
-      "quote": true,
-      "category": "Gobierno y políticas públicas"
-    },
-    {
-      "id": "2118192418105196613",
-      "handle": "@m_ebrard",
-      "display_name": "Marcelo Ebrard C.",
-      "name": "Marcelo Ebrard C.",
-      "followers": 2711161,
-      "text": "Gracias Yucatán , InnovaFest  Mérida un gran éxito !! https://t.co/SZ8BBXppJ1",
-      "original_en": "Gracias Yucatán , InnovaFest  Mérida un gran éxito !! https://t.co/SZ8BBXppJ1",
-      "views": 5770,
-      "views_label": "5,770",
-      "likes": 76,
-      "reposts": 22,
-      "replies": 2,
-      "quotes": 0,
-      "bookmarks": 1,
-      "url": "https://x.com/m_ebrard/status/2118192418105196613",
-      "status_url": "https://x.com/m_ebrard/status/2118192418105196613",
-      "created_local": "2026-11-04 22:03",
-      "created_at": "2026-11-05T04:03:21.000Z",
-      "posted_at": "2026-11-05T04:03:21.000Z",
-      "lang": "es",
-      "media": [
-        "photo"
-      ],
-      "star": false,
-      "highlight": false,
-      "quote": false,
-      "category": "Motivación y liderazgo"
-    }
-  ],
-  "hits_count": 25,
-  "virals": [],
-  "outsiders": [],
-  "outsiders_count": 0,
-  "day_roster": [
-    {
-      "handle": "@RicardoBSalinas",
-      "name": "Don Ricardo Salinas Pliego",
-      "display_name": "Don Ricardo Salinas Pliego",
-      "hits": 2,
-      "total": 1257679,
-      "views": 1257679,
-      "best": 1229873,
-      "best_url": "https://x.com/RicardoBSalinas/status/2118021544467378610",
-      "posts": 2,
-      "rank": 1
-    },
-    {
-      "handle": "@Claudiashein",
-      "name": "Claudia Sheinbaum Pardo",
-      "display_name": "Claudia Sheinbaum Pardo",
-      "hits": 2,
-      "total": 160967,
-      "views": 160967,
-      "best": 89771,
-      "best_url": "https://x.com/Claudiashein/status/2118162184954155167",
-      "posts": 2,
-      "rank": 2
-    },
-    {
-      "handle": "@OHarfuch",
-      "name": "Omar H Garcia Harfuch",
-      "display_name": "Omar H Garcia Harfuch",
-      "hits": 1,
-      "total": 140636,
-      "views": 140636,
-      "best": 140636,
-      "best_url": "https://x.com/OHarfuch/status/2118074349064483033",
-      "posts": 1,
-      "rank": 3
-    },
-    {
-      "handle": "@LillyTellez",
-      "name": "Lilly Téllez",
-      "display_name": "Lilly Téllez",
-      "hits": 2,
-      "total": 111298,
-      "views": 111298,
-      "best": 84722,
-      "best_url": "https://x.com/LillyTellez/status/2118082345991557363",
-      "posts": 2,
-      "rank": 4
-    },
-    {
-      "handle": "@JorgeRoHe",
-      "name": "Jorge Romero Herrera",
-      "display_name": "Jorge Romero Herrera",
-      "hits": 6,
-      "total": 95537,
-      "views": 95537,
-      "best": 20573,
-      "best_url": "https://x.com/JorgeRoHe/status/2118006198410854498",
-      "posts": 6,
-      "rank": 5
-    },
-    {
-      "handle": "@samuel_garcias",
-      "name": "Samuel García",
-      "display_name": "Samuel García",
-      "hits": 4,
-      "total": 58235,
-      "views": 58235,
-      "best": 23061,
-      "best_url": "https://x.com/samuel_garcias/status/2118092903222476928",
-      "posts": 4,
-      "rank": 6
-    },
-    {
-      "handle": "@alitomorenoc",
-      "name": "Alejandro Moreno",
-      "display_name": "Alejandro Moreno",
-      "hits": 4,
-      "total": 54127,
-      "views": 54127,
-      "best": 20782,
-      "best_url": "https://x.com/alitomorenoc/status/2118101546311307579",
-      "posts": 4,
-      "rank": 7
-    },
-    {
-      "handle": "@m_ebrard",
-      "name": "Marcelo Ebrard C.",
-      "display_name": "Marcelo Ebrard C.",
-      "hits": 3,
-      "total": 23466,
-      "views": 23466,
-      "best": 9588,
-      "best_url": "https://x.com/m_ebrard/status/2117983701552480417",
-      "posts": 3,
-      "rank": 8
-    },
-    {
-      "handle": "@MaruCampos_G",
-      "name": "Maru Campos",
-      "display_name": "Maru Campos",
-      "hits": 1,
-      "total": 10242,
-      "views": 10242,
-      "best": 10242,
-      "best_url": "https://x.com/MaruCampos_G/status/2118041877358248087",
-      "posts": 1,
-      "rank": 9
-    }
-  ],
-  "you_rank": {
-    "rank": 1,
-    "of": 9,
-    "handle": "@RicardoBSalinas",
-    "hits": 2,
-    "total": 1257679,
-    "best": 1229873,
-    "best_url": "https://x.com/RicardoBSalinas/status/2118021544467378610",
-    "best_views": 1229873,
-    "total_views": 1257679,
-    "rank_among_watchlist": 1,
-    "total_accounts": 9,
-    "vs_5k": "done",
-    "vs_10k": "done"
-  },
-  "no_hits": [
-    {
-      "handle": "@acostanaranjo",
-      "reason": "Sin posts originales en las últimas 24 h.",
-      "max_views": 0
-    }
-  ],
-  "previous_day": {
-    "date": "2026-11-04 (corte 17:00)",
-    "hits_count": 26,
-    "total_views": 1742870
-  },
-  "trend_input_only_posts": [],
-  "trend_input_only": [],
-  "drafts_top10": [
-    {
-      "rank": 2,
-      "handle": "@OHarfuch",
-      "url": "https://x.com/OHarfuch/status/2118074349064483033",
-      "draft_en": "Una meta, una cifra, una fecha. Escribe cuánto quieres ahorrar, vender o avanzar este mes y para cuándo: lo que se mide, mejora. La constancia diaria hace lo demás. ¿Cuál es tu cifra de este mes? Cuéntamela abajo. 💪🇲🇽",
-      "video_tip": "Carrusel de 3 fotos verticales o video de 12 s: una libreta con una meta escrita a mano (“Mi cifra del mes”), una taza de café y un calendario con la fecha límite circulada. Rótulos: “Una meta · Una cifra · Una fecha”. Cierra con la pregunta en pantalla; sin personas públicas ni referencias a gobiernos.",
-      "keywords": [
-        "meta",
-        "cifra",
-        "constancia",
-        "negocios"
-      ]
-    },
-    {
-      "rank": 3,
-      "handle": "@Claudiashein",
-      "url": "https://x.com/Claudiashein/status/2118162184954155167",
-      "draft_en": "Cuando pocos ganan siempre, pierde el ciudadano. La competencia abierta es buena para los negocios y para la libertad: más opciones, mejores precios y más calidad. Un contrato o un proveedor deberían ganarse cada vez, no heredarse. ¿Cuántas opciones comparas tú antes de elegir? Respóndeme en un número. 💪🇲🇽",
-      "video_tip": "Video vertical de 18 s: una mesa con dos cajas de colores y, una por una, aparecen otras cajas que se suman; rótulos cortos: “Una opción” · “Dos opciones” · “Muchas opciones”. Cierra con la pregunta en pantalla y pide la respuesta en una palabra; sin personas públicas, partidos ni logotipos.",
-      "keywords": [
-        "competencia",
-        "proveedores",
-        "ciudadanos",
-        "libertad"
-      ]
-    },
-    {
-      "rank": 4,
-      "handle": "@LillyTellez",
-      "url": "https://x.com/LillyTellez/status/2118082345991557363",
-      "draft_en": "Compara antes de pagar: un mismo producto puede costar mucho menos en la tienda de al lado. Mirar la etiqueta, pedir la factura y preguntar por qué cuesta lo que cuesta es un derecho de todos, y también la mejor escuela para los negocios. Quien compara, no se deja. ¿Qué fue lo último que comparaste antes de comprar? 🇲🇽",
-      "video_tip": "Video vertical de 15 s en una tienda: una mano compara dos etiquetas de precio del mismo producto con una lupa, aparecen tres rótulos grandes (“Compara” · “Pide la factura” · “Pregunta por qué”) y cierra con la pregunta en pantalla. Sin personas públicas, marcas, partidos ni logotipos de gobierno.",
-      "keywords": [
-        "precio justo",
-        "comparar",
-        "factura",
-        "libertad"
-      ]
-    }
-  ],
-  "last24h": {
-    "start": "2026-11-04T11:50:00Z",
-    "end": "2026-11-05T11:48:00Z"
-  },
-  "virals_narrative": "Ventana: del 4 nov, 5:50 a.m. al 5 nov, 5:48 a.m. (hora del centro de México). 46 posts originales revisados (sin respuestas ni reposts) de 10 cuentas; 25 superaron 5,000 vistas y 21 pasaron de 10,000. Sin publicación arriba de 5,000: @acostanaranjo (Sin posts originales en las últimas 24 h.).",
-  "patterns": [
-    "Publicación directa con cifra concreta y cierre rimado: @RicardoBSalinas (1,229,873 vistas; 16,613 likes; 3,713 reposts). La cifra es del post y no la doy por confirmada",
-    "Cifra única de un operativo con fotos: @OHarfuch (140,636 vistas; 2,002 likes) sobre un cateo con más de 43 millones de pesos asegurados",
-    "Video con comparación de precios (“de 70 a 190 pesos”): @LillyTellez (84,722 vistas; 3,124 reposts). Es una acusación suya; no está confirmada",
-    "Video corto con dato histórico y pregunta sobre una institución: @Claudiashein (89,771 vistas; 912 respuestas)",
-    "Pregunta con juego de palabras (“¿Estado de derecho? ¿O Estado de chueco?”) y cierre que invita a comentar: @RicardoBSalinas (27,806 vistas; 1,221 likes)",
-    "Serie del mismo tema en el mismo día: 6 originales de @JorgeRoHe sobre el INE (13,609 a 20,573 vistas cada una) y 4 de @alitomorenoc"
-  ],
   "narrative_synthesis": "Del 4 al 5 de noviembre (corte de la mañana) la conversación de la lista giró en cuatro frentes: la acusación de @RicardoBSalinas contra el gobernador de Nuevo León, que sigue creciendo (de 806,033 a 1,229,873 vistas); la designación de la presidencia del INE tras la salida de Guadalupe Taddei, con #UnINELibre de @JorgeRoHe, la denuncia penal de @alitomorenoc ante la FGR y el video de @Claudiashein sobre contratos de materiales electorales; las compras a sobreprecio que denunció @LillyTellez en el Senado; y los operativos de seguridad de @OHarfuch. Aparece también la #LeyAntiMemes, que @RicardoBSalinas cuestiona; los medios que revisé aclaran que no prohíbe los memes en general: una reforma penaliza el uso engañoso de la identidad institucional del gobierno y otra regula la responsabilidad de las plataformas por derechos de autor, y ninguna estaba vigente al cierre de esta revisión.",
+  "virals_narrative": "Ventana: del 4 nov, 5:50 a.m. al 5 nov, 5:48 a.m. (hora del centro de México). 46 posts originales revisados (sin respuestas ni reposts) de 10 cuentas; 25 superaron 5,000 vistas y 21 pasaron de 10,000. Sin publicación arriba de 5,000: @acostanaranjo (Sin posts originales en las últimas 24 h.).",
   "trend_keywords": [
     "Samuel García",
     "facturero",
@@ -1014,1028 +28,357 @@
     "Presa León",
     "InnovaFest"
   ],
-  "trend_radar": {
-    "date": "2026-11-05",
-    "title": "Trends and post ideas",
-    "window": {
-      "end": "2026-11-05T11:48:00+00:00",
-      "label24": "04.11 11:50 - 05.11 11:48 UTC",
-      "label48": "03.11 11:50 - 05.11 11:48 UTC"
-    },
-    "corpus": {
-      "posts": 25,
-      "min_views": 5000,
-      "lanes": {
-        "watchlist": 25,
-        "outsider": 0,
-        "24h": 0,
-        "trend_input": 0
-      }
-    },
-    "summary": {
-      "top10_line": "TOP-10: 2/10 son de @RicardoBSalinas (su publicación sobre el gobernador de Nuevo León, #1 con 1,229,873 vistas, y su publicación sobre la #LeyAntiMemes, #6 con 27,806); 2 de @Claudiashein (el video sobre contratos de materiales del INE, 89,771, y el aviso del Plan Michoacán, 71,196); 2 de @LillyTellez (el té de manzanilla de 70 a 190 pesos, 84,722, y la iniciativa de vales para medicamentos, 26,576); 1 de @OHarfuch (cateo con más de 43 millones de pesos asegurados, 140,636); 1 de @samuel_garcias (la Presa León, 23,061); 1 de @alitomorenoc (20,782) y 1 de @JorgeRoHe (20,573)",
-      "headline": "@RicardoBSalinas encabeza otra vez: su publicación sobre el gobernador de Nuevo León llegó a 1,229,873 vistas, 16,613 likes, 3,713 reposts y 379 respuestas (venía de 806,033 a las 5:00 p.m. de ayer, +53%). Con su publicación nueva sobre la #LeyAntiMemes (27,806 vistas) suma 2 originales y 1,257,679 vistas en la ventana. Le siguen @OHarfuch con el cateo en la Ciudad de México (140,636) y @Claudiashein con el video sobre los contratos de materiales electorales del INE (89,771).",
-      "takeaway": "Lo que más jala hoy: (1) la publicación directa con una cifra concreta y un cierre rimado sigue siendo lo mejor de la ventana (1,229,873 vistas); (2) la cifra única de un operativo con fotos (el cateo con más de 43 millones de pesos: 140,636 vistas); (3) un video con una comparación de precios fácil de entender (el té de manzanilla de 70 a 190 pesos: 84,722 vistas y 3,124 reposts); (4) un video corto con un dato histórico y una pregunta (contratos del INE por más de 20 años: 89,771 vistas y 912 respuestas); (5) la serie del mismo tema el mismo día (6 originales de @JorgeRoHe sobre el INE, entre 13,609 y 20,573 vistas). Ojo: las cifras de acusaciones (6,000 millones, 190 millones, contratos del INE) son de quien las publica y no las doy por confirmadas.",
-      "stats": {
-        "all": {
-          "n": 25,
-          "trend_n": 0,
-          "trend_pct": 0,
-          "avg_trend": null,
-          "avg_other": 76487,
-          "median_trend": null,
-          "median_other": 14910,
-          "verdicts": {
-            "tendencia": 0,
-            "visual": 19,
-            "autor/audiencia": 5,
-            "coincidencia/otro": 1
-          }
-        },
-        "watchlist": {
-          "n": 25,
-          "trend_n": 0,
-          "trend_pct": 0,
-          "avg_trend": null,
-          "avg_other": 76487,
-          "median_trend": null,
-          "median_other": 14910,
-          "verdicts": {
-            "tendencia": 0,
-            "visual": 19,
-            "autor/audiencia": 5,
-            "coincidencia/otro": 1
-          }
-        },
-        "outsiders": {
-          "n": 0,
-          "trend_n": 0,
-          "trend_pct": 0,
-          "avg_trend": null,
-          "avg_other": null,
-          "median_trend": null,
-          "median_other": null,
-          "verdicts": {
-            "tendencia": 0,
-            "visual": 0,
-            "autor/audiencia": 0,
-            "coincidencia/otro": 0
-          }
-        },
-        "top10": {
-          "n": 10,
-          "trend_n": 0,
-          "trend_pct": 0,
-          "avg_trend": null,
-          "avg_other": 173500,
-          "median_trend": null,
-          "median_other": 49501,
-          "verdicts": {
-            "tendencia": 0,
-            "visual": 6,
-            "autor/audiencia": 4,
-            "coincidencia/otro": 0
-          }
-        },
-        "media": {
-          "video_n": 8,
-          "median_video": 20174,
-          "other_n": 17,
-          "median_other": 13799
-        }
-      }
-    },
-    "topics": [
-      {
-        "name": "Acusación al gobierno de Nuevo León",
-        "keywords": [
-          "Samuel García",
-          "facturero",
-          "triangulación",
-          "6,000 millones",
-          "ASF"
-        ],
-        "posts_24h": 1,
-        "views_24h": 1229873,
-        "momentum": "sube",
-        "evidence": [
-          "https://x.com/RicardoBSalinas/status/2118021544467378610"
-        ]
-      },
-      {
-        "name": "INE: presidencia, denuncia y contratos",
-        "keywords": [
-          "INE",
-          "#UnINELibre",
-          "Taddei",
-          "denuncia penal",
-          "materiales electorales"
-        ],
-        "posts_24h": 7,
-        "views_24h": 177983,
-        "momentum": "sube",
-        "evidence": [
-          "https://x.com/Claudiashein/status/2118162184954155167",
-          "https://x.com/JorgeRoHe/status/2118072893540360290",
-          "https://x.com/JorgeRoHe/status/2118028474048721406",
-          "https://x.com/JorgeRoHe/status/2118166797501301187",
-          "https://x.com/JorgeRoHe/status/2118035482768720286",
-          "https://x.com/alitomorenoc/status/2118046625138704821",
-          "https://x.com/alitomorenoc/status/2118060788095037770"
-        ]
-      },
-      {
-        "name": "Compras a sobreprecio y salud",
-        "keywords": [
-          "manzanilla",
-          "sobreprecio",
-          "medicamentos",
-          "vales"
-        ],
-        "posts_24h": 2,
-        "views_24h": 111298,
-        "momentum": "nuevo",
-        "evidence": [
-          "https://x.com/LillyTellez/status/2118082345991557363",
-          "https://x.com/LillyTellez/status/2118019601518747754"
-        ]
-      },
-      {
-        "name": "Seguridad y operativos",
-        "keywords": [
-          "cateo",
-          "43 millones",
-          "lavado de dinero"
-        ],
-        "posts_24h": 1,
-        "views_24h": 140636,
-        "momentum": "sigue",
-        "evidence": [
-          "https://x.com/OHarfuch/status/2118074349064483033"
-        ]
-      },
-      {
-        "name": "#LeyAntiMemes y Estado de derecho",
-        "keywords": [
-          "#LeyAntiMemes",
-          "Estado de derecho",
-          "memes"
-        ],
-        "posts_24h": 1,
-        "views_24h": 27806,
-        "momentum": "nuevo",
-        "evidence": [
-          "https://x.com/RicardoBSalinas/status/2118206338723705032"
-        ]
-      },
-      {
-        "name": "Metro, presa y obras de Nuevo León",
-        "keywords": [
-          "Presa León",
-          "trasvase",
-          "puente"
-        ],
-        "posts_24h": 3,
-        "views_24h": 46158,
-        "momentum": "sigue",
-        "evidence": [
-          "https://x.com/samuel_garcias/status/2118092903222476928",
-          "https://x.com/samuel_garcias/status/2118121728538968235",
-          "https://x.com/samuel_garcias/status/2118043905694617995"
-        ]
-      },
-      {
-        "name": "Plan Michoacán",
-        "keywords": [
-          "Plan Michoacán"
-        ],
-        "posts_24h": 1,
-        "views_24h": 71196,
-        "momentum": "sigue",
-        "evidence": [
-          "https://x.com/Claudiashein/status/2117974727591342462"
-        ]
-      },
-      {
-        "name": "Innovación y emprendimiento: InnovaFest Mérida",
-        "keywords": [
-          "InnovaFest",
-          "innovación",
-          "becas"
-        ],
-        "posts_24h": 2,
-        "views_24h": 13878,
-        "momentum": "sigue",
-        "evidence": [
-          "https://x.com/m_ebrard/status/2118070060904329228",
-          "https://x.com/m_ebrard/status/2118192418105196613"
-        ]
-      },
-      {
-        "name": "Estados fronterizos y elecciones en EE. UU.",
-        "keywords": [
-          "gobernadores",
-          "fronterizos"
-        ],
-        "posts_24h": 1,
-        "views_24h": 10242,
-        "momentum": "baja",
-        "evidence": [
-          "https://x.com/MaruCampos_G/status/2118041877358248087"
-        ]
-      }
-    ],
-    "ideas": [
-      {
-        "title": "Compara antes de pagar",
-        "topic": "Precio justo y libertad",
-        "keywords": [
-          "precio justo",
-          "comparar",
-          "factura",
-          "libertad"
-        ],
-        "format": "video",
-        "visual_type": "video",
-        "visual": "Dos etiquetas de precio comparadas con una lupa",
-        "angle": "Comparación fácil de entender + pregunta final, sin nombrar a nadie",
-        "hook_en": "Quien compara, no se deja.",
-        "why": "El video de @LillyTellez con una comparación de precios: 84,722 vistas, 3,124 reposts y 161 respuestas.",
-        "x_keywords": [],
-        "x_rank": null,
-        "source": "watchlist"
-      },
-      {
-        "title": "La competencia abierta",
-        "topic": "Negocios y libertad",
-        "keywords": [
-          "competencia",
-          "proveedores",
-          "ciudadanos",
-          "libertad"
-        ],
-        "format": "video",
-        "visual_type": "video",
-        "visual": "Cajas que se suman una por una sobre una mesa",
-        "angle": "Dato histórico convertido en pregunta de negocios, sin partidos",
-        "hook_en": "Cuando pocos ganan siempre, pierde el ciudadano.",
-        "why": "El video de @Claudiashein sobre contratos del INE: 89,771 vistas, 1,147 reposts y 912 respuestas.",
-        "x_keywords": [],
-        "x_rank": null,
-        "source": "watchlist"
-      },
-      {
-        "title": "Una meta, una cifra, una fecha",
-        "topic": "Constancia y liderazgo",
-        "keywords": [
-          "meta",
-          "cifra",
-          "constancia",
-          "negocios"
-        ],
-        "format": "imagen",
-        "visual_type": "photo",
-        "visual": "Libreta con una meta escrita a mano y calendario",
-        "angle": "Cifra única + pregunta final que invita a comentar",
-        "hook_en": "Lo que se mide, mejora.",
-        "why": "La publicación de @OHarfuch con una cifra única y fotos: 140,636 vistas, 534 reposts y 100 respuestas.",
-        "x_keywords": [],
-        "x_rank": null,
-        "source": "watchlist"
-      }
-    ],
-    "articles": [],
-    "why_hit": [
-      {
-        "id": "2118021544467378610",
-        "handle": "@RicardoBSalinas",
-        "lane": "watchlist",
-        "views": 1229873,
-        "trend_match": 49,
-        "verdict": "autor/audiencia",
-        "matched_keywords": [
-          "Samuel García",
-          "facturero",
-          "INE"
-        ],
-        "media": "sin datos",
-        "followers": 2235631,
-        "topic": null,
-        "self_quote": false,
-        "note": "media: sin datos"
-      },
-      {
-        "id": "2118074349064483033",
-        "handle": "@OHarfuch",
-        "lane": "watchlist",
-        "views": 140636,
-        "trend_match": 36,
-        "verdict": "visual",
-        "matched_keywords": [
-          "INE",
-          "cateo"
-        ],
-        "media": "photo",
-        "followers": 810102,
-        "topic": null,
-        "self_quote": false,
-        "note": ""
-      },
-      {
-        "id": "2118162184954155167",
-        "handle": "@Claudiashein",
-        "lane": "watchlist",
-        "views": 89771,
-        "trend_match": 36,
-        "verdict": "visual",
-        "matched_keywords": [
-          "INE",
-          "materiales electorales"
-        ],
-        "media": "video",
-        "followers": 5258666,
-        "topic": null,
-        "self_quote": false,
-        "note": ""
-      },
-      {
-        "id": "2118082345991557363",
-        "handle": "@LillyTellez",
-        "lane": "watchlist",
-        "views": 84722,
-        "trend_match": 36,
-        "verdict": "visual",
-        "matched_keywords": [
-          "INE",
-          "manzanilla"
-        ],
-        "media": "video",
-        "followers": 1127681,
-        "topic": null,
-        "self_quote": false,
-        "note": ""
-      },
-      {
-        "id": "2117974727591342462",
-        "handle": "@Claudiashein",
-        "lane": "watchlist",
-        "views": 71196,
-        "trend_match": 20,
-        "verdict": "autor/audiencia",
-        "matched_keywords": [
-          "Plan Michoacán"
-        ],
-        "media": "sin datos",
-        "followers": 5258666,
-        "topic": null,
-        "self_quote": false,
-        "note": "media: sin datos"
-      },
-      {
-        "id": "2118206338723705032",
-        "handle": "@RicardoBSalinas",
-        "lane": "watchlist",
-        "views": 27806,
-        "trend_match": 36,
-        "verdict": "visual",
-        "matched_keywords": [
-          "#LeyAntiMemes",
-          "Estado de derecho"
-        ],
-        "media": "video",
-        "followers": 2235631,
-        "topic": null,
-        "self_quote": false,
-        "note": ""
-      },
-      {
-        "id": "2118019601518747754",
-        "handle": "@LillyTellez",
-        "lane": "watchlist",
-        "views": 26576,
-        "trend_match": 0,
-        "verdict": "autor/audiencia",
-        "matched_keywords": [],
-        "media": "sin datos",
-        "followers": 1127681,
-        "topic": null,
-        "self_quote": false,
-        "note": "media: sin datos"
-      },
-      {
-        "id": "2118092903222476928",
-        "handle": "@samuel_garcias",
-        "lane": "watchlist",
-        "views": 23061,
-        "trend_match": 36,
-        "verdict": "visual",
-        "matched_keywords": [
-          "INE",
-          "Presa León"
-        ],
-        "media": "video",
-        "followers": 444498,
-        "topic": null,
-        "self_quote": false,
-        "note": ""
-      },
-      {
-        "id": "2118101546311307579",
-        "handle": "@alitomorenoc",
-        "lane": "watchlist",
-        "views": 20782,
-        "trend_match": 0,
-        "verdict": "visual",
-        "matched_keywords": [],
-        "media": "photo",
-        "followers": 242544,
-        "topic": null,
-        "self_quote": false,
-        "note": ""
-      },
-      {
-        "id": "2118006198410854498",
-        "handle": "@JorgeRoHe",
-        "lane": "watchlist",
-        "views": 20573,
-        "trend_match": 20,
-        "verdict": "autor/audiencia",
-        "matched_keywords": [
-          "INE"
-        ],
-        "media": "sin datos",
-        "followers": 105554,
-        "topic": null,
-        "self_quote": false,
-        "note": "media: sin datos"
-      },
-      {
-        "id": "2118072893540360290",
-        "handle": "@JorgeRoHe",
-        "lane": "watchlist",
-        "views": 17288,
-        "trend_match": 36,
-        "verdict": "visual",
-        "matched_keywords": [
-          "INE",
-          "#UnINELibre"
-        ],
-        "media": "video",
-        "followers": 105554,
-        "topic": null,
-        "self_quote": false,
-        "note": ""
-      },
-      {
-        "id": "2118028474048721406",
-        "handle": "@JorgeRoHe",
-        "lane": "watchlist",
-        "views": 15358,
-        "trend_match": 36,
-        "verdict": "visual",
-        "matched_keywords": [
-          "INE",
-          "#UnINELibre"
-        ],
-        "media": "photo",
-        "followers": 105554,
-        "topic": null,
-        "self_quote": false,
-        "note": ""
-      },
-      {
-        "id": "2118166797501301187",
-        "handle": "@JorgeRoHe",
-        "lane": "watchlist",
-        "views": 14910,
-        "trend_match": 36,
-        "verdict": "visual",
-        "matched_keywords": [
-          "INE",
-          "#UnINELibre"
-        ],
-        "media": "video",
-        "followers": 105554,
-        "topic": null,
-        "self_quote": false,
-        "note": ""
-      },
-      {
-        "id": "2118046625138704821",
-        "handle": "@alitomorenoc",
-        "lane": "watchlist",
-        "views": 14727,
-        "trend_match": 49,
-        "verdict": "visual",
-        "matched_keywords": [
-          "INE",
-          "Taddei",
-          "denuncia penal"
-        ],
-        "media": "photo",
-        "followers": 242544,
-        "topic": null,
-        "self_quote": false,
-        "note": ""
-      },
-      {
-        "id": "2118035482768720286",
-        "handle": "@JorgeRoHe",
-        "lane": "watchlist",
-        "views": 13799,
-        "trend_match": 36,
-        "verdict": "visual",
-        "matched_keywords": [
-          "INE",
-          "#UnINELibre"
-        ],
-        "media": "photo",
-        "followers": 105554,
-        "topic": null,
-        "self_quote": false,
-        "note": ""
-      },
-      {
-        "id": "2118017072655425751",
-        "handle": "@JorgeRoHe",
-        "lane": "watchlist",
-        "views": 13609,
-        "trend_match": 36,
-        "verdict": "visual",
-        "matched_keywords": [
-          "INE",
-          "#UnINELibre"
-        ],
-        "media": "photo",
-        "followers": 105554,
-        "topic": null,
-        "self_quote": false,
-        "note": ""
-      },
-      {
-        "id": "2118121728538968235",
-        "handle": "@samuel_garcias",
-        "lane": "watchlist",
-        "views": 12984,
-        "trend_match": 0,
-        "verdict": "visual",
-        "matched_keywords": [],
-        "media": "video",
-        "followers": 444498,
-        "topic": null,
-        "self_quote": false,
-        "note": ""
-      },
-      {
-        "id": "2118060788095037770",
-        "handle": "@alitomorenoc",
-        "lane": "watchlist",
-        "views": 12130,
-        "trend_match": 49,
-        "verdict": "visual",
-        "matched_keywords": [
-          "INE",
-          "Taddei",
-          "contratos"
-        ],
-        "media": "photo",
-        "followers": 242544,
-        "topic": null,
-        "self_quote": false,
-        "note": ""
-      },
-      {
-        "id": "2117969650751353168",
-        "handle": "@samuel_garcias",
-        "lane": "watchlist",
-        "views": 12077,
-        "trend_match": 0,
-        "verdict": "visual",
-        "matched_keywords": [],
-        "media": "photo",
-        "followers": 444498,
-        "topic": null,
-        "self_quote": false,
-        "note": ""
-      },
-      {
-        "id": "2118041877358248087",
-        "handle": "@MaruCampos_G",
-        "lane": "watchlist",
-        "views": 10242,
-        "trend_match": 0,
-        "verdict": "coincidencia/otro",
-        "matched_keywords": [],
-        "media": "sin datos",
-        "followers": 79988,
-        "topic": null,
-        "self_quote": false,
-        "note": "media: sin datos"
-      },
-      {
-        "id": "2118043905694617995",
-        "handle": "@samuel_garcias",
-        "lane": "watchlist",
-        "views": 10113,
-        "trend_match": 0,
-        "verdict": "visual",
-        "matched_keywords": [],
-        "media": "photo",
-        "followers": 444498,
-        "topic": null,
-        "self_quote": false,
-        "note": ""
-      },
-      {
-        "id": "2117983701552480417",
-        "handle": "@m_ebrard",
-        "lane": "watchlist",
-        "views": 9588,
-        "trend_match": 20,
-        "verdict": "visual",
-        "matched_keywords": [
-          "InnovaFest"
-        ],
-        "media": "photo",
-        "followers": 2711161,
-        "topic": null,
-        "self_quote": false,
-        "note": ""
-      },
-      {
-        "id": "2118070060904329228",
-        "handle": "@m_ebrard",
-        "lane": "watchlist",
-        "views": 8108,
-        "trend_match": 20,
-        "verdict": "visual",
-        "matched_keywords": [
-          "InnovaFest"
-        ],
-        "media": "video",
-        "followers": 2711161,
-        "topic": null,
-        "self_quote": false,
-        "note": ""
-      },
-      {
-        "id": "2118092625701916728",
-        "handle": "@alitomorenoc",
-        "lane": "watchlist",
-        "views": 6488,
-        "trend_match": 0,
-        "verdict": "autor/audiencia",
-        "matched_keywords": [],
-        "media": "sin datos",
-        "followers": 242544,
-        "topic": null,
-        "self_quote": false,
-        "note": "media: sin datos"
-      },
-      {
-        "id": "2118192418105196613",
-        "handle": "@m_ebrard",
-        "lane": "watchlist",
-        "views": 5770,
-        "trend_match": 20,
-        "verdict": "visual",
-        "matched_keywords": [
-          "InnovaFest"
-        ],
-        "media": "photo",
-        "followers": 2711161,
-        "topic": null,
-        "self_quote": false,
-        "note": ""
-      }
-    ],
-    "labels": {
-      "trend": "tendencia",
-      "visual": "visual",
-      "author": "autor/audiencia",
-      "other": "coincidencia/otro",
-      "nontrend": "sin tendencia",
-      "self_quote": "autocita",
-      "no_data": "sin datos"
-    },
-    "x_keywords": null,
-    "legend": "Trend match 0-100% = 1 - prod(1 - w) over matched 24 h keywords that another author also used in the 48 h window (w: rank 1-10 0.35, 11-25 0.22, 26-40 0.12, curated 0.20). Verdict: >= 50% -> tendencia; else video/image in the post data -> visual; else >= 100K followers (outsiders without follower data: >= 500K views, estimate) -> autor/audiencia; else coincidencia/otro. Missing data shows as 'sin datos'. Heat = sum log10(views) of topic posts (24 h x1, 24-48 h x0.5), scaled to 100. Momentum = log-views last 24 h / previous 24 h. Trend-input-only accounts feed the corpus but are never shown as hits."
-  },
-  "imagen_rsp": {
-    "fecha": "2026-11-05 (06:00)",
-    "ventana": "2026-11-04T11:50Z a 2026-11-05T11:48Z",
-    "posts_propios": {
-      "originales": 2,
-      "vistas": 1257679,
-      "likes": 17834,
-      "reposts": 4001,
-      "respuestas": 463,
-      "citas": 81,
-      "guardados": 410,
-      "top": {
-        "url": "https://x.com/RicardoBSalinas/status/2118021544467378610",
-        "vistas": 1229873,
-        "texto": "Publicación sobre el gobernador de Nuevo León: acusación de desvío y triangulación de más de 6,000 millones de pesos (sin documentos adjuntos en el post)"
-      },
-      "detalle": [
-        {
-          "url": "https://x.com/RicardoBSalinas/status/2118021544467378610",
-          "vistas": 1229873,
-          "likes": 16613,
-          "reposts": 3713,
-          "respuestas": 379,
-          "nota": "Publicada ayer 4 nov a las 10:44 a.m. (hora del centro de México). Acusa al gobernador de Nuevo León, Samuel García, de desvíos y triangulación de más de 6,000 millones de pesos. Venía de 806,033 vistas a las 5:00 p.m. de ayer (+53%). La cifra es del post y no la doy por confirmada; la ASF presentó en octubre una denuncia por 7,212 millones y el gobernador lo ha negado. 372 guardados y 77 citas."
-        },
-        {
-          "url": "https://x.com/RicardoBSalinas/status/2118206338723705032",
-          "vistas": 27806,
-          "likes": 1221,
-          "reposts": 288,
-          "respuestas": 84,
-          "nota": "Publicada anoche (10:58 p.m. del 4 nov, hora del centro de México): “¿Estado de derecho? ¿O Estado de chueco?”; cuestiona la #LeyAntiMemes y vincula a quienes la escribieron con el crimen organizado. Es su opinión y no la doy por confirmada. Los medios que revisé (La Razón, Tec de Monterrey, Ecija) explican que la llamada “Ley Antimemes” no prohíbe los memes en general: una reforma penaliza el uso engañoso de la identidad institucional del gobierno y otra regula la responsabilidad de las plataformas por derechos de autor; ninguna estaba vigente al cierre de esta revisión."
-        }
-      ],
-      "nota": "2 originales en esta ventana de 24 h: suman 1,257,679 vistas, contra 1,012,453 del corte de las 5:00 p.m. de ayer (+24%; la ventana cambió). Seguimiento de posts ya reportados: la respuesta del 3 nov llegó a 1,679,592 vistas (venía de 1,576,193, +7%); la cita “¡Lo de la cuenta no cuenta!” a 122,815 (venía de 115,686, +6%); la cita “¿Difícil de entender?” a 146,952 (venía de 136,044, +8%); la cita “Es lo que yo digo!” a 89,210 (venía de 70,376, +27%). Seguidores: 2,235,631 (sin cambio respecto a las 5:00 p.m. de ayer, según la cifra que devuelve X)."
-    },
-    "dia_previo_referencia": {
-      "fecha": "2026-11-04 (17:00)",
-      "originales": 3,
-      "vistas": 1012453,
-      "likes": 16344,
-      "reposts": 3369,
-      "respuestas": 438,
-      "citas": 65,
-      "guardados": 270,
-      "nota": "Corte de las 5:00 p.m. de ayer: rango 1 de 9, 3 originales; menciones 7,708/24 h. Ahora: rango 1 de 9 con 2 originales (ventana distinta)."
-    },
-    "menciones": {
-      "volumen_24h": 5511,
-      "volumen_24h_previas": 7706,
-      "nota_volumen": "Conteo de X para 'Salinas Pliego' / 'Ricardo Salinas' / @RicardoBSalinas, sin reposts, 4 nov 11:50Z a 5 nov 11:48Z (24 h): 5,511 contra 7,706 del corte de las 6:00 a.m. de ayer (-28%) y 7,708 del corte de las 5:00 p.m. de ayer (-29%); las ventanas son parecidas pero no idénticas, así que la comparación es aproximada. Máximo de 477 por hora entre 11:00 a.m. y 12:00 p.m. de ayer (hora del centro de México), justo después de su publicación de las 10:44 a.m.; el mínimo fue de 15 por hora entre 3:00 y 4:00 a.m. de hoy.",
-      "muestra": 70,
-      "excluidas_bots": 22,
-      "excluidas_pro_morena": 2,
-      "excluidas_fuera_de_tema": 14,
-      "descartadas_no_verificadas": 24,
-      "analizadas": 8,
-      "tono_muestra_filtrada": "Muestra pequeña (70 menciones; no representa las 5,511): 22 se excluyeron por parecer bots (cuentas nuevas, sin foto, con cadenas de dígitos, texto copiado o etiquetado masivo), 2 por ser abiertamente pro-Morena (biografía), 14 por estar fuera de tema y 24 se descartaron por ser insultos o afirmaciones sin fuente (no se repiten aquí). Quedaron 8, de unas 6 cuentas: 6 de apoyo o críticas al gobierno afines a él y 2 escépticas (una pregunta de dónde aparece la “Ley antimemes” en el Diario Oficial y una ironía). En una búsqueda aparte de las 25 menciones con más interacción, 9 eran el mismo titular copiado por cuentas creadas en mayo de 2026 con casi cero seguidores (parecen bots y se excluyeron). Temas de la cobertura verificada: (1) su publicación contra el gobernador de Nuevo León y la denuncia de la ASF; (2) su respuesta del 3 nov a Andy López Beltrán; (3) la #LeyAntiMemes. Límite: ninguna mención que pasó los filtros tuvo más de 150 vistas, así que no pude identificar mensajes de alto alcance, y la muestra se inclina a respuestas de pocas vistas.",
-      "top_menciones": [
-        {
-          "url": "https://x.com/elsoldeAca/status/2118153827031375878",
-          "vistas": 142,
-          "nota": "Medio local: resume la respuesta de Ricardo Salinas a Andy López Beltrán y la presenta a su favor (opinión, sin dato). La mención más vista que pasó los filtros."
-        },
-        {
-          "url": "https://x.com/arcangelbello/status/2118303788536578409",
-          "vistas": 1,
-          "nota": "Pregunta en qué parte del Diario Oficial aparece la “Ley antimemes” (escéptica; sin dato)."
-        }
-      ],
-      "cobertura_verificada": [
-        {
-          "url": "https://www.debate.com.mx/politica/salinas-pliego-le-tira-a-samuel-garcia-y-senala-a-morena-de-encubrirlo-es-el-nuevo-corrupto-20261104-0157.html",
-          "medio": "Debate",
-          "nota": "Reporta su acusación contra el gobernador de Nuevo León y la contrasta con la denuncia de la ASF por 7,212 millones; aclara que no hay sentencia y que el gobernador niega una triangulación ilegal."
-        },
-        {
-          "url": "https://www.razon.com.mx/mexico/2026/11/03/senado-aprueba-en-fast-track-la-ley-antimemes-oposicion-alerta-riesgo-de-censura/",
-          "medio": "La Razón",
-          "nota": "Contexto de la #LeyAntiMemes que él cuestiona: el Senado aprobó el 3 nov la reforma sobre plataformas y derechos de autor; la oposición alerta riesgo de censura."
-        },
-        {
-          "url": "https://omd.tec.mx/noticia/sobre-la-llamada-ley-antimemes-y-la-libertad-de-expresion-en-mexico",
-          "medio": "Observatorio de Medios Digitales (Tec de Monterrey)",
-          "nota": "Explica qué regulan las reformas y que no prohíben los memes en general."
-        }
-      ]
+  "patterns": [
+    "Publicación directa con cifra concreta y cierre rimado: @RicardoBSalinas (1,229,873 vistas; 16,613 likes; 3,713 reposts). La cifra es del post y no la doy por confirmada",
+    "Cifra única de un operativo con fotos: @OHarfuch (140,636 vistas; 2,002 likes) sobre un cateo con más de 43 millones de pesos asegurados",
+    "Video con comparación de precios (“de 70 a 190 pesos”): @LillyTellez (84,722 vistas; 3,124 reposts). Es una acusación suya; no está confirmada",
+    "Video corto con dato histórico y pregunta sobre una institución: @Claudiashein (89,771 vistas; 912 respuestas)",
+    "Pregunta con juego de palabras (“¿Estado de derecho? ¿O Estado de chueco?”) y cierre que invita a comentar: @RicardoBSalinas (27,806 vistas; 1,221 likes)",
+    "Serie del mismo tema en el mismo día: 6 originales de @JorgeRoHe sobre el INE (13,609 a 20,573 vistas cada una) y 4 de @alitomorenoc"
+  ],
+  "no_hits": [
+    {
+      "handle": "@acostanaranjo",
+      "reason": "Sin posts originales en las últimas 24 h.",
+      "max_views": 0
     }
+  ],
+  "previous_day": {
+    "hits_count": 26,
+    "total_views": 1742870
   },
-  "rivales": {
-    "fecha": "2026-11-05 (06:00)",
-    "nota_base": "Comparado contra data/rivales_state.json del 2026-11-04 (06:00). Solo se reporta lo que cambió desde entonces (4 y 5 de noviembre).",
-    "fuentes": "Búsqueda web en medios de referencia (El Universal, La Jornada, El Financiero, Infobae, Expansión, Quadratín, El Economista) y publicaciones propias de cada cuenta en X (la búsqueda de noticias de X devolvió notas en inglés sin relación con México y se descartó). Solo se anota lo confirmado por un medio; las acusaciones de unos contra otros se marcan como dichos de la fuente, no como hechos.",
-    "contexto": "Tema que cruza a varios: la designación de la presidencia del INE tras la salida de Guadalupe Taddei (denuncia penal de @alitomorenoc ante la FGR, #UnINELibre de @JorgeRoHe y el video de @Claudiashein sobre contratos de materiales electorales) y, aparte, las compras a sobreprecio que @LillyTellez denunció en el Senado.",
-    "rivales": [
-      {
-        "nombre": "Claudia Sheinbaum",
-        "handle": "@Claudiashein",
-        "novedades": [
-          {
-            "texto": "4 nov, conferencia matutina: dijo que dos empresas concentraron durante más de 20 años la producción de urnas, mamparas y otros materiales electorales del INE, cuestionó a Lorenzo Córdova por no haberlo impedido y pidió a la ASF revisar las contrataciones. Es un señalamiento suyo; no hay conclusión de la ASF.",
-            "url": "https://www.eluniversal.com.mx/nacion/lorenzo-cordova-no-hizo-nada-contra-duopolio-en-el-ine-acusa-sheinbaum-pide-a-la-asf-revisar-contrataciones/"
-          },
-          {
-            "texto": "Cobertura adicional de la misma conferencia (Aristegui Noticias).",
-            "url": "https://aristeguinoticias.com/0411/mexico/sheinbaum-pide-a-asf-rastrear-contratos-del-ine-de-dos-decadas/"
-          },
-          {
-            "texto": "En X: su video sobre ese tema llegó a 89,771 vistas, 2,907 likes, 1,147 reposts y 912 respuestas; el aviso del Plan Michoacán subió de 57,162 a 71,196 vistas.",
-            "url": "https://x.com/Claudiashein/status/2118162184954155167"
-          }
-        ],
-        "nota": "Cambio de agenda: pasa de la disputa por la elección de 2006 (Fox) al INE y sus contratos."
-      },
-      {
-        "nombre": "Omar García Harfuch",
-        "handle": "@OHarfuch",
-        "novedades": [
-          {
-            "texto": "4 nov: cateo en la alcaldía Miguel Hidalgo, Ciudad de México, con detención de Bojun “N”, “El Chino”, presunto líder de una red de lavado de dinero, y más de 43 millones de pesos en efectivo asegurados (comunicado conjunto de la SSC de la Ciudad de México; también lo reportan El Economista y La Jornada). Su publicación con fotos: 140,636 vistas, el #2 de la ventana (ayer por la tarde iba en 70,334).",
-            "url": "https://ssc.cdmx.gob.mx/comunicacion/nota/CC60-04-11-2026"
-          },
-          {
-            "texto": "5 nov, en su cuenta: informó 38 operaciones simultáneas en el Estado de México con 32 detenidos y cerca de 178 mil litros de gas LP asegurados (3,776 vistas al corte). Aún no encontré confirmación en un medio; es un dato de su publicación.",
-            "url": "https://x.com/OHarfuch/status/2118303397728174358"
-          }
-        ],
-        "nota": "Seguridad sigue siendo su tema; su mejor publicación pasó de 56,683 (ed. anterior) a 140,636 vistas."
-      },
-      {
-        "nombre": "Marcelo Ebrard",
-        "handle": "@m_ebrard",
-        "novedades": [
-          {
-            "texto": "4 nov: la visita a Yucatán anunciada se cumplió: inauguró el InnovaFest 2026 en Mérida con el gobernador Joaquín Díaz Mena, habló de la innovación como clave para el futuro de México y anunció 5 mil becas de capacitación tecnológica en Arizona (Quadratín, Mérida Digital, POSTA). En X tuvo 3 publicaciones con 5,000+ vistas (9,588; 8,108 y 5,770); ninguna pasó de 10,000.",
-            "url": "https://yucatan.quadratin.com.mx/yucatan/junto-con-marcelo-ebrard-joaquin-diaz-mena-inaugura-el-innovafest-2026/"
-          }
-        ],
-        "nota": "Sin anuncios nuevos de política; solo cumplió la agenda ya reportada."
-      },
-      {
-        "nombre": "Lilly Téllez",
-        "handle": "@LillyTellez",
-        "novedades": [
-          {
-            "texto": "4 nov: en el pleno del Senado acusó a la presidenta de Morena, Ariadna Montiel, de compras a sobreprecio en la Secretaría del Bienestar (13 contratos por 190 millones de pesos; ejemplo: una caja de té de manzanilla de unos 70 pesos comprada en 190). Lo reporta TV Azteca (parte interesada: pertenece al grupo de Ricardo Salinas Pliego); es su acusación, no un hecho confirmado.",
-            "url": "https://www.tvazteca.com/aztecanoticias/lilly-tellez-se-lanza-ariadna-montiel-y-la-exhibe-por-comprar-productos-a-precios/"
-          },
-          {
-            "texto": "En X: el video del té de manzanilla llegó a 84,722 vistas y 3,124 reposts; su iniciativa de vales para medicamentos en farmacias privadas, 26,576 vistas.",
-            "url": "https://x.com/LillyTellez/status/2118082345991557363"
-          }
-        ],
-        "nota": "Cambio de tema: de Andy López Beltrán (nariz de Pinocho) a compras públicas."
-      },
-      {
-        "nombre": "Maru Campos",
-        "handle": "@MaruCampos_G",
-        "novedades": [],
-        "nota": "Sin novedades confirmadas desde la edición anterior (la posible alianza PAN-PRI sigue abierta; el exhorto para que pidiera licencia por el caso El Pinal se desechó el 3 nov, antes de la edición anterior). En X: una publicación con 10,242 vistas."
-      },
-      {
-        "nombre": "Alejandro (Alito) Moreno",
-        "handle": "@alitomorenoc",
-        "novedades": [
-          {
-            "texto": "4 nov: presentó ante la FGR una denuncia penal contra Guadalupe Taddei y otras personas por presuntos delitos de cohecho, tráfico de influencias y asociación delictuosa, y dijo que acudirá a instancias internacionales. Es una denuncia; no hay conclusión de la fiscalía (El Universal, Infobae, El País).",
-            "url": "https://www.infobae.com/mexico/2026/11/04/alito-moreno-presenta-ante-la-fgr-denuncia-contra-guadalupe-taddei-y-advierte-que-ira-a-organismos-internacionales/"
-          },
-          {
-            "texto": "En X: su mejor publicación subió de 9,708 a 20,782 vistas; la denuncia tuvo 14,727 y otra con el hashtag #TaddeiEsMORENA, 12,130 (3 de sus originales pasaron de 10,000).",
-            "url": "https://x.com/alitomorenoc/status/2118101546311307579"
-          }
-        ],
-        "nota": "Cambio: de Andy López Beltrán al INE y a Taddei."
-      },
-      {
-        "nombre": "Jorge Romero",
-        "handle": "@JorgeRoHe",
-        "novedades": [
-          {
-            "texto": "4 nov: encabezó frente al INE la conferencia #UnINELibre: exigió que la nueva presidencia sea ciudadana, apartidista y transparente, propuso un comité evaluador de expertos y universidades, y advirtió movilizaciones si se impone un perfil cercano a Morena (Expansión, 24 Horas, El Heraldo de México). En X publicó 6 originales sobre el tema (entre 13,609 y 20,573 vistas).",
-            "url": "https://politica.expansion.mx/mexico/2026/11/04/pan-exige-ine-sin-morena-relevo-guadalupe-taddei"
-          }
-        ],
-        "nota": "Misma línea que la edición anterior, pero con más volumen: de 4 a 6 originales sobre el INE con 5,000+ vistas."
-      },
-      {
-        "nombre": "Samuel García",
-        "handle": "@samuel_garcias",
-        "novedades": [
-          {
-            "texto": "4 nov: la Presa León entró a operar en el sistema de agua de Nuevo León (su video: 23,061 vistas; otro sobre el trasvase, 12,984; uno más, 12,077; un puente, 10,113).",
-            "url": "https://x.com/samuel_garcias/status/2118092903222476928"
-          },
-          {
-            "texto": "Contexto: @RicardoBSalinas lo acusó el 4 nov de desvíos y triangulación de más de 6,000 millones de pesos; la ASF presentó en octubre una denuncia por 7,212 millones en operaciones presuntamente trianguladas y el gobernador lo ha negado. No encontré una respuesta suya nueva a esa publicación; es una acusación, no un hecho confirmado.",
-            "url": "https://x.com/RicardoBSalinas/status/2118021544467378610"
-          }
-        ],
-        "nota": "Su mejor publicación bajó de 136,408 a 23,061 vistas."
-      },
-      {
-        "nombre": "Guadalupe Acosta Naranjo",
-        "handle": "@acostanaranjo",
-        "novedades": [],
-        "nota": "Sin novedades confirmadas ni originales en X en la ventana."
-      }
-    ]
-  },
+  "hits": [
+    {
+      "handle": "@RicardoBSalinas",
+      "text": "Samuel García, el de la “nueva política”, también es el nuevo corrupto. \n\nMás de 6,000 millones de pesos desviados y triangulados con el método fosfo facturero. \n\nAhí acaba el dinero de las y los mexicanos, en manos de puro ladrón que más que gobernar saben robar. Y, obvio, MORENA los encubre. \n\nSe sabía que era facturero y aún así hicieron OTRO pacto de impunidad. Ahora lo amenazan para que les entregue Nuevo León.  \n\nPonte vivo, ponte León; que puro facturero anda gobernando en  Nuevo León",
+      "views": 1229873,
+      "url": "https://x.com/RicardoBSalinas/status/2118021544467378610",
+      "created_local": "2026-11-04 10:44",
+      "category": "Seguridad"
+    },
+    {
+      "handle": "@OHarfuch",
+      "text": "Personal de @SEMAR_mx, @SSPCMexico y @FGRMexico aseguró más de 43 millones de pesos en efectivo, entre moneda nacional y dólares, durante un cateo en la alcaldía Miguel Hidalgo, Ciudad de México.\n\nEn esta acción fue detenido Bojun “N”, identificado como presunto líder de una red de lavado de dinero al servicio de una organización criminal y relacionado con extorsiones a comerciantes y tráfico de personas. También se aseguraron droga, cartuchos, vehículos y documentación relacionada con la investigación.\n\nAgradecemos el apoyo y la colaboración de las autoridades de la Ciudad de México y de @SSC_CDMX.\n\nLas investigaciones sobre esta célula delictiva continúan. Seguiremos investigando las estructuras financieras de las organizaciones criminales para quitarles capacidad de operación y combatir la extorsión y la violencia que dañan a las familias.",
+      "views": 140636,
+      "url": "https://x.com/OHarfuch/status/2118074349064483033",
+      "created_local": "2026-11-04 14:14",
+      "draft_en": "Una meta, una cifra, una fecha. Escribe cuánto quieres ahorrar, vender o avanzar este mes y para cuándo: lo que se mide, mejora. La constancia diaria hace lo demás. ¿Cuál es tu cifra de este mes? Cuéntamela abajo. 💪🇲🇽",
+      "draft_keywords": [
+        "meta",
+        "cifra",
+        "constancia",
+        "negocios"
+      ],
+      "video_tip": "Carrusel de 3 fotos verticales o video de 12 s: una libreta con una meta escrita a mano (“Mi cifra del mes”), una taza de café y un calendario con la fecha límite circulada. Rótulos: “Una meta · Una cifra · Una fecha”. Cierra con la pregunta en pantalla; sin personas públicas ni referencias a gobiernos.",
+      "category": "Corrupción y justicia"
+    },
+    {
+      "handle": "@Claudiashein",
+      "text": "En el INE, dos grupos empresariales acapararon la producción de materiales electorales por más de 20 años. Además, los consejeros concentraron el poder para nombrar a representantes estatales tras la reforma de 2014. Esto, a partir del Pacto por México que incluyó a todos los partidos políticos; nuestro movimiento aún no existía como partido. \n\nEs importante investigar los periodos anteriores para entender cómo adquirió fuerza el duopolio y acabar con la corrupción; la Auditoría Superior de la Federación continúa las revisiones.",
+      "views": 89771,
+      "url": "https://x.com/Claudiashein/status/2118162184954155167",
+      "created_local": "2026-11-04 20:03",
+      "draft_en": "Cuando pocos ganan siempre, pierde el ciudadano. La competencia abierta es buena para los negocios y para la libertad: más opciones, mejores precios y más calidad. Un contrato o un proveedor deberían ganarse cada vez, no heredarse. ¿Cuántas opciones comparas tú antes de elegir? Respóndeme en un número. 💪🇲🇽",
+      "draft_keywords": [
+        "competencia",
+        "proveedores",
+        "ciudadanos",
+        "libertad"
+      ],
+      "video_tip": "Video vertical de 18 s: una mesa con dos cajas de colores y, una por una, aparecen otras cajas que se suman; rótulos cortos: “Una opción” · “Dos opciones” · “Muchas opciones”. Cierra con la pregunta en pantalla y pide la respuesta en una palabra; sin personas públicas, partidos ni logotipos.",
+      "category": "Elecciones e INE"
+    },
+    {
+      "handle": "@LillyTellez",
+      "text": "Té de manzanilla de 70 pesos a 190 pesos 😱\nVean aquí lo que @A_MontielR compró a precios inflados.\n¿Dónde está el dinero? https://t.co/4rHTOTwu5M",
+      "views": 84722,
+      "url": "https://x.com/LillyTellez/status/2118082345991557363",
+      "created_local": "2026-11-04 14:45",
+      "draft_en": "Compara antes de pagar: un mismo producto puede costar mucho menos en la tienda de al lado. Mirar la etiqueta, pedir la factura y preguntar por qué cuesta lo que cuesta es un derecho de todos, y también la mejor escuela para los negocios. Quien compara, no se deja. ¿Qué fue lo último que comparaste antes de comprar? 🇲🇽",
+      "draft_keywords": [
+        "precio justo",
+        "comparar",
+        "factura",
+        "libertad"
+      ],
+      "video_tip": "Video vertical de 15 s en una tienda: una mano compara dos etiquetas de precio del mismo producto con una lupa, aparecen tres rótulos grandes (“Compara” · “Pide la factura” · “Pregunta por qué”) y cierra con la pregunta en pantalla. Sin personas públicas, marcas, partidos ni logotipos de gobierno.",
+      "category": "Economía y empleo"
+    },
+    {
+      "handle": "@Claudiashein",
+      "text": "Cumplimos nuestros compromisos; hoy informamos avances del Plan Michoacán por la paz y la justicia. https://t.co/gpqrrxzX3z",
+      "views": 71196,
+      "url": "https://x.com/Claudiashein/status/2117974727591342462",
+      "created_local": "2026-11-04 07:38",
+      "category": "Otros"
+    },
+    {
+      "handle": "@RicardoBSalinas",
+      "text": "¿Estado de derecho? ¿O Estado de chueco?\n\nPorque si las leyes, como la #LeyAntiMemes, las escriben políticos que llegaron al poder con el apoyo del crimen organizado, no estamos ante justicia. Estamos ante un sometimiento del sistema político que legisla leyes que los favorecen a ellos y a sus socios. Y un pacto con criminales no es legalidad, es complicitad disfrazada de ley.\n\n¿Ustedes qué opinan? Los leo en los comentarios. 😌",
+      "views": 27806,
+      "url": "https://x.com/RicardoBSalinas/status/2118206338723705032",
+      "created_local": "2026-11-04 22:58",
+      "category": "Seguridad"
+    },
+    {
+      "handle": "@LillyTellez",
+      "text": "Presento iniciativa para garantizar medicamentos en el sector público de salud: si las unidades médicas públicas no cuentan con ellos, el Estado deberá entregar un vale para obtenerlos gratuitamente en farmacias privadas: \nhttps://t.co/ewLsUTGzeq",
+      "views": 26576,
+      "url": "https://x.com/LillyTellez/status/2118019601518747754",
+      "created_local": "2026-11-04 10:36",
+      "category": "Otros"
+    },
+    {
+      "handle": "@samuel_garcias",
+      "text": "HOY LA NUEVA PRESA LEÓN COMIENZA A DAR AGUA PARA NUEVO LEÓN\n\nConstruimos esta presa para aprovechar cada gota de lluvia, y aumentamos la capacidad de nuestro estado con la cortina más larga del continente. Hoy ya está a la mitad de su llenado, y la conectamos con el Acueducto Linares para que abastezca de agua la ciudad. LO NUEVO CUMPLE.",
+      "views": 23061,
+      "url": "https://x.com/samuel_garcias/status/2118092903222476928",
+      "created_local": "2026-11-04 15:27",
+      "category": "Otros"
+    },
+    {
+      "handle": "@alitomorenoc",
+      "text": "¡Es una vergüenza para México que @fernandeznorona haya sido nombrado Presidente de la Comisión de Relaciones Exteriores, América Latina y el Caribe del @senadomexicano! \n\nMORENA entrega una responsabilidad de enorme importancia a un personaje impresentable, cuestionado por sus actitudes violentas hacia las mujeres, su prepotencia y su trato autoritario hacia los ciudadanos.\n\n¡Noroña representa lo peor de la política mexicana! Un personaje soberbio, intolerante y profundamente cuestionado. ¡Un apestado político al que ni en su propio partido soportan! Imagínense nada más a este sujeto encabezando una Comisión que representa al Senado en asuntos internacionales. ¿Qué conocimientos tiene de política exterior? ¿Qué experiencia diplomática puede acreditar? ¿Con qué autoridad pretende hablar en nombre de una institución que representa la pluralidad de los mexicanos?\n\n¡Este nombramiento manda un mensaje terrible al mundo! ¿Qué política exterior pretende impulsar MORENA en América Latina y el Caribe? ¿Una subordinada a sus afinidades ideológicas corruptas y dictatoriales? ¡Son una bola de idiotas! La diplomacia mexicana exige preparación, seriedad y capacidad de diálogo. ¡México merece una explicación sobre los criterios que llevaron a semejante designación!",
+      "views": 20782,
+      "url": "https://x.com/alitomorenoc/status/2118101546311307579",
+      "created_local": "2026-11-04 16:02",
+      "category": "Gobierno y políticas públicas"
+    },
+    {
+      "handle": "@JorgeRoHe",
+      "text": "🔵 EN VIVO |Conferencia de prensa\n\nSigue la conferencia de prensa desde el INE, con la participación de senadores y diputados federales de Acción Nacional, donde abordaremos temas importantes para nuestra democracia.\n\n¡Acompáñanos!\n🔗 https://t.co/6eyX2JkbU4",
+      "views": 20573,
+      "url": "https://x.com/JorgeRoHe/status/2118006198410854498",
+      "created_local": "2026-11-04 09:43",
+      "category": "Elecciones e INE"
+    },
+    {
+      "handle": "@JorgeRoHe",
+      "text": "El PAN no permitirá que la presidencia del @INEMexico sea producto de una imposición. Su designación no puede ser una simulación ni una decisión de partido.\n\nExigimos un proceso transparente, con participación de la sociedad civil y de instituciones de prestigio, para garantizar un árbitro electoral autónomo y confiable rumbo al próximo proceso electoral.\n\n#UnINELibre #INESinMorena",
+      "views": 17288,
+      "url": "https://x.com/JorgeRoHe/status/2118072893540360290",
+      "created_local": "2026-11-04 14:08",
+      "category": "Elecciones e INE"
+    },
+    {
+      "handle": "@JorgeRoHe",
+      "text": "La defensa de nuestra democracia exige un @INEMexico independiente: #UnINELibre.\n\nPor eso, quien encabece esta institución debe ser garante de autonomía, sin afiliación partidista.\n\nDesde @AccionNacional seguiremos luchando por un árbitro electoral imparcial y elecciones libres. ¡México exige un #INESinMorena!\n\n#DefendamosMéxico",
+      "views": 15358,
+      "url": "https://x.com/JorgeRoHe/status/2118028474048721406",
+      "created_local": "2026-11-04 11:11",
+      "category": "Elecciones e INE"
+    },
+    {
+      "handle": "@JorgeRoHe",
+      "text": "La autonomía del @INEMexico NO es negociable. \n\nExigimos que la presidencia del instituto esté ocupada por un perfil ciudadano real: sin ataduras, cuotas ni colores partidistas.\n\nLa democracia pertenece a los ciudadanos, no a un partido.\n\n#INEsinMORENA #UnINELibre https://t.co/X6WRQsX9IH",
+      "views": 14910,
+      "url": "https://x.com/JorgeRoHe/status/2118166797501301187",
+      "created_local": "2026-11-04 20:21",
+      "category": "Elecciones e INE"
+    },
+    {
+      "handle": "@alitomorenoc",
+      "text": "Presentamos ante la @FGRMexico una DENUNCIA PENAL contra Guadalupe Taddei Zavala, José Alfredo Hernández Casillas, Carlos Daniel Luna Rosas, Guillermo Rafael Santiago Rodríguez y demás involucrados, por presuntos delitos de cohecho, tráfico de influencias, asociación delictuosa, entre otros. ¡Exigimos que se investigue la red criminal que operaba al interior del @INEMexico!\n\n¡Es una vergüenza que existan señalamientos de esta gravedad en el órgano encargado de cuidar nuestras elecciones! No vamos a permitir que se pisotee la democracia ni que el poder político sirva de escudo para la corrupción. Que la Fiscalía investigue hasta el fondo, sin proteger a nadie. ¡Que caiga quien tenga que caer y que todo el peso de la ley alcance a los responsables!\n\n#TaddeiEsMORENA",
+      "views": 14727,
+      "url": "https://x.com/alitomorenoc/status/2118046625138704821",
+      "created_local": "2026-11-04 12:24",
+      "category": "Elecciones e INE"
+    },
+    {
+      "handle": "@JorgeRoHe",
+      "text": "En @AccionNacional proponemos que sean ciudadanos, universidades y sociedad civil quienes conformen el comité técnico que elegirá la nueva presidencia del @INEMexico.\n\nHacemos un llamado a todos los mexicanos que creen en la democracia. México merece un árbitro que no sea títere del poder: #INESinMorena.\n\n¡Exigimos #UnINELibre!",
+      "views": 13799,
+      "url": "https://x.com/JorgeRoHe/status/2118035482768720286",
+      "created_local": "2026-11-04 11:39",
+      "category": "Elecciones e INE"
+    },
+    {
+      "handle": "@JorgeRoHe",
+      "text": "Hoy, desde el @INEMexico, acompañado de legisladores de @AccionNacional, alzamos la voz por #UnINELibre.\n\nExigimos que quien llegue a presidir esta institución sea una persona ciudadana, independiente y sin afinidad partidista.\n\nDesde el PAN seguiremos defendiendo un #INESinMorena. México merece elecciones libres y que la voluntad ciudadana se respete.\n\n#DefendamosMéxico",
+      "views": 13609,
+      "url": "https://x.com/JorgeRoHe/status/2118017072655425751",
+      "created_local": "2026-11-04 10:26",
+      "category": "Elecciones e INE"
+    },
+    {
+      "handle": "@samuel_garcias",
+      "text": "De nuevo solicitamos que este año NO HAYA TRASVASE. Gracias a que reconstruimos nuestro sistema hídrico y a las lluvias, tenemos nuestras presas llenas y toda esa agua se necesita para abastecer a Nuevo León. Escucha y comparte este mensaje. https://t.co/diXdITOaKv",
+      "views": 12984,
+      "url": "https://x.com/samuel_garcias/status/2118121728538968235",
+      "created_local": "2026-11-04 17:22",
+      "category": "Motivación y liderazgo"
+    },
+    {
+      "handle": "@alitomorenoc",
+      "text": "¡Taddei es MORENA! MORENA impulsó su llegada a la presidencia del @INEMexico y hoy tiene que dar la cara ante los gravísimos señalamientos sobre irregularidades en los contratos del organismo. ¡Que se investigue a fondo y que nadie pretenda proteger a quienes resulten responsables!\n\n¡MORENA tiene una responsabilidad política que no puede evadir! ¡El @INEMexico pertenece a los mexicanos, no al partido en el poder!\n\n#TaddeiEsMORENA",
+      "views": 12130,
+      "url": "https://x.com/alitomorenoc/status/2118060788095037770",
+      "created_local": "2026-11-04 13:20",
+      "category": "Elecciones e INE"
+    },
+    {
+      "handle": "@samuel_garcias",
+      "text": "Que orgullo CALIFORNIA.\nMi amigo Xavier Becerra gobernador de California Republic. Ex secretario de Salud de EEUU\nMadre tapatía y padre de Tijuana 🇲🇽👊🇺🇸\nEvento invitados por Clinton https://t.co/Ed7JijbfzJ",
+      "views": 12077,
+      "url": "https://x.com/samuel_garcias/status/2117969650751353168",
+      "created_local": "2026-11-04 07:18",
+      "category": "Gobierno y políticas públicas"
+    },
+    {
+      "handle": "@MaruCampos_G",
+      "text": "Después de la jornada electoral de ayer en Estados Unidos, quiero reconocer a quienes encabezarán los estados fronterizos con nuestro país: @DebHaalandNM, en Nuevo México, nuestro vecino, primera mujer nativa americana electa gobernadora en la Unión Americana; @GinaHinojosaTX, que hace historia como la primera mujer latina en gobernar Texas; @XavierBecerra, primer latino electo gobernador de California, orgullo para millones de mexicanos de ambos lados de la frontera; y @GovernorHobbs, reelecta por un segundo periodo en Arizona.\n\nDesde Chihuahua, les envío mi más sincera y calurosa felicitación. Me dará mucho gusto colaborar con ellas y con él en todo lo que une a nuestra frontera y abone al bienestar, la prosperidad y la seguridad de nuestros pueblos, en particular de nuestras comunidades transfronterizas.",
+      "views": 10242,
+      "url": "https://x.com/MaruCampos_G/status/2118041877358248087",
+      "created_local": "2026-11-04 12:05",
+      "category": "Elecciones e INE"
+    },
+    {
+      "handle": "@samuel_garcias",
+      "text": "El nuevo Puente La Virgen ya está casi listo; a partir de este mes todo Nuevo León podrá conocerlo y usarlo. Y el próximo 12 de diciembre celebremos a la Virgen de Guadalupe desde este nuevo espacio. ¡Ánimo! 🦁👊🏻 https://t.co/Q4Rybr9Lsf",
+      "views": 10113,
+      "url": "https://x.com/samuel_garcias/status/2118043905694617995",
+      "created_local": "2026-11-04 12:13",
+      "category": "Otros"
+    },
+    {
+      "handle": "@m_ebrard",
+      "text": "Todo listo para InnovaFest Mérida , 5000 participantes entre emprendedores , inventoras , científicas, universidades, empresas , investigadores, estudiantes y fondos de inversión. Construyendo futuro para Yucatán !! https://t.co/0dZnvhdLjp",
+      "views": 9588,
+      "url": "https://x.com/m_ebrard/status/2117983701552480417",
+      "created_local": "2026-11-04 08:13",
+      "category": "Corrupción y justicia"
+    },
+    {
+      "handle": "@m_ebrard",
+      "text": "InnovaFest Mérida https://t.co/rBwseTVkux",
+      "views": 8108,
+      "url": "https://x.com/m_ebrard/status/2118070060904329228",
+      "created_local": "2026-11-04 13:57",
+      "category": "Otros"
+    },
+    {
+      "handle": "@alitomorenoc",
+      "text": "El PRI de Campeche, junto con el ONMPRI, impulsa la capacitación y el liderazgo de las mujeres, brindándoles herramientas para participar activamente en la política y asumir mayores responsabilidades.\n\n¡Queremos más mujeres preparadas, participando y tomando decisiones para construir un mejor Campeche!",
+      "views": 6488,
+      "url": "https://x.com/alitomorenoc/status/2118092625701916728",
+      "created_local": "2026-11-04 15:26",
+      "category": "Gobierno y políticas públicas"
+    },
+    {
+      "handle": "@m_ebrard",
+      "text": "Gracias Yucatán , InnovaFest  Mérida un gran éxito !! https://t.co/SZ8BBXppJ1",
+      "views": 5770,
+      "url": "https://x.com/m_ebrard/status/2118192418105196613",
+      "created_local": "2026-11-04 22:03",
+      "category": "Motivación y liderazgo"
+    }
+  ],
   "leaderboards": {
-    "as_of": "2026-11-04",
+    "as_of": "2026-11-05",
     "tracking_start": "2026-10-26",
     "days_included": [
-      "2026-10-29",
       "2026-10-30",
       "2026-10-31",
       "2026-11-01",
       "2026-11-02",
       "2026-11-03",
-      "2026-11-04"
+      "2026-11-04",
+      "2026-11-05"
     ],
     "month_days_included": [
       "2026-11-01",
       "2026-11-02",
       "2026-11-03",
-      "2026-11-04"
+      "2026-11-04",
+      "2026-11-05"
     ],
     "week": {
       "label": "Semana",
       "range": [
-        "2026-10-29",
-        "2026-11-04"
+        "2026-10-30",
+        "2026-11-05"
       ],
       "entries": [
         {
           "handle": "@ricardobsalinas",
           "name": "Ricardo B. Salinas",
-          "hits": 18,
+          "hits": 17,
           "days": 6,
-          "views": 2101705,
+          "views": 1991414,
           "best": 806033,
           "best_url": "https://x.com/RicardoBSalinas/status/2118021544467378610"
         },
         {
           "handle": "@Claudiashein",
           "name": "Claudia Sheinbaum Pardo",
-          "hits": 21,
+          "hits": 19,
           "days": 7,
-          "views": 1670215,
-          "best": 277068,
-          "best_url": "https://x.com/Claudiashein/status/2115647058417693113"
+          "views": 1364893,
+          "best": 202444,
+          "best_url": "https://x.com/Claudiashein/status/2117778430192439717"
         },
         {
           "handle": "@samuel_garcias",
           "name": "Samuel García",
-          "hits": 32,
+          "hits": 30,
           "days": 6,
-          "views": 491316,
+          "views": 483430,
           "best": 109340,
           "best_url": "https://x.com/samuel_garcias/status/2117446693444571350"
         },
         {
           "handle": "@JorgeRoHe",
           "name": "Jorge Romero Herrera",
-          "hits": 23,
+          "hits": 21,
           "days": 7,
-          "views": 373964,
+          "views": 337172,
           "best": 26464,
           "best_url": "https://x.com/JorgeRoHe/status/2116215707603972434"
         },
         {
           "handle": "@LillyTellez",
           "name": "Lilly Téllez",
-          "hits": 13,
-          "days": 6,
-          "views": 309472,
+          "hits": 11,
+          "days": 5,
+          "views": 296646,
           "best": 132676,
           "best_url": "https://x.com/LillyTellez/status/2117808868583510208"
         },
         {
           "handle": "@alitomorenoc",
           "name": "Alejandro Moreno",
-          "hits": 16,
+          "hits": 15,
           "days": 6,
-          "views": 252521,
+          "views": 236861,
           "best": 62409,
           "best_url": "https://x.com/alitomorenoc/status/2117029935952826663"
         },
         {
           "handle": "@m_ebrard",
           "name": "Marcelo Ebrard C.",
-          "hits": 11,
+          "hits": 10,
           "days": 4,
-          "views": 205687,
+          "views": 170516,
           "best": 77710,
           "best_url": "https://x.com/m_ebrard/status/2116365958050976209"
         },
         {
-          "handle": "@acostanaranjo",
-          "name": "Guadalupe Acosta Naranjo",
-          "hits": 5,
-          "days": 4,
-          "views": 189288,
-          "best": 117728,
-          "best_url": "https://x.com/acostanaranjo/status/2115696769564868961"
-        },
-        {
           "handle": "@OHarfuch",
           "name": "Omar H Garcia Harfuch",
-          "hits": 6,
-          "days": 4,
-          "views": 177848,
+          "hits": 5,
+          "days": 3,
+          "views": 132267,
           "best": 70334,
           "best_url": "https://x.com/OHarfuch/status/2118074349064483033"
+        },
+        {
+          "handle": "@acostanaranjo",
+          "name": "Guadalupe Acosta Naranjo",
+          "hits": 3,
+          "days": 3,
+          "views": 61932,
+          "best": 46524,
+          "best_url": "https://x.com/acostanaranjo/status/2116949904975138908"
         },
         {
           "handle": "@MaruCampos_G",
@@ -2052,35 +395,44 @@
       "label": "Mes",
       "range": [
         "2026-11-01",
-        "2026-11-04"
+        "2026-11-05"
       ],
       "entries": [
         {
           "handle": "@ricardobsalinas",
           "name": "Ricardo B. Salinas",
-          "hits": 13,
-          "days": 4,
-          "views": 1889817,
+          "hits": 14,
+          "days": 5,
+          "views": 1917623,
           "best": 806033,
           "best_url": "https://x.com/RicardoBSalinas/status/2118021544467378610"
         },
         {
           "handle": "@Claudiashein",
           "name": "Claudia Sheinbaum Pardo",
-          "hits": 10,
-          "days": 4,
-          "views": 873693,
+          "hits": 11,
+          "days": 5,
+          "views": 963464,
           "best": 202444,
           "best_url": "https://x.com/Claudiashein/status/2117778430192439717"
         },
         {
           "handle": "@samuel_garcias",
           "name": "Samuel García",
-          "hits": 26,
-          "days": 4,
-          "views": 441286,
+          "hits": 27,
+          "days": 5,
+          "views": 454270,
           "best": 109340,
           "best_url": "https://x.com/samuel_garcias/status/2117446693444571350"
+        },
+        {
+          "handle": "@JorgeRoHe",
+          "name": "Jorge Romero Herrera",
+          "hits": 14,
+          "days": 5,
+          "views": 216418,
+          "best": 19821,
+          "best_url": "https://x.com/JorgeRoHe/status/2118006198410854498"
         },
         {
           "handle": "@LillyTellez",
@@ -2092,20 +444,11 @@
           "best_url": "https://x.com/LillyTellez/status/2117808868583510208"
         },
         {
-          "handle": "@JorgeRoHe",
-          "name": "Jorge Romero Herrera",
-          "hits": 13,
-          "days": 4,
-          "views": 201508,
-          "best": 19821,
-          "best_url": "https://x.com/JorgeRoHe/status/2118006198410854498"
-        },
-        {
           "handle": "@alitomorenoc",
           "name": "Alejandro Moreno",
-          "hits": 5,
-          "days": 3,
-          "views": 119904,
+          "hits": 8,
+          "days": 4,
+          "views": 159304,
           "best": 62409,
           "best_url": "https://x.com/alitomorenoc/status/2117029935952826663"
         },
@@ -2128,6 +471,15 @@
           "best_url": "https://x.com/acostanaranjo/status/2116949904975138908"
         },
         {
+          "handle": "@m_ebrard",
+          "name": "Marcelo Ebrard C.",
+          "hits": 3,
+          "days": 2,
+          "views": 19469,
+          "best": 8133,
+          "best_url": "https://x.com/m_ebrard/status/2117983701552480417"
+        },
+        {
           "handle": "@MaruCampos_G",
           "name": "Maru Campos",
           "hits": 2,
@@ -2135,17 +487,17 @@
           "views": 13779,
           "best": 6947,
           "best_url": "https://x.com/MaruCampos_G/status/2116637382007005581"
-        },
-        {
-          "handle": "@m_ebrard",
-          "name": "Marcelo Ebrard C.",
-          "hits": 2,
-          "days": 1,
-          "views": 13699,
-          "best": 8133,
-          "best_url": "https://x.com/m_ebrard/status/2117983701552480417"
         }
       ]
     }
+  },
+  "you_rank": {
+    "handle": "@RicardoBSalinas",
+    "best_views": 1229873,
+    "best_url": "https://x.com/RicardoBSalinas/status/2118021544467378610",
+    "total_views": 1257679,
+    "hits": 2,
+    "vs_5k": "done",
+    "vs_10k": "done"
   }
 }

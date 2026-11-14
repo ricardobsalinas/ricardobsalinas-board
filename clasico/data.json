@@ -34,63 +34,25 @@
   "virals_window": "últimas 24 h",
   "virals_target": 20,
   "timezone": "America/Mexico_City",
-  "title": "Digest de la mañana en X — 2026-11-14",
+  "title": "Digest de la tarde en X — 2026-11-14",
   "date": "2026-11-14",
-  "updated": "2026-11-14T06:01:38-06:00",
+  "updated": "2026-11-14T16:56:55-06:00",
   "hits": [
-    {
-      "id": "2121321132137615752",
-      "handle": "@LillyTellez",
-      "display_name": "Lilly Téllez",
-      "name": "Lilly Téllez",
-      "followers": 1128547,
-      "text": "Mi iniciativa para que Sheinbaum rinda cuentas a los mexicanos: https://t.co/s63tEFIOHp",
-      "original_en": "Mi iniciativa para que Sheinbaum rinda cuentas a los mexicanos: https://t.co/s63tEFIOHp",
-      "views": 295003,
-      "views_label": "295,003",
-      "likes": 1626,
-      "reposts": 562,
-      "replies": 156,
-      "quotes": 11,
-      "bookmarks": 26,
-      "url": "https://x.com/LillyTellez/status/2121321132137615752",
-      "status_url": "https://x.com/LillyTellez/status/2121321132137615752",
-      "created_local": "2026-11-13 13:15",
-      "created_at": "2026-11-13T19:15:44.000Z",
-      "posted_at": "2026-11-13T19:15:44.000Z",
-      "lang": "es",
-      "media": [
-        "video"
-      ],
-      "star": true,
-      "highlight": true,
-      "quote": false,
-      "draft_en": "El buen líder no le tiene miedo a las preguntas: rinde cuentas. En una empresa, el que da resultados abre los números y da la cara.\nLa confianza no se pide, se gana con hechos y con transparencia. ¿Qué le exiges tú a quien te dirige? 📊🇲🇽",
-      "video_tip": "Video vertical de 15 s: una junta donde alguien proyecta una gráfica y contesta preguntas, una pizarra con metas tachadas como cumplidas y un apretón de manos; rótulos \"Resultados\" · \"Transparencia\" · \"Confianza\". Cierra con la pregunta en pantalla. Sin personas públicas, partidos ni logotipos.",
-      "draft_keywords": [
-        "rendir cuentas",
-        "resultados",
-        "liderazgo",
-        "confianza"
-      ],
-      "top10_rank": 1,
-      "category": "Gobierno y políticas públicas"
-    },
     {
       "id": "2121418477357633663",
       "handle": "@RicardoBSalinas",
       "display_name": "Don Ricardo Salinas Pliego",
       "name": "Don Ricardo Salinas Pliego",
-      "followers": 2238619,
+      "followers": 2238708,
       "text": "Hay una bomba de tiempo en México y el gobierno no te la quiere explicar: las pensiones.\n\nDame dos minutos y te platico qué está pasando con tu dinero y con tu retiro, antes de que sea demasiado tarde.\n\nCompártelo. Tus amigos y tu familia merecen saber la verdad y hacer algo para que la irresponsabilidad y corrupción del gobierno de MORENA no los arruine más.",
       "original_en": "Hay una bomba de tiempo en México y el gobierno no te la quiere explicar: las pensiones.\n\nDame dos minutos y te platico qué está pasando con tu dinero y con tu retiro, antes de que sea demasiado tarde.\n\nCompártelo. Tus amigos y tu familia merecen saber la verdad y hacer algo para que la irresponsabilidad y corrupción del gobierno de MORENA no los arruine más.",
-      "views": 259857,
-      "views_label": "259,857",
-      "likes": 11146,
-      "reposts": 3765,
-      "replies": 542,
-      "quotes": 69,
-      "bookmarks": 1178,
+      "views": 433381,
+      "views_label": "433,381",
+      "likes": 16790,
+      "reposts": 6055,
+      "replies": 940,
+      "quotes": 108,
+      "bookmarks": 1778,
       "url": "https://x.com/RicardoBSalinas/status/2121418477357633663",
       "status_url": "https://x.com/RicardoBSalinas/status/2121418477357633663",
       "created_local": "2026-11-13 19:42",
@@ -103,39 +65,79 @@
       "star": true,
       "highlight": true,
       "quote": false,
-      "draft_en": "Tu retiro no se improvisa: se construye desde hoy. Nadie va a cuidar tu futuro mejor que tú.\nAhorra aunque sea poquito, infórmate a dónde va tu dinero y haz que tu trabajo de hoy te siga sirviendo mañana. La libertad empieza en tu cartera. ¿Ya sabes cuánto llevas ahorrado para tu retiro? 💼⏳",
-      "video_tip": "Video vertical de 20 s: un reloj de arena que se vacía, manos que meten monedas en una alcancía y una pareja mayor caminando tranquila; rótulos grandes \"Ahorra\" · \"Infórmate\" · \"Decide\". Cierra a cámara con la pregunta en pantalla. Sin personas públicas, partidos ni logotipos.",
+      "draft_en": "La conversación más importante de tu casa no es de futbol: es de dinero.\nHabla con tu familia de cuánto ganan, cuánto gastan y cuánto ahorran. Lo que no se platica, no se cuida. Un hijo que aprende a ahorrar hoy es un adulto libre mañana. Compártelo con quien más quieres. 👨‍👩‍👧💰",
+      "video_tip": "Video vertical de 20 s, formato \"dame 20 segundos\": una familia en la mesa con una libreta de gastos, un niño que mete monedas en una alcancía y el mismo gesto, años después, de un joven abriendo su cuenta de ahorro; rótulos \"Platica\" · \"Ahorra\" · \"Decide\". Cierra con \"Compártelo\" en pantalla. Sin personas públicas, partidos ni logotipos.",
       "draft_keywords": [
-        "retiro",
-        "ahorro",
-        "tu dinero",
-        "futuro"
+        "libertad financiera",
+        "habla de dinero",
+        "familia",
+        "compártelo"
       ],
-      "top10_rank": 2,
+      "top10_rank": 1,
       "category": "Corrupción y justicia"
     },
     {
-      "id": "2121238930964033738",
+      "id": "2121651510077763701",
+      "handle": "@LillyTellez",
+      "display_name": "Lilly Téllez",
+      "name": "Lilly Téllez",
+      "followers": 1128593,
+      "text": "¡Celebro mis 59 años feliz y agradecida con Dios por tanto amor! 🥰🥳🎉 https://t.co/r3mYYO8RDf",
+      "original_en": "¡Celebro mis 59 años feliz y agradecida con Dios por tanto amor! 🥰🥳🎉 https://t.co/r3mYYO8RDf",
+      "views": 63263,
+      "views_label": "63,263",
+      "likes": 5922,
+      "reposts": 599,
+      "replies": 843,
+      "quotes": 33,
+      "bookmarks": 44,
+      "url": "https://x.com/LillyTellez/status/2121651510077763701",
+      "status_url": "https://x.com/LillyTellez/status/2121651510077763701",
+      "created_local": "2026-11-14 11:08",
+      "created_at": "2026-11-14T17:08:33.000Z",
+      "posted_at": "2026-11-14T17:08:33.000Z",
+      "lang": null,
+      "media": [
+        "video"
+      ],
+      "star": true,
+      "highlight": true,
+      "quote": false,
+      "draft_en": "Cada año que cumples es un año más de experiencia, no un año menos de oportunidades.\nAgradece lo que tienes, aprende de lo que perdiste y ten el valor de seguir diciendo lo que piensas. La gratitud te mantiene con los pies en la tierra; la valentía te hace avanzar. 🙏🔥",
+      "video_tip": "Video vertical de 15 s: velas que se encienden una a una sobre una mesa sencilla, fotos de distintas etapas de la vida pasando rápido y un cierre a cámara con la frase \"Gratitud y valentía\" en pantalla. Música cálida, sin texto largo. Sin personas públicas, partidos ni logotipos.",
+      "draft_keywords": [
+        "gratitud",
+        "valentía",
+        "liderazgo",
+        "cumplir años"
+      ],
+      "top10_rank": 2,
+      "category": "Otros"
+    },
+    {
+      "id": "2121448892017332682",
       "handle": "@Claudiashein",
       "display_name": "Claudia Sheinbaum Pardo",
       "name": "Claudia Sheinbaum Pardo",
-      "followers": 5257077,
-      "text": "El Instituto para Devolver al Pueblo lo Robado entrega recursos para la construcción de un conservatorio en Tultepec, Estado de México. https://t.co/xC35jEwfO8",
-      "original_en": "El Instituto para Devolver al Pueblo lo Robado entrega recursos para la construcción de un conservatorio en Tultepec, Estado de México. https://t.co/xC35jEwfO8",
-      "views": 55514,
-      "views_label": "55,514",
-      "likes": 1237,
-      "reposts": 522,
-      "replies": 410,
-      "quotes": 80,
-      "bookmarks": 18,
-      "url": "https://x.com/Claudiashein/status/2121238930964033738",
-      "status_url": "https://x.com/Claudiashein/status/2121238930964033738",
-      "created_local": "2026-11-13 07:49",
-      "created_at": "2026-11-13T13:49:06.000Z",
-      "posted_at": "2026-11-13T13:49:06.000Z",
-      "lang": null,
-      "media": [],
+      "followers": 5257122,
+      "text": "Gira por Puebla este viernes 13 de noviembre. https://t.co/QlHltL0FPh",
+      "original_en": "Gira por Puebla este viernes 13 de noviembre. https://t.co/QlHltL0FPh",
+      "views": 58599,
+      "views_label": "58,599",
+      "likes": 2078,
+      "reposts": 611,
+      "replies": 296,
+      "quotes": 25,
+      "bookmarks": 40,
+      "url": "https://x.com/Claudiashein/status/2121448892017332682",
+      "status_url": "https://x.com/Claudiashein/status/2121448892017332682",
+      "created_local": "2026-11-13 21:43",
+      "created_at": "2026-11-14T03:43:25.000Z",
+      "posted_at": "2026-11-14T03:43:25.000Z",
+      "lang": "es",
+      "media": [
+        "video"
+      ],
       "star": true,
       "highlight": true,
       "quote": false,
@@ -147,16 +149,16 @@
       "handle": "@Claudiashein",
       "display_name": "Claudia Sheinbaum Pardo",
       "name": "Claudia Sheinbaum Pardo",
-      "followers": 5257077,
+      "followers": 5257122,
       "text": "El INDEP destinará 40 millones de pesos para la construcción de un conservatorio para la Orquesta de Cámara de Jóvenes de Tultepec. Los recursos recuperados de actos de corrupción se destinan al bienestar del pueblo de México. https://t.co/9W69xTddaR",
       "original_en": "El INDEP destinará 40 millones de pesos para la construcción de un conservatorio para la Orquesta de Cámara de Jóvenes de Tultepec. Los recursos recuperados de actos de corrupción se destinan al bienestar del pueblo de México. https://t.co/9W69xTddaR",
-      "views": 34903,
-      "views_label": "34,903",
-      "likes": 1069,
-      "reposts": 413,
-      "replies": 200,
-      "quotes": 22,
-      "bookmarks": 10,
+      "views": 43752,
+      "views_label": "43,752",
+      "likes": 1442,
+      "reposts": 566,
+      "replies": 255,
+      "quotes": 24,
+      "bookmarks": 17,
       "url": "https://x.com/Claudiashein/status/2121401273245216898",
       "status_url": "https://x.com/Claudiashein/status/2121401273245216898",
       "created_local": "2026-11-13 18:34",
@@ -173,55 +175,53 @@
       "category": "Corrupción y justicia"
     },
     {
-      "id": "2121448892017332682",
-      "handle": "@Claudiashein",
-      "display_name": "Claudia Sheinbaum Pardo",
-      "name": "Claudia Sheinbaum Pardo",
-      "followers": 5257077,
-      "text": "Gira por Puebla este viernes 13 de noviembre. https://t.co/QlHltL0FPh",
-      "original_en": "Gira por Puebla este viernes 13 de noviembre. https://t.co/QlHltL0FPh",
-      "views": 34096,
-      "views_label": "34,096",
-      "likes": 1177,
-      "reposts": 345,
-      "replies": 110,
-      "quotes": 13,
-      "bookmarks": 22,
-      "url": "https://x.com/Claudiashein/status/2121448892017332682",
-      "status_url": "https://x.com/Claudiashein/status/2121448892017332682",
-      "created_local": "2026-11-13 21:43",
-      "created_at": "2026-11-14T03:43:25.000Z",
-      "posted_at": "2026-11-14T03:43:25.000Z",
-      "lang": "es",
-      "media": [
-        "video"
-      ],
+      "id": "2121696715204116700",
+      "handle": "@RicardoBSalinas",
+      "display_name": "Don Ricardo Salinas Pliego",
+      "name": "Don Ricardo Salinas Pliego",
+      "followers": 2238708,
+      "text": "Felicidades senadora!!!\n\nHay que seguir siendo la voz VALIENTE que pone el ejemplo de lo que está bien. https://t.co/PhvLsPEFr6",
+      "original_en": "Felicidades senadora!!!\n\nHay que seguir siendo la voz VALIENTE que pone el ejemplo de lo que está bien. https://t.co/PhvLsPEFr6",
+      "views": 25123,
+      "views_label": "25,123",
+      "likes": 1362,
+      "reposts": 150,
+      "replies": 60,
+      "quotes": 1,
+      "bookmarks": 11,
+      "url": "https://x.com/RicardoBSalinas/status/2121696715204116700",
+      "status_url": "https://x.com/RicardoBSalinas/status/2121696715204116700",
+      "created_local": "2026-11-14 14:08",
+      "created_at": "2026-11-14T20:08:10.000Z",
+      "posted_at": "2026-11-14T20:08:10.000Z",
+      "lang": null,
+      "media": [],
       "star": true,
       "highlight": true,
-      "quote": false,
+      "quote": true,
       "top10_rank": 5,
-      "category": "Otros"
+      "category": "Gobierno y políticas públicas"
     },
     {
-      "id": "2121289390802739253",
+      "id": "2121685588189540573",
       "handle": "@JorgeRoHe",
       "display_name": "Jorge Romero Herrera",
       "name": "Jorge Romero Herrera",
-      "followers": 105598,
-      "text": "Gracias @azucenau por la entrevista de hoy. \n\nSeguimos preguntándole a MORENA: ¿qué pasa con las comisiones para investigar a sus gobernadores señalados por presuntos vínculos con el crimen organizado?\n\nEscucha la entrevista completa aquí 🔗 https://t.co/D4xLr0feJz https://t.co/NxlH9OT14G",
-      "original_en": "Gracias @azucenau por la entrevista de hoy. \n\nSeguimos preguntándole a MORENA: ¿qué pasa con las comisiones para investigar a sus gobernadores señalados por presuntos vínculos con el crimen organizado?\n\nEscucha la entrevista completa aquí 🔗 https://t.co/D4xLr0feJz https://t.co/NxlH9OT14G",
-      "views": 19022,
-      "views_label": "19,022",
-      "likes": 282,
-      "reposts": 108,
-      "replies": 13,
-      "quotes": 0,
+      "followers": 105593,
+      "text": ".@PartidoMorenaMx  podrá negarlo mil veces, pero los mexicanos sabemos que Taddei y MORENA son lo mismo.\n\n#INESinMorena #UnINELibre https://t.co/kwfIcByvnY",
+      "original_en": ".@PartidoMorenaMx  podrá negarlo mil veces, pero los mexicanos sabemos que Taddei y MORENA son lo mismo.\n\n#INESinMorena #UnINELibre https://t.co/kwfIcByvnY",
+      "views": 18472,
+      "views_label": "18,472",
+      "likes": 230,
+      "reposts": 99,
+      "replies": 22,
+      "quotes": 2,
       "bookmarks": 0,
-      "url": "https://x.com/JorgeRoHe/status/2121289390802739253",
-      "status_url": "https://x.com/JorgeRoHe/status/2121289390802739253",
-      "created_local": "2026-11-13 11:09",
-      "created_at": "2026-11-13T17:09:37.000Z",
-      "posted_at": "2026-11-13T17:09:37.000Z",
+      "url": "https://x.com/JorgeRoHe/status/2121685588189540573",
+      "status_url": "https://x.com/JorgeRoHe/status/2121685588189540573",
+      "created_local": "2026-11-14 13:23",
+      "created_at": "2026-11-14T19:23:57.000Z",
+      "posted_at": "2026-11-14T19:23:57.000Z",
       "lang": null,
       "media": [
         "video"
@@ -230,28 +230,28 @@
       "highlight": true,
       "quote": false,
       "top10_rank": 6,
-      "category": "Corrupción y justicia"
+      "category": "Elecciones e INE"
     },
     {
-      "id": "2121302628835705030",
+      "id": "2121594205038366986",
       "handle": "@JorgeRoHe",
       "display_name": "Jorge Romero Herrera",
       "name": "Jorge Romero Herrera",
-      "followers": 105598,
-      "text": "En @AccionNacional creemos que generar empleos y oportunidades es fundamental para que las familias mexicanas salgan adelante.\n\n#SolucionesParaMéxico https://t.co/rKd4ErMWgj",
-      "original_en": "En @AccionNacional creemos que generar empleos y oportunidades es fundamental para que las familias mexicanas salgan adelante.\n\n#SolucionesParaMéxico https://t.co/rKd4ErMWgj",
-      "views": 18362,
-      "views_label": "18,362",
-      "likes": 319,
-      "reposts": 96,
-      "replies": 21,
-      "quotes": 1,
+      "followers": 105593,
+      "text": "Propusimos que puedas deducir todos tus gastos médicos y educativos. \n\n¡Tu dinero debe rendir más!\n\n#SolucionesParaMéxico https://t.co/sR5LorYy7Z",
+      "original_en": "Propusimos que puedas deducir todos tus gastos médicos y educativos. \n\n¡Tu dinero debe rendir más!\n\n#SolucionesParaMéxico https://t.co/sR5LorYy7Z",
+      "views": 16762,
+      "views_label": "16,762",
+      "likes": 310,
+      "reposts": 103,
+      "replies": 15,
+      "quotes": 0,
       "bookmarks": 0,
-      "url": "https://x.com/JorgeRoHe/status/2121302628835705030",
-      "status_url": "https://x.com/JorgeRoHe/status/2121302628835705030",
-      "created_local": "2026-11-13 12:02",
-      "created_at": "2026-11-13T18:02:13.000Z",
-      "posted_at": "2026-11-13T18:02:13.000Z",
+      "url": "https://x.com/JorgeRoHe/status/2121594205038366986",
+      "status_url": "https://x.com/JorgeRoHe/status/2121594205038366986",
+      "created_local": "2026-11-14 07:20",
+      "created_at": "2026-11-14T13:20:50.000Z",
+      "posted_at": "2026-11-14T13:20:50.000Z",
       "lang": null,
       "media": [
         "photo"
@@ -259,29 +259,68 @@
       "star": true,
       "highlight": true,
       "quote": false,
+      "draft_en": "Tu dinero debe rendir más, y la mejor inversión eres tú.\nLo que gastas en aprender y en cuidar tu salud no es gasto: es capital. Nadie te puede quitar lo que sabes ni la energía con la que trabajas. Invierte en ti y lo demás llega. ¿En qué vas a invertir este año? 📚💪",
+      "video_tip": "Video vertical de 15 s: alguien que cierra un libro y toma notas, sale a correr al amanecer y abre su pequeño negocio; rótulos \"Aprende\" · \"Cuídate\" · \"Emprende\". Cierra con la pregunta en pantalla. Sin personas públicas, partidos ni logotipos.",
+      "draft_keywords": [
+        "tu dinero debe rendir más",
+        "invertir en ti",
+        "educación",
+        "salud",
+        "emprender"
+      ],
       "top10_rank": 7,
       "category": "Economía y empleo"
     },
     {
-      "id": "2121283611932369327",
+      "id": "2121645108743520634",
       "handle": "@JorgeRoHe",
       "display_name": "Jorge Romero Herrera",
       "name": "Jorge Romero Herrera",
-      "followers": 105598,
-      "text": "¡Felicidades, querido @carlosorvananos, por tu #SegundoInforme!\n\nGobernar es estar con la gente, caminar las calles y resolver. Tu trabajo en Cuajimalpa demuestra que los buenos gobiernos del PAN sí dan resultados y ponen a las familias en el centro. ¡Sigamos construyendo un https://t.co/N9ueHPAmGV",
-      "original_en": "¡Felicidades, querido @carlosorvananos, por tu #SegundoInforme!\n\nGobernar es estar con la gente, caminar las calles y resolver. Tu trabajo en Cuajimalpa demuestra que los buenos gobiernos del PAN sí dan resultados y ponen a las familias en el centro. ¡Sigamos construyendo un https://t.co/N9ueHPAmGV",
-      "views": 17858,
-      "views_label": "17,858",
-      "likes": 266,
-      "reposts": 101,
-      "replies": 10,
-      "quotes": 0,
-      "bookmarks": 0,
-      "url": "https://x.com/JorgeRoHe/status/2121283611932369327",
-      "status_url": "https://x.com/JorgeRoHe/status/2121283611932369327",
-      "created_local": "2026-11-13 10:46",
-      "created_at": "2026-11-13T16:46:39.000Z",
-      "posted_at": "2026-11-13T16:46:39.000Z",
+      "followers": 105593,
+      "text": "¡Muchas felicidades, @LillyTellez! \n\nTe deseo un cumpleaños lleno de alegría, salud y momentos especiales junto a tus seres queridos. \n\n¡Te mando un fuerte abrazo! https://t.co/4MQ7zkvqpH",
+      "original_en": "¡Muchas felicidades, @LillyTellez! \n\nTe deseo un cumpleaños lleno de alegría, salud y momentos especiales junto a tus seres queridos. \n\n¡Te mando un fuerte abrazo! https://t.co/4MQ7zkvqpH",
+      "views": 16188,
+      "views_label": "16,188",
+      "likes": 358,
+      "reposts": 98,
+      "replies": 21,
+      "quotes": 1,
+      "bookmarks": 1,
+      "url": "https://x.com/JorgeRoHe/status/2121645108743520634",
+      "status_url": "https://x.com/JorgeRoHe/status/2121645108743520634",
+      "created_local": "2026-11-14 10:43",
+      "created_at": "2026-11-14T16:43:06.000Z",
+      "posted_at": "2026-11-14T16:43:06.000Z",
+      "lang": null,
+      "media": [
+        "photo"
+      ],
+      "star": true,
+      "highlight": true,
+      "quote": false,
+      "top10_rank": 8,
+      "category": "Otros"
+    },
+    {
+      "id": "2121667471870472428",
+      "handle": "@JorgeRoHe",
+      "display_name": "Jorge Romero Herrera",
+      "name": "Jorge Romero Herrera",
+      "followers": 105593,
+      "text": "¡Que se escuche fuerte en cada rincón de México! 🎶🔵\n\nEn el PAN tenemos la convicción y la fuerza para defender lo que más queremos: nuestra Patria, nuestras familias y nuestra libertad. 🇲🇽\n\n¡Dale play y cántalo con nosotros!\n#PatriaFamiliaYLibertad https://t.co/UNvdw9LmzA",
+      "original_en": "¡Que se escuche fuerte en cada rincón de México! 🎶🔵\n\nEn el PAN tenemos la convicción y la fuerza para defender lo que más queremos: nuestra Patria, nuestras familias y nuestra libertad. 🇲🇽\n\n¡Dale play y cántalo con nosotros!\n#PatriaFamiliaYLibertad https://t.co/UNvdw9LmzA",
+      "views": 14566,
+      "views_label": "14,566",
+      "likes": 258,
+      "reposts": 87,
+      "replies": 26,
+      "quotes": 2,
+      "bookmarks": 1,
+      "url": "https://x.com/JorgeRoHe/status/2121667471870472428",
+      "status_url": "https://x.com/JorgeRoHe/status/2121667471870472428",
+      "created_local": "2026-11-14 12:11",
+      "created_at": "2026-11-14T18:11:58.000Z",
+      "posted_at": "2026-11-14T18:11:58.000Z",
       "lang": null,
       "media": [
         "video"
@@ -289,59 +328,29 @@
       "star": true,
       "highlight": true,
       "quote": false,
-      "top10_rank": 8,
+      "top10_rank": 9,
       "category": "Gobierno y políticas públicas"
     },
     {
-      "id": "2121250762122826231",
-      "handle": "@JorgeRoHe",
-      "display_name": "Jorge Romero Herrera",
-      "name": "Jorge Romero Herrera",
-      "followers": 105598,
-      "text": "Estudiar y trabajar requiere esfuerzo, no más impuestos. En @AccionNacional proponemos cero impuestos para jóvenes que estudian y trabajan. ¡Su futuro es suyo!\n\n#SolucionesParaMéxico https://t.co/0xhq0bJk34",
-      "original_en": "Estudiar y trabajar requiere esfuerzo, no más impuestos. En @AccionNacional proponemos cero impuestos para jóvenes que estudian y trabajan. ¡Su futuro es suyo!\n\n#SolucionesParaMéxico https://t.co/0xhq0bJk34",
-      "views": 16145,
-      "views_label": "16,145",
-      "likes": 266,
-      "reposts": 96,
-      "replies": 13,
-      "quotes": 1,
-      "bookmarks": 1,
-      "url": "https://x.com/JorgeRoHe/status/2121250762122826231",
-      "status_url": "https://x.com/JorgeRoHe/status/2121250762122826231",
-      "created_local": "2026-11-13 08:36",
-      "created_at": "2026-11-13T14:36:07.000Z",
-      "posted_at": "2026-11-13T14:36:07.000Z",
-      "lang": null,
-      "media": [
-        "photo"
-      ],
-      "star": true,
-      "highlight": true,
-      "quote": false,
-      "top10_rank": 9,
-      "category": "Economía y empleo"
-    },
-    {
-      "id": "2121297375167668273",
-      "handle": "@JorgeRoHe",
-      "display_name": "Jorge Romero Herrera",
-      "name": "Jorge Romero Herrera",
-      "followers": 105598,
-      "text": "Una de las mayores consecuencias de MORENA ha sido dividir a los mexicanos.\n\nEn @AccionNacional siempre estaremos del lado de las familias, trabajando por la unidad y construyendo soluciones para México.\n\n#SolucionesParaMéxico https://t.co/8EsV6mNd0f",
-      "original_en": "Una de las mayores consecuencias de MORENA ha sido dividir a los mexicanos.\n\nEn @AccionNacional siempre estaremos del lado de las familias, trabajando por la unidad y construyendo soluciones para México.\n\n#SolucionesParaMéxico https://t.co/8EsV6mNd0f",
-      "views": 15091,
-      "views_label": "15,091",
-      "likes": 311,
-      "reposts": 117,
-      "replies": 127,
-      "quotes": 4,
-      "bookmarks": 2,
-      "url": "https://x.com/JorgeRoHe/status/2121297375167668273",
-      "status_url": "https://x.com/JorgeRoHe/status/2121297375167668273",
-      "created_local": "2026-11-13 11:41",
-      "created_at": "2026-11-13T17:41:20.000Z",
-      "posted_at": "2026-11-13T17:41:20.000Z",
+      "id": "2121612080298242379",
+      "handle": "@m_ebrard",
+      "display_name": "Marcelo Ebrard C.",
+      "name": "Marcelo Ebrard C.",
+      "followers": 2710520,
+      "text": "Volando a China para la APEC 2026 https://t.co/3ma31EySYK",
+      "original_en": "Volando a China para la APEC 2026 https://t.co/3ma31EySYK",
+      "views": 10278,
+      "views_label": "10,278",
+      "likes": 246,
+      "reposts": 57,
+      "replies": 24,
+      "quotes": 2,
+      "bookmarks": 5,
+      "url": "https://x.com/m_ebrard/status/2121612080298242379",
+      "status_url": "https://x.com/m_ebrard/status/2121612080298242379",
+      "created_local": "2026-11-14 08:31",
+      "created_at": "2026-11-14T14:31:52.000Z",
+      "posted_at": "2026-11-14T14:31:52.000Z",
       "lang": null,
       "media": [
         "video"
@@ -350,115 +359,89 @@
       "highlight": true,
       "quote": false,
       "top10_rank": 10,
-      "category": "Gobierno y políticas públicas"
+      "category": "Internacional"
     },
     {
-      "id": "2121355249046999296",
-      "handle": "@m_ebrard",
-      "display_name": "Marcelo Ebrard C.",
-      "name": "Marcelo Ebrard C.",
-      "followers": 2710542,
-      "text": "En el arranque del Buen Fin me regaló Rocío Norzagaray  ( DiosCacao) un chocolate con tequila !! Delicioso !! Por eso las risas … me pareció magnífico su trabajo al recuperar el origen mexicano del chocolate 🇲🇽 https://t.co/jYtKwfp6qX",
-      "original_en": "En el arranque del Buen Fin me regaló Rocío Norzagaray  ( DiosCacao) un chocolate con tequila !! Delicioso !! Por eso las risas … me pareció magnífico su trabajo al recuperar el origen mexicano del chocolate 🇲🇽 https://t.co/jYtKwfp6qX",
-      "views": 14207,
-      "views_label": "14,207",
-      "likes": 199,
-      "reposts": 41,
-      "replies": 19,
-      "quotes": 3,
-      "bookmarks": 1,
-      "url": "https://x.com/m_ebrard/status/2121355249046999296",
-      "status_url": "https://x.com/m_ebrard/status/2121355249046999296",
-      "created_local": "2026-11-13 15:31",
-      "created_at": "2026-11-13T21:31:18.000Z",
-      "posted_at": "2026-11-13T21:31:18.000Z",
-      "lang": "es",
-      "media": [
-        "photo"
-      ],
-      "star": true,
-      "highlight": true,
-      "quote": false,
-      "category": "Motivación y liderazgo"
-    },
-    {
-      "id": "2121313523108123043",
-      "handle": "@JorgeRoHe",
-      "display_name": "Jorge Romero Herrera",
-      "name": "Jorge Romero Herrera",
-      "followers": 105598,
-      "text": "Me dio mucho gusto acompañar a mi amigo @carlosorvananos en su #SegundoInforme y compartir este día con los vecinos de Cuajimalpa.\n\nLos #BuenosGobiernosPAN se construyen escuchando a la gente y trabajando para sus familias. ¡Felicidades, Carlos, por estos dos años de compromiso https://t.co/Q6lHQDJjEL",
-      "original_en": "Me dio mucho gusto acompañar a mi amigo @carlosorvananos en su #SegundoInforme y compartir este día con los vecinos de Cuajimalpa.\n\nLos #BuenosGobiernosPAN se construyen escuchando a la gente y trabajando para sus familias. ¡Felicidades, Carlos, por estos dos años de compromiso https://t.co/Q6lHQDJjEL",
-      "views": 14106,
-      "views_label": "14,106",
-      "likes": 284,
-      "reposts": 89,
-      "replies": 4,
-      "quotes": 0,
-      "bookmarks": 0,
-      "url": "https://x.com/JorgeRoHe/status/2121313523108123043",
-      "status_url": "https://x.com/JorgeRoHe/status/2121313523108123043",
-      "created_local": "2026-11-13 12:45",
-      "created_at": "2026-11-13T18:45:30.000Z",
-      "posted_at": "2026-11-13T18:45:30.000Z",
+      "id": "2121700929863061886",
+      "handle": "@LillyTellez",
+      "display_name": "Lilly Téllez",
+      "name": "Lilly Téllez",
+      "followers": 1128593,
+      "text": "¡Agradezco mucho sus cariñosas felicitaciones por mi cumpleaños 59! También les deseo lo mejor siempre 🥳🥰 https://t.co/w4gwu7xUSW",
+      "original_en": "¡Agradezco mucho sus cariñosas felicitaciones por mi cumpleaños 59! También les deseo lo mejor siempre 🥳🥰 https://t.co/w4gwu7xUSW",
+      "views": 9727,
+      "views_label": "9,727",
+      "likes": 1197,
+      "reposts": 125,
+      "replies": 128,
+      "quotes": 8,
+      "bookmarks": 7,
+      "url": "https://x.com/LillyTellez/status/2121700929863061886",
+      "status_url": "https://x.com/LillyTellez/status/2121700929863061886",
+      "created_local": "2026-11-14 14:24",
+      "created_at": "2026-11-14T20:24:55.000Z",
+      "posted_at": "2026-11-14T20:24:55.000Z",
       "lang": null,
       "media": [
-        "video"
-      ],
-      "star": true,
-      "highlight": true,
-      "quote": false,
-      "category": "Gobierno y políticas públicas"
-    },
-    {
-      "id": "2121319247443837153",
-      "handle": "@m_ebrard",
-      "display_name": "Marcelo Ebrard C.",
-      "name": "Marcelo Ebrard C.",
-      "followers": 2710542,
-      "text": "Arranca El Buen Fin 2026 con especial enfásis en Hecho en México y el apoyo a micro y pequeñas empresas !! https://t.co/U1QAPDzz2P",
-      "original_en": "Arranca El Buen Fin 2026 con especial enfásis en Hecho en México y el apoyo a micro y pequeñas empresas !! https://t.co/U1QAPDzz2P",
-      "views": 12258,
-      "views_label": "12,258",
-      "likes": 163,
-      "reposts": 51,
-      "replies": 8,
-      "quotes": 3,
-      "bookmarks": 1,
-      "url": "https://x.com/m_ebrard/status/2121319247443837153",
-      "status_url": "https://x.com/m_ebrard/status/2121319247443837153",
-      "created_local": "2026-11-13 13:08",
-      "created_at": "2026-11-13T19:08:15.000Z",
-      "posted_at": "2026-11-13T19:08:15.000Z",
-      "lang": "es",
-      "media": [
         "photo"
       ],
-      "star": true,
-      "highlight": true,
+      "star": false,
+      "highlight": false,
       "quote": false,
       "category": "Otros"
     },
     {
-      "id": "2121318648396775739",
-      "handle": "@m_ebrard",
-      "display_name": "Marcelo Ebrard C.",
-      "name": "Marcelo Ebrard C.",
-      "followers": 2710542,
-      "text": "Preparando con las Universidades , la ANUIES y educación tecnológica la ruta InnovaFest Academy 2027 que tendrá verificativo en todas las entidades federativas del país. Acercar empresas e inversionistas a los jóvenes emprendedores !! https://t.co/M3kbf0vWud",
-      "original_en": "Preparando con las Universidades , la ANUIES y educación tecnológica la ruta InnovaFest Academy 2027 que tendrá verificativo en todas las entidades federativas del país. Acercar empresas e inversionistas a los jóvenes emprendedores !! https://t.co/M3kbf0vWud",
-      "views": 8533,
-      "views_label": "8,533",
-      "likes": 107,
-      "reposts": 29,
-      "replies": 8,
-      "quotes": 6,
-      "bookmarks": 4,
-      "url": "https://x.com/m_ebrard/status/2121318648396775739",
-      "status_url": "https://x.com/m_ebrard/status/2121318648396775739",
-      "created_local": "2026-11-13 13:05",
-      "created_at": "2026-11-13T19:05:52.000Z",
-      "posted_at": "2026-11-13T19:05:52.000Z",
+      "id": "2121405665751294155",
+      "handle": "@alitomorenoc",
+      "display_name": "Alejandro Moreno",
+      "name": "Alejandro Moreno",
+      "followers": 242423,
+      "text": "¡Ya va haciendo hambre! Y estando aquí en Sonora, qué mejor que unos buenos burritos para agarrar energías y seguir con las actividades del día. 🌯\n\n¡Qué bien se come en esta tierra! ¡Buen provecho a todos! https://t.co/vdZNNnY4zQ",
+      "original_en": "¡Ya va haciendo hambre! Y estando aquí en Sonora, qué mejor que unos buenos burritos para agarrar energías y seguir con las actividades del día. 🌯\n\n¡Qué bien se come en esta tierra! ¡Buen provecho a todos! https://t.co/vdZNNnY4zQ",
+      "views": 7201,
+      "views_label": "7,201",
+      "likes": 168,
+      "reposts": 34,
+      "replies": 18,
+      "quotes": 1,
+      "bookmarks": 2,
+      "url": "https://x.com/alitomorenoc/status/2121405665751294155",
+      "status_url": "https://x.com/alitomorenoc/status/2121405665751294155",
+      "created_local": "2026-11-13 18:51",
+      "created_at": "2026-11-14T00:51:39.000Z",
+      "posted_at": "2026-11-14T00:51:39.000Z",
+      "lang": "es",
+      "media": [
+        "photo",
+        "photo",
+        "photo",
+        "photo"
+      ],
+      "star": false,
+      "highlight": false,
+      "quote": false,
+      "category": "Otros"
+    },
+    {
+      "id": "2121392998500188517",
+      "handle": "@alitomorenoc",
+      "display_name": "Alejandro Moreno",
+      "name": "Alejandro Moreno",
+      "followers": 242423,
+      "text": "¡Los cínicos y corruptos de MORENA y su dirigente @A_MontielR se vieron obligados a cesar al inepto y corrupto @GuillermoSRguez de su representación ante el @INEMexico! Un personaje señalado por sus vínculos con la red de operadores políticos que se instaló dentro del INE durante la gestión de la corrupta morenista Guadalupe Taddei. ¡Ahora pretenden que con quitarlo del cargo se acaben los cuestionamientos!\n\nMORENA y Guillermo Santiago tienen que responder por los señalamientos sobre su participación en el entramado de corrupción, influencias, nombramientos y decisiones que hoy están bajo investigación. ¡Cambiar de representante no borra las responsabilidades ni desaparece las denuncias! Exigimos que se investigue hasta las últimas consecuencias quiénes participaron, quiénes se beneficiaron y quiénes permitieron el saqueo que destruyó la confianza en el INE. ¡Estas ratas van a caer una por una! \n\n¡MORENA tiene mucho que explicar! Vamos a presentar una denuncia ante la @FGRMexico para que se investigue a fondo a Guillermo Santiago, se esclarezcan sus responsabilidades y se proceda con todo el peso de la ley. ¡No vamos a permitir que esta rata inmunda se esconda detrás de su salida del INE para evadir la justicia! ¡Nadie que haya participado en actos de corrupción puede quedar impune!",
+      "original_en": "¡Los cínicos y corruptos de MORENA y su dirigente @A_MontielR se vieron obligados a cesar al inepto y corrupto @GuillermoSRguez de su representación ante el @INEMexico! Un personaje señalado por sus vínculos con la red de operadores políticos que se instaló dentro del INE durante la gestión de la corrupta morenista Guadalupe Taddei. ¡Ahora pretenden que con quitarlo del cargo se acaben los cuestionamientos!\n\nMORENA y Guillermo Santiago tienen que responder por los señalamientos sobre su participación en el entramado de corrupción, influencias, nombramientos y decisiones que hoy están bajo investigación. ¡Cambiar de representante no borra las responsabilidades ni desaparece las denuncias! Exigimos que se investigue hasta las últimas consecuencias quiénes participaron, quiénes se beneficiaron y quiénes permitieron el saqueo que destruyó la confianza en el INE. ¡Estas ratas van a caer una por una! \n\n¡MORENA tiene mucho que explicar! Vamos a presentar una denuncia ante la @FGRMexico para que se investigue a fondo a Guillermo Santiago, se esclarezcan sus responsabilidades y se proceda con todo el peso de la ley. ¡No vamos a permitir que esta rata inmunda se esconda detrás de su salida del INE para evadir la justicia! ¡Nadie que haya participado en actos de corrupción puede quedar impune!",
+      "views": 6230,
+      "views_label": "6,230",
+      "likes": 360,
+      "reposts": 74,
+      "replies": 13,
+      "quotes": 3,
+      "bookmarks": 0,
+      "url": "https://x.com/alitomorenoc/status/2121392998500188517",
+      "status_url": "https://x.com/alitomorenoc/status/2121392998500188517",
+      "created_local": "2026-11-13 18:01",
+      "created_at": "2026-11-14T00:01:19.000Z",
+      "posted_at": "2026-11-14T00:01:19.000Z",
       "lang": "es",
       "media": [
         "photo"
@@ -466,29 +449,53 @@
       "star": false,
       "highlight": false,
       "quote": false,
-      "draft_en": "A los jóvenes con una idea en la cabeza: empiecen pequeño, pero empiecen. Ninguna gran empresa nació grande.\nEl talento está en todo México; lo que falta es atreverse y acercar a quien tiene la idea con quien puede invertir en ella. ¿Cuál es tu idea de negocio? 🚀💡",
-      "video_tip": "Video vertical de 15 s: una estudiante que arma un prototipo en su mesa, una presentación ante un pequeño grupo y la primera venta en un puesto; rótulos \"Idea\" · \"Prueba\" · \"Crece\". Cierra con la pregunta en pantalla y pide que comenten su idea. Sin personas públicas, partidos ni logotipos.",
-      "draft_keywords": [
-        "jóvenes emprendedores",
-        "emprender",
-        "innovación",
-        "inversión"
+      "category": "Elecciones e INE"
+    },
+    {
+      "id": "2121445938975879257",
+      "handle": "@samuel_garcias",
+      "display_name": "Samuel García",
+      "name": "Samuel García",
+      "followers": 444416,
+      "text": "Estrenando el salón del nuevo parque del agua ¡Chulada! 👌 https://t.co/WNP1J21fb8",
+      "original_en": "Estrenando el salón del nuevo parque del agua ¡Chulada! 👌 https://t.co/WNP1J21fb8",
+      "views": 6156,
+      "views_label": "6,156",
+      "likes": 40,
+      "reposts": 2,
+      "replies": 12,
+      "quotes": 0,
+      "bookmarks": 0,
+      "url": "https://x.com/samuel_garcias/status/2121445938975879257",
+      "status_url": "https://x.com/samuel_garcias/status/2121445938975879257",
+      "created_local": "2026-11-13 21:31",
+      "created_at": "2026-11-14T03:31:41.000Z",
+      "posted_at": "2026-11-14T03:31:41.000Z",
+      "lang": "es",
+      "media": [
+        "photo",
+        "photo",
+        "photo",
+        "photo"
       ],
-      "category": "Economía y empleo"
+      "star": false,
+      "highlight": false,
+      "quote": false,
+      "category": "Otros"
     },
     {
       "id": "2121395821585318385",
       "handle": "@samuel_garcias",
       "display_name": "Samuel García",
       "name": "Samuel García",
-      "followers": 444408,
+      "followers": 444416,
       "text": "Hechos no palabras\nLa mejor Seguridad en 22 años 👊🇲🇽\nProteger y Servir https://t.co/Cucd4J994E",
       "original_en": "Hechos no palabras\nLa mejor Seguridad en 22 años 👊🇲🇽\nProteger y Servir https://t.co/Cucd4J994E",
-      "views": 5103,
-      "views_label": "5,103",
-      "likes": 26,
+      "views": 6080,
+      "views_label": "6,080",
+      "likes": 31,
       "reposts": 6,
-      "replies": 11,
+      "replies": 14,
       "quotes": 0,
       "bookmarks": 0,
       "url": "https://x.com/samuel_garcias/status/2121395821585318385",
@@ -515,108 +522,115 @@
   "outsiders_count": 0,
   "day_roster": [
     {
-      "handle": "@LillyTellez",
-      "name": "Lilly Téllez",
-      "display_name": "Lilly Téllez",
-      "hits": 1,
-      "total": 295003,
-      "views": 295003,
-      "best": 295003,
-      "best_url": "https://x.com/LillyTellez/status/2121321132137615752",
-      "posts": 1,
-      "rank": 1
-    },
-    {
       "handle": "@RicardoBSalinas",
       "name": "Don Ricardo Salinas Pliego",
       "display_name": "Don Ricardo Salinas Pliego",
-      "hits": 1,
-      "total": 259857,
-      "views": 259857,
-      "best": 259857,
+      "hits": 2,
+      "total": 458504,
+      "views": 458504,
+      "best": 433381,
       "best_url": "https://x.com/RicardoBSalinas/status/2121418477357633663",
-      "posts": 1,
-      "rank": 2
+      "posts": 2,
+      "rank": 1
     },
     {
       "handle": "@Claudiashein",
       "name": "Claudia Sheinbaum Pardo",
       "display_name": "Claudia Sheinbaum Pardo",
-      "hits": 3,
-      "total": 124513,
-      "views": 124513,
-      "best": 55514,
-      "best_url": "https://x.com/Claudiashein/status/2121238930964033738",
-      "posts": 3,
+      "hits": 2,
+      "total": 102351,
+      "views": 102351,
+      "best": 58599,
+      "best_url": "https://x.com/Claudiashein/status/2121448892017332682",
+      "posts": 2,
+      "rank": 2
+    },
+    {
+      "handle": "@LillyTellez",
+      "name": "Lilly Téllez",
+      "display_name": "Lilly Téllez",
+      "hits": 2,
+      "total": 72990,
+      "views": 72990,
+      "best": 63263,
+      "best_url": "https://x.com/LillyTellez/status/2121651510077763701",
+      "posts": 2,
       "rank": 3
     },
     {
       "handle": "@JorgeRoHe",
       "name": "Jorge Romero Herrera",
       "display_name": "Jorge Romero Herrera",
-      "hits": 6,
-      "total": 100584,
-      "views": 100584,
-      "best": 19022,
-      "best_url": "https://x.com/JorgeRoHe/status/2121289390802739253",
-      "posts": 6,
+      "hits": 4,
+      "total": 65988,
+      "views": 65988,
+      "best": 18472,
+      "best_url": "https://x.com/JorgeRoHe/status/2121685588189540573",
+      "posts": 4,
       "rank": 4
     },
     {
-      "handle": "@m_ebrard",
-      "name": "Marcelo Ebrard C.",
-      "display_name": "Marcelo Ebrard C.",
-      "hits": 3,
-      "total": 34998,
-      "views": 34998,
-      "best": 14207,
-      "best_url": "https://x.com/m_ebrard/status/2121355249046999296",
-      "posts": 3,
+      "handle": "@alitomorenoc",
+      "name": "Alejandro Moreno",
+      "display_name": "Alejandro Moreno",
+      "hits": 2,
+      "total": 13431,
+      "views": 13431,
+      "best": 7201,
+      "best_url": "https://x.com/alitomorenoc/status/2121405665751294155",
+      "posts": 2,
       "rank": 5
     },
     {
       "handle": "@samuel_garcias",
       "name": "Samuel García",
       "display_name": "Samuel García",
-      "hits": 1,
-      "total": 5103,
-      "views": 5103,
-      "best": 5103,
-      "best_url": "https://x.com/samuel_garcias/status/2121395821585318385",
-      "posts": 1,
+      "hits": 2,
+      "total": 12236,
+      "views": 12236,
+      "best": 6156,
+      "best_url": "https://x.com/samuel_garcias/status/2121445938975879257",
+      "posts": 2,
       "rank": 6
+    },
+    {
+      "handle": "@m_ebrard",
+      "name": "Marcelo Ebrard C.",
+      "display_name": "Marcelo Ebrard C.",
+      "hits": 1,
+      "total": 10278,
+      "views": 10278,
+      "best": 10278,
+      "best_url": "https://x.com/m_ebrard/status/2121612080298242379",
+      "posts": 1,
+      "rank": 7
     }
   ],
   "you_rank": {
-    "rank": 2,
-    "of": 6,
+    "rank": 1,
+    "of": 7,
     "handle": "@RicardoBSalinas",
-    "hits": 1,
-    "total": 259857,
-    "best": 259857,
+    "hits": 2,
+    "total": 458504,
+    "best": 433381,
     "best_url": "https://x.com/RicardoBSalinas/status/2121418477357633663",
-    "best_views": 259857,
-    "total_views": 259857,
-    "rank_among_watchlist": 2,
-    "total_accounts": 6,
+    "best_views": 433381,
+    "total_views": 458504,
+    "rank_among_watchlist": 1,
+    "total_accounts": 7,
     "vs_5k": "done",
     "vs_10k": "done"
   },
   "no_hits": [
     {
       "handle": "@MaruCampos_G",
-      "reason": "1 post(s) original(es) en 24 h; máximo 1,422 vistas.",
-      "max_views": 1422
+      "reason": "2 post(s) original(es) en 24 h; máximo 807 vistas.",
+      "max_views": 807
     },
     {
       "handle": "@OHarfuch",
       "reason": "Sin posts originales en las últimas 24 h.",
       "max_views": 0
-    },
-    {
-      "handle": "@alitomorenoc",
-      "reason": "16 post(s) original(es) en 24 h; máximo 4,844 vistas.",
-      "max_views": 4844
     },
     {
       "handle": "@acostanaranjo",
@@ -625,99 +639,100 @@
     }
   ],
   "previous_day": {
-    "date": "2026-11-13 (corte 17:00)",
-    "hits_count": 17,
-    "total_views": 278182
+    "date": "2026-11-14 (corte 06:00)",
+    "hits_count": 15,
+    "total_views": 820058
   },
   "trend_input_only_posts": [],
   "trend_input_only": [],
   "drafts_top10": [
     {
       "rank": 1,
-      "handle": "@LillyTellez",
-      "url": "https://x.com/LillyTellez/status/2121321132137615752",
-      "draft_en": "El buen líder no le tiene miedo a las preguntas: rinde cuentas. En una empresa, el que da resultados abre los números y da la cara.\nLa confianza no se pide, se gana con hechos y con transparencia. ¿Qué le exiges tú a quien te dirige? 📊🇲🇽",
-      "video_tip": "Video vertical de 15 s: una junta donde alguien proyecta una gráfica y contesta preguntas, una pizarra con metas tachadas como cumplidas y un apretón de manos; rótulos \"Resultados\" · \"Transparencia\" · \"Confianza\". Cierra con la pregunta en pantalla. Sin personas públicas, partidos ni logotipos.",
+      "handle": "@RicardoBSalinas",
+      "url": "https://x.com/RicardoBSalinas/status/2121418477357633663",
+      "draft_en": "La conversación más importante de tu casa no es de futbol: es de dinero.\nHabla con tu familia de cuánto ganan, cuánto gastan y cuánto ahorran. Lo que no se platica, no se cuida. Un hijo que aprende a ahorrar hoy es un adulto libre mañana. Compártelo con quien más quieres. 👨‍👩‍👧💰",
+      "video_tip": "Video vertical de 20 s, formato \"dame 20 segundos\": una familia en la mesa con una libreta de gastos, un niño que mete monedas en una alcancía y el mismo gesto, años después, de un joven abriendo su cuenta de ahorro; rótulos \"Platica\" · \"Ahorra\" · \"Decide\". Cierra con \"Compártelo\" en pantalla. Sin personas públicas, partidos ni logotipos.",
       "keywords": [
-        "rendir cuentas",
-        "resultados",
-        "liderazgo",
-        "confianza"
+        "libertad financiera",
+        "habla de dinero",
+        "familia",
+        "compártelo"
       ]
     },
     {
       "rank": 2,
-      "handle": "@RicardoBSalinas",
-      "url": "https://x.com/RicardoBSalinas/status/2121418477357633663",
-      "draft_en": "Tu retiro no se improvisa: se construye desde hoy. Nadie va a cuidar tu futuro mejor que tú.\nAhorra aunque sea poquito, infórmate a dónde va tu dinero y haz que tu trabajo de hoy te siga sirviendo mañana. La libertad empieza en tu cartera. ¿Ya sabes cuánto llevas ahorrado para tu retiro? 💼⏳",
-      "video_tip": "Video vertical de 20 s: un reloj de arena que se vacía, manos que meten monedas en una alcancía y una pareja mayor caminando tranquila; rótulos grandes \"Ahorra\" · \"Infórmate\" · \"Decide\". Cierra a cámara con la pregunta en pantalla. Sin personas públicas, partidos ni logotipos.",
+      "handle": "@LillyTellez",
+      "url": "https://x.com/LillyTellez/status/2121651510077763701",
+      "draft_en": "Cada año que cumples es un año más de experiencia, no un año menos de oportunidades.\nAgradece lo que tienes, aprende de lo que perdiste y ten el valor de seguir diciendo lo que piensas. La gratitud te mantiene con los pies en la tierra; la valentía te hace avanzar. 🙏🔥",
+      "video_tip": "Video vertical de 15 s: velas que se encienden una a una sobre una mesa sencilla, fotos de distintas etapas de la vida pasando rápido y un cierre a cámara con la frase \"Gratitud y valentía\" en pantalla. Música cálida, sin texto largo. Sin personas públicas, partidos ni logotipos.",
       "keywords": [
-        "retiro",
-        "ahorro",
-        "tu dinero",
-        "futuro"
+        "gratitud",
+        "valentía",
+        "liderazgo",
+        "cumplir años"
       ]
     },
     {
-      "rank": null,
-      "handle": "@m_ebrard",
-      "url": "https://x.com/m_ebrard/status/2121318648396775739",
-      "draft_en": "A los jóvenes con una idea en la cabeza: empiecen pequeño, pero empiecen. Ninguna gran empresa nació grande.\nEl talento está en todo México; lo que falta es atreverse y acercar a quien tiene la idea con quien puede invertir en ella. ¿Cuál es tu idea de negocio? 🚀💡",
-      "video_tip": "Video vertical de 15 s: una estudiante que arma un prototipo en su mesa, una presentación ante un pequeño grupo y la primera venta en un puesto; rótulos \"Idea\" · \"Prueba\" · \"Crece\". Cierra con la pregunta en pantalla y pide que comenten su idea. Sin personas públicas, partidos ni logotipos.",
+      "rank": 7,
+      "handle": "@JorgeRoHe",
+      "url": "https://x.com/JorgeRoHe/status/2121594205038366986",
+      "draft_en": "Tu dinero debe rendir más, y la mejor inversión eres tú.\nLo que gastas en aprender y en cuidar tu salud no es gasto: es capital. Nadie te puede quitar lo que sabes ni la energía con la que trabajas. Invierte en ti y lo demás llega. ¿En qué vas a invertir este año? 📚💪",
+      "video_tip": "Video vertical de 15 s: alguien que cierra un libro y toma notas, sale a correr al amanecer y abre su pequeño negocio; rótulos \"Aprende\" · \"Cuídate\" · \"Emprende\". Cierra con la pregunta en pantalla. Sin personas públicas, partidos ni logotipos.",
       "keywords": [
-        "jóvenes emprendedores",
-        "emprender",
-        "innovación",
-        "inversión"
+        "tu dinero debe rendir más",
+        "invertir en ti",
+        "educación",
+        "salud",
+        "emprender"
       ]
     }
   ],
   "last24h": {
-    "start": "2026-11-13T11:55:00Z",
-    "end": "2026-11-14T11:55:00Z"
+    "start": "2026-11-13T22:53:00Z",
+    "end": "2026-11-14T22:53:00Z"
   },
-  "virals_narrative": "Ventana: del 13 nov, 5:55 a.m. al 14 nov, 5:55 a.m. (hora del centro de México; 4:55 a.m. a 4:55 a.m. en Mazatlán). 37 posts originales revisados (sin respuestas ni reposts) de 10 cuentas (1 re-publicación casi idéntica de @JorgeRoHe no se cuenta); 15 superaron 5,000 vistas y 13 pasaron de 10,000. Sin publicación arriba de 5,000: @MaruCampos_G (1 post(s) original(es) en 24 h; máximo 1,422 vistas.), @OHarfuch (Sin posts originales en las últimas 24 h.), @alitomorenoc (16 post(s) original(es) en 24 h; máximo 4,844 vistas.), @acostanaranjo (Sin posts originales en las últimas 24 h.).",
+  "virals_narrative": "Ventana: del 13 nov, 4:53 p.m. al 14 nov, 4:53 p.m. (hora del centro de México; 3:53 p.m. a 3:53 p.m. en Mazatlán). 40 posts originales revisados (sin respuestas ni reposts) de 10 cuentas (@OHarfuch y @acostanaranjo sin originales); 15 superaron 5,000 vistas y 10 pasaron de 10,000. Sin publicación arriba de 5,000: @MaruCampos_G (2 post(s) original(es) en 24 h; máximo 807 vistas.), @OHarfuch (Sin posts originales en las últimas 24 h.), @acostanaranjo (Sin posts originales en las últimas 24 h.). Sin sección Rivales nueva (corrida de la tarde; se conserva la de la mañana).",
   "patterns": [
-    "Video explicativo con promesa de tiempo (\"dame dos minutos\") y tema de bolsillo: @RicardoBSalinas, pensiones y retiro (259,810; 1,178 guardados)",
-    "Una sola idea en video, frase corta: @LillyTellez, iniciativa para rendir cuentas (295,003)",
-    "Dinero recuperado → obra social visible: @Claudiashein, conservatorio de Tultepec (55,514 y 34,903)",
-    "Propuesta fiscal en una línea con hashtag de campaña: @JorgeRoHe, \"cero impuestos para jóvenes que estudian y trabajan\" (16,145)",
-    "Anécdota personal en fecha comercial: @m_ebrard, chocolate con tequila en el arranque del Buen Fin (14,207)",
-    "Jóvenes + inversión: @m_ebrard, ruta InnovaFest Academy 2027 (8,533)",
-    "Muchos posts no suman alcance: @alitomorenoc, 16 originales sin pasar de 4,844"
+    "Video explicativo de bolsillo + \"compártelo\": @RicardoBSalinas, pensiones (433,381; 6,055 reposts; 1,778 guardados; +67% desde las 6:00)",
+    "Momento humano con gratitud: @LillyTellez cumple 59 años (63,263; 842 respuestas) y su agradecimiento (9,727)",
+    "Felicitación pública con mensaje de valores: @RicardoBSalinas \"la voz VALIENTE\" (25,123) y @JorgeRoHe (16,188)",
+    "Video de gira/obra visible: @Claudiashein Puebla (58,599) y conservatorio de Tultepec con dinero recuperado (43,752)",
+    "Propuesta fiscal en una línea: @JorgeRoHe \"¡Tu dinero debe rendir más!\" (16,762)",
+    "Valores en formato canción: #PatriaFamiliaYLibertad (14,566)",
+    "INE con hashtag doble: #INESinMorena #UnINELibre (18,472)"
   ],
-  "narrative_synthesis": "El viernes se movió entre bolsillo y rendición de cuentas: Salinas puso en la conversación la deuda por pensiones (medios como Político MX, DMS y Azteca Noticias lo retomaron), la oposición empujó comparecencias y comisiones, y el gobierno presumió el conservatorio de Tultepec con dinero recuperado y el arranque del Buen Fin. Para los borradores, lo seguro es tomar esos ángulos sin pleito: ahorrar para el retiro, liderazgo que rinde cuentas y jóvenes que emprenden.",
+  "narrative_synthesis": "Fin de semana tranquilo: la conversación la sostuvo el video de pensiones de Salinas, retomado por Azteca Noticias, El Debate y Ovaciones, mientras la oposición se volcó al cumpleaños de Lilly Téllez y el gobierno mostró giras y obra. Para los borradores, lo seguro es libertad financiera en familia, gratitud con valentía e invertir en uno mismo, sin nombrar a nadie.",
   "trend_keywords": [
     "pensiones",
     "bomba de tiempo",
     "retiro",
-    "deuda",
-    "rendir cuentas",
-    "comparecer",
+    "compártelo",
+    "cumpleaños",
+    "felicidades",
+    "Taddei",
+    "#INESinMorena",
+    "#UnINELibre",
+    "#PatriaFamiliaYLibertad",
+    "libertad",
+    "deducir gastos médicos y educativos",
+    "#SolucionesParaMéxico",
+    "tu dinero debe rendir más",
     "INDEP",
     "Tultepec",
     "conservatorio",
     "Puebla",
-    "#SolucionesParaMéxico",
-    "cero impuestos para jóvenes",
-    "empleos",
-    "#SegundoInforme",
-    "#BuenosGobiernosPAN",
-    "Cuajimalpa",
-    "comisiones",
-    "Buen Fin",
-    "Hecho en México",
-    "InnovaFest",
-    "emprendedores",
-    "seguridad"
+    "APEC",
+    "China",
+    "seguridad",
+    "Sonora"
   ],
   "trend_radar": {
     "date": "2026-11-14",
     "title": "Trends and post ideas",
     "window": {
-      "end": "2026-11-14T11:55:00+00:00",
-      "label24": "13.11 11:55 - 14.11 11:55 UTC",
-      "label48": "12.11 11:55 - 14.11 11:55 UTC"
+      "end": "2026-11-14T22:53:00+00:00",
+      "label24": "13.11 22:53 - 14.11 22:53 UTC",
+      "label48": "12.11 22:53 - 14.11 22:53 UTC"
     },
     "corpus": {
       "posts": 15,
@@ -730,36 +745,36 @@
       }
     },
     "summary": {
-      "top10_line": "1) @LillyTellez 295,003; 2) @RicardoBSalinas 259,857; 3) @Claudiashein 55,514; 4) @Claudiashein 34,903; 5) @Claudiashein 34,096; 6) @JorgeRoHe 19,022; 7) @JorgeRoHe 18,362; 8) @JorgeRoHe 17,858; 9) @JorgeRoHe 16,145; 10) @JorgeRoHe 15,091.",
-      "headline": "Viernes de dos videos: @LillyTellez encabeza con su iniciativa para que la Presidenta \"rinda cuentas\" (295,003 vistas) y @RicardoBSalinas queda a un paso con su video sobre la \"bomba de tiempo\" de las pensiones (259,810; 3,765 reposts y 1,178 guardados, el mejor de la lista en ambas cosas). Le siguen tres posts de @Claudiashein (124,513 en total, dos sobre el conservatorio de Tultepec con dinero recuperado por el INDEP) y seis de @JorgeRoHe, todos entre 14 y 19 mil.",
-      "takeaway": "Lo que jala: (1) video explicativo corto con promesa concreta (\"dame dos minutos y te platico qué pasa con tu dinero y tu retiro\") y llamado a compartir: 259,810 vistas, 1,178 guardados; (2) un video con una sola idea de rendición de cuentas (295,003, aunque con pocas interacciones: 1,626 likes); (3) \"dinero recuperado de la corrupción\" convertido en una obra visible (conservatorio de Tultepec: 55,514 y 34,903); (4) propuesta fiscal sencilla para jóvenes y empleo (\"cero impuestos para jóvenes que estudian y trabajan\": 16,145); (5) en el Buen Fin, la anécdota personal (chocolate con tequila: 14,207) gana al anuncio institucional (12,258). El volumen no basta: @alitomorenoc publicó 16 originales y ninguno pasó de 4,844.",
+      "top10_line": "1) @RicardoBSalinas \"Hay una bomba de tiempo en México y el gobierno no te la qui\" 433,381; 2) @LillyTellez \"¡Celebro mis 59 años feliz y agradecida con Dios por tanto a\" 63,263; 3) @Claudiashein \"Gira por Puebla este viernes 13 de noviembre. https://t.co/Q\" 58,599; 4) @Claudiashein \"El INDEP destinará 40 millones de pesos para la construcción\" 43,752; 5) @RicardoBSalinas \"Felicidades senadora!!!\" 25,123; 6) @JorgeRoHe \".@PartidoMorenaMx  podrá negarlo mil veces, pero los mexican\" 18,472; 7) @JorgeRoHe \"Propusimos que puedas deducir todos tus gastos médicos y edu\" 16,762; 8) @JorgeRoHe \"¡Muchas felicidades, @LillyTellez!\" 16,188; 9) @JorgeRoHe \"¡Que se escuche fuerte en cada rincón de México! 🎶🔵\" 14,566; 10) @m_ebrard \"Volando a China para la APEC 2026 https://t.co/3ma31EySYK\" 10,278.",
+      "headline": "Sábado de bajo volumen (40 originales; 15 arriba de 5,000 y 10 arriba de 10,000) y @RicardoBSalinas arrasa: su video de la \"bomba de tiempo\" de las pensiones ya suma 433,381 vistas (+67% contra las 6:00), 6,055 reposts y 1,778 guardados, siete veces lo que hizo la siguiente publicación (@LillyTellez, cumpleaños, 63,263). Queda 1.º de 7 con 458,504 vistas en 2 originales.",
+      "takeaway": "Lo que jala: (1) video explicativo de bolsillo con promesa de tiempo y llamado a compartir (pensiones: 433,381; 6,055 reposts; 1,778 guardados); (2) momento humano y gratitud: el cumpleaños 59 de @LillyTellez (63,263; 842 respuestas) arrastró felicitaciones con alcance propio (@RicardoBSalinas 25,123; @JorgeRoHe 16,188); (3) videos de gira y obra visible (@Claudiashein: Puebla 58,599 y conservatorio de Tultepec 43,752); (4) propuesta de bolsillo en una línea (\"deducir todos tus gastos médicos y educativos. ¡Tu dinero debe rendir más!\": 16,762); (5) himno de valores \"Patria, Familia y Libertad\" (14,566) y mensaje INE/Taddei con hashtag doble (18,472).",
       "stats": {
         "all": {
           "n": 15,
-          "trend_n": 0,
-          "trend_pct": 0,
-          "avg_trend": null,
-          "avg_other": 54671,
-          "median_trend": null,
-          "median_other": 17858,
+          "trend_n": 1,
+          "trend_pct": 7,
+          "avg_trend": 433381,
+          "avg_other": 21600,
+          "median_trend": 433381,
+          "median_other": 15377,
           "verdicts": {
-            "tendencia": 0,
-            "visual": 14,
+            "tendencia": 1,
+            "visual": 13,
             "autor/audiencia": 1,
             "coincidencia/otro": 0
           }
         },
         "watchlist": {
           "n": 15,
-          "trend_n": 0,
-          "trend_pct": 0,
-          "avg_trend": null,
-          "avg_other": 54671,
-          "median_trend": null,
-          "median_other": 17858,
+          "trend_n": 1,
+          "trend_pct": 7,
+          "avg_trend": 433381,
+          "avg_other": 21600,
+          "median_trend": 433381,
+          "median_other": 15377,
           "verdicts": {
-            "tendencia": 0,
-            "visual": 14,
+            "tendencia": 1,
+            "visual": 13,
             "autor/audiencia": 1,
             "coincidencia/otro": 0
           }
@@ -781,24 +796,24 @@
         },
         "top10": {
           "n": 10,
-          "trend_n": 0,
-          "trend_pct": 0,
-          "avg_trend": null,
-          "avg_other": 76585,
-          "median_trend": null,
-          "median_other": 26559,
+          "trend_n": 1,
+          "trend_pct": 10,
+          "avg_trend": 433381,
+          "avg_other": 29667,
+          "median_trend": 433381,
+          "median_other": 18472,
           "verdicts": {
-            "tendencia": 0,
-            "visual": 9,
+            "tendencia": 1,
+            "visual": 8,
             "autor/audiencia": 1,
             "coincidencia/otro": 0
           }
         },
         "media": {
-          "video_n": 8,
-          "median_video": 26559,
-          "other_n": 7,
-          "median_other": 14207
+          "video_n": 7,
+          "median_video": 43752,
+          "other_n": 8,
+          "median_other": 8464
         }
       }
     },
@@ -809,162 +824,176 @@
           "pensiones",
           "bomba de tiempo",
           "retiro",
-          "deuda"
+          "compártelo"
         ],
         "posts_24h": 1,
-        "views_24h": 259857,
-        "momentum": "nuevo",
+        "views_24h": 433381,
+        "momentum": "sube",
         "evidence": [
           "https://x.com/RicardoBSalinas/status/2121418477357633663"
         ]
       },
       {
-        "name": "Rendición de cuentas",
+        "name": "Cumpleaños y felicitaciones",
         "keywords": [
-          "rendir cuentas",
-          "comparecer",
-          "comisiones"
+          "cumpleaños",
+          "felicidades",
+          "voz VALIENTE"
         ],
-        "posts_24h": 2,
-        "views_24h": 314025,
-        "momentum": "sube",
+        "posts_24h": 4,
+        "views_24h": 114301,
+        "momentum": "nuevo",
         "evidence": [
-          "https://x.com/LillyTellez/status/2121321132137615752",
-          "https://x.com/JorgeRoHe/status/2121289390802739253"
+          "https://x.com/LillyTellez/status/2121651510077763701",
+          "https://x.com/RicardoBSalinas/status/2121696715204116700",
+          "https://x.com/JorgeRoHe/status/2121645108743520634",
+          "https://x.com/LillyTellez/status/2121700929863061886"
         ]
       },
       {
-        "name": "Recursos recuperados y obra social",
+        "name": "Giras y obra con dinero recuperado",
         "keywords": [
+          "Puebla",
           "INDEP",
           "Tultepec",
           "conservatorio"
         ],
         "posts_24h": 2,
-        "views_24h": 90417,
+        "views_24h": 102351,
         "momentum": "sigue",
         "evidence": [
-          "https://x.com/Claudiashein/status/2121238930964033738",
+          "https://x.com/Claudiashein/status/2121448892017332682",
           "https://x.com/Claudiashein/status/2121401273245216898"
         ]
       },
       {
-        "name": "Giras y gobierno",
-        "keywords": [
-          "Puebla",
-          "#SegundoInforme",
-          "#BuenosGobiernosPAN",
-          "Cuajimalpa"
-        ],
-        "posts_24h": 3,
-        "views_24h": 66060,
-        "momentum": "sigue",
-        "evidence": [
-          "https://x.com/Claudiashein/status/2121448892017332682",
-          "https://x.com/JorgeRoHe/status/2121283611932369327",
-          "https://x.com/JorgeRoHe/status/2121313523108123043"
-        ]
-      },
-      {
-        "name": "Empleo, jóvenes e impuestos",
+        "name": "Bolsillo e impuestos",
         "keywords": [
           "#SolucionesParaMéxico",
-          "cero impuestos para jóvenes",
-          "empleos"
-        ],
-        "posts_24h": 3,
-        "views_24h": 49598,
-        "momentum": "sigue",
-        "evidence": [
-          "https://x.com/JorgeRoHe/status/2121302628835705030",
-          "https://x.com/JorgeRoHe/status/2121250762122826231",
-          "https://x.com/JorgeRoHe/status/2121297375167668273"
-        ]
-      },
-      {
-        "name": "Buen Fin y emprendedores",
-        "keywords": [
-          "Buen Fin",
-          "Hecho en México",
-          "InnovaFest",
-          "emprendedores"
-        ],
-        "posts_24h": 3,
-        "views_24h": 34998,
-        "momentum": "sube",
-        "evidence": [
-          "https://x.com/m_ebrard/status/2121355249046999296",
-          "https://x.com/m_ebrard/status/2121319247443837153",
-          "https://x.com/m_ebrard/status/2121318648396775739"
-        ]
-      },
-      {
-        "name": "Seguridad estatal",
-        "keywords": [
-          "seguridad"
+          "deducir gastos médicos y educativos",
+          "tu dinero debe rendir más"
         ],
         "posts_24h": 1,
-        "views_24h": 5103,
+        "views_24h": 16762,
+        "momentum": "sigue",
+        "evidence": [
+          "https://x.com/JorgeRoHe/status/2121594205038366986"
+        ]
+      },
+      {
+        "name": "INE y Taddei",
+        "keywords": [
+          "Taddei",
+          "#INESinMorena",
+          "#UnINELibre",
+          "INE"
+        ],
+        "posts_24h": 2,
+        "views_24h": 24702,
+        "momentum": "sigue",
+        "evidence": [
+          "https://x.com/JorgeRoHe/status/2121685588189540573",
+          "https://x.com/alitomorenoc/status/2121392998500188517"
+        ]
+      },
+      {
+        "name": "Valores: patria, familia y libertad",
+        "keywords": [
+          "#PatriaFamiliaYLibertad",
+          "libertad"
+        ],
+        "posts_24h": 1,
+        "views_24h": 14566,
         "momentum": "nuevo",
         "evidence": [
-          "https://x.com/samuel_garcias/status/2121395821585318385"
+          "https://x.com/JorgeRoHe/status/2121667471870472428"
+        ]
+      },
+      {
+        "name": "Internacional",
+        "keywords": [
+          "APEC",
+          "China"
+        ],
+        "posts_24h": 1,
+        "views_24h": 10278,
+        "momentum": "nuevo",
+        "evidence": [
+          "https://x.com/m_ebrard/status/2121612080298242379"
+        ]
+      },
+      {
+        "name": "Estados: seguridad y obra",
+        "keywords": [
+          "seguridad",
+          "parque del agua",
+          "Sonora"
+        ],
+        "posts_24h": 3,
+        "views_24h": 19437,
+        "momentum": "sigue",
+        "evidence": [
+          "https://x.com/samuel_garcias/status/2121395821585318385",
+          "https://x.com/samuel_garcias/status/2121445938975879257",
+          "https://x.com/alitomorenoc/status/2121405665751294155"
         ]
       }
     ],
     "ideas": [
       {
-        "title": "Tu retiro se construye hoy",
-        "topic": "Ahorro y libertad financiera",
+        "title": "Habla de dinero en casa",
+        "topic": "Libertad financiera en familia",
         "keywords": [
-          "retiro",
-          "ahorro",
-          "tu dinero",
-          "futuro"
+          "libertad financiera",
+          "habla de dinero",
+          "familia",
+          "compártelo"
         ],
         "format": "video",
         "visual_type": "video",
-        "visual": "Reloj de arena, alcancía, pareja mayor tranquila",
-        "angle": "Responsabilidad personal con tu dinero",
-        "hook_en": "Tu retiro no se improvisa: se construye desde hoy.",
-        "why": "Su video sobre pensiones y retiro sumó 259,857 vistas y 1,178 guardados.",
+        "visual": "Familia con libreta de gastos, niño con alcancía, joven abriendo su cuenta",
+        "angle": "Educación financiera y responsabilidad personal, sin pleito",
+        "hook_en": "La conversación más importante de tu casa no es de futbol: es de dinero.",
+        "why": "Su video de pensiones con \"compártelo\" ya suma 433,381 vistas y 6 mil reposts: el tema de bolsillo y el llamado a compartir funcionan.",
         "x_keywords": [],
         "x_rank": null,
         "source": "watchlist"
       },
       {
-        "title": "El buen líder rinde cuentas",
-        "topic": "Liderazgo y transparencia",
+        "title": "Gratitud y valentía",
+        "topic": "Liderazgo personal",
         "keywords": [
-          "rendir cuentas",
-          "resultados",
+          "gratitud",
+          "valentía",
           "liderazgo",
-          "confianza"
+          "cumplir años"
         ],
         "format": "video",
         "visual_type": "video",
-        "visual": "Junta con gráfica, metas cumplidas, apretón de manos",
-        "angle": "Resultados y transparencia, sin nombres",
-        "hook_en": "El buen líder no le tiene miedo a las preguntas.",
-        "why": "El video sobre rendición de cuentas fue lo más visto del día: 295,003 vistas.",
+        "visual": "Velas que se encienden, fotos de etapas de vida",
+        "angle": "Momento humano + valor, sin nombres",
+        "hook_en": "Cada año que cumples es un año más de experiencia, no un año menos de oportunidades.",
+        "why": "El cumpleaños de la senadora sumó 63,263 vistas y 842 respuestas; su felicitación \"la voz VALIENTE\" hizo 25 mil.",
         "x_keywords": [],
         "x_rank": null,
         "source": "watchlist"
       },
       {
-        "title": "Empiecen pequeño, pero empiecen",
-        "topic": "Jóvenes emprendedores",
+        "title": "La mejor inversión eres tú",
+        "topic": "Invertir en educación y salud",
         "keywords": [
-          "jóvenes emprendedores",
-          "emprender",
-          "innovación",
-          "inversión"
+          "tu dinero debe rendir más",
+          "invertir en ti",
+          "educación",
+          "salud",
+          "emprender"
         ],
         "format": "video",
         "visual_type": "video",
-        "visual": "Prototipo, presentación, primera venta",
-        "angle": "Atreverse y acercar ideas con inversión",
-        "hook_en": "A los jóvenes con una idea en la cabeza: empiecen pequeño, pero empiecen.",
-        "why": "La ruta para acercar inversionistas a jóvenes emprendedores sumó 8,533 vistas; la propuesta para jóvenes que estudian y trabajan, 16,145.",
+        "visual": "Libro, carrera al amanecer, negocio que abre",
+        "angle": "Tu dinero debe rendir más, en positivo",
+        "hook_en": "Tu dinero debe rendir más, y la mejor inversión eres tú.",
+        "why": "La propuesta \"¡Tu dinero debe rendir más!\" sobre gastos médicos y educativos sumó 16,762 vistas.",
         "x_keywords": [],
         "x_rank": null,
         "source": "watchlist"
@@ -973,68 +1002,34 @@
     "articles": [],
     "why_hit": [
       {
-        "id": "2121321132137615752",
+        "id": "2121418477357633663",
+        "handle": "@RicardoBSalinas",
+        "lane": "watchlist",
+        "views": 433381,
+        "trend_match": 59,
+        "verdict": "tendencia",
+        "matched_keywords": [
+          "pensiones",
+          "bomba de tiempo",
+          "retiro",
+          "compártelo"
+        ],
+        "media": "video",
+        "followers": 2238708,
+        "topic": null,
+        "self_quote": false,
+        "note": ""
+      },
+      {
+        "id": "2121651510077763701",
         "handle": "@LillyTellez",
         "lane": "watchlist",
-        "views": 295003,
+        "views": 63263,
         "trend_match": 0,
         "verdict": "visual",
         "matched_keywords": [],
         "media": "video",
-        "followers": 1128547,
-        "topic": null,
-        "self_quote": false,
-        "note": ""
-      },
-      {
-        "id": "2121418477357633663",
-        "handle": "@RicardoBSalinas",
-        "lane": "watchlist",
-        "views": 259857,
-        "trend_match": 49,
-        "verdict": "visual",
-        "matched_keywords": [
-          "pensiones",
-          "bomba de tiempo",
-          "retiro"
-        ],
-        "media": "video",
-        "followers": 2238619,
-        "topic": null,
-        "self_quote": false,
-        "note": ""
-      },
-      {
-        "id": "2121238930964033738",
-        "handle": "@Claudiashein",
-        "lane": "watchlist",
-        "views": 55514,
-        "trend_match": 36,
-        "verdict": "autor/audiencia",
-        "matched_keywords": [
-          "Tultepec",
-          "conservatorio"
-        ],
-        "media": "sin datos",
-        "followers": 5257077,
-        "topic": null,
-        "self_quote": false,
-        "note": "media: sin datos"
-      },
-      {
-        "id": "2121401273245216898",
-        "handle": "@Claudiashein",
-        "lane": "watchlist",
-        "views": 34903,
-        "trend_match": 49,
-        "verdict": "visual",
-        "matched_keywords": [
-          "INDEP",
-          "Tultepec",
-          "conservatorio"
-        ],
-        "media": "video",
-        "followers": 5257077,
+        "followers": 1128593,
         "topic": null,
         "self_quote": false,
         "note": ""
@@ -1043,165 +1038,196 @@
         "id": "2121448892017332682",
         "handle": "@Claudiashein",
         "lane": "watchlist",
-        "views": 34096,
+        "views": 58599,
         "trend_match": 20,
         "verdict": "visual",
         "matched_keywords": [
           "Puebla"
         ],
         "media": "video",
-        "followers": 5257077,
+        "followers": 5257122,
         "topic": null,
         "self_quote": false,
         "note": ""
       },
       {
-        "id": "2121289390802739253",
-        "handle": "@JorgeRoHe",
+        "id": "2121401273245216898",
+        "handle": "@Claudiashein",
         "lane": "watchlist",
-        "views": 19022,
-        "trend_match": 20,
-        "verdict": "visual",
-        "matched_keywords": [
-          "comisiones"
-        ],
-        "media": "video",
-        "followers": 105598,
-        "topic": null,
-        "self_quote": false,
-        "note": ""
-      },
-      {
-        "id": "2121302628835705030",
-        "handle": "@JorgeRoHe",
-        "lane": "watchlist",
-        "views": 18362,
-        "trend_match": 36,
-        "verdict": "visual",
-        "matched_keywords": [
-          "#SolucionesParaMéxico",
-          "empleos"
-        ],
-        "media": "photo",
-        "followers": 105598,
-        "topic": null,
-        "self_quote": false,
-        "note": ""
-      },
-      {
-        "id": "2121283611932369327",
-        "handle": "@JorgeRoHe",
-        "lane": "watchlist",
-        "views": 17858,
-        "trend_match": 36,
-        "verdict": "visual",
-        "matched_keywords": [
-          "#SegundoInforme",
-          "Cuajimalpa"
-        ],
-        "media": "video",
-        "followers": 105598,
-        "topic": null,
-        "self_quote": false,
-        "note": ""
-      },
-      {
-        "id": "2121250762122826231",
-        "handle": "@JorgeRoHe",
-        "lane": "watchlist",
-        "views": 16145,
-        "trend_match": 36,
-        "verdict": "visual",
-        "matched_keywords": [
-          "#SolucionesParaMéxico",
-          "cero impuestos para jóvenes"
-        ],
-        "media": "photo",
-        "followers": 105598,
-        "topic": null,
-        "self_quote": false,
-        "note": ""
-      },
-      {
-        "id": "2121297375167668273",
-        "handle": "@JorgeRoHe",
-        "lane": "watchlist",
-        "views": 15091,
-        "trend_match": 20,
-        "verdict": "visual",
-        "matched_keywords": [
-          "#SolucionesParaMéxico"
-        ],
-        "media": "video",
-        "followers": 105598,
-        "topic": null,
-        "self_quote": false,
-        "note": ""
-      },
-      {
-        "id": "2121355249046999296",
-        "handle": "@m_ebrard",
-        "lane": "watchlist",
-        "views": 14207,
-        "trend_match": 20,
-        "verdict": "visual",
-        "matched_keywords": [
-          "Buen Fin"
-        ],
-        "media": "photo",
-        "followers": 2710542,
-        "topic": null,
-        "self_quote": false,
-        "note": ""
-      },
-      {
-        "id": "2121313523108123043",
-        "handle": "@JorgeRoHe",
-        "lane": "watchlist",
-        "views": 14106,
+        "views": 43752,
         "trend_match": 49,
         "verdict": "visual",
         "matched_keywords": [
-          "#SegundoInforme",
-          "#BuenosGobiernosPAN",
-          "Cuajimalpa"
+          "INDEP",
+          "Tultepec",
+          "conservatorio"
         ],
         "media": "video",
-        "followers": 105598,
+        "followers": 5257122,
         "topic": null,
         "self_quote": false,
         "note": ""
       },
       {
-        "id": "2121319247443837153",
-        "handle": "@m_ebrard",
+        "id": "2121696715204116700",
+        "handle": "@RicardoBSalinas",
         "lane": "watchlist",
-        "views": 12258,
-        "trend_match": 36,
+        "views": 25123,
+        "trend_match": 20,
+        "verdict": "autor/audiencia",
+        "matched_keywords": [
+          "felicidades"
+        ],
+        "media": "sin datos",
+        "followers": 2238708,
+        "topic": null,
+        "self_quote": false,
+        "note": "media: sin datos"
+      },
+      {
+        "id": "2121685588189540573",
+        "handle": "@JorgeRoHe",
+        "lane": "watchlist",
+        "views": 18472,
+        "trend_match": 49,
         "verdict": "visual",
         "matched_keywords": [
-          "Buen Fin",
-          "Hecho en México"
+          "Taddei",
+          "#INESinMorena",
+          "#UnINELibre"
         ],
-        "media": "photo",
-        "followers": 2710542,
+        "media": "video",
+        "followers": 105593,
         "topic": null,
         "self_quote": false,
         "note": ""
       },
       {
-        "id": "2121318648396775739",
-        "handle": "@m_ebrard",
+        "id": "2121594205038366986",
+        "handle": "@JorgeRoHe",
         "lane": "watchlist",
-        "views": 8533,
+        "views": 16762,
         "trend_match": 36,
         "verdict": "visual",
         "matched_keywords": [
-          "InnovaFest",
-          "emprendedores"
+          "#SolucionesParaMéxico",
+          "tu dinero debe rendir más"
         ],
         "media": "photo",
-        "followers": 2710542,
+        "followers": 105593,
+        "topic": null,
+        "self_quote": false,
+        "note": ""
+      },
+      {
+        "id": "2121645108743520634",
+        "handle": "@JorgeRoHe",
+        "lane": "watchlist",
+        "views": 16188,
+        "trend_match": 36,
+        "verdict": "visual",
+        "matched_keywords": [
+          "cumpleaños",
+          "felicidades"
+        ],
+        "media": "photo",
+        "followers": 105593,
+        "topic": null,
+        "self_quote": false,
+        "note": ""
+      },
+      {
+        "id": "2121667471870472428",
+        "handle": "@JorgeRoHe",
+        "lane": "watchlist",
+        "views": 14566,
+        "trend_match": 36,
+        "verdict": "visual",
+        "matched_keywords": [
+          "#PatriaFamiliaYLibertad",
+          "libertad"
+        ],
+        "media": "video",
+        "followers": 105593,
+        "topic": null,
+        "self_quote": false,
+        "note": ""
+      },
+      {
+        "id": "2121612080298242379",
+        "handle": "@m_ebrard",
+        "lane": "watchlist",
+        "views": 10278,
+        "trend_match": 36,
+        "verdict": "visual",
+        "matched_keywords": [
+          "APEC",
+          "China"
+        ],
+        "media": "video",
+        "followers": 2710520,
+        "topic": null,
+        "self_quote": false,
+        "note": ""
+      },
+      {
+        "id": "2121700929863061886",
+        "handle": "@LillyTellez",
+        "lane": "watchlist",
+        "views": 9727,
+        "trend_match": 20,
+        "verdict": "visual",
+        "matched_keywords": [
+          "cumpleaños"
+        ],
+        "media": "photo",
+        "followers": 1128593,
+        "topic": null,
+        "self_quote": false,
+        "note": ""
+      },
+      {
+        "id": "2121405665751294155",
+        "handle": "@alitomorenoc",
+        "lane": "watchlist",
+        "views": 7201,
+        "trend_match": 20,
+        "verdict": "visual",
+        "matched_keywords": [
+          "Sonora"
+        ],
+        "media": "photo",
+        "followers": 242423,
+        "topic": null,
+        "self_quote": false,
+        "note": ""
+      },
+      {
+        "id": "2121392998500188517",
+        "handle": "@alitomorenoc",
+        "lane": "watchlist",
+        "views": 6230,
+        "trend_match": 20,
+        "verdict": "visual",
+        "matched_keywords": [
+          "Taddei"
+        ],
+        "media": "photo",
+        "followers": 242423,
+        "topic": null,
+        "self_quote": false,
+        "note": ""
+      },
+      {
+        "id": "2121445938975879257",
+        "handle": "@samuel_garcias",
+        "lane": "watchlist",
+        "views": 6156,
+        "trend_match": 0,
+        "verdict": "visual",
+        "matched_keywords": [],
+        "media": "photo",
+        "followers": 444416,
         "topic": null,
         "self_quote": false,
         "note": ""
@@ -1210,14 +1236,14 @@
         "id": "2121395821585318385",
         "handle": "@samuel_garcias",
         "lane": "watchlist",
-        "views": 5103,
+        "views": 6080,
         "trend_match": 20,
         "verdict": "visual",
         "matched_keywords": [
           "seguridad"
         ],
         "media": "photo",
-        "followers": 444408,
+        "followers": 444416,
         "topic": null,
         "self_quote": false,
         "note": ""
@@ -1236,114 +1262,141 @@
     "legend": "Trend match 0-100% = 1 - prod(1 - w) over matched 24 h keywords that another author also used in the 48 h window (w: rank 1-10 0.35, 11-25 0.22, 26-40 0.12, curated 0.20). Verdict: >= 50% -> tendencia; else video/image in the post data -> visual; else >= 100K followers (outsiders without follower data: >= 500K views, estimate) -> autor/audiencia; else coincidencia/otro. Missing data shows as 'sin datos'. Heat = sum log10(views) of topic posts (24 h x1, 24-48 h x0.5), scaled to 100. Momentum = log-views last 24 h / previous 24 h. Trend-input-only accounts feed the corpus but are never shown as hits."
   },
   "imagen_rsp": {
-    "fecha": "2026-11-14 (06:00)",
+    "fecha": "2026-11-14 (17:00)",
     "parcial": false,
-    "ventana": "2026-11-13T11:55Z a 2026-11-14T11:55Z (13 nov 5:55 a.m. a 14 nov 5:55 a.m., hora del centro; 4:55 a.m. a 4:55 a.m. hora de Mazatlán)",
+    "ventana": "2026-11-13T22:53Z a 2026-11-14T22:53Z (13 nov 4:53 p.m. a 14 nov 4:53 p.m., hora del centro; 3:53 p.m. a 3:53 p.m. hora de Mazatlán)",
     "posts_propios": {
+      "originales": 2,
+      "vistas": 458504,
+      "likes": 18152,
+      "reposts": 6205,
+      "respuestas": 1000,
+      "citas": 109,
+      "guardados": 1789,
+      "top": {
+        "url": "https://x.com/RicardoBSalinas/status/2121418477357633663",
+        "vistas": 433381,
+        "texto": "Video: \"Hay una bomba de tiempo en México y el gobierno no te la quiere explicar: las pensiones. Dame dos minutos y te platico...\""
+      },
+      "detalle": [
+        {
+          "url": "https://x.com/RicardoBSalinas/status/2121418477357633663",
+          "vistas": 433381,
+          "likes": 16790,
+          "reposts": 6055,
+          "respuestas": 940,
+          "citas": 108,
+          "guardados": 1778,
+          "nota": "13 nov 7:42 p.m. (hora del centro), video. Contra el corte de las 6:00 (259,857 vistas; 3,765 reposts; 1,178 guardados): +67% vistas, +61% reposts, +51% guardados. La publicación más vista de la lista en la ventana."
+        },
+        {
+          "url": "https://x.com/RicardoBSalinas/status/2121696715204116700",
+          "vistas": 25123,
+          "likes": 1362,
+          "reposts": 150,
+          "respuestas": 60,
+          "citas": 1,
+          "guardados": 11,
+          "nota": "14 nov 2:08 p.m. (hora del centro). Cita al video de cumpleaños de @LillyTellez: \"Felicidades senadora!!! Hay que seguir siendo la voz VALIENTE que pone el ejemplo de lo que está bien.\" Nueva desde las 6:00."
+        }
+      ],
+      "nota": "2 originales en la ventana: 458,504 vistas, 18,152 likes, 6,205 reposts, 1,000 respuestas y 1,789 guardados. Contra el corte de las 6:00 (1 original: 259,857 vistas, 3,765 reposts, 1,178 guardados): +76% vistas, +63% likes, +65% reposts, +52% guardados. Rango 1 de 7 por vistas totales. Cifras leídas de X el 14 nov ~4:55 p.m. (hora del centro)."
+    },
+    "dia_previo_referencia": {
+      "fecha": "2026-11-14 (06:00)",
       "originales": 1,
       "vistas": 259857,
       "likes": 11146,
       "reposts": 3765,
       "respuestas": 542,
       "citas": 69,
-      "guardados": 1178,
-      "top": {
-        "url": "https://x.com/RicardoBSalinas/status/2121418477357633663",
-        "vistas": 259857,
-        "texto": "Video: \"Hay una bomba de tiempo en México y el gobierno no te la quiere explicar: las pensiones. Dame dos minutos y te platico qué está pasando con tu dinero y con tu retiro\""
-      },
-      "detalle": [
-        {
-          "url": "https://x.com/RicardoBSalinas/status/2121418477357633663",
-          "vistas": 259857,
-          "likes": 11146,
-          "reposts": 3765,
-          "respuestas": 542,
-          "citas": 69,
-          "guardados": 1178,
-          "nota": "13 nov 7:42 p.m. (hora del centro), video de ~2 min. Cierra con \"Compártelo\" y menciona a Morena. Lugar 2 de 6 en la lista del día."
-        }
-      ]
-    },
-    "dia_previo_referencia": {
-      "fecha": "2026-11-13 (17:00)",
-      "originales": 1,
-      "vistas": 24000,
-      "likes": 373,
-      "reposts": 63,
-      "respuestas": 26,
-      "nota": "Contra el corte de ayer 5:00 p.m. (1 original, 24,000 vistas, lugar 3 de 6): +983% en vistas con el mismo número de originales; sube al lugar 2 de 6. Contra ayer 6:00 a.m. (328,777 en 5): -21% con 4 posts menos. Posts anteriores siguen creciendo: bitcoin 155,780, \"¡SON UNOS GENIOS!\" 114,638, Taddei 89,049, empleos formales 63,447, volcán 28,216."
+      "guardados": 1178
     },
     "menciones": {
-      "volumen_24h": 4045,
-      "volumen_24h_previas": 7128,
-      "nota_volumen": "Conteo de X para 'Salinas Pliego' / 'Ricardo Salinas' / @RicardoBSalinas, sin reposts, 13 nov 11:55Z a 14 nov 11:55Z: 4,045, -43% contra las 24 h anteriores (7,128) y -17% contra el corte de ayer 5:00 p.m. (4,860). Nuevo mínimo de la semana; el único repunte fue de 8 a 10 p.m. (hora del centro), justo después del video de pensiones (347 y 304 menciones por hora).",
-      "muestra": 46,
-      "excluidas_bots": 8,
-      "excluidas_pro_morena": 9,
-      "excluidas_fuera_de_tema": 4,
-      "excluidas_no_verificadas": 2,
-      "nota_filtro": "Filtro habitual sobre 46 menciones únicas (25 por relevancia y 25 más recientes, 4 repetidas; sin respuestas ni reposts). Bots = una cuenta con 0 seguidores y 1 post, una creada en junio de 2026 con texto sin sentido, una de 2024 con más de 91 mil posts, una con avatar por defecto y 246 mil posts, otra con 183 mil posts que solo replica titulares, una de 2024 con 14 seguidores y dos posts idénticos copiados de YouTube. Pro-Morena = bios \"100% Obradorista\", \"YO CON CLAUDIA\" (3 posts), \"#Obradorista #RedSheinbaum\", \"#AMLOVER\", \"Hasta siempre Don Andrés\", \"comprometido por la transformación\" y una que se declara del movimiento de izquierda contra el PRIAN. Fuera de tema = dos que solo lo etiquetan en listas y dos sin relación clara. No verificadas = una que asegura que está \"en la lista de Epstein\" y un insulto con acusaciones de delitos sin sustento. Quedaron 23: 4 informativas, 3 favorables y 16 críticas o de burla.",
-      "temas": [
-        "Su video de pensiones (\"bomba de tiempo\", deuda real de 81.4 billones) fue retomado por medios: Político MX, DMS Noticias y Azteca Noticias.",
-        "Cuentas críticas empujan apodos de burla (\"#LaPerritaDeTrump\") e insultos; casi todo el ruido negativo viene de cuentas pequeñas.",
-        "Vuelven a circular el fallo de la Corte sobre créditos fiscales (es de noviembre de 2025, no hay resolución nueva confirmada) y señalamientos de la UIF sobre Adamantium y casinos que solo difunden cuentas pro-Morena, sin nota confirmada en la ventana.",
-        "La síntesis oficial de la SCJN del 13 nov registra que la ministra Lenia Batres respondió en X a \"señalamientos difundidos por medios vinculados\" a Salinas Pliego.",
-        "Siguen apareciendo de forma marginal la reunión con Bukele en El Salvador y el video de cuando se emocionó en un discurso."
+      "volumen_24h": 4037,
+      "volumen_24h_previas": 4045,
+      "nota_volumen": "Conteo de X para 'Salinas Pliego' / 'Ricardo Salinas' / @RicardoBSalinas, sin reposts, 13 nov 22:53Z a 14 nov 22:53Z: 4,037, −0.2% contra el corte de las 6:00 (4,045) y −17% contra ayer 5:00 p.m. (4,860). Se mantiene en el mínimo de la semana. Pico de 347 por hora entre 8:00 y 9:00 p.m. del 13 nov (hora del centro, tras el video de pensiones); mínimo de 31 entre 4:00 y 5:00 a.m.; de día entre 180 y 256 por hora.",
+      "muestra": 50,
+      "excluidas_bots": 7,
+      "excluidas_pro_morena": 4,
+      "excluidas_fuera_de_tema": 9,
+      "excluidas_no_verificadas": 1,
+      "nota_filtro": "Filtro habitual sobre 50 menciones únicas (25 por relevancia y 25 más recientes; sin respuestas, sin reposts y sin posts propios). Bots = títulos de YouTube copiados en serie (\"Lilly Téllez hunde a Ricardo Salinas Pliego #shorts\" x3, \"Radio de Hacha\"), una cuenta de 2025 sin bio con 36 mil posts, otra de 3 seguidores y una con 563 mil posts. Pro-Morena = bios \"#AMLOVER\", \"Comprometido con la 4T\", \"Obradorista... Sí soy bot\" y \"ORGULLOSO DE SER OBRADORISTA... #RedSheinbaum\". Fuera de tema = menciones sin contenido o solo enlace, dos notas de El CEO sobre su hermano Guillermo, una petición de apoyo, una queja de Totalplay y una lista de etiquetas. No verificada = \"está en la lista de Epstein\" sin fuente. Quedaron 29: 6 informativas, 3 favorables y 20 críticas.",
+      "temas_principales": [
+        "Video de pensiones: lo retoman como nota Azteca Noticias (9,235 vistas), El Debate y Ovaciones (\"encendió el debate\").",
+        "\"Rodada por la libertad\": burlas por baja asistencia (\"FRACASA LA RODADA\", memes de @NDFrente); sin cifra oficial de asistentes.",
+        "Insultos con #LaPerritaDeTrump y variantes, de cuentas de bajo alcance.",
+        "El Salvador/Bukele: críticas de que \"quiere ser Bukele\" y videos de YouTube sobre la reunión.",
+        "Lilly Téllez lo defendió en el Senado frente a Andy López Beltrán (nota burlona de @evodio33); El Tabasqueño recoge las 30 preguntas de Andy sobre Fobaproa y adeudos.",
+        "Apoyo de bajo alcance: \"PRESIDENTE\", y una cuenta que recuerda el costo al Fobaproa de otras familias empresariales."
       ],
-      "tono": "Mayormente crítico y de burla (16 de 23), pero con volumen bajo; lo favorable viene de cuentas medianas (\"si es quien va a sacar a la mafia de Morena voy con él\": 3,847 vistas) y lo informativo de medios que retomaron el video de pensiones.",
+      "tono": "Volumen estable en mínimo de la semana (−0.2% vs 6:00) y tono crítico: 20 críticas (burlas por la rodada e insultos), 6 informativas (casi todas sobre el video de pensiones) y 3 favorables. Ninguna mención crítica pasó de 250 vistas; la mención más vista es informativa (Azteca Noticias, medio del propio grupo).",
       "menciones_destacadas": [
         {
           "handle": "@AztecaNoticias",
-          "vistas": 5762,
-          "likes": 191,
+          "followers": 1224345,
+          "vistas": 9235,
           "url": "https://x.com/AztecaNoticias/status/2121426104431112473",
           "texto": "\"Hay una bomba de tiempo en México: las pensiones\", advirtió Ricardo Salinas Pliego (informativa; medio de Grupo Salinas)."
         },
         {
-          "handle": "@YoSoySantaAnna",
-          "vistas": 3847,
-          "likes": 440,
-          "url": "https://x.com/YoSoySantaAnna/status/2121336563460157533",
-          "texto": "\"Me era antipático, pero ahora que lo conozco mejor ya me cae bien... si es quien va a sacar a la mafia de Morena voy con él\" (favorable)."
-        },
-        {
-          "handle": "@MCTaquitos",
-          "vistas": 342,
-          "likes": 5,
-          "url": "https://x.com/MCTaquitos/status/2121338337176809681",
-          "texto": "Broma: que él y Elon sean \"presidentes de Norteamérica\" (favorable, tono de broma)."
-        },
-        {
           "handle": "@RaulAragonLoya",
-          "vistas": 149,
-          "likes": 1,
+          "followers": 25353,
+          "vistas": 215,
           "url": "https://x.com/RaulAragonLoya/status/2121488941153190185",
-          "texto": "\"La DEUDA REAL es de 81.4 BILLONES DE PESOS\" (comparte su video; informativa)."
+          "texto": "\"La DEUDA REAL es de 81.4 BILLONES DE PESOS; Ricardo Salinas Pliego\" (informativa)."
         },
         {
-          "handle": "@ATiempoTv",
-          "vistas": 29,
-          "likes": 0,
-          "url": "https://x.com/ATiempoTv/status/2121395184424341577",
-          "texto": "Usa a Paraguay como advertencia sobre poner a un empresario al frente de un país (crítica)."
+          "handle": "@ELDEBATE",
+          "followers": 226387,
+          "vistas": 115,
+          "url": "https://x.com/ELDEBATE/status/2121730558816391259",
+          "texto": "\"Te platico antes de que sea tarde\": advierte sobre una posible bomba de tiempo con las pensiones (informativa)."
+        },
+        {
+          "handle": "@evodio33",
+          "followers": 3639,
+          "vistas": 114,
+          "url": "https://x.com/evodio33/status/2121710977376768119",
+          "texto": "\"¡LILLY SALIÓ AL RESCATE DE SALINAS!\": Téllez lo respaldó en el Senado (crítica/burla)."
+        },
+        {
+          "handle": "@MexicoBRICS",
+          "followers": 2183,
+          "vistas": 268,
+          "url": "https://x.com/MexicoBRICS/status/2121458573129420956",
+          "texto": "(Excluida como no verificada: \"está en la lista de Epstein\", sin fuente.)"
+        },
+        {
+          "handle": "@Remi74431179753",
+          "followers": 1016,
+          "vistas": 39,
+          "url": "https://x.com/Remi74431179753/status/2121702640451276836",
+          "texto": "\"FRACASA LA RODADA DE RICARDO SALINAS PLIEGO\" (crítica)."
+        },
+        {
+          "handle": "@jesusgsoriano",
+          "followers": 2522,
+          "vistas": 63,
+          "url": "https://x.com/jesusgsoriano/status/2121708546614051017",
+          "texto": "\"RESCATANDO A MÉXICO TODOS CON RICARDO SALINAS PLIEGO. PRESIDENTE\" (favorable)."
+        }
+      ],
+      "medios": [
+        {
+          "texto": "Azteca Noticias (en X): \"Hay una bomba de tiempo en México: las pensiones\"",
+          "url": "https://x.com/AztecaNoticias/status/2121426104431112473"
+        },
+        {
+          "texto": "El Debate (en X): Salinas Pliego advierte sobre las pensiones",
+          "url": "https://x.com/ELDEBATE/status/2121730558816391259"
+        },
+        {
+          "texto": "Ovaciones (en X): ¿Las pensiones son una bomba de tiempo?",
+          "url": "https://x.com/ovaciones/status/2121721081652498825"
         }
       ]
-    },
-    "medios": [
-      {
-        "texto": "Político MX: Salinas Pliego advierte 'bomba de tiempo' con las pensiones",
-        "url": "https://politico.mx/2026/11/14/salinas-pliego-advierte-bomba-de-tiempo-con-las-pensiones/"
-      },
-      {
-        "texto": "DMS Noticias: advierte sobre \"bomba de tiempo\" en el sistema de pensiones",
-        "url": "https://dmsnoticias.com/salinas-pliego-advierte-sobre-bomba-de-tiempo-en-el-sistema-de-pensiones/"
-      },
-      {
-        "texto": "SCJN, síntesis informativa del 13 nov 2026 (respuesta de Lenia Batres)",
-        "url": "https://www.scjn.gob.mx/sites/default/files/sintesis-informativa/2026-11/SintesisInformativaPDF13noviembre2026_1.pdf"
-      }
-    ]
+    }
   },
   "rivales": {
     "fecha": "2026-11-14 (06:00)",
@@ -1499,18 +1552,18 @@
         {
           "handle": "@ricardobsalinas",
           "name": "Ricardo B. Salinas",
-          "hits": 16,
+          "hits": 17,
           "days": 6,
-          "views": 3970562,
+          "views": 4169209,
           "best": 1760231,
           "best_url": "https://x.com/RicardoBSalinas/status/2120331518199447789"
         },
         {
           "handle": "@LillyTellez",
           "name": "Lilly Téllez",
-          "hits": 24,
-          "days": 6,
-          "views": 1800840,
+          "hits": 26,
+          "days": 7,
+          "views": 1873830,
           "best": 362891,
           "best_url": "https://x.com/LillyTellez/status/2120337524786864251"
         },
@@ -1519,7 +1572,7 @@
           "name": "Claudia Sheinbaum Pardo",
           "hits": 19,
           "days": 7,
-          "views": 1488916,
+          "views": 1522268,
           "best": 233089,
           "best_url": "https://x.com/Claudiashein/status/2120258954454532534"
         },
@@ -1535,9 +1588,9 @@
         {
           "handle": "@JorgeRoHe",
           "name": "Jorge Romero Herrera",
-          "hits": 41,
-          "days": 6,
-          "views": 911853,
+          "hits": 45,
+          "days": 7,
+          "views": 977841,
           "best": 209875,
           "best_url": "https://x.com/JorgeRoHe/status/2120347226606067917"
         },
@@ -1553,27 +1606,27 @@
         {
           "handle": "@alitomorenoc",
           "name": "Alejandro Moreno",
-          "hits": 8,
-          "days": 5,
-          "views": 143209,
+          "hits": 10,
+          "days": 6,
+          "views": 156640,
           "best": 53238,
           "best_url": "https://x.com/alitomorenoc/status/2120010357557084286"
         },
         {
           "handle": "@m_ebrard",
           "name": "Marcelo Ebrard C.",
-          "hits": 9,
-          "days": 3,
-          "views": 124659,
+          "hits": 10,
+          "days": 4,
+          "views": 134937,
           "best": 35183,
           "best_url": "https://x.com/m_ebrard/status/2120891299964620887"
         },
         {
           "handle": "@samuel_garcias",
           "name": "Samuel García",
-          "hits": 12,
+          "hits": 13,
           "days": 7,
-          "views": 111656,
+          "views": 118789,
           "best": 15350,
           "best_url": "https://x.com/samuel_garcias/status/2120534327771398271"
         }
@@ -1589,9 +1642,9 @@
         {
           "handle": "@ricardobsalinas",
           "name": "Ricardo B. Salinas",
-          "hits": 42,
+          "hits": 43,
           "days": 13,
-          "views": 6699093,
+          "views": 6897740,
           "best": 1760231,
           "best_url": "https://x.com/RicardoBSalinas/status/2120331518199447789"
         },
@@ -1600,16 +1653,16 @@
           "name": "Claudia Sheinbaum Pardo",
           "hits": 34,
           "days": 14,
-          "views": 2858453,
+          "views": 2891805,
           "best": 233089,
           "best_url": "https://x.com/Claudiashein/status/2120258954454532534"
         },
         {
           "handle": "@LillyTellez",
           "name": "Lilly Téllez",
-          "hits": 31,
-          "days": 10,
-          "views": 2041673,
+          "hits": 33,
+          "days": 11,
+          "views": 2114663,
           "best": 362891,
           "best_url": "https://x.com/LillyTellez/status/2120337524786864251"
         },
@@ -1625,18 +1678,18 @@
         {
           "handle": "@JorgeRoHe",
           "name": "Jorge Romero Herrera",
-          "hits": 88,
-          "days": 13,
-          "views": 1664983,
+          "hits": 92,
+          "days": 14,
+          "views": 1730971,
           "best": 209875,
           "best_url": "https://x.com/JorgeRoHe/status/2120347226606067917"
         },
         {
           "handle": "@samuel_garcias",
           "name": "Samuel García",
-          "hits": 47,
+          "hits": 48,
           "days": 14,
-          "views": 631474,
+          "views": 638607,
           "best": 109340,
           "best_url": "https://x.com/samuel_garcias/status/2117446693444571350"
         },
@@ -1652,18 +1705,18 @@
         {
           "handle": "@alitomorenoc",
           "name": "Alejandro Moreno",
-          "hits": 21,
-          "days": 11,
-          "views": 345494,
+          "hits": 23,
+          "days": 12,
+          "views": 358925,
           "best": 62409,
           "best_url": "https://x.com/alitomorenoc/status/2117029935952826663"
         },
         {
           "handle": "@m_ebrard",
           "name": "Marcelo Ebrard C.",
-          "hits": 22,
-          "days": 7,
-          "views": 209523,
+          "hits": 23,
+          "days": 8,
+          "views": 219801,
           "best": 35183,
           "best_url": "https://x.com/m_ebrard/status/2120891299964620887"
         },

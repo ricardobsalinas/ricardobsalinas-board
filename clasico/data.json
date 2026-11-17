@@ -34,55 +34,25 @@
   "virals_window": "últimas 24 h",
   "virals_target": 20,
   "timezone": "America/Mexico_City",
-  "title": "Digest de la tarde en X — 2026-11-16",
-  "date": "2026-11-16",
-  "updated": "2026-11-16T16:50:17-06:00",
+  "title": "Digest de la mañana en X — 2026-11-17",
+  "date": "2026-11-17",
+  "updated": "2026-11-17T05:54:29-06:00",
   "hits": [
-    {
-      "id": "2122205377345605643",
-      "handle": "@Claudiashein",
-      "display_name": "Claudia Sheinbaum Pardo",
-      "name": "Claudia Sheinbaum Pardo",
-      "followers": 5258879,
-      "text": "Recibimiento en la Cumbre de la APEC China 2026 en la ciudad de Shenzhen. 🙏🏽 https://t.co/2DBUTofx0z",
-      "original_en": "Recibimiento en la Cumbre de la APEC China 2026 en la ciudad de Shenzhen. 🙏🏽 https://t.co/2DBUTofx0z",
-      "views": 846081,
-      "views_label": "846,081",
-      "likes": 21822,
-      "reposts": 3826,
-      "replies": 800,
-      "quotes": 270,
-      "bookmarks": 873,
-      "url": "https://x.com/Claudiashein/status/2122205377345605643",
-      "status_url": "https://x.com/Claudiashein/status/2122205377345605643",
-      "created_local": "2026-11-15 23:49",
-      "created_at": "2026-11-16T05:49:25.000Z",
-      "posted_at": "2026-11-16T05:49:25.000Z",
-      "lang": "es",
-      "media": [
-        "video"
-      ],
-      "star": true,
-      "highlight": true,
-      "quote": false,
-      "top10_rank": 1,
-      "category": "Internacional"
-    },
     {
       "id": "2122307435021078710",
       "handle": "@Claudiashein",
       "display_name": "Claudia Sheinbaum Pardo",
       "name": "Claudia Sheinbaum Pardo",
-      "followers": 5258879,
+      "followers": 5259562,
       "text": "Nos reunimos con mexicanas y mexicanos que viven y trabajan en China. Todas y todos son un orgullo para México. https://t.co/WGJVKwlZgq",
       "original_en": "Nos reunimos con mexicanas y mexicanos que viven y trabajan en China. Todas y todos son un orgullo para México. https://t.co/WGJVKwlZgq",
-      "views": 226681,
-      "views_label": "226,681",
-      "likes": 10187,
-      "reposts": 2636,
-      "replies": 546,
-      "quotes": 195,
-      "bookmarks": 311,
+      "views": 331452,
+      "views_label": "331,452",
+      "likes": 13414,
+      "reposts": 3330,
+      "replies": 772,
+      "quotes": 239,
+      "bookmarks": 412,
       "url": "https://x.com/Claudiashein/status/2122307435021078710",
       "status_url": "https://x.com/Claudiashein/status/2122307435021078710",
       "created_local": "2026-11-16 06:34",
@@ -95,15 +65,85 @@
       "star": true,
       "highlight": true,
       "quote": false,
-      "draft_en": "El talento mexicano no tiene fronteras. Donde hay un mexicano que trabaja duro, se abre una oportunidad para muchos más.\nNo pidas permiso para pensar en grande: el mundo está esperando lo que sabes hacer. ¿Hasta dónde vas a llevar tu talento? 🇲🇽🌎",
-      "video_tip": "Video vertical de 15 s: manos de distintos oficios (cocinera, ingeniera, mecánico, programador) en cortes rápidos y un mapa que se ilumina desde México hacia el mundo; rótulos grandes \"Talento\" · \"Trabajo\" · \"Sin fronteras\". Cierra con la pregunta en pantalla. Sin personas públicas, partidos ni logotipos.",
+      "top10_rank": 1,
+      "category": "Internacional"
+    },
+    {
+      "id": "2122550056276652273",
+      "handle": "@Claudiashein",
+      "display_name": "Claudia Sheinbaum Pardo",
+      "name": "Claudia Sheinbaum Pardo",
+      "followers": 5259562,
+      "text": "Desde Shenzhen, China, les comparto mi participación en APEC CEO Summit 2026; en representación de México, expusimos a líderes económicos y empresarios del mundo que el desarrollo con bienestar es posible. https://t.co/3AEDA9Wve3",
+      "original_en": "Desde Shenzhen, China, les comparto mi participación en APEC CEO Summit 2026; en representación de México, expusimos a líderes económicos y empresarios del mundo que el desarrollo con bienestar es posible. https://t.co/3AEDA9Wve3",
+      "views": 182147,
+      "views_label": "182,147",
+      "likes": 10402,
+      "reposts": 3055,
+      "replies": 455,
+      "quotes": 206,
+      "bookmarks": 697,
+      "url": "https://x.com/Claudiashein/status/2122550056276652273",
+      "status_url": "https://x.com/Claudiashein/status/2122550056276652273",
+      "created_local": "2026-11-16 22:39",
+      "created_at": "2026-11-17T04:39:03.000Z",
+      "posted_at": "2026-11-17T04:39:03.000Z",
+      "lang": "es",
+      "media": [
+        "video"
+      ],
+      "star": true,
+      "highlight": true,
+      "quote": false,
+      "draft_en": "La prosperidad no se decreta: se construye. Cada negocio que abre, cada empleo que se crea y cada peso que se invierte con confianza es un paso hacia un México más próspero.\nEl desarrollo lo hacen los que se atreven a emprender. ¿Qué vas a construir esta semana? 🏗️🇲🇽",
+      "video_tip": "Video vertical de 15 s: una cortina de negocio que se levanta al amanecer, manos que firman un pedido, un almacén con movimiento y un equipo que celebra; rótulos grandes \"Emprende\" · \"Invierte\" · \"Crece\". Cierra con la pregunta en pantalla. Sin personas públicas, partidos ni logotipos.",
       "draft_keywords": [
-        "talento mexicano",
-        "orgullo",
-        "oportunidades",
-        "pensar en grande"
+        "prosperidad",
+        "emprender",
+        "empleo",
+        "inversión"
       ],
       "top10_rank": 2,
+      "category": "Internacional"
+    },
+    {
+      "id": "2122616597814956234",
+      "handle": "@Claudiashein",
+      "display_name": "Claudia Sheinbaum Pardo",
+      "name": "Claudia Sheinbaum Pardo",
+      "followers": 5259562,
+      "text": "Reunión con el presidente Xi Jinping y su gabinete. Hablamos de una nueva era de cooperación para el desarrollo en las relaciones México-China. https://t.co/ucrYYb7BSe",
+      "original_en": "Reunión con el presidente Xi Jinping y su gabinete. Hablamos de una nueva era de cooperación para el desarrollo en las relaciones México-China. https://t.co/ucrYYb7BSe",
+      "views": 101106,
+      "views_label": "101,106",
+      "likes": 4351,
+      "reposts": 819,
+      "replies": 145,
+      "quotes": 49,
+      "bookmarks": 145,
+      "url": "https://x.com/Claudiashein/status/2122616597814956234",
+      "status_url": "https://x.com/Claudiashein/status/2122616597814956234",
+      "created_local": "2026-11-17 03:03",
+      "created_at": "2026-11-17T09:03:27.000Z",
+      "posted_at": "2026-11-17T09:03:27.000Z",
+      "lang": "es",
+      "media": [
+        "photo",
+        "photo",
+        "photo"
+      ],
+      "star": true,
+      "highlight": true,
+      "quote": false,
+      "draft_en": "Toda nueva etapa empieza con una decisión: dejar de esperar y ponerse a construir. Los grandes acuerdos se logran con preparación, palabra y visión de largo plazo.\nEn los negocios y en la vida, el que tiene un plan llega más lejos. ¿Cuál es el tuyo? 🤝📈",
+      "video_tip": "Video vertical de 15 s: un apretón de manos en una mesa de trabajo, una libreta con un plan escrito a mano, un calendario que avanza rápido y una obra que pasa de cimientos a edificio terminado; rótulos \"Decide\" · \"Planea\" · \"Cumple tu palabra\". Sin personas públicas, partidos ni logotipos.",
+      "draft_keywords": [
+        "nueva etapa",
+        "decisión",
+        "palabra",
+        "visión"
+      ],
+      "top10_rank": 3,
       "category": "Internacional"
     },
     {
@@ -111,16 +151,16 @@
       "handle": "@RicardoBSalinas",
       "display_name": "Don Ricardo Salinas Pliego",
       "name": "Don Ricardo Salinas Pliego",
-      "followers": 2238840,
+      "followers": 2238768,
       "text": "Buenos dias! https://t.co/OpMkB9nUBF",
       "original_en": "Buenos dias! https://t.co/OpMkB9nUBF",
-      "views": 69115,
-      "views_label": "69,115",
-      "likes": 2732,
-      "reposts": 696,
-      "replies": 107,
+      "views": 100161,
+      "views_label": "100,161",
+      "likes": 3922,
+      "reposts": 1032,
+      "replies": 139,
       "quotes": 5,
-      "bookmarks": 37,
+      "bookmarks": 49,
       "url": "https://x.com/RicardoBSalinas/status/2122356992023155086",
       "status_url": "https://x.com/RicardoBSalinas/status/2122356992023155086",
       "created_local": "2026-11-16 09:51",
@@ -131,122 +171,52 @@
       "star": true,
       "highlight": true,
       "quote": true,
-      "draft_en": "¡Buenos días! Arranca la semana: la libertad se ejerce todos los días, eligiendo trabajar, aprender y emprender aunque nadie te obligue.\nEl que madruga con un propósito ya lleva ventaja. ¿Cuál es tu meta de esta semana? ☀️🇲🇽",
-      "video_tip": "Video vertical de 10 a 15 s: amanecer, una taza de café, la cortina de un negocio que se levanta y una mano que escribe su meta en una libreta; texto grande \"Buenos días\" al inicio y la pregunta al final. Sin personas públicas, partidos ni logotipos.",
-      "draft_keywords": [
-        "Buenos días",
-        "libertad",
-        "emprender",
-        "propósito"
-      ],
-      "top10_rank": 3,
+      "top10_rank": 4,
       "category": "Otros"
     },
     {
-      "id": "2122169143608905896",
-      "handle": "@m_ebrard",
-      "display_name": "Marcelo Ebrard C.",
-      "name": "Marcelo Ebrard C.",
-      "followers": 2710558,
-      "text": "En ruta para recibir a nuestra Presidenta , Dra Claudia Sheinbaum Pardo ,en el Aeropuerto de Shenzhen , China , para dar inicio a su participación en la APEC 2026z https://t.co/jO2HU3dXTO",
-      "original_en": "En ruta para recibir a nuestra Presidenta , Dra Claudia Sheinbaum Pardo ,en el Aeropuerto de Shenzhen , China , para dar inicio a su participación en la APEC 2026z https://t.co/jO2HU3dXTO",
-      "views": 25419,
-      "views_label": "25,419",
-      "likes": 671,
-      "reposts": 109,
-      "replies": 35,
-      "quotes": 5,
-      "bookmarks": 18,
-      "url": "https://x.com/m_ebrard/status/2122169143608905896",
-      "status_url": "https://x.com/m_ebrard/status/2122169143608905896",
-      "created_local": "2026-11-15 21:25",
-      "created_at": "2026-11-16T03:25:26.000Z",
-      "posted_at": "2026-11-16T03:25:26.000Z",
+      "id": "2122520116416192822",
+      "handle": "@RicardoBSalinas",
+      "display_name": "Don Ricardo Salinas Pliego",
+      "name": "Don Ricardo Salinas Pliego",
+      "followers": 2238768,
+      "text": "Sin palabras 🤐 https://t.co/gYrag8UZv4",
+      "original_en": "Sin palabras 🤐 https://t.co/gYrag8UZv4",
+      "views": 60526,
+      "views_label": "60,526",
+      "likes": 2709,
+      "reposts": 440,
+      "replies": 146,
+      "quotes": 13,
+      "bookmarks": 27,
+      "url": "https://x.com/RicardoBSalinas/status/2122520116416192822",
+      "status_url": "https://x.com/RicardoBSalinas/status/2122520116416192822",
+      "created_local": "2026-11-16 20:40",
+      "created_at": "2026-11-17T02:40:04.000Z",
+      "posted_at": "2026-11-17T02:40:04.000Z",
       "lang": "es",
-      "media": [
-        "video"
-      ],
+      "media": [],
       "star": true,
       "highlight": true,
-      "quote": false,
-      "top10_rank": 4,
-      "category": "Economía y empleo"
-    },
-    {
-      "id": "2122120011632513468",
-      "handle": "@m_ebrard",
-      "display_name": "Marcelo Ebrard C.",
-      "name": "Marcelo Ebrard C.",
-      "followers": 2710558,
-      "text": "APEC 2026 en China https://t.co/Nme2pbpPEh",
-      "original_en": "APEC 2026 en China https://t.co/Nme2pbpPEh",
-      "views": 24364,
-      "views_label": "24,364",
-      "likes": 809,
-      "reposts": 167,
-      "replies": 20,
-      "quotes": 3,
-      "bookmarks": 21,
-      "url": "https://x.com/m_ebrard/status/2122120011632513468",
-      "status_url": "https://x.com/m_ebrard/status/2122120011632513468",
-      "created_local": "2026-11-15 18:10",
-      "created_at": "2026-11-16T00:10:12.000Z",
-      "posted_at": "2026-11-16T00:10:12.000Z",
-      "lang": null,
-      "media": [
-        "video"
-      ],
-      "star": true,
-      "highlight": true,
-      "quote": false,
+      "quote": true,
       "top10_rank": 5,
-      "category": "Internacional"
-    },
-    {
-      "id": "2122179579200889232",
-      "handle": "@m_ebrard",
-      "display_name": "Marcelo Ebrard C.",
-      "name": "Marcelo Ebrard C.",
-      "followers": 2710558,
-      "text": "Preparativos para recibir a la Presidenta de México, Dra Claudia Sheinbaum Pardo , en China 🇲🇽🇨🇳 https://t.co/PyXnJ5x1oP",
-      "original_en": "Preparativos para recibir a la Presidenta de México, Dra Claudia Sheinbaum Pardo , en China 🇲🇽🇨🇳 https://t.co/PyXnJ5x1oP",
-      "views": 23915,
-      "views_label": "23,915",
-      "likes": 1011,
-      "reposts": 139,
-      "replies": 44,
-      "quotes": 3,
-      "bookmarks": 25,
-      "url": "https://x.com/m_ebrard/status/2122179579200889232",
-      "status_url": "https://x.com/m_ebrard/status/2122179579200889232",
-      "created_local": "2026-11-15 22:06",
-      "created_at": "2026-11-16T04:06:54.000Z",
-      "posted_at": "2026-11-16T04:06:54.000Z",
-      "lang": "es",
-      "media": [
-        "video"
-      ],
-      "star": true,
-      "highlight": true,
-      "quote": false,
-      "top10_rank": 6,
-      "category": "Economía y empleo"
+      "category": "Otros"
     },
     {
       "id": "2122398469751275826",
       "handle": "@m_ebrard",
       "display_name": "Marcelo Ebrard C.",
       "name": "Marcelo Ebrard C.",
-      "followers": 2710558,
+      "followers": 2710519,
       "text": "Con la comunidad mexicana en Shenzhen, China https://t.co/C1btXk0TPV",
       "original_en": "Con la comunidad mexicana en Shenzhen, China https://t.co/C1btXk0TPV",
-      "views": 18736,
-      "views_label": "18,736",
-      "likes": 421,
-      "reposts": 55,
-      "replies": 34,
-      "quotes": 4,
-      "bookmarks": 5,
+      "views": 39452,
+      "views_label": "39,452",
+      "likes": 893,
+      "reposts": 101,
+      "replies": 53,
+      "quotes": 7,
+      "bookmarks": 10,
       "url": "https://x.com/m_ebrard/status/2122398469751275826",
       "status_url": "https://x.com/m_ebrard/status/2122398469751275826",
       "created_local": "2026-11-16 12:36",
@@ -259,29 +229,59 @@
       "star": true,
       "highlight": true,
       "quote": false,
-      "top10_rank": 7,
+      "top10_rank": 6,
       "category": "Internacional"
     },
     {
-      "id": "2122121116680687795",
-      "handle": "@JorgeRoHe",
-      "display_name": "Jorge Romero Herrera",
-      "name": "Jorge Romero Herrera",
-      "followers": 105587,
-      "text": "Un gusto coincidir con grandes amigos de @AccionNacional en el informe #5AñosImparables de @giogutierrezag.\n\nSeguimos acompañando y reconociendo el trabajo que se realiza desde Coyoacán. \n\n¡Enhorabuena, Gio! https://t.co/sGH5Ne8JDx",
-      "original_en": "Un gusto coincidir con grandes amigos de @AccionNacional en el informe #5AñosImparables de @giogutierrezag.\n\nSeguimos acompañando y reconociendo el trabajo que se realiza desde Coyoacán. \n\n¡Enhorabuena, Gio! https://t.co/sGH5Ne8JDx",
-      "views": 17926,
-      "views_label": "17,926",
-      "likes": 253,
-      "reposts": 94,
-      "replies": 8,
-      "quotes": 0,
-      "bookmarks": 1,
-      "url": "https://x.com/JorgeRoHe/status/2122121116680687795",
-      "status_url": "https://x.com/JorgeRoHe/status/2122121116680687795",
-      "created_local": "2026-11-15 18:14",
-      "created_at": "2026-11-16T00:14:35.000Z",
-      "posted_at": "2026-11-16T00:14:35.000Z",
+      "id": "2122567612228071570",
+      "handle": "@m_ebrard",
+      "display_name": "Marcelo Ebrard C.",
+      "name": "Marcelo Ebrard C.",
+      "followers": 2710519,
+      "text": "La Presidenta Claudia Sheinbaum ante la comunidad empresarial de la APEC . Tuvo gran acogida , México presente y exitoso 🇲🇽 🇲🇽👏👏 https://t.co/zOIcrEino0",
+      "original_en": "La Presidenta Claudia Sheinbaum ante la comunidad empresarial de la APEC . Tuvo gran acogida , México presente y exitoso 🇲🇽 🇲🇽👏👏 https://t.co/zOIcrEino0",
+      "views": 37973,
+      "views_label": "37,973",
+      "likes": 1368,
+      "reposts": 207,
+      "replies": 30,
+      "quotes": 7,
+      "bookmarks": 21,
+      "url": "https://x.com/m_ebrard/status/2122567612228071570",
+      "status_url": "https://x.com/m_ebrard/status/2122567612228071570",
+      "created_local": "2026-11-16 23:48",
+      "created_at": "2026-11-17T05:48:48.000Z",
+      "posted_at": "2026-11-17T05:48:48.000Z",
+      "lang": "es",
+      "media": [
+        "photo"
+      ],
+      "star": true,
+      "highlight": true,
+      "quote": false,
+      "top10_rank": 7,
+      "category": "Economía y empleo"
+    },
+    {
+      "id": "2122475091351212502",
+      "handle": "@m_ebrard",
+      "display_name": "Marcelo Ebrard C.",
+      "name": "Marcelo Ebrard C.",
+      "followers": 2710519,
+      "text": "Con Gabo , principal promotor de México en Shenzhen , tipazo  !! https://t.co/nowmXlkri5",
+      "original_en": "Con Gabo , principal promotor de México en Shenzhen , tipazo  !! https://t.co/nowmXlkri5",
+      "views": 28834,
+      "views_label": "28,834",
+      "likes": 1617,
+      "reposts": 149,
+      "replies": 27,
+      "quotes": 1,
+      "bookmarks": 16,
+      "url": "https://x.com/m_ebrard/status/2122475091351212502",
+      "status_url": "https://x.com/m_ebrard/status/2122475091351212502",
+      "created_local": "2026-11-16 17:41",
+      "created_at": "2026-11-16T23:41:10.000Z",
+      "posted_at": "2026-11-16T23:41:10.000Z",
       "lang": "es",
       "media": [
         "photo"
@@ -290,50 +290,83 @@
       "highlight": true,
       "quote": false,
       "top10_rank": 8,
-      "category": "Motivación y liderazgo"
+      "category": "Otros"
     },
     {
-      "id": "2122116623943229697",
-      "handle": "@JorgeRoHe",
-      "display_name": "Jorge Romero Herrera",
-      "name": "Jorge Romero Herrera",
-      "followers": 105587,
-      "text": "Felicidades, mi muy querido alcalde de Coyoacán, @giogutierrezag, por tu 2do. Informe de Actividades en esta segunda administración. ¡Enhorabuena por estos #5AñosImparables!\n\nSeguiremos trabajando por un México mejor.\n\n#BuenosGobiernosPAN https://t.co/mttf5GD4MG",
-      "original_en": "Felicidades, mi muy querido alcalde de Coyoacán, @giogutierrezag, por tu 2do. Informe de Actividades en esta segunda administración. ¡Enhorabuena por estos #5AñosImparables!\n\nSeguiremos trabajando por un México mejor.\n\n#BuenosGobiernosPAN https://t.co/mttf5GD4MG",
-      "views": 14602,
-      "views_label": "14,602",
-      "likes": 324,
-      "reposts": 102,
-      "replies": 19,
-      "quotes": 0,
-      "bookmarks": 1,
-      "url": "https://x.com/JorgeRoHe/status/2122116623943229697",
-      "status_url": "https://x.com/JorgeRoHe/status/2122116623943229697",
-      "created_local": "2026-11-15 17:56",
-      "created_at": "2026-11-15T23:56:44.000Z",
-      "posted_at": "2026-11-15T23:56:44.000Z",
-      "lang": null,
+      "id": "2122541488261493059",
+      "handle": "@RicardoBSalinas",
+      "display_name": "Don Ricardo Salinas Pliego",
+      "name": "Don Ricardo Salinas Pliego",
+      "followers": 2238768,
+      "text": "Llegamos de visita a #Colombia 😎 https://t.co/JrVYAYllgg",
+      "original_en": "Llegamos de visita a #Colombia 😎 https://t.co/JrVYAYllgg",
+      "views": 24556,
+      "views_label": "24,556",
+      "likes": 1036,
+      "reposts": 83,
+      "replies": 80,
+      "quotes": 4,
+      "bookmarks": 9,
+      "url": "https://x.com/RicardoBSalinas/status/2122541488261493059",
+      "status_url": "https://x.com/RicardoBSalinas/status/2122541488261493059",
+      "created_local": "2026-11-16 22:05",
+      "created_at": "2026-11-17T04:05:00.000Z",
+      "posted_at": "2026-11-17T04:05:00.000Z",
+      "lang": "es",
       "media": [
-        "video"
+        "photo"
       ],
       "star": true,
       "highlight": true,
       "quote": false,
       "top10_rank": 9,
-      "category": "Gobierno y políticas públicas"
+      "category": "Internacional"
+    },
+    {
+      "id": "2122353841525973486",
+      "handle": "@alitomorenoc",
+      "display_name": "Alejandro Moreno",
+      "name": "Alejandro Moreno",
+      "followers": 242365,
+      "text": "¡Les saludo desde El Salvador! 🇸🇻 Esta mañana participamos en la inauguración de la II Conferencia Internacional sobre Estado y Democracia, encabezada por el Vicepresidente de la República, Félix Ulloa (@fulloa51), en la que conoceremos la experiencia salvadoreña y los resultados de su estrategia de seguridad.\n\nEs muy importante conocer de primera mano el trabajo que, bajo el liderazgo del Presidente @nayibbukele, se ha impulsado para combatir a la delincuencia y recuperar la tranquilidad de las familias salvadoreñas. El Salvador es hoy un referente internacional en el debate sobre seguridad ciudadana, y este encuentro representa una gran oportunidad para intercambiar experiencias, fortalecer la cooperación y aprender de las políticas que se han puesto en marcha en nuestra región.",
+      "original_en": "¡Les saludo desde El Salvador! 🇸🇻 Esta mañana participamos en la inauguración de la II Conferencia Internacional sobre Estado y Democracia, encabezada por el Vicepresidente de la República, Félix Ulloa (@fulloa51), en la que conoceremos la experiencia salvadoreña y los resultados de su estrategia de seguridad.\n\nEs muy importante conocer de primera mano el trabajo que, bajo el liderazgo del Presidente @nayibbukele, se ha impulsado para combatir a la delincuencia y recuperar la tranquilidad de las familias salvadoreñas. El Salvador es hoy un referente internacional en el debate sobre seguridad ciudadana, y este encuentro representa una gran oportunidad para intercambiar experiencias, fortalecer la cooperación y aprender de las políticas que se han puesto en marcha en nuestra región.",
+      "views": 14906,
+      "views_label": "14,906",
+      "likes": 321,
+      "reposts": 109,
+      "replies": 122,
+      "quotes": 8,
+      "bookmarks": 5,
+      "url": "https://x.com/alitomorenoc/status/2122353841525973486",
+      "status_url": "https://x.com/alitomorenoc/status/2122353841525973486",
+      "created_local": "2026-11-16 09:39",
+      "created_at": "2026-11-16T15:39:21.000Z",
+      "posted_at": "2026-11-16T15:39:21.000Z",
+      "lang": "es",
+      "media": [
+        "photo",
+        "photo",
+        "photo",
+        "photo"
+      ],
+      "star": true,
+      "highlight": true,
+      "quote": false,
+      "top10_rank": 10,
+      "category": "Elecciones e INE"
     },
     {
       "id": "2122363362608812455",
       "handle": "@JorgeRoHe",
       "display_name": "Jorge Romero Herrera",
       "name": "Jorge Romero Herrera",
-      "followers": 105587,
+      "followers": 105584,
       "text": "Así vivimos el informe #5AñosImparables de mi querido @giogutierrezag. \n\nUn gusto acompañarlo y ser testigo de los resultados que hacen de Coyoacán una de las alcaldías con los mejores #BuenosGobiernosPAN. \n\n¡Vamos por más! https://t.co/NGXCth73Jp",
       "original_en": "Así vivimos el informe #5AñosImparables de mi querido @giogutierrezag. \n\nUn gusto acompañarlo y ser testigo de los resultados que hacen de Coyoacán una de las alcaldías con los mejores #BuenosGobiernosPAN. \n\n¡Vamos por más! https://t.co/NGXCth73Jp",
-      "views": 13700,
-      "views_label": "13,700",
-      "likes": 267,
-      "reposts": 106,
+      "views": 13883,
+      "views_label": "13,883",
+      "likes": 279,
+      "reposts": 110,
       "replies": 10,
       "quotes": 0,
       "bookmarks": 0,
@@ -349,244 +382,52 @@
       "star": true,
       "highlight": true,
       "quote": false,
-      "top10_rank": 10,
       "category": "Gobierno y políticas públicas"
     },
     {
-      "id": "2122196507818619384",
+      "id": "2122451899702243745",
       "handle": "@m_ebrard",
       "display_name": "Marcelo Ebrard C.",
       "name": "Marcelo Ebrard C.",
-      "followers": 2710558,
-      "text": "Llegó nuestra Presidenta a Shenzhen ,China : https://t.co/bwX2XLN0lQ",
-      "original_en": "Llegó nuestra Presidenta a Shenzhen ,China : https://t.co/bwX2XLN0lQ",
-      "views": 12710,
-      "views_label": "12,710",
-      "likes": 200,
-      "reposts": 32,
-      "replies": 38,
-      "quotes": 2,
-      "bookmarks": 4,
-      "url": "https://x.com/m_ebrard/status/2122196507818619384",
-      "status_url": "https://x.com/m_ebrard/status/2122196507818619384",
-      "created_local": "2026-11-15 23:14",
-      "created_at": "2026-11-16T05:14:10.000Z",
-      "posted_at": "2026-11-16T05:14:10.000Z",
+      "followers": 2710519,
+      "text": "Ernesto  Treviño , la cocina mexicana se abre paso en China https://t.co/Q7veqSN8Pm",
+      "original_en": "Ernesto  Treviño , la cocina mexicana se abre paso en China https://t.co/Q7veqSN8Pm",
+      "views": 12287,
+      "views_label": "12,287",
+      "likes": 453,
+      "reposts": 140,
+      "replies": 12,
+      "quotes": 1,
+      "bookmarks": 15,
+      "url": "https://x.com/m_ebrard/status/2122451899702243745",
+      "status_url": "https://x.com/m_ebrard/status/2122451899702243745",
+      "created_local": "2026-11-16 16:09",
+      "created_at": "2026-11-16T22:09:00.000Z",
+      "posted_at": "2026-11-16T22:09:00.000Z",
       "lang": "es",
-      "media": [],
+      "media": [
+        "video"
+      ],
       "star": true,
       "highlight": true,
-      "quote": true,
+      "quote": false,
       "category": "Internacional"
-    },
-    {
-      "id": "2122196420271002113",
-      "handle": "@m_ebrard",
-      "display_name": "Marcelo Ebrard C.",
-      "name": "Marcelo Ebrard C.",
-      "followers": 2710558,
-      "text": "Arribo de la Presidenta Claudia Sheinbaum a Shenzhen , China, para participar en APEC 2026 https://t.co/onITTiifqK",
-      "original_en": "Arribo de la Presidenta Claudia Sheinbaum a Shenzhen , China, para participar en APEC 2026 https://t.co/onITTiifqK",
-      "views": 11758,
-      "views_label": "11,758",
-      "likes": 396,
-      "reposts": 76,
-      "replies": 18,
-      "quotes": 1,
-      "bookmarks": 6,
-      "url": "https://x.com/m_ebrard/status/2122196420271002113",
-      "status_url": "https://x.com/m_ebrard/status/2122196420271002113",
-      "created_local": "2026-11-15 23:13",
-      "created_at": "2026-11-16T05:13:49.000Z",
-      "posted_at": "2026-11-16T05:13:49.000Z",
-      "lang": "es",
-      "media": [
-        "video"
-      ],
-      "star": true,
-      "highlight": true,
-      "quote": false,
-      "category": "Economía y empleo"
-    },
-    {
-      "id": "2122353841525973486",
-      "handle": "@alitomorenoc",
-      "display_name": "Alejandro Moreno",
-      "name": "Alejandro Moreno",
-      "followers": 242372,
-      "text": "¡Les saludo desde El Salvador! 🇸🇻 Esta mañana participamos en la inauguración de la II Conferencia Internacional sobre Estado y Democracia, encabezada por el Vicepresidente de la República, Félix Ulloa (@fulloa51), en la que conoceremos la experiencia salvadoreña y los resultados de su estrategia de seguridad.\n\nEs muy importante conocer de primera mano el trabajo que, bajo el liderazgo del Presidente @nayibbukele, se ha impulsado para combatir a la delincuencia y recuperar la tranquilidad de las familias salvadoreñas. El Salvador es hoy un referente internacional en el debate sobre seguridad ciudadana, y este encuentro representa una gran oportunidad para intercambiar experiencias, fortalecer la cooperación y aprender de las políticas que se han puesto en marcha en nuestra región.",
-      "original_en": "¡Les saludo desde El Salvador! 🇸🇻 Esta mañana participamos en la inauguración de la II Conferencia Internacional sobre Estado y Democracia, encabezada por el Vicepresidente de la República, Félix Ulloa (@fulloa51), en la que conoceremos la experiencia salvadoreña y los resultados de su estrategia de seguridad.\n\nEs muy importante conocer de primera mano el trabajo que, bajo el liderazgo del Presidente @nayibbukele, se ha impulsado para combatir a la delincuencia y recuperar la tranquilidad de las familias salvadoreñas. El Salvador es hoy un referente internacional en el debate sobre seguridad ciudadana, y este encuentro representa una gran oportunidad para intercambiar experiencias, fortalecer la cooperación y aprender de las políticas que se han puesto en marcha en nuestra región.",
-      "views": 9534,
-      "views_label": "9,534",
-      "likes": 190,
-      "reposts": 67,
-      "replies": 76,
-      "quotes": 8,
-      "bookmarks": 5,
-      "url": "https://x.com/alitomorenoc/status/2122353841525973486",
-      "status_url": "https://x.com/alitomorenoc/status/2122353841525973486",
-      "created_local": "2026-11-16 09:39",
-      "created_at": "2026-11-16T15:39:21.000Z",
-      "posted_at": "2026-11-16T15:39:21.000Z",
-      "lang": "es",
-      "media": [
-        "photo",
-        "photo",
-        "photo",
-        "photo"
-      ],
-      "star": false,
-      "highlight": false,
-      "quote": false,
-      "category": "Elecciones e INE"
-    },
-    {
-      "id": "2122115411806126360",
-      "handle": "@samuel_garcias",
-      "display_name": "Samuel García",
-      "name": "Samuel García",
-      "followers": 444405,
-      "text": "Aquí no paramos de jalar. \n\nComo todos los días, seguimos supervisando los avances de la construcción de las NUEVAS Líneas 4, 6 y Aeropuerto del Metro. Sabíamos que no sería sencillo pero estamos orgullosos del gran legado que dejaremos para Nuevo León. ¡Ánimo! https://t.co/RVlewg9hqY",
-      "original_en": "Aquí no paramos de jalar. \n\nComo todos los días, seguimos supervisando los avances de la construcción de las NUEVAS Líneas 4, 6 y Aeropuerto del Metro. Sabíamos que no sería sencillo pero estamos orgullosos del gran legado que dejaremos para Nuevo León. ¡Ánimo! https://t.co/RVlewg9hqY",
-      "views": 9083,
-      "views_label": "9,083",
-      "likes": 55,
-      "reposts": 5,
-      "replies": 13,
-      "quotes": 1,
-      "bookmarks": 2,
-      "url": "https://x.com/samuel_garcias/status/2122115411806126360",
-      "status_url": "https://x.com/samuel_garcias/status/2122115411806126360",
-      "created_local": "2026-11-15 17:51",
-      "created_at": "2026-11-15T23:51:55.000Z",
-      "posted_at": "2026-11-15T23:51:55.000Z",
-      "lang": null,
-      "media": [
-        "photo",
-        "photo",
-        "photo"
-      ],
-      "star": false,
-      "highlight": false,
-      "quote": false,
-      "draft_en": "Aquí no se para de jalar. Las grandes obras —y los grandes negocios— se ven lentos desde afuera, pero cada día de trabajo suma.\nPaciencia con el proceso y disciplina con el esfuerzo: lo que se construye bien, dura. ¿Qué estás construyendo tú que vale la pena esperar? 🏗️💪",
-      "video_tip": "Video vertical de 15 s en timelapse: un terreno vacío que se vuelve cimientos, muros y un local con la cortina arriba; rótulos \"Día 1\" · \"Día 100\" · \"Día 365\". Cierra con la pregunta en pantalla y música que sube. Sin personas públicas, partidos ni logotipos.",
-      "draft_keywords": [
-        "no paramos",
-        "paciencia",
-        "disciplina",
-        "construir"
-      ],
-      "category": "Otros"
-    },
-    {
-      "id": "2122105861749506254",
-      "handle": "@alitomorenoc",
-      "display_name": "Alejandro Moreno",
-      "name": "Alejandro Moreno",
-      "followers": 242372,
-      "text": "Hoy tuve una grata y excelente reunión con el gran Vicepresidente de la República de El Salvador, Félix Ulloa (@fulloa51), en la residencia oficial de ese país. Fue un encuentro muy productivo en el que intercambiamos puntos de vista sobre los retos de nuestra región y las https://t.co/dvvkN9ooJV",
-      "original_en": "Hoy tuve una grata y excelente reunión con el gran Vicepresidente de la República de El Salvador, Félix Ulloa (@fulloa51), en la residencia oficial de ese país. Fue un encuentro muy productivo en el que intercambiamos puntos de vista sobre los retos de nuestra región y las https://t.co/dvvkN9ooJV",
-      "views": 8045,
-      "views_label": "8,045",
-      "likes": 232,
-      "reposts": 93,
-      "replies": 121,
-      "quotes": 4,
-      "bookmarks": 1,
-      "url": "https://x.com/alitomorenoc/status/2122105861749506254",
-      "status_url": "https://x.com/alitomorenoc/status/2122105861749506254",
-      "created_local": "2026-11-15 17:13",
-      "created_at": "2026-11-15T23:13:58.000Z",
-      "posted_at": "2026-11-15T23:13:58.000Z",
-      "lang": null,
-      "media": [
-        "photo",
-        "photo",
-        "photo",
-        "video"
-      ],
-      "star": false,
-      "highlight": false,
-      "quote": false,
-      "category": "Otros"
-    },
-    {
-      "id": "2122163951521743048",
-      "handle": "@samuel_garcias",
-      "display_name": "Samuel García",
-      "name": "Samuel García",
-      "followers": 444405,
-      "text": "Miren nomás la chulada de la Nueva Estación Parque Fundidora. \n\nMUY PRONTO todo Nuevo León podra disfrutar de la movilidad que siempre debimos tener. Te pedimos paciencia, LO NUEVO CUMPLE. 🦁️️️️️️👊🏻️️️️🚇️️️️️️ https://t.co/COnPZLViyZ",
-      "original_en": "Miren nomás la chulada de la Nueva Estación Parque Fundidora. \n\nMUY PRONTO todo Nuevo León podra disfrutar de la movilidad que siempre debimos tener. Te pedimos paciencia, LO NUEVO CUMPLE. 🦁️️️️️️👊🏻️️️️🚇️️️️️️ https://t.co/COnPZLViyZ",
-      "views": 6024,
-      "views_label": "6,024",
-      "likes": 60,
-      "reposts": 7,
-      "replies": 24,
-      "quotes": 2,
-      "bookmarks": 3,
-      "url": "https://x.com/samuel_garcias/status/2122163951521743048",
-      "status_url": "https://x.com/samuel_garcias/status/2122163951521743048",
-      "created_local": "2026-11-15 21:04",
-      "created_at": "2026-11-16T03:04:48.000Z",
-      "posted_at": "2026-11-16T03:04:48.000Z",
-      "lang": "es",
-      "media": [
-        "video"
-      ],
-      "star": false,
-      "highlight": false,
-      "quote": false,
-      "category": "Otros"
-    },
-    {
-      "id": "2122381436141408318",
-      "handle": "@alitomorenoc",
-      "display_name": "Alejandro Moreno",
-      "name": "Alejandro Moreno",
-      "followers": 242372,
-      "text": "Me dio muchísimo gusto sostener una grata y productiva reunión aquí en la República de El Salvador con la Vicepresidenta de la República Dominicana, @RaquelPenaVice, una mujer de gran capacidad, liderazgo y visión, comprometida con el desarrollo y el progreso de su país, bajo el liderazgo del Presidente @luisabinader.\n\nTuvimos un excelente encuentro en el que intercambiamos puntos de vista sobre los grandes desafíos de nuestra región y las oportunidades para fortalecer la cooperación entre nuestras naciones. México y República Dominicana comparten profundos lazos de amistad y hermandad, que debemos seguir fortaleciendo con diálogo, colaboración y acciones que generen mejores oportunidades para nuestras familias.",
-      "original_en": "Me dio muchísimo gusto sostener una grata y productiva reunión aquí en la República de El Salvador con la Vicepresidenta de la República Dominicana, @RaquelPenaVice, una mujer de gran capacidad, liderazgo y visión, comprometida con el desarrollo y el progreso de su país, bajo el liderazgo del Presidente @luisabinader.\n\nTuvimos un excelente encuentro en el que intercambiamos puntos de vista sobre los grandes desafíos de nuestra región y las oportunidades para fortalecer la cooperación entre nuestras naciones. México y República Dominicana comparten profundos lazos de amistad y hermandad, que debemos seguir fortaleciendo con diálogo, colaboración y acciones que generen mejores oportunidades para nuestras familias.",
-      "views": 5057,
-      "views_label": "5,057",
-      "likes": 60,
-      "reposts": 16,
-      "replies": 31,
-      "quotes": 4,
-      "bookmarks": 1,
-      "url": "https://x.com/alitomorenoc/status/2122381436141408318",
-      "status_url": "https://x.com/alitomorenoc/status/2122381436141408318",
-      "created_local": "2026-11-16 11:29",
-      "created_at": "2026-11-16T17:29:00.000Z",
-      "posted_at": "2026-11-16T17:29:00.000Z",
-      "lang": "es",
-      "media": [
-        "photo",
-        "photo",
-        "photo",
-        "photo"
-      ],
-      "star": false,
-      "highlight": false,
-      "quote": false,
-      "category": "Gobierno y políticas públicas"
     },
     {
       "id": "2122422100283498830",
       "handle": "@samuel_garcias",
       "display_name": "Samuel García",
       "name": "Samuel García",
-      "followers": 444405,
+      "followers": 444371,
       "text": "Desfile del Aniversario 116° de la Revolución Mexicana junto a mi Yeye. 🇲🇽❤️ https://t.co/8dquNmtQH9",
       "original_en": "Desfile del Aniversario 116° de la Revolución Mexicana junto a mi Yeye. 🇲🇽❤️ https://t.co/8dquNmtQH9",
-      "views": 5009,
-      "views_label": "5,009",
-      "likes": 54,
-      "reposts": 3,
-      "replies": 11,
+      "views": 11393,
+      "views_label": "11,393",
+      "likes": 131,
+      "reposts": 5,
+      "replies": 22,
       "quotes": 0,
-      "bookmarks": 0,
+      "bookmarks": 3,
       "url": "https://x.com/samuel_garcias/status/2122422100283498830",
       "status_url": "https://x.com/samuel_garcias/status/2122422100283498830",
       "created_local": "2026-11-16 14:10",
@@ -599,13 +440,143 @@
         "photo",
         "photo"
       ],
+      "star": true,
+      "highlight": true,
+      "quote": false,
+      "draft_en": "Hace más de un siglo, millones de mexicanos lucharon por ser libres. Hoy esa libertad se honra trabajando: abriendo un negocio, aprendiendo un oficio, no dependiendo de nadie.\nLa libertad no se hereda, se ejerce todos los días. ¿Cómo vas a ejercer la tuya hoy? 🇲🇽💪",
+      "video_tip": "Video vertical de 15 s: fotos de archivo en sepia de la época revolucionaria (dominio público) que pasan a color: una tortillería que abre, un joven en un taller, una emprendedora con su laptop; rótulos \"Libertad\" · \"Trabajo\" · \"Futuro\". Cierra con la pregunta en pantalla. Sin personas públicas, partidos ni logotipos.",
+      "draft_keywords": [
+        "Revolución",
+        "libertad",
+        "trabajo",
+        "emprender"
+      ],
+      "category": "Otros"
+    },
+    {
+      "id": "2122381436141408318",
+      "handle": "@alitomorenoc",
+      "display_name": "Alejandro Moreno",
+      "name": "Alejandro Moreno",
+      "followers": 242365,
+      "text": "Me dio muchísimo gusto sostener una grata y productiva reunión aquí en la República de El Salvador con la Vicepresidenta de la República Dominicana, @RaquelPenaVice, una mujer de gran capacidad, liderazgo y visión, comprometida con el desarrollo y el progreso de su país, bajo el liderazgo del Presidente @luisabinader.\n\nTuvimos un excelente encuentro en el que intercambiamos puntos de vista sobre los grandes desafíos de nuestra región y las oportunidades para fortalecer la cooperación entre nuestras naciones. México y República Dominicana comparten profundos lazos de amistad y hermandad, que debemos seguir fortaleciendo con diálogo, colaboración y acciones que generen mejores oportunidades para nuestras familias.",
+      "original_en": "Me dio muchísimo gusto sostener una grata y productiva reunión aquí en la República de El Salvador con la Vicepresidenta de la República Dominicana, @RaquelPenaVice, una mujer de gran capacidad, liderazgo y visión, comprometida con el desarrollo y el progreso de su país, bajo el liderazgo del Presidente @luisabinader.\n\nTuvimos un excelente encuentro en el que intercambiamos puntos de vista sobre los grandes desafíos de nuestra región y las oportunidades para fortalecer la cooperación entre nuestras naciones. México y República Dominicana comparten profundos lazos de amistad y hermandad, que debemos seguir fortaleciendo con diálogo, colaboración y acciones que generen mejores oportunidades para nuestras familias.",
+      "views": 11177,
+      "views_label": "11,177",
+      "likes": 123,
+      "reposts": 33,
+      "replies": 58,
+      "quotes": 6,
+      "bookmarks": 4,
+      "url": "https://x.com/alitomorenoc/status/2122381436141408318",
+      "status_url": "https://x.com/alitomorenoc/status/2122381436141408318",
+      "created_local": "2026-11-16 11:29",
+      "created_at": "2026-11-16T17:29:00.000Z",
+      "posted_at": "2026-11-16T17:29:00.000Z",
+      "lang": "es",
+      "media": [
+        "photo",
+        "photo",
+        "photo",
+        "photo"
+      ],
+      "star": true,
+      "highlight": true,
+      "quote": false,
+      "category": "Gobierno y políticas públicas"
+    },
+    {
+      "id": "2122655101424730256",
+      "handle": "@Claudiashein",
+      "display_name": "Claudia Sheinbaum Pardo",
+      "name": "Claudia Sheinbaum Pardo",
+      "followers": 5259562,
+      "text": "Reunión bilateral con el primer ministro Mark Carney. Vamos muy avanzados en el plan de acción que establecimos hace poco más de un año. Tenemos una extraordinaria relación con Canadá y acordamos ampliarla hacia el futuro. https://t.co/ZHBPUpDtc7",
+      "original_en": "Reunión bilateral con el primer ministro Mark Carney. Vamos muy avanzados en el plan de acción que establecimos hace poco más de un año. Tenemos una extraordinaria relación con Canadá y acordamos ampliarla hacia el futuro. https://t.co/ZHBPUpDtc7",
+      "views": 9228,
+      "views_label": "9,228",
+      "likes": 295,
+      "reposts": 105,
+      "replies": 11,
+      "quotes": 3,
+      "bookmarks": 7,
+      "url": "https://x.com/Claudiashein/status/2122655101424730256",
+      "status_url": "https://x.com/Claudiashein/status/2122655101424730256",
+      "created_local": "2026-11-17 05:36",
+      "created_at": "2026-11-17T11:36:27.000Z",
+      "posted_at": "2026-11-17T11:36:27.000Z",
+      "lang": "es",
+      "media": [
+        "photo"
+      ],
+      "star": false,
+      "highlight": false,
+      "quote": false,
+      "category": "Otros"
+    },
+    {
+      "id": "2122348304507764757",
+      "handle": "@samuel_garcias",
+      "display_name": "Samuel García",
+      "name": "Samuel García",
+      "followers": 444371,
+      "text": "YA LLEGÓ EL TRI A NL PARA EL JUEGO DE MAÑANA 🇲🇽👊 https://t.co/ocZBe2gCzl",
+      "original_en": "YA LLEGÓ EL TRI A NL PARA EL JUEGO DE MAÑANA 🇲🇽👊 https://t.co/ocZBe2gCzl",
+      "views": 6484,
+      "views_label": "6,484",
+      "likes": 44,
+      "reposts": 1,
+      "replies": 7,
+      "quotes": 0,
+      "bookmarks": 0,
+      "url": "https://x.com/samuel_garcias/status/2122348304507764757",
+      "status_url": "https://x.com/samuel_garcias/status/2122348304507764757",
+      "created_local": "2026-11-16 09:17",
+      "created_at": "2026-11-16T15:17:21.000Z",
+      "posted_at": "2026-11-16T15:17:21.000Z",
+      "lang": "es",
+      "media": [
+        "photo"
+      ],
+      "star": false,
+      "highlight": false,
+      "quote": false,
+      "category": "Otros"
+    },
+    {
+      "id": "2122477460071514474",
+      "handle": "@samuel_garcias",
+      "display_name": "Samuel García",
+      "name": "Samuel García",
+      "followers": 444371,
+      "text": "¡Que chulada ver a las y los neoleoneses disfrutando los espacios públicos de Nuevo León! Un gusto saludarlos en el Nuevo Parque del Agua y La Pastora. 🦁️️️️️️👊🏻️️️️ https://t.co/1d0LivpRzT",
+      "original_en": "¡Que chulada ver a las y los neoleoneses disfrutando los espacios públicos de Nuevo León! Un gusto saludarlos en el Nuevo Parque del Agua y La Pastora. 🦁️️️️️️👊🏻️️️️ https://t.co/1d0LivpRzT",
+      "views": 6205,
+      "views_label": "6,205",
+      "likes": 48,
+      "reposts": 2,
+      "replies": 3,
+      "quotes": 0,
+      "bookmarks": 1,
+      "url": "https://x.com/samuel_garcias/status/2122477460071514474",
+      "status_url": "https://x.com/samuel_garcias/status/2122477460071514474",
+      "created_local": "2026-11-16 17:50",
+      "created_at": "2026-11-16T23:50:34.000Z",
+      "posted_at": "2026-11-16T23:50:34.000Z",
+      "lang": "es",
+      "media": [
+        "photo",
+        "photo",
+        "photo",
+        "photo"
+      ],
       "star": false,
       "highlight": false,
       "quote": false,
       "category": "Otros"
     }
   ],
-  "hits_count": 18,
+  "hits_count": 17,
   "virals": [],
   "outsiders": [],
   "outsiders_count": 0,
@@ -614,86 +585,86 @@
       "handle": "@Claudiashein",
       "name": "Claudia Sheinbaum Pardo",
       "display_name": "Claudia Sheinbaum Pardo",
-      "hits": 2,
-      "total": 1072762,
-      "views": 1072762,
-      "best": 846081,
-      "best_url": "https://x.com/Claudiashein/status/2122205377345605643",
-      "posts": 2,
+      "hits": 4,
+      "total": 623933,
+      "views": 623933,
+      "best": 331452,
+      "best_url": "https://x.com/Claudiashein/status/2122307435021078710",
+      "posts": 4,
       "rank": 1
-    },
-    {
-      "handle": "@m_ebrard",
-      "name": "Marcelo Ebrard C.",
-      "display_name": "Marcelo Ebrard C.",
-      "hits": 6,
-      "total": 116902,
-      "views": 116902,
-      "best": 25419,
-      "best_url": "https://x.com/m_ebrard/status/2122169143608905896",
-      "posts": 6,
-      "rank": 2
     },
     {
       "handle": "@RicardoBSalinas",
       "name": "Don Ricardo Salinas Pliego",
       "display_name": "Don Ricardo Salinas Pliego",
-      "hits": 1,
-      "total": 69115,
-      "views": 69115,
-      "best": 69115,
+      "hits": 3,
+      "total": 185243,
+      "views": 185243,
+      "best": 100161,
       "best_url": "https://x.com/RicardoBSalinas/status/2122356992023155086",
-      "posts": 1,
-      "rank": 3
+      "posts": 3,
+      "rank": 2
     },
     {
-      "handle": "@JorgeRoHe",
-      "name": "Jorge Romero Herrera",
-      "display_name": "Jorge Romero Herrera",
-      "hits": 3,
-      "total": 46228,
-      "views": 46228,
-      "best": 17926,
-      "best_url": "https://x.com/JorgeRoHe/status/2122121116680687795",
-      "posts": 3,
-      "rank": 4
+      "handle": "@m_ebrard",
+      "name": "Marcelo Ebrard C.",
+      "display_name": "Marcelo Ebrard C.",
+      "hits": 4,
+      "total": 118546,
+      "views": 118546,
+      "best": 39452,
+      "best_url": "https://x.com/m_ebrard/status/2122398469751275826",
+      "posts": 4,
+      "rank": 3
     },
     {
       "handle": "@alitomorenoc",
       "name": "Alejandro Moreno",
       "display_name": "Alejandro Moreno",
-      "hits": 3,
-      "total": 22636,
-      "views": 22636,
-      "best": 9534,
+      "hits": 2,
+      "total": 26083,
+      "views": 26083,
+      "best": 14906,
       "best_url": "https://x.com/alitomorenoc/status/2122353841525973486",
-      "posts": 3,
-      "rank": 5
+      "posts": 2,
+      "rank": 4
     },
     {
       "handle": "@samuel_garcias",
       "name": "Samuel García",
       "display_name": "Samuel García",
       "hits": 3,
-      "total": 20116,
-      "views": 20116,
-      "best": 9083,
-      "best_url": "https://x.com/samuel_garcias/status/2122115411806126360",
+      "total": 24082,
+      "views": 24082,
+      "best": 11393,
+      "best_url": "https://x.com/samuel_garcias/status/2122422100283498830",
       "posts": 3,
+      "rank": 5
+    },
+    {
+      "handle": "@JorgeRoHe",
+      "name": "Jorge Romero Herrera",
+      "display_name": "Jorge Romero Herrera",
+      "hits": 1,
+      "total": 13883,
+      "views": 13883,
+      "best": 13883,
+      "best_url": "https://x.com/JorgeRoHe/status/2122363362608812455",
+      "posts": 1,
       "rank": 6
     }
   ],
   "you_rank": {
-    "rank": 3,
+    "rank": 2,
     "of": 6,
     "handle": "@RicardoBSalinas",
-    "hits": 1,
-    "total": 69115,
-    "best": 69115,
+    "hits": 3,
+    "total": 185243,
+    "best": 100161,
     "best_url": "https://x.com/RicardoBSalinas/status/2122356992023155086",
-    "best_views": 69115,
-    "total_views": 69115,
-    "rank_among_watchlist": 3,
+    "best_views": 100161,
+    "total_views": 185243,
+    "rank_among_watchlist": 2,
     "total_accounts": 6,
     "vs_5k": "done",
     "vs_10k": "done"
@@ -701,8 +672,8 @@
   "no_hits": [
     {
       "handle": "@MaruCampos_G",
-      "reason": "2 post(s) original(es) en 24 h; máximo 696 vistas.",
-      "max_views": 696
+      "reason": "2 post(s) original(es) en 24 h; máximo 1,256 vistas.",
+      "max_views": 1256
     },
     {
       "handle": "@LillyTellez",
@@ -721,9 +692,9 @@
     }
   ],
   "previous_day": {
-    "date": "2026-11-16 (corte 06:00)",
+    "date": "2026-11-16 (corte 17:00)",
     "hits_count": 18,
-    "total_views": 1011552
+    "total_views": 1347759
   },
   "trend_input_only_posts": [],
   "trend_input_only": [],
@@ -731,125 +702,125 @@
     {
       "rank": 2,
       "handle": "@Claudiashein",
-      "url": "https://x.com/Claudiashein/status/2122307435021078710",
-      "draft_en": "El talento mexicano no tiene fronteras. Donde hay un mexicano que trabaja duro, se abre una oportunidad para muchos más.\nNo pidas permiso para pensar en grande: el mundo está esperando lo que sabes hacer. ¿Hasta dónde vas a llevar tu talento? 🇲🇽🌎",
-      "video_tip": "Video vertical de 15 s: manos de distintos oficios (cocinera, ingeniera, mecánico, programador) en cortes rápidos y un mapa que se ilumina desde México hacia el mundo; rótulos grandes \"Talento\" · \"Trabajo\" · \"Sin fronteras\". Cierra con la pregunta en pantalla. Sin personas públicas, partidos ni logotipos.",
+      "url": "https://x.com/Claudiashein/status/2122550056276652273",
+      "draft_en": "La prosperidad no se decreta: se construye. Cada negocio que abre, cada empleo que se crea y cada peso que se invierte con confianza es un paso hacia un México más próspero.\nEl desarrollo lo hacen los que se atreven a emprender. ¿Qué vas a construir esta semana? 🏗️🇲🇽",
+      "video_tip": "Video vertical de 15 s: una cortina de negocio que se levanta al amanecer, manos que firman un pedido, un almacén con movimiento y un equipo que celebra; rótulos grandes \"Emprende\" · \"Invierte\" · \"Crece\". Cierra con la pregunta en pantalla. Sin personas públicas, partidos ni logotipos.",
       "keywords": [
-        "talento mexicano",
-        "orgullo",
-        "oportunidades",
-        "pensar en grande"
+        "prosperidad",
+        "emprender",
+        "empleo",
+        "inversión"
       ]
     },
     {
       "rank": 3,
-      "handle": "@RicardoBSalinas",
-      "url": "https://x.com/RicardoBSalinas/status/2122356992023155086",
-      "draft_en": "¡Buenos días! Arranca la semana: la libertad se ejerce todos los días, eligiendo trabajar, aprender y emprender aunque nadie te obligue.\nEl que madruga con un propósito ya lleva ventaja. ¿Cuál es tu meta de esta semana? ☀️🇲🇽",
-      "video_tip": "Video vertical de 10 a 15 s: amanecer, una taza de café, la cortina de un negocio que se levanta y una mano que escribe su meta en una libreta; texto grande \"Buenos días\" al inicio y la pregunta al final. Sin personas públicas, partidos ni logotipos.",
+      "handle": "@Claudiashein",
+      "url": "https://x.com/Claudiashein/status/2122616597814956234",
+      "draft_en": "Toda nueva etapa empieza con una decisión: dejar de esperar y ponerse a construir. Los grandes acuerdos se logran con preparación, palabra y visión de largo plazo.\nEn los negocios y en la vida, el que tiene un plan llega más lejos. ¿Cuál es el tuyo? 🤝📈",
+      "video_tip": "Video vertical de 15 s: un apretón de manos en una mesa de trabajo, una libreta con un plan escrito a mano, un calendario que avanza rápido y una obra que pasa de cimientos a edificio terminado; rótulos \"Decide\" · \"Planea\" · \"Cumple tu palabra\". Sin personas públicas, partidos ni logotipos.",
       "keywords": [
-        "Buenos días",
-        "libertad",
-        "emprender",
-        "propósito"
+        "nueva etapa",
+        "decisión",
+        "palabra",
+        "visión"
       ]
     },
     {
       "rank": null,
       "handle": "@samuel_garcias",
-      "url": "https://x.com/samuel_garcias/status/2122115411806126360",
-      "draft_en": "Aquí no se para de jalar. Las grandes obras —y los grandes negocios— se ven lentos desde afuera, pero cada día de trabajo suma.\nPaciencia con el proceso y disciplina con el esfuerzo: lo que se construye bien, dura. ¿Qué estás construyendo tú que vale la pena esperar? 🏗️💪",
-      "video_tip": "Video vertical de 15 s en timelapse: un terreno vacío que se vuelve cimientos, muros y un local con la cortina arriba; rótulos \"Día 1\" · \"Día 100\" · \"Día 365\". Cierra con la pregunta en pantalla y música que sube. Sin personas públicas, partidos ni logotipos.",
+      "url": "https://x.com/samuel_garcias/status/2122422100283498830",
+      "draft_en": "Hace más de un siglo, millones de mexicanos lucharon por ser libres. Hoy esa libertad se honra trabajando: abriendo un negocio, aprendiendo un oficio, no dependiendo de nadie.\nLa libertad no se hereda, se ejerce todos los días. ¿Cómo vas a ejercer la tuya hoy? 🇲🇽💪",
+      "video_tip": "Video vertical de 15 s: fotos de archivo en sepia de la época revolucionaria (dominio público) que pasan a color: una tortillería que abre, un joven en un taller, una emprendedora con su laptop; rótulos \"Libertad\" · \"Trabajo\" · \"Futuro\". Cierra con la pregunta en pantalla. Sin personas públicas, partidos ni logotipos.",
       "keywords": [
-        "no paramos",
-        "paciencia",
-        "disciplina",
-        "construir"
+        "Revolución",
+        "libertad",
+        "trabajo",
+        "emprender"
       ]
     }
   ],
   "last24h": {
-    "start": "2026-11-15T22:45:00Z",
-    "end": "2026-11-16T22:45:00Z"
+    "start": "2026-11-16T11:48:00Z",
+    "end": "2026-11-17T11:48:00Z"
   },
-  "virals_narrative": "Ventana: del 15 nov, 4:45 p.m. al 16 nov, 4:45 p.m. (hora del centro de México). 28 posts originales revisados (sin respuestas ni reposts) de 10 cuentas; 18 superaron 5,000 vistas y 12 pasaron de 10,000. Sin publicación arriba de 5,000: @MaruCampos_G (2 post(s) original(es) en 24 h; máximo 696 vistas.), @LillyTellez (Sin posts originales en las últimas 24 h.), @OHarfuch (Sin posts originales en las últimas 24 h.), @acostanaranjo (Sin posts originales en las últimas 24 h.). Sin sección Rivales nueva (corrida de la tarde; se conserva la de la mañana).",
+  "virals_narrative": "Ventana: del 16 nov, 5:48 a.m. al 17 nov, 5:48 a.m. (hora del centro de México). 25 posts originales revisados (sin respuestas ni reposts) de 10 cuentas (@LillyTellez, @OHarfuch y @acostanaranjo sin originales; 1 texto repetido de @MaruCampos_G se cuenta una sola vez); 17 superaron 5,000 vistas y 14 pasaron de 10,000. Sin publicación arriba de 5,000: @MaruCampos_G (2 post(s) original(es) en 24 h; máximo 1,256 vistas.), @LillyTellez (Sin posts originales en las últimas 24 h.), @OHarfuch (Sin posts originales en las últimas 24 h.), @acostanaranjo (Sin posts originales en las últimas 24 h.).",
   "patterns": [
-    "Video de un momento grande (recibimiento en la APEC): @Claudiashein, 846,081",
-    "Orgullo por los mexicanos en el mundo: @Claudiashein, encuentro con mexicanos que viven en China, 226,681",
-    "Serie sobre un mismo tema: @m_ebrard, 6 posts del viaje a China, todos arriba de 10,000 (116,902 en total)",
-    "Saludo corto que cita un video que ya circula: @RicardoBSalinas, \"Buenos días!\" (69,115; 696 reposts, 107 respuestas)",
-    "Respaldar a un aliado en su evento: @JorgeRoHe, 3 posts del informe #5AñosImparables (13,700 a 17,926)",
-    "Agenda internacional con foto: @alitomorenoc en El Salvador, 3 posts (5,057 a 9,534; 121 respuestas en uno)",
-    "Obra visible y frase de esfuerzo: @samuel_garcias, \"Aquí no paramos de jalar\" (9,083)",
-    "Sin publicar no hay alcance: @LillyTellez, @OHarfuch y @acostanaranjo, 0 originales en 24 h"
+    "Video del gran momento: @Claudiashein con la comunidad mexicana en China (331,452) y en el APEC CEO Summit (182,147)",
+    "Foto de reunión de alto nivel con frase corta: @Claudiashein con Xi Jinping (101,106)",
+    "Cita de dos palabras sobre un video ajeno: @RicardoBSalinas \"Buenos dias!\" (100,161) y \"Sin palabras\" (60,526)",
+    "Orgullo mexicano en el extranjero con nombres propios: @m_ebrard, comunidad en Shenzhen (39,452), \"Gabo\" (28,834) y la cocina mexicana (12,287)",
+    "Anuncio de viaje con foto y emoji: @RicardoBSalinas \"Llegamos de visita a #Colombia\" (24,556)",
+    "Foro internacional con fotos: @alitomorenoc en El Salvador (14,906 y 11,177)",
+    "Efeméride con foto familiar: @samuel_garcias en el desfile de la Revolución \"junto a mi Yeye\" (11,393)",
+    "Texto institucional largo y repetido no prende: @MaruCampos_G, 2 posts iguales de Madrid (1,256 y 558)"
   ],
-  "narrative_synthesis": "El lunes festivo la conversación siguió en China: la Presidenta y su secretario de Economía acapararon el alcance con video, bandera y orgullo por los mexicanos en el extranjero. La oposición se movió con eventos de aliados (Coyoacán) y agenda internacional (El Salvador). Salinas regresó con un saludo breve y sin pleito, que funcionó mejor en likes por vista que sus citas confrontativas. Para los borradores: talento mexicano sin fronteras, paciencia y constancia, y un buenos días con propósito, sin nombres ni confrontación.",
+  "narrative_synthesis": "El lunes la conversación siguió en China: la Presidenta acaparó el alcance con video y con la foto con Xi Jinping, y su secretario de Economía la acompañó con historias de mexicanos en Shenzhen. Salinas volvió con 3 posts y quedó 2º; sus citas cortas funcionan, pero las menciones (3,980, −35%) siguen críticas. Para los borradores: la prosperidad se construye emprendiendo, toda nueva etapa empieza con una decisión, y la libertad se honra trabajando (efeméride de la Revolución), sin nombres ni confrontación.",
   "trend_keywords": [
     "APEC",
     "Shenzhen",
     "China",
+    "Xi Jinping",
+    "APEC CEO Summit",
     "comunidad mexicana",
-    "orgullo",
-    "Presidenta",
-    "#5AñosImparables",
-    "#BuenosGobiernosPAN",
-    "Coyoacán",
-    "El Salvador",
-    "Democracia",
-    "metro",
-    "no paramos de jalar",
-    "LO NUEVO CUMPLE",
+    "Canadá",
     "Revolución Mexicana",
-    "Buenos días"
+    "desfile",
+    "El Salvador",
+    "Estado y Democracia",
+    "Colombia",
+    "#5AñosImparables",
+    "Buenos días",
+    "Sin palabras",
+    "NutriChihuahua"
   ],
   "trend_radar": {
-    "date": "2026-11-16",
+    "date": "2026-11-17",
     "title": "Trends and post ideas",
     "window": {
-      "end": "2026-11-16T22:45:00+00:00",
-      "label24": "15.11 22:45 - 16.11 22:45 UTC",
-      "label48": "14.11 22:45 - 16.11 22:45 UTC"
+      "end": "2026-11-17T11:48:00+00:00",
+      "label24": "16.11 11:48 - 17.11 11:48 UTC",
+      "label48": "15.11 11:48 - 17.11 11:48 UTC"
     },
     "corpus": {
-      "posts": 18,
+      "posts": 17,
       "min_views": 5000,
       "lanes": {
-        "watchlist": 18,
+        "watchlist": 17,
         "outsider": 0,
         "24h": 0,
         "trend_input": 0
       }
     },
     "summary": {
-      "top10_line": "1) @Claudiashein \"Recibimiento en la Cumbre de la APEC China 2026 en la ciudad\" 846,081; 2) @Claudiashein \"Nos reunimos con mexicanas y mexicanos que viven y trabajan\" 226,681; 3) @RicardoBSalinas \"Buenos dias! https://t.co/OpMkB9nUBF\" 69,115; 4) @m_ebrard \"En ruta para recibir a nuestra Presidenta , Dra Claudia Shei\" 25,419; 5) @m_ebrard \"APEC 2026 en China https://t.co/Nme2pbpPEh\" 24,364; 6) @m_ebrard \"Preparativos para recibir a la Presidenta de México, Dra Cla\" 23,915; 7) @m_ebrard \"Con la comunidad mexicana en Shenzhen, China https://t.co/C1\" 18,736; 8) @JorgeRoHe \"Un gusto coincidir con grandes amigos de @AccionNacional en\" 17,926; 9) @JorgeRoHe \"Felicidades, mi muy querido alcalde de Coyoacán, @giogutierr\" 14,602; 10) @JorgeRoHe \"Así vivimos el informe #5AñosImparables de mi querido @giogu\" 13,700.",
-      "headline": "Lunes de puente con la gira a China al frente: @Claudiashein suma 1,072,762 vistas en 2 videos (recibimiento en la APEC 846,081 y encuentro con mexicanos en China 226,681) y @m_ebrard es 2º con 6 posts del viaje (116,902). @RicardoBSalinas vuelve a publicar tras dos días: un \"Buenos días!\" citando un video ajeno, 69,115 vistas, 3º de 6.",
-      "takeaway": "Lo que jala: (1) el video de un momento grande con recibimiento y bandera (846,081); (2) el orgullo por los mexicanos que trabajan fuera (226,681); (3) contar un mismo tema en serie: @m_ebrard publicó 6 posts del viaje y todos pasaron de 10,000; (4) un saludo breve que cita un video que ya está circulando (\"Buenos días!\", 69,115 y 696 reposts); (5) acompañar a un aliado en su evento (3 posts del informe #5AñosImparables, de 13,700 a 17,926); (6) obra visible con frase de esfuerzo (\"Aquí no paramos de jalar\", 9,083). Lo que no jala: los mensajes institucionales sin video (@MaruCampos_G, máximo 696) y no publicar (@LillyTellez, @OHarfuch y @acostanaranjo, 0 originales).",
+      "top10_line": "1) @Claudiashein 331,452; 2) @Claudiashein 182,147; 3) @Claudiashein 101,106; 4) @RicardoBSalinas 100,161; 5) @RicardoBSalinas 60,526; 6) @m_ebrard 39,452; 7) @m_ebrard 37,973; 8) @m_ebrard 28,834; 9) @RicardoBSalinas 24,556; 10) @alitomorenoc 14,906.",
+      "headline": "La gira a China sigue mandando: @Claudiashein suma 623,933 vistas en 4 posts (comunidad mexicana 331,452, APEC CEO Summit 182,147, la reunión con Xi Jinping 101,106 y la de Carney 9,228). @RicardoBSalinas regresa fuerte: 2º del día con 185,243 en 3 posts (\"Buenos dias!\" 100,161, \"Sin palabras\" 60,526 y \"Llegamos de visita a #Colombia\" 24,556). @m_ebrard es 3º con 4 hits (118,546).",
+      "takeaway": "Lo que jala: (1) el video del gran momento, ahora con la comunidad mexicana y el discurso ante empresarios (331,452 y 182,147); (2) la foto de una reunión de alto nivel con frase corta (Xi Jinping, 101,106 en menos de 3 horas); (3) la cita de 2 palabras sobre un video ajeno: \"Buenos dias!\" (100,161) y \"Sin palabras\" (60,526); (4) personas y orgullo mexicano en el extranjero (@m_ebrard: comunidad 39,452, \"Gabo\" 28,834, cocina mexicana 12,287); (5) el anuncio de viaje con foto y emoji (\"Llegamos de visita a #Colombia\", 24,556). Lo que no jala: el mensaje institucional largo (@MaruCampos_G, máximo 1,256, y repitió el mismo texto 2 veces) ni no publicar originales (@LillyTellez, @OHarfuch y @acostanaranjo, solo reposts o respuestas).",
       "stats": {
         "all": {
-          "n": 18,
-          "trend_n": 2,
-          "trend_pct": 11,
-          "avg_trend": 18588,
-          "avg_other": 81911,
-          "median_trend": 18588,
-          "median_other": 14151,
+          "n": 17,
+          "trend_n": 1,
+          "trend_pct": 6,
+          "avg_trend": 182147,
+          "avg_other": 50601,
+          "median_trend": 182147,
+          "median_other": 19731,
           "verdicts": {
-            "tendencia": 2,
+            "tendencia": 1,
             "visual": 14,
             "autor/audiencia": 2,
             "coincidencia/otro": 0
           }
         },
         "watchlist": {
-          "n": 18,
-          "trend_n": 2,
-          "trend_pct": 11,
-          "avg_trend": 18588,
-          "avg_other": 81911,
-          "median_trend": 18588,
-          "median_other": 14151,
+          "n": 17,
+          "trend_n": 1,
+          "trend_pct": 6,
+          "avg_trend": 182147,
+          "avg_other": 50601,
+          "median_trend": 182147,
+          "median_other": 19731,
           "verdicts": {
-            "tendencia": 2,
+            "tendencia": 1,
             "visual": 14,
             "autor/audiencia": 2,
             "coincidencia/otro": 0
@@ -874,22 +845,22 @@
           "n": 10,
           "trend_n": 1,
           "trend_pct": 10,
-          "avg_trend": 25419,
-          "avg_other": 139458,
-          "median_trend": 25419,
-          "median_other": 23915,
+          "avg_trend": 182147,
+          "avg_other": 82107,
+          "median_trend": 182147,
+          "median_other": 39452,
           "verdicts": {
             "tendencia": 1,
-            "visual": 8,
-            "autor/audiencia": 1,
+            "visual": 7,
+            "autor/audiencia": 2,
             "coincidencia/otro": 0
           }
         },
         "media": {
-          "video_n": 10,
-          "median_video": 19258,
-          "other_n": 8,
-          "median_other": 11122
+          "video_n": 4,
+          "median_video": 98015,
+          "other_n": 13,
+          "median_other": 24556
         }
       }
     },
@@ -900,149 +871,147 @@
           "APEC",
           "Shenzhen",
           "China",
+          "Xi Jinping",
           "comunidad mexicana"
         ],
-        "posts_24h": 8,
-        "views_24h": 1189664,
+        "posts_24h": 7,
+        "views_24h": 733251,
         "momentum": "sube",
         "evidence": [
-          "https://x.com/Claudiashein/status/2122205377345605643",
           "https://x.com/Claudiashein/status/2122307435021078710",
-          "https://x.com/m_ebrard/status/2122169143608905896",
-          "https://x.com/m_ebrard/status/2122120011632513468",
-          "https://x.com/m_ebrard/status/2122179579200889232",
+          "https://x.com/Claudiashein/status/2122550056276652273",
+          "https://x.com/Claudiashein/status/2122616597814956234",
           "https://x.com/m_ebrard/status/2122398469751275826",
-          "https://x.com/m_ebrard/status/2122196507818619384",
-          "https://x.com/m_ebrard/status/2122196420271002113"
+          "https://x.com/m_ebrard/status/2122567612228071570",
+          "https://x.com/m_ebrard/status/2122475091351212502",
+          "https://x.com/m_ebrard/status/2122451899702243745"
         ]
       },
       {
-        "name": "Informe #5AñosImparables (Coyoacán)",
+        "name": "Citas cortas de @RicardoBSalinas",
         "keywords": [
-          "#5AñosImparables",
-          "#BuenosGobiernosPAN",
-          "Coyoacán"
+          "Buenos días",
+          "Sin palabras"
         ],
-        "posts_24h": 3,
-        "views_24h": 46228,
-        "momentum": "sigue",
+        "posts_24h": 2,
+        "views_24h": 160687,
+        "momentum": "sube",
         "evidence": [
-          "https://x.com/JorgeRoHe/status/2122121116680687795",
-          "https://x.com/JorgeRoHe/status/2122116623943229697",
-          "https://x.com/JorgeRoHe/status/2122363362608812455"
+          "https://x.com/RicardoBSalinas/status/2122356992023155086",
+          "https://x.com/RicardoBSalinas/status/2122520116416192822"
+        ]
+      },
+      {
+        "name": "Viaje a Colombia",
+        "keywords": [
+          "Colombia"
+        ],
+        "posts_24h": 1,
+        "views_24h": 24556,
+        "momentum": "nuevo",
+        "evidence": [
+          "https://x.com/RicardoBSalinas/status/2122541488261493059"
         ]
       },
       {
         "name": "Agenda en El Salvador",
         "keywords": [
           "El Salvador",
-          "Democracia",
-          "Félix Ulloa"
+          "Estado y Democracia",
+          "Bukele"
         ],
-        "posts_24h": 3,
-        "views_24h": 22636,
+        "posts_24h": 2,
+        "views_24h": 26083,
         "momentum": "sigue",
         "evidence": [
           "https://x.com/alitomorenoc/status/2122353841525973486",
-          "https://x.com/alitomorenoc/status/2122105861749506254",
           "https://x.com/alitomorenoc/status/2122381436141408318"
         ]
       },
       {
-        "name": "Obra y movilidad en Nuevo León",
+        "name": "Informe #5AñosImparables (Coyoacán)",
         "keywords": [
-          "metro",
-          "no paramos de jalar",
-          "LO NUEVO CUMPLE"
-        ],
-        "posts_24h": 2,
-        "views_24h": 15107,
-        "momentum": "sigue",
-        "evidence": [
-          "https://x.com/samuel_garcias/status/2122115411806126360",
-          "https://x.com/samuel_garcias/status/2122163951521743048"
-        ]
-      },
-      {
-        "name": "Saludo matutino citando un video",
-        "keywords": [
-          "Buenos días"
+          "#5AñosImparables",
+          "#BuenosGobiernosPAN"
         ],
         "posts_24h": 1,
-        "views_24h": 69115,
-        "momentum": "nuevo",
+        "views_24h": 13883,
+        "momentum": "baja",
         "evidence": [
-          "https://x.com/RicardoBSalinas/status/2122356992023155086"
+          "https://x.com/JorgeRoHe/status/2122363362608812455"
         ]
       },
       {
-        "name": "Desfile de la Revolución",
+        "name": "Revolución Mexicana y futbol en Nuevo León",
         "keywords": [
           "Revolución Mexicana",
-          "desfile"
+          "desfile",
+          "el Tri"
         ],
-        "posts_24h": 1,
-        "views_24h": 5009,
-        "momentum": "nuevo",
+        "posts_24h": 3,
+        "views_24h": 24082,
+        "momentum": "sigue",
         "evidence": [
-          "https://x.com/samuel_garcias/status/2122422100283498830"
+          "https://x.com/samuel_garcias/status/2122422100283498830",
+          "https://x.com/samuel_garcias/status/2122348304507764757",
+          "https://x.com/samuel_garcias/status/2122477460071514474"
         ]
       }
     ],
     "ideas": [
       {
-        "title": "Talento sin fronteras",
-        "topic": "Orgullo y ambición global",
+        "title": "La prosperidad se construye",
+        "topic": "Negocios y empleo",
         "keywords": [
-          "talento mexicano",
-          "orgullo",
-          "oportunidades",
-          "pensar en grande"
-        ],
-        "format": "video",
-        "visual_type": "video",
-        "visual": "Manos de distintos oficios y un mapa que se ilumina desde México",
-        "angle": "Orgullo por el talento mexicano, sin nombres",
-        "hook_en": "El talento mexicano no tiene fronteras.",
-        "why": "El encuentro con mexicanos que trabajan en China sumó 226,681 vistas.",
-        "x_keywords": [],
-        "x_rank": null,
-        "source": "watchlist"
-      },
-      {
-        "title": "Lo que se construye bien, dura",
-        "topic": "Constancia y paciencia",
-        "keywords": [
-          "no paramos",
-          "paciencia",
-          "disciplina",
-          "construir"
-        ],
-        "format": "video",
-        "visual_type": "video",
-        "visual": "Timelapse de un local: terreno, muros y cortina arriba",
-        "angle": "Esfuerzo diario, sin política",
-        "hook_en": "Aquí no se para de jalar.",
-        "why": "\"Aquí no paramos de jalar\" llegó a 9,083 vistas con obra visible.",
-        "x_keywords": [],
-        "x_rank": null,
-        "source": "watchlist"
-      },
-      {
-        "title": "Buenos días con propósito",
-        "topic": "Libertad y disciplina",
-        "keywords": [
-          "Buenos días",
-          "libertad",
+          "prosperidad",
           "emprender",
-          "propósito"
+          "empleo",
+          "inversión"
         ],
         "format": "video",
         "visual_type": "video",
-        "visual": "Amanecer, café, cortina de negocio que se levanta",
-        "angle": "Saludo propio con meta semanal",
-        "hook_en": "¡Buenos días! La libertad se ejerce todos los días.",
-        "why": "Su \"Buenos días!\" de hoy sumó 69,115 vistas con 4% de likes por vista.",
+        "visual": "Cortina que se levanta, pedido firmado, equipo que celebra",
+        "angle": "Emprender como motor del desarrollo, sin política",
+        "hook_en": "La prosperidad no se decreta: se construye.",
+        "why": "El discurso ante empresarios en la APEC llegó a 182,147 vistas en video.",
+        "x_keywords": [],
+        "x_rank": null,
+        "source": "watchlist"
+      },
+      {
+        "title": "Toda nueva etapa empieza con una decisión",
+        "topic": "Liderazgo y visión",
+        "keywords": [
+          "nueva etapa",
+          "decisión",
+          "palabra",
+          "visión"
+        ],
+        "format": "video",
+        "visual_type": "video",
+        "visual": "Apretón de manos, libreta con plan, obra que se termina",
+        "angle": "Planear y cumplir la palabra",
+        "hook_en": "Toda nueva etapa empieza con una decisión.",
+        "why": "La foto de una reunión de alto nivel con frase corta sumó 101,106 vistas en pocas horas.",
+        "x_keywords": [],
+        "x_rank": null,
+        "source": "watchlist"
+      },
+      {
+        "title": "La libertad se honra trabajando",
+        "topic": "Libertad y Revolución",
+        "keywords": [
+          "Revolución",
+          "libertad",
+          "trabajo",
+          "emprender"
+        ],
+        "format": "video",
+        "visual_type": "video",
+        "visual": "Archivo sepia que pasa a color: oficios y negocios de hoy",
+        "angle": "Efeméride de la Revolución ligada a emprender",
+        "hook_en": "La libertad no se hereda, se ejerce todos los días.",
+        "why": "El post del desfile de la Revolución llegó a 11,393 vistas; la efeméride del 20 de noviembre está a 3 días.",
         "x_keywords": [],
         "x_rank": null,
         "source": "watchlist"
@@ -1051,36 +1020,53 @@
     "articles": [],
     "why_hit": [
       {
-        "id": "2122205377345605643",
+        "id": "2122307435021078710",
         "handle": "@Claudiashein",
         "lane": "watchlist",
-        "views": 846081,
-        "trend_match": 49,
+        "views": 331452,
+        "trend_match": 20,
         "verdict": "visual",
         "matched_keywords": [
-          "APEC",
-          "Shenzhen",
           "China"
         ],
         "media": "video",
-        "followers": 5258879,
+        "followers": 5259562,
         "topic": null,
         "self_quote": false,
         "note": ""
       },
       {
-        "id": "2122307435021078710",
+        "id": "2122550056276652273",
         "handle": "@Claudiashein",
         "lane": "watchlist",
-        "views": 226681,
+        "views": 182147,
+        "trend_match": 59,
+        "verdict": "tendencia",
+        "matched_keywords": [
+          "APEC",
+          "Shenzhen",
+          "China",
+          "APEC CEO Summit"
+        ],
+        "media": "video",
+        "followers": 5259562,
+        "topic": null,
+        "self_quote": false,
+        "note": ""
+      },
+      {
+        "id": "2122616597814956234",
+        "handle": "@Claudiashein",
+        "lane": "watchlist",
+        "views": 101106,
         "trend_match": 36,
         "verdict": "visual",
         "matched_keywords": [
           "China",
-          "orgullo"
+          "Xi Jinping"
         ],
-        "media": "video",
-        "followers": 5258879,
+        "media": "photo",
+        "followers": 5259562,
         "topic": null,
         "self_quote": false,
         "note": ""
@@ -1089,74 +1075,37 @@
         "id": "2122356992023155086",
         "handle": "@RicardoBSalinas",
         "lane": "watchlist",
-        "views": 69115,
+        "views": 100161,
         "trend_match": 0,
         "verdict": "autor/audiencia",
         "matched_keywords": [],
         "media": "sin datos",
-        "followers": 2238840,
+        "followers": 2238768,
         "topic": null,
         "self_quote": false,
         "note": "media: sin datos"
       },
       {
-        "id": "2122169143608905896",
-        "handle": "@m_ebrard",
+        "id": "2122520116416192822",
+        "handle": "@RicardoBSalinas",
         "lane": "watchlist",
-        "views": 25419,
-        "trend_match": 59,
-        "verdict": "tendencia",
+        "views": 60526,
+        "trend_match": 20,
+        "verdict": "autor/audiencia",
         "matched_keywords": [
-          "APEC",
-          "Shenzhen",
-          "China",
-          "Presidenta"
+          "Sin palabras"
         ],
-        "media": "video",
-        "followers": 2710558,
+        "media": "sin datos",
+        "followers": 2238768,
         "topic": null,
         "self_quote": false,
-        "note": ""
-      },
-      {
-        "id": "2122120011632513468",
-        "handle": "@m_ebrard",
-        "lane": "watchlist",
-        "views": 24364,
-        "trend_match": 36,
-        "verdict": "visual",
-        "matched_keywords": [
-          "APEC",
-          "China"
-        ],
-        "media": "video",
-        "followers": 2710558,
-        "topic": null,
-        "self_quote": false,
-        "note": ""
-      },
-      {
-        "id": "2122179579200889232",
-        "handle": "@m_ebrard",
-        "lane": "watchlist",
-        "views": 23915,
-        "trend_match": 36,
-        "verdict": "visual",
-        "matched_keywords": [
-          "China",
-          "Presidenta"
-        ],
-        "media": "video",
-        "followers": 2710558,
-        "topic": null,
-        "self_quote": false,
-        "note": ""
+        "note": "media: sin datos"
       },
       {
         "id": "2122398469751275826",
         "handle": "@m_ebrard",
         "lane": "watchlist",
-        "views": 18736,
+        "views": 39452,
         "trend_match": 49,
         "verdict": "visual",
         "matched_keywords": [
@@ -1165,97 +1114,55 @@
           "comunidad mexicana"
         ],
         "media": "photo",
-        "followers": 2710558,
+        "followers": 2710519,
         "topic": null,
         "self_quote": false,
         "note": ""
       },
       {
-        "id": "2122121116680687795",
-        "handle": "@JorgeRoHe",
+        "id": "2122567612228071570",
+        "handle": "@m_ebrard",
         "lane": "watchlist",
-        "views": 17926,
-        "trend_match": 36,
+        "views": 37973,
+        "trend_match": 20,
         "verdict": "visual",
         "matched_keywords": [
-          "#5AñosImparables",
-          "Coyoacán"
+          "APEC"
         ],
         "media": "photo",
-        "followers": 105587,
+        "followers": 2710519,
         "topic": null,
         "self_quote": false,
         "note": ""
       },
       {
-        "id": "2122116623943229697",
-        "handle": "@JorgeRoHe",
-        "lane": "watchlist",
-        "views": 14602,
-        "trend_match": 49,
-        "verdict": "visual",
-        "matched_keywords": [
-          "#5AñosImparables",
-          "#BuenosGobiernosPAN",
-          "Coyoacán"
-        ],
-        "media": "video",
-        "followers": 105587,
-        "topic": null,
-        "self_quote": false,
-        "note": ""
-      },
-      {
-        "id": "2122363362608812455",
-        "handle": "@JorgeRoHe",
-        "lane": "watchlist",
-        "views": 13700,
-        "trend_match": 49,
-        "verdict": "visual",
-        "matched_keywords": [
-          "#5AñosImparables",
-          "#BuenosGobiernosPAN",
-          "Coyoacán"
-        ],
-        "media": "video",
-        "followers": 105587,
-        "topic": null,
-        "self_quote": false,
-        "note": ""
-      },
-      {
-        "id": "2122196507818619384",
+        "id": "2122475091351212502",
         "handle": "@m_ebrard",
         "lane": "watchlist",
-        "views": 12710,
-        "trend_match": 49,
-        "verdict": "autor/audiencia",
+        "views": 28834,
+        "trend_match": 20,
+        "verdict": "visual",
         "matched_keywords": [
-          "Shenzhen",
-          "China",
-          "Presidenta"
+          "Shenzhen"
         ],
-        "media": "sin datos",
-        "followers": 2710558,
+        "media": "photo",
+        "followers": 2710519,
         "topic": null,
         "self_quote": false,
-        "note": "media: sin datos"
+        "note": ""
       },
       {
-        "id": "2122196420271002113",
-        "handle": "@m_ebrard",
+        "id": "2122541488261493059",
+        "handle": "@RicardoBSalinas",
         "lane": "watchlist",
-        "views": 11758,
-        "trend_match": 59,
-        "verdict": "tendencia",
+        "views": 24556,
+        "trend_match": 20,
+        "verdict": "visual",
         "matched_keywords": [
-          "APEC",
-          "Shenzhen",
-          "China",
-          "Presidenta"
+          "Colombia"
         ],
-        "media": "video",
-        "followers": 2710558,
+        "media": "photo",
+        "followers": 2238768,
         "topic": null,
         "self_quote": false,
         "note": ""
@@ -1264,82 +1171,47 @@
         "id": "2122353841525973486",
         "handle": "@alitomorenoc",
         "lane": "watchlist",
-        "views": 9534,
+        "views": 14906,
         "trend_match": 36,
         "verdict": "visual",
         "matched_keywords": [
           "El Salvador",
-          "Democracia"
+          "Estado y Democracia"
         ],
         "media": "photo",
-        "followers": 242372,
+        "followers": 242365,
         "topic": null,
         "self_quote": false,
         "note": ""
       },
       {
-        "id": "2122115411806126360",
-        "handle": "@samuel_garcias",
+        "id": "2122363362608812455",
+        "handle": "@JorgeRoHe",
         "lane": "watchlist",
-        "views": 9083,
-        "trend_match": 49,
-        "verdict": "visual",
-        "matched_keywords": [
-          "orgullo",
-          "metro",
-          "no paramos de jalar"
-        ],
-        "media": "photo",
-        "followers": 444405,
-        "topic": null,
-        "self_quote": false,
-        "note": ""
-      },
-      {
-        "id": "2122105861749506254",
-        "handle": "@alitomorenoc",
-        "lane": "watchlist",
-        "views": 8045,
+        "views": 13883,
         "trend_match": 20,
         "verdict": "visual",
         "matched_keywords": [
-          "El Salvador"
+          "#5AñosImparables"
         ],
         "media": "video",
-        "followers": 242372,
+        "followers": 105584,
         "topic": null,
         "self_quote": false,
         "note": ""
       },
       {
-        "id": "2122163951521743048",
-        "handle": "@samuel_garcias",
+        "id": "2122451899702243745",
+        "handle": "@m_ebrard",
         "lane": "watchlist",
-        "views": 6024,
+        "views": 12287,
         "trend_match": 20,
         "verdict": "visual",
         "matched_keywords": [
-          "LO NUEVO CUMPLE"
+          "China"
         ],
         "media": "video",
-        "followers": 444405,
-        "topic": null,
-        "self_quote": false,
-        "note": ""
-      },
-      {
-        "id": "2122381436141408318",
-        "handle": "@alitomorenoc",
-        "lane": "watchlist",
-        "views": 5057,
-        "trend_match": 36,
-        "verdict": "visual",
-        "matched_keywords": [
-          "Presidenta",
-          "El Salvador"
-        ],
-        "media": "photo",
-        "followers": 242372,
+        "followers": 2710519,
         "topic": null,
         "self_quote": false,
         "note": ""
@@ -1348,14 +1220,75 @@
         "id": "2122422100283498830",
         "handle": "@samuel_garcias",
         "lane": "watchlist",
-        "views": 5009,
+        "views": 11393,
+        "trend_match": 36,
+        "verdict": "visual",
+        "matched_keywords": [
+          "Revolución Mexicana",
+          "desfile"
+        ],
+        "media": "photo",
+        "followers": 444371,
+        "topic": null,
+        "self_quote": false,
+        "note": ""
+      },
+      {
+        "id": "2122381436141408318",
+        "handle": "@alitomorenoc",
+        "lane": "watchlist",
+        "views": 11177,
         "trend_match": 20,
         "verdict": "visual",
         "matched_keywords": [
-          "Revolución Mexicana"
+          "El Salvador"
         ],
         "media": "photo",
-        "followers": 444405,
+        "followers": 242365,
+        "topic": null,
+        "self_quote": false,
+        "note": ""
+      },
+      {
+        "id": "2122655101424730256",
+        "handle": "@Claudiashein",
+        "lane": "watchlist",
+        "views": 9228,
+        "trend_match": 20,
+        "verdict": "visual",
+        "matched_keywords": [
+          "Canadá"
+        ],
+        "media": "photo",
+        "followers": 5259562,
+        "topic": null,
+        "self_quote": false,
+        "note": ""
+      },
+      {
+        "id": "2122348304507764757",
+        "handle": "@samuel_garcias",
+        "lane": "watchlist",
+        "views": 6484,
+        "trend_match": 0,
+        "verdict": "visual",
+        "matched_keywords": [],
+        "media": "photo",
+        "followers": 444371,
+        "topic": null,
+        "self_quote": false,
+        "note": ""
+      },
+      {
+        "id": "2122477460071514474",
+        "handle": "@samuel_garcias",
+        "lane": "watchlist",
+        "views": 6205,
+        "trend_match": 0,
+        "verdict": "visual",
+        "matched_keywords": [],
+        "media": "photo",
+        "followers": 444371,
         "topic": null,
         "self_quote": false,
         "note": ""
@@ -1374,281 +1307,280 @@
     "legend": "Trend match 0-100% = 1 - prod(1 - w) over matched 24 h keywords that another author also used in the 48 h window (w: rank 1-10 0.35, 11-25 0.22, 26-40 0.12, curated 0.20). Verdict: >= 50% -> tendencia; else video/image in the post data -> visual; else >= 100K followers (outsiders without follower data: >= 500K views, estimate) -> autor/audiencia; else coincidencia/otro. Missing data shows as 'sin datos'. Heat = sum log10(views) of topic posts (24 h x1, 24-48 h x0.5), scaled to 100. Momentum = log-views last 24 h / previous 24 h. Trend-input-only accounts feed the corpus but are never shown as hits."
   },
   "imagen_rsp": {
-    "fecha": "2026-11-16 (17:00)",
+    "fecha": "2026-11-17 (06:00)",
     "parcial": false,
-    "ventana": "2026-11-15T22:45Z a 2026-11-16T22:45Z (15 nov 4:45 p.m. a 16 nov 4:45 p.m., hora del centro de México)",
+    "ventana": "2026-11-16T11:48Z a 2026-11-17T11:48Z (16 nov 5:48 a.m. a 17 nov 5:48 a.m., hora del centro de México)",
     "posts_propios": {
+      "originales": 3,
+      "vistas": 185243,
+      "likes": 7667,
+      "reposts": 1555,
+      "respuestas": 365,
+      "citas": 22,
+      "guardados": 85,
+      "top": "https://x.com/RicardoBSalinas/status/2122356992023155086",
+      "detalle": [
+        {
+          "url": "https://x.com/RicardoBSalinas/status/2122356992023155086",
+          "vistas": 100161,
+          "likes": 3922,
+          "reposts": 1032,
+          "respuestas": 139,
+          "citas": 5,
+          "guardados": 49,
+          "nota": "16 nov 9:51 a.m. (hora del centro). \"Buenos dias!\" citando un video sobre Rafael Barajas \"El Fisgón\". Ya contado en el corte de ayer 5:00 p.m. (69,115); sube 45%."
+        },
+        {
+          "url": "https://x.com/RicardoBSalinas/status/2122520116416192822",
+          "vistas": 60526,
+          "likes": 2709,
+          "reposts": 440,
+          "respuestas": 146,
+          "citas": 13,
+          "guardados": 27,
+          "nota": "16 nov 8:40 p.m. (hora del centro). \"Sin palabras 🤐\" citando un post que dice que Clara Brugada anunció un programa de gallinas ponedoras (15 por familia). 4.5% de likes por vista; algunas menciones críticas responden a este post."
+        },
+        {
+          "url": "https://x.com/RicardoBSalinas/status/2122541488261493059",
+          "vistas": 24556,
+          "likes": 1036,
+          "reposts": 83,
+          "respuestas": 80,
+          "citas": 4,
+          "guardados": 9,
+          "nota": "16 nov 10:05 p.m. (hora del centro). \"Llegamos de visita a #Colombia 😎\" con foto. No encontré nota de medios que confirme la agenda del viaje."
+        }
+      ],
+      "nota": "3 originales (2 citas y 1 con foto), ninguna respuesta en la ventana: 185,243 vistas, 7,667 likes, 1,555 reposts y 365 respuestas. Contra ayer 5:00 p.m. (1 cita, 69,115, 3.º de 6) sube a 2.º de 6, detrás de @Claudiashein (623,933). Sin señales de pleito: más likes que respuestas en los 3."
+    },
+    "dia_previo_referencia": {
+      "fecha": "2026-11-16 (17:00)",
       "originales": 1,
       "vistas": 69115,
       "likes": 2732,
       "reposts": 696,
       "respuestas": 107,
-      "citas": 5,
-      "guardados": 37,
-      "top": "https://x.com/RicardoBSalinas/status/2122356992023155086",
-      "detalle": [
-        {
-          "url": "https://x.com/RicardoBSalinas/status/2122356992023155086",
-          "vistas": 69115,
-          "likes": 2732,
-          "reposts": 696,
-          "respuestas": 107,
-          "citas": 5,
-          "guardados": 37,
-          "nota": "16 nov 9:51 a.m. (hora del centro). \"Buenos dias!\" citando un video de @JJDiazMachuca sobre Rafael Barajas \"El Fisgón\" (ese video lleva 130,665 vistas). Proporción sana: 2,732 likes contra 107 respuestas (4.0% de likes por vista, contra 2.7% de la \"Perrita\")."
-        }
-      ],
-      "nota": "1 original en la ventana (cita) y ninguna respuesta: 69,115 vistas, 2,732 likes, 696 reposts y 107 respuestas. Contra el corte de las 6:00 (0 originales) regresa al ranking: 3.º de 6. Contra ayer 5:00 p.m. (2 citas, 285,900 vistas): −76% en vistas, pero sin señales de pleito. Es el primer post tras dos días sin publicar."
-    },
-    "dia_previo_referencia": {
-      "fecha": "2026-11-16 (06:00)",
-      "originales": 0,
-      "vistas": 0,
-      "likes": 0,
-      "reposts": 0,
-      "respuestas": 0,
-      "rank": "fuera del ranking",
-      "nota": "Esta mañana: 0 posts por segundo día seguido. Ahora 1 original y 3.º de 6, detrás de @Claudiashein (1,072,762) y @m_ebrard (116,902)."
+      "rank": "3 de 6",
+      "nota": "Ayer 5:00 p.m.: 1 cita (\"Buenos dias!\", 69,115), 3.º de 6. Hoy: 3 originales, 185,243 vistas (+168%) y 2.º de 6."
     },
     "posts_previos_actualizados": [
       {
         "url": "https://x.com/RicardoBSalinas/status/2121815480092827766",
-        "vistas": 290432,
-        "likes": 7726,
-        "reposts": 1910,
-        "respuestas": 1601,
-        "nota": "\"La verdadera 'Perrita'\": +8.5% contra 267,779 de las 6:00. Sigue con más respuestas (1,601) que reposts (1,910 casi a la par): riesgo de imagen vigente; #LaPerritaDeTrump sigue apareciendo en menciones."
+        "vistas": 303041,
+        "likes": 8087,
+        "reposts": 2051,
+        "respuestas": 1676,
+        "nota": "\"La verdadera 'Perrita'\": +4.3% contra 290,432. Sigue con 1,676 respuestas, casi tantas como reposts (2,051): riesgo de imagen vigente; #LaPerritaDeTrump sigue en menciones."
       },
       {
         "url": "https://x.com/RicardoBSalinas/status/2121813437265395949",
-        "vistas": 126714,
-        "likes": 7097,
-        "reposts": 2370,
-        "respuestas": 110,
-        "nota": "\"Genial !\": +17% contra 108,614."
+        "vistas": 131779,
+        "likes": 7468,
+        "reposts": 2537,
+        "respuestas": 114,
+        "nota": "\"Genial !\": +4% contra 126,714."
       },
       {
         "url": "https://x.com/RicardoBSalinas/status/2121418477357633663",
-        "vistas": 613856,
-        "likes": 22784,
-        "reposts": 8339,
-        "respuestas": 1273,
-        "nota": "Video de pensiones: +1.3% contra 605,921; 2,310 guardados. Sigue siendo su mejor post de noviembre."
+        "vistas": 618338,
+        "likes": 22816,
+        "reposts": 8350,
+        "respuestas": 1293,
+        "nota": "Video de pensiones: +0.7% contra 613,856. Sigue siendo su mejor post de noviembre."
       }
     ],
     "menciones": {
-      "volumen_24h": 5158,
-      "volumen_24h_previas": 5134,
-      "nota_volumen": "Conteo de X para 'Salinas Pliego' / 'Ricardo Salinas' / @RicardoBSalinas, sin reposts, 15 nov 22:45Z a 16 nov 22:45Z: 5,158, +0.5% contra las 24 h anteriores (5,134) y −15% contra el corte de las 6:00 (6,069). Pico de 453 menciones entre 5 y 6 p.m. del 15 nov (hora del centro); hoy por la tarde baja a unas 210 por hora.",
+      "volumen_24h": 3980,
+      "volumen_24h_previas": 6078,
+      "nota_volumen": "Conteo de X para 'Salinas Pliego' / 'Ricardo Salinas' / @RicardoBSalinas, sin reposts, 16 nov 11:48Z a 17 nov 11:48Z: 3,980, −35% contra las 24 h anteriores (6,078) y −23% contra el corte de ayer 5:00 p.m. (5,158). Pico de 261 por hora entre 9 y 10 p.m. del 16 nov (hora del centro), después de su post \"Sin palabras\"; de madrugada baja a menos de 50 por hora.",
       "muestra": 50,
       "excluidas_bots": 15,
-      "excluidas_pro_morena": 8,
-      "excluidas_fuera_de_tema": 4,
-      "excluidas_no_verificadas": 1,
-      "nota_filtro": "Filtro habitual sobre 50 menciones (25 por relevancia y 25 más recientes; 3 repetidas, quedan 47 únicas; sin respuestas, sin reposts y sin posts propios). Bots (15) = una cuenta creada en nov 2026 con 0 seguidores que repite el mismo texto 3 veces y otra con handle de dígitos que lo copia, títulos de YouTube copiados (3), una cuenta de nov 2026 con 1 seguidor que solo insulta, etiquetado masivo copiado (2), cuentas con handles de dígitos y propaganda en serie (4) y cuentas de más de 100 mil posts. Pro-Morena (8) = bios \"100% Obradorista\" (2 posts), \"De izquierda 4T... Sheinbaum Presidenta\", \"#4T\", \"Obradorista por convicción\", \"razones para apoyar a este gobierno\", un usuario con AMLO en el nombre y otra cuenta con discurso de la \"transformación\". Fuera de tema (4) = política de España, etiquetas sueltas sin tema y un post sobre la generación Z. No verificadas (1) = acusación de una supuesta red de pedófilos, sin fuente. Quedaron 19: 14 críticas, 3 favorables y 2 informativas.",
+      "excluidas_pro_morena": 10,
+      "excluidas_fuera_de_tema": 5,
+      "excluidas_no_verificadas": 2,
+      "nota_filtro": "Filtro habitual sobre 50 menciones (25 por relevancia y 25 más recientes; 4 repetidas, quedan 46 únicas; sin respuestas, sin reposts y sin posts propios). Bots (15) = una cuenta creada en jul 2026 con unos 60 posts al día y sin bio, títulos de YouTube copiados (3), etiquetado masivo copiado 2 veces por la misma cuenta, handles con muchos dígitos (6), una cuenta creada en may 2026 con 2 seguidores, una cuenta casi vacía que solo etiqueta y una cuenta de más de 100 mil posts. Pro-Morena (10) = bios \"#Obradorista #RedSheinbaum\" (mismo texto 2 veces), \"100% Obradorista\" (2 posts), \"#4T\", \"100 % X 100 % 4T\", \"Mi corazón con AMLO y la 4T\", \"razones para apoyar a este gobierno de la 4T\" y dos cuentas con discurso de la \"transformación\". Fuera de tema (5) = posts sin texto o sin tema claro (3), futbol y una discusión entre periodistas. No verificadas (2) = acusaciones de una supuesta red de pedófilos y de financiar perfiles falsos, sin fuente. Quedaron 14: 11 críticas, 1 favorable y 2 informativas.",
       "temas": [
-        "#LaPerritaDeTrump sigue como etiqueta de burla en cuentas chicas, ligada a su cita de anoche.",
-        "El cruce con Andy López Beltrán sigue vivo: se comparte su respuesta (\"sus cuestionamientos retoman asuntos públicos de hace décadas\").",
-        "Quejas de clientes de Banco Azteca, Elektra y servicio de internet (cancelación de cuentas, falta de atención, 5 días sin servicio).",
-        "Su video de pensiones sigue generando notas y críticas (\"iría por quitar las pensiones\", desde cuentas de izquierda).",
-        "Un medio local de Michoacán reporta que el Movimiento del Sombrero niega una alianza con él (desmiente un rumor; no hay alianza confirmada)."
+        "Su cita \"Sin palabras\" sobre el programa de gallinas ponedoras generó respuestas críticas (\"¿Este es el país que sueña gobernar?\").",
+        "Su video de pensiones sigue generando interpretaciones críticas (\"iría por quitar las pensiones\").",
+        "El cruce con Andy López Beltrán sigue vivo; se comparte su respuesta de que los cuestionamientos retoman asuntos de hace décadas.",
+        "SinEmbargo (#LosPeriodistas) analizó lo que llama el \"desplome financiero\" de su fortuna y lo liga a impuestos, bolsa y su distancia con el gobierno.",
+        "Columnas de SDP Noticias en su contra (\"es un perdedor\") y #LaPerritaDeTrump como burla en cuentas chicas."
       ],
-      "tono": "Volumen estable (+0.5%) y tono crítico: 14 críticas (insultos, burlas con #LaPerritaDeTrump y quejas de servicio), 3 favorables y 2 informativas. La mención más vista que pasó el filtro es una crítica con insultos y su deuda fiscal (19,429 vistas); la favorable más vista llegó a 569.",
+      "tono": "Volumen a la baja (−35%) y tono crítico: 11 críticas, 1 favorable y 2 informativas. Ninguna mención válida pasó de 1,500 vistas; la más vista es un análisis informativo de SinEmbargo (1,308). La favorable más vista llegó a 1 vista.",
       "menciones_destacadas": [
         {
-          "handle": "@saburguete",
-          "vistas": 19429,
-          "likes": 344,
-          "url": "https://x.com/saburguete/status/2122116151656210679",
-          "texto": "Lista de insultos y burla sobre sus impuestos (crítica, opinión)."
-        },
-        {
-          "handle": "@LOVREGA",
-          "vistas": 569,
-          "likes": 37,
-          "url": "https://x.com/LOVREGA/status/2122448100920869062",
-          "texto": "\"México se sostiene gracias al esfuerzo de empresarios como @RicardoBSalinas\" (favorable)."
+          "handle": "@SinEmbargoMX",
+          "vistas": 1308,
+          "likes": 16,
+          "url": "https://x.com/SinEmbargoMX/status/2122567911839498585",
+          "texto": "Análisis en #LosPeriodistas sobre el \"desplome financiero\" de Salinas Pliego (informativa)."
         },
         {
           "handle": "@DnielleCabrera",
-          "vistas": 463,
-          "likes": 27,
+          "vistas": 949,
+          "likes": 81,
           "url": "https://x.com/DnielleCabrera/status/2122359046091247754",
-          "texto": "Interpreta su video de pensiones como \"iría por quitar las pensiones\" (crítica, interpretación)."
+          "texto": "\"Salinas Pliego iría por quitar las pensiones\", sobre su video (crítica, interpretación)."
         },
         {
-          "handle": "@michangoonga",
-          "vistas": 341,
-          "likes": 0,
-          "url": "https://x.com/michangoonga/status/2122335685973852501",
-          "texto": "El Movimiento del Sombrero niega alianza con Salinas (informativa)."
+          "handle": "@sdpnoticias",
+          "vistas": 790,
+          "likes": 15,
+          "url": "https://x.com/sdpnoticias/status/2122488585269981608",
+          "texto": "Columna \"Ni Ricardo Salinas Pliego, ni la derecha, llegarán a México\" (crítica, opinión)."
+        },
+        {
+          "handle": "@OliviaOropeza_",
+          "vistas": 448,
+          "likes": 11,
+          "url": "https://x.com/OliviaOropeza_/status/2122604469389049964",
+          "texto": "Critica su burla del programa de gallinas (crítica)."
         },
         {
           "handle": "@caracusmx",
-          "vistas": 164,
+          "vistas": 168,
           "likes": 1,
           "url": "https://x.com/caracusmx/status/2122314184457068976",
-          "texto": "Resume su respuesta a López Beltrán (informativa)."
-        },
-        {
-          "handle": "@JulioOrtiz2909",
-          "vistas": 21,
-          "likes": 0,
-          "url": "https://x.com/JulioOrtiz2909/status/2122222201076396258",
-          "texto": "\"Estamos con usted Don Ricardo\" (favorable)."
+          "texto": "Difunde su respuesta a Andy López Beltrán (informativa)."
         }
       ]
     },
     "medios": [
       {
-        "texto": "Noticias de Chihuahua: \"Salinas Pliego calcula en 59 billones de pesos los compromisos por pensiones\" (aclara que son sus estimaciones)",
-        "url": "https://noticiasdechihuahua.com/salinas-pliego-calcula-en-59-billones-de-pesos-los-compromisos-por-pensiones/"
-      },
-      {
         "texto": "Azteca Ciudad Juárez (medio de Grupo Salinas): responde a Andy López Beltrán",
         "url": "https://www.aztecaciudadjuarez.com/noticias/ricardo-salinas-pliego-responde-a-andy-lopez-beltran-y-exige-cuentas-a-su-familia-video/"
       },
       {
-        "texto": "Ámbito: Banco Azteca se une a Superboletos con preventas",
-        "url": "https://www.ambito.com/mexico/economia/banco-azteca-ricardo-salinas-pliego-se-une-superboletos-y-lanza-un-mega-beneficio-millones-mexicanos-que-deseen-ir-al-arena-cdmx-guadalajara-y-monterrey-n6345912"
+        "texto": "Futuro.mx: \"Advierte Salinas Pliego crisis por costo de las pensiones en México\"",
+        "url": "https://futuro.mx/advierte-salinas-pliego-crisis-por-costo-de-las-pensiones-en-mexico/"
       }
     ]
   },
   "rivales": {
-    "fecha": "2026-11-16 (06:00)",
+    "fecha": "2026-11-17 (06:00)",
     "parcial_x": false,
-    "nota_base": "Comparado contra data/rivales_state.json del 2026-11-15 (06:00). Solo lo que cambió del 15 nov 5:55 a.m. al 16 nov 5:49 a.m. (hora del centro).",
-    "fuentes": "Búsqueda web en Expansión Política, El País, Infobae, El Universal, LatinUS, La Jornada, Quinto Poder, El Diario de Juárez/Puente Libre y Tecate Informativo, más lectura en X de las 10 cuentas. La búsqueda de noticias de X no devolvió notas de política mexicana salvo el viaje a la APEC.",
-    "contexto": "Domingo de gira: el gobierno en China para la APEC; la oposición con bolsillo (IVA), eventos de aliados y diplomacia en El Salvador.",
+    "nota_base": "Comparado contra data/rivales_state.json del 2026-11-16 (06:00). Solo lo que cambió del 16 nov 5:48 a.m. al 17 nov 5:48 a.m. (hora del centro).",
+    "fuentes": "Búsqueda web en El Universal, Infobae, Reuters/El Nuevo Herald, CNN en Español, France 24, Político MX, Quinto Poder, Quadratín, Gobierno de Chihuahua, Revista Ecclesia, El Debate y Enfoque Monterrey, más lectura en X de las 10 cuentas. La búsqueda de noticias de X no devolvió notas de política mexicana.",
+    "contexto": "Lunes de gira: el gobierno sigue en China (bilateral con Xi); la oposición en foros internacionales (El Salvador, Madrid) y en la pelea por el INE.",
     "rivales": [
       {
         "nombre": "Claudia Sheinbaum",
         "handle": "@Claudiashein",
         "novedades": [
           {
-            "texto": "Llegó a Shenzhen el 15 nov a las 9:32 p.m. (hora del centro); la recibieron autoridades de Guangdong, con Ebrard y el canciller Roberto Velasco. Hoy se reúne con la comunidad mexicana; el 17 nov ve a empresarios de las 21 economías y tiene su bilateral con Xi Jinping; la plenaria es el 18 y 19 nov y regresa el 20 nov.",
-            "url": "https://politica.expansion.mx/mexico/2026/11/15/presidenta-sheinbaum-llega-a-china-para-participar-en-cumbre-de-apec-se-reunira-con-xi-jinping"
+            "texto": "Tuvo su primera reunión bilateral con Xi Jinping en Shenzhen, con 7 secretarios. Habló de una \"nueva era\" de cooperación (ciencia, tecnología, agricultura, energías limpias, agua, salud, cultura y turismo) y lo invitó a la APEC de México en 2028. France 24 dice que no trascendió si hablaron de aranceles o fentanilo.",
+            "url": "https://www.eluniversal.com.mx/nacion/sheinbaum-sostiene-primera-reunion-bilateral-con-xi-jinping-encuentro-se-realizo-en-el-marco-de-la-cumbre-apec-2026/"
           },
           {
-            "texto": "El País: la reunión con Xi llega \"en pleno pulso arancelario\" por los aranceles de hasta 50% que México puso a países sin tratado, entre ellos China.",
-            "url": "https://elpais.com/mexico/economia/2026-11-16/sheinbaum-se-reunira-con-xi-jinping-en-la-apec-en-pleno-pulso-arancelario-entre-mexico-y-china.html"
+            "texto": "Presentó el Plan México ante más de mil empresarios en el APEC CEO Summit.",
+            "url": "https://www.infobae.com/mexico/2026/11/17/sheinbaum-se-reune-con-xi-jinping-en-china-lo-invita-a-mexico-y-plantea-nueva-era-de-cooperacion/"
           },
           {
-            "texto": "En X: de 0 originales ayer a 2 videos que suman 753,614 vistas (salida 481,189; recibimiento 272,425). Es 1ª del día.",
-            "url": "https://x.com/Claudiashein/status/2122205377345605643"
+            "texto": "También se reunió con el primer ministro de Canadá, Mark Carney (post en X, 9,228 vistas).",
+            "url": "https://x.com/Claudiashein/status/2122655101424730256"
           }
         ],
-        "nota": "Sube de 0 a 1ª del día con el viaje a China."
+        "nota": "Sigue 1ª del día: 4 hits, 623,933 vistas (comunidad mexicana 331,452; APEC CEO Summit 182,147; Xi 101,106; Carney 9,228)."
       },
       {
         "nombre": "Marcelo Ebrard",
         "handle": "@m_ebrard",
         "novedades": [
           {
-            "texto": "Recibió a la Presidenta en el aeropuerto de Shenzhen y contó el viaje en 6 posts, todos arriba de 5,000 (101,516 en total; el mejor, 32,499).",
-            "url": "https://x.com/m_ebrard/status/2121982265643446679"
+            "texto": "Acompañó la bilateral con Xi y el foro de empresarios; en X contó historias de mexicanos en Shenzhen (comunidad, \"Gabo\", cocina mexicana).",
+            "url": "https://x.com/m_ebrard/status/2122567612228071570"
           }
         ],
-        "nota": "Sube de 1 hit (14,691) a 6 (101,516); 2º del día."
-      },
-      {
-        "nombre": "Jorge Romero",
-        "handle": "@JorgeRoHe",
-        "novedades": [
-          {
-            "texto": "Relanzó en X la propuesta del PAN de bajar el IVA del 16% al 10% (#SolucionesParaMéxico): 25,152 vistas y 547 respuestas contra 338 likes, mucho debate. La propuesta es de junio, no nueva.",
-            "url": "https://x.com/JorgeRoHe/status/2121972750638096825"
-          },
-          {
-            "texto": "Acompañó el informe #5AñosImparables del alcalde de Coyoacán, Giovani Gutiérrez (4 posts entre 14,027 y 19,077).",
-            "url": "https://x.com/JorgeRoHe/status/2122034475462750523"
-          }
-        ],
-        "nota": "Sube de 4 hits (67,399) a 5 (90,243); 3º del día."
-      },
-      {
-        "nombre": "Lilly Téllez",
-        "handle": "@LillyTellez",
-        "novedades": [
-          {
-            "texto": "En su pódcast \"Voz Valiente\" acusó a Sheinbaum de proteger a Rubén Rocha Moya después de que la UIF desbloqueó dos de sus cuentas, las de sus pensiones, por orden de un tribunal administrativo; el resto sigue congelado.",
-            "url": "https://www.infobae.com/mexico/2026/11/15/lilly-tellez-acusa-a-sheinbaum-de-proteger-a-rcoha-moya-de-las-acusaciones-de-eeuu-tras-liberacion-de-recursos-de-la-uif/"
-          }
-        ],
-        "nota": "Baja de 2 hits (157,042) a 1 (25,696)."
+        "nota": "De 6 hits (101,516) a 4 (118,546); 3º del día."
       },
       {
         "nombre": "Omar García Harfuch",
         "handle": "@OHarfuch",
         "novedades": [
           {
-            "texto": "Borró de X su post sobre la detención de \"El Mike\" (Los R's) sin explicar por qué; la SSPC sí confirmó la captura en un comunicado.",
-            "url": "https://quinto-poder.mx/tendencias/2026/11/15/omar-garcia-harfuch-anuncia-detencion-de-los-rs-y-borra-mensaje--73314.html"
-          },
-          {
-            "texto": "Un juez federal admitió un amparo contra él y mandos de la SSPC por omisiones en la búsqueda de Carlos Emilio Galván, desaparecido en Mazatlán; deben rendir informes.",
-            "url": "https://latinus.us/mexico/2026/11/14/admiten-amparo-contra-harfuch-por-omisiones-en-la-desaparicion-de-carlos-emilio-182427.html"
-          },
-          {
-            "texto": "El Congreso de Baja California pidió, por unanimidad, que visite Tecate por la ola de violencia.",
-            "url": "https://tecateinformativo.com/pide-congreso-de-bc-intervencion-de-garcia-harfuch-ante-la-ola-de-violencia-que-azota-a-tecate/"
+            "texto": "Encabezó la Conferencia Nacional de Seguridad Pública Municipal en la CDMX y pidió a los alcaldes policías municipales con más personal, preparación y equipo.",
+            "url": "https://quinto-poder.mx/politicos/2026/11/16/que-paso-en-la-reunion-de-pepe-chedraui-y-garcia-harfuch--73336.html"
           }
         ],
-        "nota": "0 originales en X en 24 h (ayer 66,516)."
+        "nota": "En X: 0 originales por segundo día (solo un repost)."
       },
       {
-        "nombre": "Maru Campos",
-        "handle": "@MaruCampos_G",
+        "nombre": "Jorge Romero",
+        "handle": "@JorgeRoHe",
         "novedades": [
           {
-            "texto": "Ariadna Montiel (Morena) pidió investigar la cadena de mando del gobierno de Chihuahua por la presunta participación de agentes extranjeros en operativos, tras la detención del exfiscal César Jáuregui.",
-            "url": "https://puentelibre.mx/local/exige-morena-investigar-a-maru-por-agentes-extranjeros-ciudad-juarez-14-noviembre-2026/"
+            "texto": "Exigió un INE \"libre de imposiciones de Morena\" en el relevo de Guadalupe Taddei y pidió investigar su gestión.",
+            "url": "https://politico.mx/2026/11/17/jorge-romero-exige-un-ine-libre-de-imposiciones-de-morena-y-pide-investigar-gestion-de-taddei/"
           }
         ],
-        "nota": "En X sigue bajo: 2 originales (pésame a un periodista y MediChihuahua), máximo 1,149."
+        "nota": "Baja de 5 hits (90,243) a 1 (13,883, video del informe en Coyoacán)."
       },
       {
         "nombre": "Alejandro Moreno",
         "handle": "@alitomorenoc",
         "novedades": [
           {
-            "texto": "De gira en El Salvador, se reunió con el vicepresidente Félix Ulloa y elogió la política de seguridad de Bukele como \"ejemplo para los países del mundo\".",
-            "url": "https://www.eluniversal.com.mx/nacion/alito-moreno-se-reune-con-vicepresidente-de-el-salvador-reconoce-politica-de-seguridad-de-bukele/"
+            "texto": "En la II Conferencia Internacional sobre Estado y Democracia (San Salvador) dijo que la seguridad y la democracia deben ser prioridad de cualquier gobierno; se reunió con el ministro de Seguridad de El Salvador y con la vicepresidenta de República Dominicana, Raquel Peña.",
+            "url": "https://www.eluniversal.com.mx/nacion/alito-moreno-destaca-estrategia-de-seguridad-de-bukele-participa-en-conferencia-internacional-en-el-salvador/"
           }
         ],
-        "nota": "1 hit (6,447) con 93 respuestas contra 182 likes."
+        "nota": "Sube de 1 hit (6,447) a 2 (26,083); sus posts siguen con muchas respuestas (122 en el de 14,906)."
+      },
+      {
+        "nombre": "Maru Campos",
+        "handle": "@MaruCampos_G",
+        "novedades": [
+          {
+            "texto": "Cerró en Madrid el 28º Congreso Católicos y Vida Pública: defendió su modelo \"humanista\" (alimentación, salud y agua) y criticó el sistema de salud federal y la caída de México en el Índice de Estado de Derecho. Su gobierno dice que los organizadores pagaron el viaje.",
+            "url": "https://cacech.chihuahua.gob.mx/prensa/maru-campos-presenta-en-madrid-el-modelo-de-servicio-humanista-de-chihuahua"
+          },
+          {
+            "texto": "Revista Ecclesia reseñó su conferencia de clausura.",
+            "url": "https://revistaecclesia.es/fe-y-libertad-como-respuesta-a-la-crisis-el-congreso-catolicos-y-vida-publica-llama-a-hacerse-presentes-como-mensajeros-de-esperanza/"
+          }
+        ],
+        "nota": "En X sigue bajo: máximo 1,256 y publicó 2 veces el mismo texto."
       },
       {
         "nombre": "Samuel García",
         "handle": "@samuel_garcias",
         "novedades": [
           {
-            "texto": "Siguió con los recorridos de obra del metro (estación Aeropuerto, Parque Fundidora) con el lema \"LO NUEVO CUMPLE\" y anunció metro gratis de 8 a.m. a 2 p.m. para el desfile de la Revolución en la Macroplaza (16 nov).",
-            "url": "https://x.com/samuel_garcias/status/2122015141772300402"
+            "texto": "Encabezó el desfile de la Revolución en Monterrey y afirmó que los homicidios en Nuevo León bajaron hasta 90%; anunció su Quinto Informe para el sábado 21 nov.",
+            "url": "https://www.debate.com.mx/monterrey/samuel-garcia-encabeza-desfile-revolucionario-presume-avances-historicos-en-nuevo-leon-20261116-0242.html"
+          },
+          {
+            "texto": "Reunió a más de 150 liderazgos de Movimiento Ciudadano para preparar 2027.",
+            "url": "https://enfoquemonterrey.com.mx/2026/11/16/reune-samuel-garcia-a-liderazgos-de-mc-para-preparar-elecciones-de-2027/"
           }
         ],
-        "nota": "3 hits (34,036) contra 4 (29,519) ayer; sin noticias nuevas de fondo."
+        "nota": "3 hits (24,082) contra 3 (34,036) ayer."
       }
     ],
     "sin_cambios": [
       {
+        "nombre": "Lilly Téllez",
+        "handle": "@LillyTellez",
+        "nota": "Sin novedades. 0 originales en X (solo reposts y 2 respuestas); no encontré notas nuevas desde ayer."
+      },
+      {
         "nombre": "Guadalupe Acosta Naranjo",
         "handle": "@acostanaranjo",
-        "nota": "Sin novedades de fondo. 0 originales en X (solo reposts); la cuenta de SOMOS difundió su propuesta de que 1 de cada 3 candidatos sea menor de 35 años: https://x.com/SomosMxMexico/status/2122057928119116199"
+        "nota": "Sin novedades. En X solo hizo reposts."
       }
     ]
   },
   "leaderboards": {
-    "as_of": "2026-11-16",
+    "as_of": "2026-11-17",
     "tracking_start": "2026-10-26",
     "days_included": [
-      "2026-11-10",
       "2026-11-11",
       "2026-11-12",
       "2026-11-13",
       "2026-11-14",
       "2026-11-15",
-      "2026-11-16"
+      "2026-11-16",
+      "2026-11-17"
     ],
     "month_days_included": [
       "2026-11-01",
@@ -1666,13 +1598,14 @@
       "2026-11-13",
       "2026-11-14",
       "2026-11-15",
-      "2026-11-16"
+      "2026-11-16",
+      "2026-11-17"
     ],
     "week": {
       "label": "Semana",
       "range": [
-        "2026-11-10",
-        "2026-11-16"
+        "2026-11-11",
+        "2026-11-17"
       ],
       "entries": [
         {
@@ -1680,7 +1613,7 @@
           "name": "Ricardo B. Salinas",
           "hits": 19,
           "days": 7,
-          "views": 4661841,
+          "views": 4150279,
           "best": 1760231,
           "best_url": "https://x.com/RicardoBSalinas/status/2120331518199447789"
         },
@@ -1689,36 +1622,36 @@
           "name": "Claudia Sheinbaum Pardo",
           "hits": 16,
           "days": 7,
-          "views": 2841602,
-          "best": 846081,
+          "views": 3275250,
+          "best": 1233596,
           "best_url": "https://x.com/Claudiashein/status/2122205377345605643"
         },
         {
           "handle": "@LillyTellez",
           "name": "Lilly Téllez",
-          "hits": 18,
-          "days": 6,
-          "views": 1631156,
+          "hits": 14,
+          "days": 5,
+          "views": 1232862,
           "best": 362891,
           "best_url": "https://x.com/LillyTellez/status/2120337524786864251"
         },
         {
           "handle": "@JorgeRoHe",
           "name": "Jorge Romero Herrera",
-          "hits": 43,
-          "days": 7,
-          "views": 954682,
+          "hits": 39,
+          "days": 6,
+          "views": 881631,
           "best": 209875,
           "best_url": "https://x.com/JorgeRoHe/status/2120347226606067917"
         },
         {
-          "handle": "@OHarfuch",
-          "name": "Omar H Garcia Harfuch",
-          "hits": 7,
-          "days": 3,
-          "views": 482008,
-          "best": 150668,
-          "best_url": "https://x.com/OHarfuch/status/2120165694536835538"
+          "handle": "@m_ebrard",
+          "name": "Marcelo Ebrard C.",
+          "hits": 18,
+          "days": 6,
+          "views": 378159,
+          "best": 39452,
+          "best_url": "https://x.com/m_ebrard/status/2122398469751275826"
         },
         {
           "handle": "@acostanaranjo",
@@ -1730,31 +1663,31 @@
           "best_url": "https://x.com/acostanaranjo/status/2120696928145203512"
         },
         {
-          "handle": "@m_ebrard",
-          "name": "Marcelo Ebrard C.",
-          "hits": 15,
-          "days": 5,
-          "views": 271002,
-          "best": 35183,
-          "best_url": "https://x.com/m_ebrard/status/2120891299964620887"
+          "handle": "@OHarfuch",
+          "name": "Omar H Garcia Harfuch",
+          "hits": 4,
+          "days": 2,
+          "views": 221639,
+          "best": 101635,
+          "best_url": "https://x.com/OHarfuch/status/2120552353086517677"
         },
         {
           "handle": "@samuel_garcias",
           "name": "Samuel García",
           "hits": 17,
           "days": 7,
-          "views": 166126,
+          "views": 167676,
           "best": 18573,
           "best_url": "https://x.com/samuel_garcias/status/2122015141772300402"
         },
         {
           "handle": "@alitomorenoc",
           "name": "Alejandro Moreno",
-          "hits": 12,
-          "days": 7,
-          "views": 161758,
-          "best": 53238,
-          "best_url": "https://x.com/alitomorenoc/status/2120010357557084286"
+          "hits": 11,
+          "days": 6,
+          "views": 120668,
+          "best": 19206,
+          "best_url": "https://x.com/alitomorenoc/status/2121801993781977181"
         }
       ]
     },
@@ -1762,25 +1695,25 @@
       "label": "Mes",
       "range": [
         "2026-11-01",
-        "2026-11-16"
+        "2026-11-17"
       ],
       "entries": [
         {
           "handle": "@ricardobsalinas",
           "name": "Ricardo B. Salinas",
-          "hits": 46,
-          "days": 15,
-          "views": 7451101,
+          "hits": 48,
+          "days": 16,
+          "views": 7567229,
           "best": 1760231,
           "best_url": "https://x.com/RicardoBSalinas/status/2120331518199447789"
         },
         {
           "handle": "@Claudiashein",
           "name": "Claudia Sheinbaum Pardo",
-          "hits": 37,
-          "days": 16,
-          "views": 4608200,
-          "best": 846081,
+          "hits": 40,
+          "days": 17,
+          "views": 5392967,
+          "best": 1233596,
           "best_url": "https://x.com/Claudiashein/status/2122205377345605643"
         },
         {
@@ -1797,7 +1730,7 @@
           "name": "Jorge Romero Herrera",
           "hits": 98,
           "days": 16,
-          "views": 1836866,
+          "views": 1837216,
           "best": 209875,
           "best_url": "https://x.com/JorgeRoHe/status/2120347226606067917"
         },
@@ -1813,11 +1746,20 @@
         {
           "handle": "@samuel_garcias",
           "name": "Samuel García",
-          "hits": 57,
-          "days": 16,
-          "views": 734042,
+          "hits": 59,
+          "days": 17,
+          "views": 757284,
           "best": 109340,
           "best_url": "https://x.com/samuel_garcias/status/2117446693444571350"
+        },
+        {
+          "handle": "@m_ebrard",
+          "name": "Marcelo Ebrard C.",
+          "hits": 33,
+          "days": 11,
+          "views": 480772,
+          "best": 39452,
+          "best_url": "https://x.com/m_ebrard/status/2122398469751275826"
         },
         {
           "handle": "@acostanaranjo",
@@ -1833,18 +1775,9 @@
           "name": "Alejandro Moreno",
           "hits": 27,
           "days": 14,
-          "views": 402520,
+          "views": 414668,
           "best": 62409,
           "best_url": "https://x.com/alitomorenoc/status/2117029935952826663"
-        },
-        {
-          "handle": "@m_ebrard",
-          "name": "Marcelo Ebrard C.",
-          "hits": 30,
-          "days": 10,
-          "views": 373615,
-          "best": 35183,
-          "best_url": "https://x.com/m_ebrard/status/2120891299964620887"
         },
         {
           "handle": "@MaruCampos_G",

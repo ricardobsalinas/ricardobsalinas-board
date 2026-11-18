@@ -34,93 +34,95 @@
   "virals_window": "últimas 24 h",
   "virals_target": 20,
   "timezone": "America/Mexico_City",
-  "title": "Digest de la tarde en X — 2026-11-17",
-  "date": "2026-11-17",
-  "updated": "2026-11-17T16:52:03-06:00",
+  "title": "Digest de la mañana en X — 2026-11-18",
+  "date": "2026-11-18",
+  "updated": "2026-11-18T05:59:43-06:00",
   "hits": [
-    {
-      "id": "2122616597814956234",
-      "handle": "@Claudiashein",
-      "display_name": "Claudia Sheinbaum Pardo",
-      "name": "Claudia Sheinbaum Pardo",
-      "followers": 5259808,
-      "text": "Reunión con el presidente Xi Jinping y su gabinete. Hablamos de una nueva era de cooperación para el desarrollo en las relaciones México-China. https://t.co/ucrYYb7BSe",
-      "original_en": "Reunión con el presidente Xi Jinping y su gabinete. Hablamos de una nueva era de cooperación para el desarrollo en las relaciones México-China. https://t.co/ucrYYb7BSe",
-      "views": 484047,
-      "views_label": "484,047",
-      "likes": 22925,
-      "reposts": 4265,
-      "replies": 817,
-      "quotes": 379,
-      "bookmarks": 626,
-      "url": "https://x.com/Claudiashein/status/2122616597814956234",
-      "status_url": "https://x.com/Claudiashein/status/2122616597814956234",
-      "created_local": "2026-11-17 03:03",
-      "created_at": "2026-11-17T09:03:27.000Z",
-      "posted_at": "2026-11-17T09:03:27.000Z",
-      "lang": null,
-      "media": [
-        "photo",
-        "photo",
-        "photo"
-      ],
-      "star": true,
-      "highlight": true,
-      "quote": false,
-      "top10_rank": 1,
-      "category": "Internacional"
-    },
-    {
-      "id": "2122550056276652273",
-      "handle": "@Claudiashein",
-      "display_name": "Claudia Sheinbaum Pardo",
-      "name": "Claudia Sheinbaum Pardo",
-      "followers": 5259808,
-      "text": "Desde Shenzhen, China, les comparto mi participación en APEC CEO Summit 2026; en representación de México, expusimos a líderes económicos y empresarios del mundo que el desarrollo con bienestar es posible. https://t.co/3AEDA9Wve3",
-      "original_en": "Desde Shenzhen, China, les comparto mi participación en APEC CEO Summit 2026; en representación de México, expusimos a líderes económicos y empresarios del mundo que el desarrollo con bienestar es posible. https://t.co/3AEDA9Wve3",
-      "views": 426898,
-      "views_label": "426,898",
-      "likes": 17673,
-      "reposts": 5280,
-      "replies": 734,
-      "quotes": 337,
-      "bookmarks": 1045,
-      "url": "https://x.com/Claudiashein/status/2122550056276652273",
-      "status_url": "https://x.com/Claudiashein/status/2122550056276652273",
-      "created_local": "2026-11-16 22:39",
-      "created_at": "2026-11-17T04:39:03.000Z",
-      "posted_at": "2026-11-17T04:39:03.000Z",
-      "lang": null,
-      "media": [
-        "video"
-      ],
-      "star": true,
-      "highlight": true,
-      "quote": false,
-      "top10_rank": 2,
-      "category": "Internacional"
-    },
     {
       "id": "2122733378323558640",
       "handle": "@RicardoBSalinas",
       "display_name": "Don Ricardo Salinas Pliego",
       "name": "Don Ricardo Salinas Pliego",
-      "followers": 2238688,
+      "followers": 2238893,
       "text": "Lenia… por favor demándeme, nada me haría más feliz que exhibir ante los mexicanos para sirve su doctorado frente a mis abogados 😌. https://t.co/J0ePdUU2Zu",
       "original_en": "Lenia… por favor demándeme, nada me haría más feliz que exhibir ante los mexicanos para sirve su doctorado frente a mis abogados 😌. https://t.co/J0ePdUU2Zu",
-      "views": 291986,
-      "views_label": "291,986",
-      "likes": 13618,
-      "reposts": 2924,
-      "replies": 668,
-      "quotes": 67,
-      "bookmarks": 181,
+      "views": 434925,
+      "views_label": "434,925",
+      "likes": 19799,
+      "reposts": 4435,
+      "replies": 883,
+      "quotes": 98,
+      "bookmarks": 259,
       "url": "https://x.com/RicardoBSalinas/status/2122733378323558640",
       "status_url": "https://x.com/RicardoBSalinas/status/2122733378323558640",
       "created_local": "2026-11-17 10:47",
       "created_at": "2026-11-17T16:47:30.000Z",
       "posted_at": "2026-11-17T16:47:30.000Z",
-      "lang": null,
+      "lang": "es",
+      "media": [],
+      "star": true,
+      "highlight": true,
+      "quote": true,
+      "top10_rank": 1,
+      "category": "Otros"
+    },
+    {
+      "id": "2122732202404319314",
+      "handle": "@RicardoBSalinas",
+      "display_name": "Don Ricardo Salinas Pliego",
+      "name": "Don Ricardo Salinas Pliego",
+      "followers": 2238893,
+      "text": "Es listejo el joven Martínez !👍 https://t.co/4S3e4AoCO8",
+      "original_en": "Es listejo el joven Martínez !👍 https://t.co/4S3e4AoCO8",
+      "views": 199113,
+      "views_label": "199,113",
+      "likes": 2483,
+      "reposts": 113,
+      "replies": 80,
+      "quotes": 1,
+      "bookmarks": 97,
+      "url": "https://x.com/RicardoBSalinas/status/2122732202404319314",
+      "status_url": "https://x.com/RicardoBSalinas/status/2122732202404319314",
+      "created_local": "2026-11-17 10:42",
+      "created_at": "2026-11-17T16:42:50.000Z",
+      "posted_at": "2026-11-17T16:42:50.000Z",
+      "lang": "es",
+      "media": [],
+      "star": true,
+      "highlight": true,
+      "quote": true,
+      "draft_en": "La tecnología no es enemiga del trabajo: es la herramienta para que nuestra gente aprenda, crezca y gane más. La mejor inversión de una empresa es preparar a su equipo para el futuro.\nA los jóvenes: el que aprende cada día nunca se queda atrás. ¿Qué habilidad nueva vas a aprender este año? 💡💪",
+      "video_tip": "Video vertical de 15 s: una joven que aprende a programar en una laptop, un técnico que repara un equipo con una tableta, un aula de capacitación llena y un apretón de manos al recibir un diploma; rótulos \"Aprende\" · \"Crece\" · \"Gana más\". Cierra con la pregunta en pantalla. Sin personas públicas, partidos ni logotipos.",
+      "draft_keywords": [
+        "jóvenes",
+        "futuro",
+        "tecnología",
+        "capacitación"
+      ],
+      "top10_rank": 2,
+      "category": "Otros"
+    },
+    {
+      "id": "2122801735995363677",
+      "handle": "@RicardoBSalinas",
+      "display_name": "Don Ricardo Salinas Pliego",
+      "name": "Don Ricardo Salinas Pliego",
+      "followers": 2238893,
+      "text": "Mis clientes de Elektra no tienen nada de qué preocuparse- Sus compras están 100% aseguradas desde que salen de la tienda - Hasta que llegan a sus casas. 🤣 https://t.co/yyER4FQzgA",
+      "original_en": "Mis clientes de Elektra no tienen nada de qué preocuparse- Sus compras están 100% aseguradas desde que salen de la tienda - Hasta que llegan a sus casas. 🤣 https://t.co/yyER4FQzgA",
+      "views": 148425,
+      "views_label": "148,425",
+      "likes": 2886,
+      "reposts": 233,
+      "replies": 130,
+      "quotes": 7,
+      "bookmarks": 81,
+      "url": "https://x.com/RicardoBSalinas/status/2122801735995363677",
+      "status_url": "https://x.com/RicardoBSalinas/status/2122801735995363677",
+      "created_local": "2026-11-17 15:19",
+      "created_at": "2026-11-17T21:19:08.000Z",
+      "posted_at": "2026-11-17T21:19:08.000Z",
+      "lang": "es",
       "media": [],
       "star": true,
       "highlight": true,
@@ -129,229 +131,103 @@
       "category": "Otros"
     },
     {
-      "id": "2122732202404319314",
+      "id": "2122728558904975765",
       "handle": "@RicardoBSalinas",
       "display_name": "Don Ricardo Salinas Pliego",
       "name": "Don Ricardo Salinas Pliego",
-      "followers": 2238688,
-      "text": "Es listejo el joven Martínez !👍 https://t.co/4S3e4AoCO8",
-      "original_en": "Es listejo el joven Martínez !👍 https://t.co/4S3e4AoCO8",
-      "views": 136161,
-      "views_label": "136,161",
-      "likes": 1747,
-      "reposts": 77,
-      "replies": 60,
-      "quotes": 0,
-      "bookmarks": 65,
-      "url": "https://x.com/RicardoBSalinas/status/2122732202404319314",
-      "status_url": "https://x.com/RicardoBSalinas/status/2122732202404319314",
-      "created_local": "2026-11-17 10:42",
-      "created_at": "2026-11-17T16:42:50.000Z",
-      "posted_at": "2026-11-17T16:42:50.000Z",
-      "lang": null,
+      "followers": 2238893,
+      "text": "Que buena frase - Gracias por compartir. https://t.co/wcjW6OrWUP",
+      "original_en": "Que buena frase - Gracias por compartir. https://t.co/wcjW6OrWUP",
+      "views": 120553,
+      "views_label": "120,553",
+      "likes": 3019,
+      "reposts": 367,
+      "replies": 78,
+      "quotes": 4,
+      "bookmarks": 96,
+      "url": "https://x.com/RicardoBSalinas/status/2122728558904975765",
+      "status_url": "https://x.com/RicardoBSalinas/status/2122728558904975765",
+      "created_local": "2026-11-17 10:28",
+      "created_at": "2026-11-17T16:28:21.000Z",
+      "posted_at": "2026-11-17T16:28:21.000Z",
+      "lang": "es",
       "media": [],
       "star": true,
       "highlight": true,
       "quote": true,
-      "draft_en": "A los jóvenes: el futuro no se hereda, se construye. Ahorra aunque sea poco, aprende un oficio, atrévete a emprender.\nLa libertad económica empieza el día que decides invertir en ti. ¿Cuál es tu primer paso? 💪🇲🇽",
-      "video_tip": "Video vertical de 15 s: un joven que cuenta monedas en una alcancía, una aprendiz en un taller, una laptop con una tienda en línea que recibe su primer pedido; rótulos \"Ahorra\" · \"Aprende\" · \"Emprende\". Cierra con la pregunta en pantalla. Sin personas públicas, partidos ni logotipos.",
-      "draft_keywords": [
-        "jóvenes",
-        "futuro",
-        "emprender",
-        "libertad económica"
-      ],
       "top10_rank": 4,
-      "category": "Otros"
-    },
-    {
-      "id": "2122520116416192822",
-      "handle": "@RicardoBSalinas",
-      "display_name": "Don Ricardo Salinas Pliego",
-      "name": "Don Ricardo Salinas Pliego",
-      "followers": 2238688,
-      "text": "Sin palabras 🤐 https://t.co/gYrag8UZv4",
-      "original_en": "Sin palabras 🤐 https://t.co/gYrag8UZv4",
-      "views": 128180,
-      "views_label": "128,180",
-      "likes": 4923,
-      "reposts": 941,
-      "replies": 345,
-      "quotes": 32,
-      "bookmarks": 57,
-      "url": "https://x.com/RicardoBSalinas/status/2122520116416192822",
-      "status_url": "https://x.com/RicardoBSalinas/status/2122520116416192822",
-      "created_local": "2026-11-16 20:40",
-      "created_at": "2026-11-17T02:40:04.000Z",
-      "posted_at": "2026-11-17T02:40:04.000Z",
-      "lang": null,
-      "media": [],
-      "star": true,
-      "highlight": true,
-      "quote": true,
-      "top10_rank": 5,
-      "category": "Otros"
-    },
-    {
-      "id": "2122655101424730256",
-      "handle": "@Claudiashein",
-      "display_name": "Claudia Sheinbaum Pardo",
-      "name": "Claudia Sheinbaum Pardo",
-      "followers": 5259808,
-      "text": "Reunión bilateral con el primer ministro Mark Carney. Vamos muy avanzados en el plan de acción que establecimos hace poco más de un año. Tenemos una extraordinaria relación con Canadá y acordamos ampliarla hacia el futuro. https://t.co/ZHBPUpDtc7",
-      "original_en": "Reunión bilateral con el primer ministro Mark Carney. Vamos muy avanzados en el plan de acción que establecimos hace poco más de un año. Tenemos una extraordinaria relación con Canadá y acordamos ampliarla hacia el futuro. https://t.co/ZHBPUpDtc7",
-      "views": 108072,
-      "views_label": "108,072",
-      "likes": 8645,
-      "reposts": 2284,
-      "replies": 311,
-      "quotes": 112,
-      "bookmarks": 124,
-      "url": "https://x.com/Claudiashein/status/2122655101424730256",
-      "status_url": "https://x.com/Claudiashein/status/2122655101424730256",
-      "created_local": "2026-11-17 05:36",
-      "created_at": "2026-11-17T11:36:27.000Z",
-      "posted_at": "2026-11-17T11:36:27.000Z",
-      "lang": null,
-      "media": [
-        "photo"
-      ],
-      "star": true,
-      "highlight": true,
-      "quote": false,
-      "top10_rank": 6,
-      "category": "Otros"
+      "category": "Motivación y liderazgo"
     },
     {
       "id": "2122716987889471858",
       "handle": "@RicardoBSalinas",
       "display_name": "Don Ricardo Salinas Pliego",
       "name": "Don Ricardo Salinas Pliego",
-      "followers": 2238688,
-      "text": "https://t.co/TKURMIxbxP",
-      "original_en": "https://t.co/TKURMIxbxP",
-      "views": 92702,
-      "views_label": "92,702",
-      "likes": 677,
-      "reposts": 301,
-      "replies": 87,
-      "quotes": 16,
-      "bookmarks": 19,
+      "followers": 2238893,
+      "text": "Artículo de X: «Morena contra el Fobaproa»",
+      "original_en": "Artículo de X: «Morena contra el Fobaproa»",
+      "views": 113023,
+      "views_label": "113,023",
+      "likes": 858,
+      "reposts": 361,
+      "replies": 128,
+      "quotes": 18,
+      "bookmarks": 24,
       "url": "https://x.com/RicardoBSalinas/status/2122716987889471858",
       "status_url": "https://x.com/RicardoBSalinas/status/2122716987889471858",
       "created_local": "2026-11-17 09:42",
       "created_at": "2026-11-17T15:42:22.000Z",
       "posted_at": "2026-11-17T15:42:22.000Z",
-      "lang": null,
+      "lang": "zxx",
       "media": [],
       "star": true,
       "highlight": true,
       "quote": false,
-      "top10_rank": 7,
-      "category": "Otros"
+      "draft_en": "La confianza se construye con transparencia. Un país que abre sus cuentas y rinde cuentas es un país donde se invierte, se emprende y se crece.\nLo que se hace con el dinero de todos debe estar a la vista de todos. ¿Cuánto vale para ti la transparencia? 🔍📂",
+      "video_tip": "Video vertical de 10 a 15 s: un archivero que se abre, carpetas que se ordenan sobre una mesa con buena luz, una lupa sobre una tabla de cifras y una puerta de cristal que se abre; la frase aparece en letras grandes, una línea a la vez. Sin personas públicas, partidos ni logotipos.",
+      "draft_keywords": [
+        "transparencia",
+        "rendir cuentas",
+        "confianza",
+        "dinero de todos"
+      ],
+      "top10_rank": 5,
+      "category": "Gobierno y políticas públicas"
     },
     {
-      "id": "2122728558904975765",
+      "id": "2122826815035359634",
       "handle": "@RicardoBSalinas",
       "display_name": "Don Ricardo Salinas Pliego",
       "name": "Don Ricardo Salinas Pliego",
-      "followers": 2238688,
-      "text": "Que buena frase - Gracias por compartir. https://t.co/wcjW6OrWUP",
-      "original_en": "Que buena frase - Gracias por compartir. https://t.co/wcjW6OrWUP",
-      "views": 78592,
-      "views_label": "78,592",
-      "likes": 1854,
-      "reposts": 245,
-      "replies": 58,
-      "quotes": 3,
-      "bookmarks": 54,
-      "url": "https://x.com/RicardoBSalinas/status/2122728558904975765",
-      "status_url": "https://x.com/RicardoBSalinas/status/2122728558904975765",
-      "created_local": "2026-11-17 10:28",
-      "created_at": "2026-11-17T16:28:21.000Z",
-      "posted_at": "2026-11-17T16:28:21.000Z",
-      "lang": null,
+      "followers": 2238893,
+      "text": "No les quería decir a que vine a Colombia porque era sorpresa, peeerrroo vine a invertir y aprender de un gran amigo @ABDELAESPRIELLA.\n\nGracias por tan buen recibimiento y espero invitarte pronto a que visites nuestro México. https://t.co/FAL8zEYfq7",
+      "original_en": "No les quería decir a que vine a Colombia porque era sorpresa, peeerrroo vine a invertir y aprender de un gran amigo @ABDELAESPRIELLA.\n\nGracias por tan buen recibimiento y espero invitarte pronto a que visites nuestro México. https://t.co/FAL8zEYfq7",
+      "views": 104166,
+      "views_label": "104,166",
+      "likes": 4167,
+      "reposts": 859,
+      "replies": 259,
+      "quotes": 20,
+      "bookmarks": 56,
+      "url": "https://x.com/RicardoBSalinas/status/2122826815035359634",
+      "status_url": "https://x.com/RicardoBSalinas/status/2122826815035359634",
+      "created_local": "2026-11-17 16:58",
+      "created_at": "2026-11-17T22:58:47.000Z",
+      "posted_at": "2026-11-17T22:58:47.000Z",
+      "lang": "es",
       "media": [],
       "star": true,
       "highlight": true,
       "quote": true,
-      "draft_en": "Liderar también es no tomarse todo personal. Quien está ocupado construyendo no tiene tiempo para el rencor: escucha, aprende y sigue adelante.\nLa serenidad es una forma de fuerza. ¿Qué vas a soltar hoy para avanzar? 🧭",
-      "video_tip": "Video vertical de 10 a 15 s: un escritorio al amanecer, una mano que tacha una lista de pendientes, un lago en calma y una persona que camina hacia adelante; la frase aparece en letras grandes, una línea a la vez, con música tranquila. Sin personas públicas, partidos ni logotipos.",
-      "draft_keywords": [
-        "calma",
-        "liderazgo",
-        "serenidad",
-        "frase"
-      ],
-      "top10_rank": 8,
-      "category": "Motivación y liderazgo"
-    },
-    {
-      "id": "2122567612228071570",
-      "handle": "@m_ebrard",
-      "display_name": "Marcelo Ebrard C.",
-      "name": "Marcelo Ebrard C.",
-      "followers": 2710245,
-      "text": "La Presidenta Claudia Sheinbaum ante la comunidad empresarial de la APEC . Tuvo gran acogida , México presente y exitoso 🇲🇽 🇲🇽👏👏 https://t.co/zOIcrEino0",
-      "original_en": "La Presidenta Claudia Sheinbaum ante la comunidad empresarial de la APEC . Tuvo gran acogida , México presente y exitoso 🇲🇽 🇲🇽👏👏 https://t.co/zOIcrEino0",
-      "views": 72690,
-      "views_label": "72,690",
-      "likes": 3955,
-      "reposts": 727,
-      "replies": 103,
-      "quotes": 18,
-      "bookmarks": 52,
-      "url": "https://x.com/m_ebrard/status/2122567612228071570",
-      "status_url": "https://x.com/m_ebrard/status/2122567612228071570",
-      "created_local": "2026-11-16 23:48",
-      "created_at": "2026-11-17T05:48:48.000Z",
-      "posted_at": "2026-11-17T05:48:48.000Z",
-      "lang": null,
-      "media": [
-        "photo"
-      ],
-      "star": true,
-      "highlight": true,
-      "quote": false,
-      "top10_rank": 9,
-      "category": "Economía y empleo"
-    },
-    {
-      "id": "2122541488261493059",
-      "handle": "@RicardoBSalinas",
-      "display_name": "Don Ricardo Salinas Pliego",
-      "name": "Don Ricardo Salinas Pliego",
-      "followers": 2238688,
-      "text": "Llegamos de visita a #Colombia 😎 https://t.co/JrVYAYllgg",
-      "original_en": "Llegamos de visita a #Colombia 😎 https://t.co/JrVYAYllgg",
-      "views": 49416,
-      "views_label": "49,416",
-      "likes": 2052,
-      "reposts": 151,
-      "replies": 140,
-      "quotes": 7,
-      "bookmarks": 16,
-      "url": "https://x.com/RicardoBSalinas/status/2122541488261493059",
-      "status_url": "https://x.com/RicardoBSalinas/status/2122541488261493059",
-      "created_local": "2026-11-16 22:05",
-      "created_at": "2026-11-17T04:05:00.000Z",
-      "posted_at": "2026-11-17T04:05:00.000Z",
-      "lang": null,
-      "media": [
-        "photo"
-      ],
-      "star": true,
-      "highlight": true,
-      "quote": false,
-      "draft_en": "Cuando una empresa mexicana cruza fronteras, lleva consigo el talento y el trabajo de miles de mexicanos.\nLos empleos no se decretan: se construyen con inversión y confianza. México tiene con qué competir en cualquier parte del mundo. ¿Qué frontera vas a cruzar tú? 🇲🇽🌎",
-      "video_tip": "Video vertical de 15 s: una línea de ensamblaje con piezas que se ajustan, un mapa de América que conecta México con otros países y trabajadores con casco que chocan las manos; rótulos grandes \"Invertir\" · \"Crear empleo\" · \"Competir\". Cierra con la pregunta en pantalla. Sin personas públicas, partidos ni logotipos.",
+      "draft_en": "Invertir es un acto de confianza en el futuro. Cada planta que abre y cada empleo que se crea le dan a una familia lo más valioso: la libertad de salir adelante por su cuenta.\nLas empresas mexicanas ya compiten en el mundo. El reto es que México sea el mejor lugar para invertir. ¿Qué estás construyendo hoy? 🇲🇽🏭",
+      "video_tip": "Video vertical de 15 s: una nave industrial que enciende sus luces al amanecer, una motocicleta que sale terminada de la línea de ensamblaje, trabajadores con casco que se saludan y un mapa que une a México con otros países; rótulos grandes \"Invertir\" · \"Crear empleo\" · \"Competir\". Cierra con la pregunta en pantalla. Sin personas públicas, partidos ni logotipos.",
       "draft_keywords": [
         "invertir",
         "empleo",
-        "México en el mundo",
-        "confianza"
+        "confianza",
+        "competir"
       ],
-      "top10_rank": 10,
+      "top10_rank": 6,
       "category": "Internacional"
     },
     {
@@ -359,134 +235,140 @@
       "handle": "@RicardoBSalinas",
       "display_name": "Don Ricardo Salinas Pliego",
       "name": "Don Ricardo Salinas Pliego",
-      "followers": 2238688,
+      "followers": 2238893,
       "text": "Bravo senadora, exijamos que se abra todo el FOBAPROA y se hagan públicos los expedientes!!!\n\nYa basta que nos quieran ver la cara. https://t.co/F1MEFnbGI6",
       "original_en": "Bravo senadora, exijamos que se abra todo el FOBAPROA y se hagan públicos los expedientes!!!\n\nYa basta que nos quieran ver la cara. https://t.co/F1MEFnbGI6",
-      "views": 44248,
-      "views_label": "44,248",
-      "likes": 1106,
-      "reposts": 301,
-      "replies": 22,
-      "quotes": 4,
-      "bookmarks": 9,
+      "views": 66479,
+      "views_label": "66,479",
+      "likes": 2704,
+      "reposts": 779,
+      "replies": 42,
+      "quotes": 5,
+      "bookmarks": 11,
       "url": "https://x.com/RicardoBSalinas/status/2122787336983552257",
       "status_url": "https://x.com/RicardoBSalinas/status/2122787336983552257",
       "created_local": "2026-11-17 14:21",
       "created_at": "2026-11-17T20:21:55.000Z",
       "posted_at": "2026-11-17T20:21:55.000Z",
-      "lang": null,
+      "lang": "es",
       "media": [],
       "star": true,
       "highlight": true,
       "quote": true,
+      "top10_rank": 7,
       "category": "Gobierno y políticas públicas"
-    },
-    {
-      "id": "2122475091351212502",
-      "handle": "@m_ebrard",
-      "display_name": "Marcelo Ebrard C.",
-      "name": "Marcelo Ebrard C.",
-      "followers": 2710245,
-      "text": "Con Gabo , principal promotor de México en Shenzhen , tipazo  !! https://t.co/nowmXlkri5",
-      "original_en": "Con Gabo , principal promotor de México en Shenzhen , tipazo  !! https://t.co/nowmXlkri5",
-      "views": 42079,
-      "views_label": "42,079",
-      "likes": 2274,
-      "reposts": 239,
-      "replies": 55,
-      "quotes": 5,
-      "bookmarks": 22,
-      "url": "https://x.com/m_ebrard/status/2122475091351212502",
-      "status_url": "https://x.com/m_ebrard/status/2122475091351212502",
-      "created_local": "2026-11-16 17:41",
-      "created_at": "2026-11-16T23:41:10.000Z",
-      "posted_at": "2026-11-16T23:41:10.000Z",
-      "lang": null,
-      "media": [
-        "photo"
-      ],
-      "star": true,
-      "highlight": true,
-      "quote": false,
-      "category": "Otros"
-    },
-    {
-      "id": "2122801735995363677",
-      "handle": "@RicardoBSalinas",
-      "display_name": "Don Ricardo Salinas Pliego",
-      "name": "Don Ricardo Salinas Pliego",
-      "followers": 2238688,
-      "text": "Mis clientes de Elektra no tienen nada de qué preocuparse- Sus compras están 100% aseguradas desde que salen de la tienda - Hasta que llegan a sus casas. 🤣 https://t.co/yyER4FQzgA",
-      "original_en": "Mis clientes de Elektra no tienen nada de qué preocuparse- Sus compras están 100% aseguradas desde que salen de la tienda - Hasta que llegan a sus casas. 🤣 https://t.co/yyER4FQzgA",
-      "views": 38961,
-      "views_label": "38,961",
-      "likes": 841,
-      "reposts": 65,
-      "replies": 58,
-      "quotes": 2,
-      "bookmarks": 27,
-      "url": "https://x.com/RicardoBSalinas/status/2122801735995363677",
-      "status_url": "https://x.com/RicardoBSalinas/status/2122801735995363677",
-      "created_local": "2026-11-17 15:19",
-      "created_at": "2026-11-17T21:19:08.000Z",
-      "posted_at": "2026-11-17T21:19:08.000Z",
-      "lang": null,
-      "media": [],
-      "star": true,
-      "highlight": true,
-      "quote": true,
-      "category": "Otros"
     },
     {
       "id": "2122752589850615977",
       "handle": "@LillyTellez",
       "display_name": "Lilly Téllez",
       "name": "Lilly Téllez",
-      "followers": 1128723,
-      "text": "Exijo oficialmente a las autoridades financieras (@IPAB_mx, @Hacienda_Mexico, @Banxico y @cnbvmx) y a la @ASF_Mexico revisar integralmente los expedientes del Fobaproa y transparentar las operaciones del rescate bancario: quiénes se beneficiaron, qué recursos se comprometieron y https://t.co/ScDX4y1bHM",
-      "original_en": "Exijo oficialmente a las autoridades financieras (@IPAB_mx, @Hacienda_Mexico, @Banxico y @cnbvmx) y a la @ASF_Mexico revisar integralmente los expedientes del Fobaproa y transparentar las operaciones del rescate bancario: quiénes se beneficiaron, qué recursos se comprometieron y https://t.co/ScDX4y1bHM",
-      "views": 24030,
-      "views_label": "24,030",
-      "likes": 1109,
-      "reposts": 444,
-      "replies": 47,
-      "quotes": 5,
-      "bookmarks": 10,
+      "followers": 1128729,
+      "text": "Exijo oficialmente a las autoridades financieras (@IPAB_mx, @Hacienda_Mexico, @Banxico y @cnbvmx) y a la @ASF_Mexico revisar integralmente los expedientes del Fobaproa y transparentar las operaciones del rescate bancario: quiénes se beneficiaron, qué recursos se comprometieron y qué obligaciones siguen vigentes: https://t.co/LSLkkC5NbU",
+      "original_en": "Exijo oficialmente a las autoridades financieras (@IPAB_mx, @Hacienda_Mexico, @Banxico y @cnbvmx) y a la @ASF_Mexico revisar integralmente los expedientes del Fobaproa y transparentar las operaciones del rescate bancario: quiénes se beneficiaron, qué recursos se comprometieron y qué obligaciones siguen vigentes: https://t.co/LSLkkC5NbU",
+      "views": 54300,
+      "views_label": "54,300",
+      "likes": 2069,
+      "reposts": 817,
+      "replies": 85,
+      "quotes": 9,
+      "bookmarks": 16,
       "url": "https://x.com/LillyTellez/status/2122752589850615977",
       "status_url": "https://x.com/LillyTellez/status/2122752589850615977",
       "created_local": "2026-11-17 12:03",
       "created_at": "2026-11-17T18:03:50.000Z",
       "posted_at": "2026-11-17T18:03:50.000Z",
-      "lang": null,
+      "lang": "es",
       "media": [
         "photo"
       ],
       "star": true,
       "highlight": true,
       "quote": false,
+      "top10_rank": 8,
       "category": "Economía y empleo"
+    },
+    {
+      "id": "2122958742907982263",
+      "handle": "@Claudiashein",
+      "display_name": "Claudia Sheinbaum Pardo",
+      "name": "Claudia Sheinbaum Pardo",
+      "followers": 5260377,
+      "text": "Sostuvimos una reunión bilateral con el presidente de la República Socialista de Vietnam, Tô Lâm, en el marco de la Cumbre de Líderes Económicos del Foro de Cooperación Económica Asia-Pacífico (APEC) 2026.\n \nDurante la reunión, destacamos la solidez de la relación bilateral, que en 2026 cumple 51 años de su establecimiento, y expresamos nuestro interés en profundizar los vínculos entre ambas naciones.",
+      "original_en": "Sostuvimos una reunión bilateral con el presidente de la República Socialista de Vietnam, Tô Lâm, en el marco de la Cumbre de Líderes Económicos del Foro de Cooperación Económica Asia-Pacífico (APEC) 2026.\n \nDurante la reunión, destacamos la solidez de la relación bilateral, que en 2026 cumple 51 años de su establecimiento, y expresamos nuestro interés en profundizar los vínculos entre ambas naciones.",
+      "views": 44679,
+      "views_label": "44,679",
+      "likes": 1769,
+      "reposts": 395,
+      "replies": 68,
+      "quotes": 18,
+      "bookmarks": 52,
+      "url": "https://x.com/Claudiashein/status/2122958742907982263",
+      "status_url": "https://x.com/Claudiashein/status/2122958742907982263",
+      "created_local": "2026-11-18 01:43",
+      "created_at": "2026-11-18T07:43:01.000Z",
+      "posted_at": "2026-11-18T07:43:01.000Z",
+      "lang": "es",
+      "media": [
+        "photo",
+        "photo",
+        "photo"
+      ],
+      "star": true,
+      "highlight": true,
+      "quote": false,
+      "top10_rank": 9,
+      "category": "Motivación y liderazgo"
+    },
+    {
+      "id": "2122894029289316529",
+      "handle": "@RicardoBSalinas",
+      "display_name": "Don Ricardo Salinas Pliego",
+      "name": "Don Ricardo Salinas Pliego",
+      "followers": 2238893,
+      "text": "Felicidades! - Gran carrera y gran futuro por delante. https://t.co/j2wDvPnzMK",
+      "original_en": "Felicidades! - Gran carrera y gran futuro por delante. https://t.co/j2wDvPnzMK",
+      "views": 39844,
+      "views_label": "39,844",
+      "likes": 1378,
+      "reposts": 142,
+      "replies": 46,
+      "quotes": 4,
+      "bookmarks": 16,
+      "url": "https://x.com/RicardoBSalinas/status/2122894029289316529",
+      "status_url": "https://x.com/RicardoBSalinas/status/2122894029289316529",
+      "created_local": "2026-11-17 21:25",
+      "created_at": "2026-11-18T03:25:52.000Z",
+      "posted_at": "2026-11-18T03:25:52.000Z",
+      "lang": "es",
+      "media": [],
+      "star": true,
+      "highlight": true,
+      "quote": true,
+      "top10_rank": 10,
+      "category": "Otros"
     },
     {
       "id": "2122757923617046944",
       "handle": "@JorgeRoHe",
       "display_name": "Jorge Romero Herrera",
       "name": "Jorge Romero Herrera",
-      "followers": 105583,
+      "followers": 105582,
       "text": "¡Qué gusto recibir a  @Jesus_ZambranoG! \n\nConversamos sobre los retos rumbo a 2027 y cómo seguir trabajando fuerte por las familias mexicanas. Siempre será un gusto coincidir en lo más importante: que a México le vaya bien.\n\n#PatriaFamiliaYLibertad https://t.co/j01xSd3HK9",
       "original_en": "¡Qué gusto recibir a  @Jesus_ZambranoG! \n\nConversamos sobre los retos rumbo a 2027 y cómo seguir trabajando fuerte por las familias mexicanas. Siempre será un gusto coincidir en lo más importante: que a México le vaya bien.\n\n#PatriaFamiliaYLibertad https://t.co/j01xSd3HK9",
-      "views": 21740,
-      "views_label": "21,740",
-      "likes": 338,
-      "reposts": 93,
-      "replies": 71,
-      "quotes": 12,
+      "views": 27107,
+      "views_label": "27,107",
+      "likes": 367,
+      "reposts": 99,
+      "replies": 220,
+      "quotes": 18,
       "bookmarks": 2,
       "url": "https://x.com/JorgeRoHe/status/2122757923617046944",
       "status_url": "https://x.com/JorgeRoHe/status/2122757923617046944",
       "created_local": "2026-11-17 12:25",
       "created_at": "2026-11-17T18:25:02.000Z",
       "posted_at": "2026-11-17T18:25:02.000Z",
-      "lang": null,
+      "lang": "es",
       "media": [
         "photo"
       ],
@@ -500,22 +382,22 @@
       "handle": "@m_ebrard",
       "display_name": "Marcelo Ebrard C.",
       "name": "Marcelo Ebrard C.",
-      "followers": 2710245,
+      "followers": 2710253,
       "text": "La Presidenta Claudia Sheinbaum de México y el Presidente Xi Jinping de la República Popular China : una nueva era en la relación bilateral. https://t.co/pA83ygmDbp",
       "original_en": "La Presidenta Claudia Sheinbaum de México y el Presidente Xi Jinping de la República Popular China : una nueva era en la relación bilateral. https://t.co/pA83ygmDbp",
-      "views": 16520,
-      "views_label": "16,520",
-      "likes": 698,
-      "reposts": 127,
-      "replies": 18,
-      "quotes": 4,
+      "views": 21101,
+      "views_label": "21,101",
+      "likes": 933,
+      "reposts": 161,
+      "replies": 25,
+      "quotes": 6,
       "bookmarks": 8,
       "url": "https://x.com/m_ebrard/status/2122680041192771677",
       "status_url": "https://x.com/m_ebrard/status/2122680041192771677",
       "created_local": "2026-11-17 07:15",
       "created_at": "2026-11-17T13:15:33.000Z",
       "posted_at": "2026-11-17T13:15:33.000Z",
-      "lang": null,
+      "lang": "es",
       "media": [
         "photo"
       ],
@@ -529,14 +411,14 @@
       "handle": "@JorgeRoHe",
       "display_name": "Jorge Romero Herrera",
       "name": "Jorge Romero Herrera",
-      "followers": 105583,
+      "followers": 105582,
       "text": "¡Muchas felicidades, mi querido @damianzepeda! \n\nTe deseo un cumpleaños lleno de alegría, salud y grandes momentos con tus seres queridos. \n\n¡Te mando un fuerte abrazo! https://t.co/0SOPyaD1Yu",
       "original_en": "¡Muchas felicidades, mi querido @damianzepeda! \n\nTe deseo un cumpleaños lleno de alegría, salud y grandes momentos con tus seres queridos. \n\n¡Te mando un fuerte abrazo! https://t.co/0SOPyaD1Yu",
-      "views": 16026,
-      "views_label": "16,026",
-      "likes": 266,
-      "reposts": 96,
-      "replies": 17,
+      "views": 16773,
+      "views_label": "16,773",
+      "likes": 301,
+      "reposts": 98,
+      "replies": 26,
       "quotes": 0,
       "bookmarks": 0,
       "url": "https://x.com/JorgeRoHe/status/2122725927960399965",
@@ -544,7 +426,7 @@
       "created_local": "2026-11-17 10:17",
       "created_at": "2026-11-17T16:17:54.000Z",
       "posted_at": "2026-11-17T16:17:54.000Z",
-      "lang": null,
+      "lang": "es",
       "media": [
         "photo"
       ],
@@ -558,22 +440,22 @@
       "handle": "@JorgeRoHe",
       "display_name": "Jorge Romero Herrera",
       "name": "Jorge Romero Herrera",
-      "followers": 105583,
+      "followers": 105582,
       "text": "En @AccionNacional propusimos que puedas deducir impuestos por todos tus gastos educativos y de salud. Menos carga para las familias y más dinero en sus bolsillos.\n\n#SolucionesParaMéxico https://t.co/wysFPCxwgJ",
       "original_en": "En @AccionNacional propusimos que puedas deducir impuestos por todos tus gastos educativos y de salud. Menos carga para las familias y más dinero en sus bolsillos.\n\n#SolucionesParaMéxico https://t.co/wysFPCxwgJ",
-      "views": 10316,
-      "views_label": "10,316",
-      "likes": 231,
-      "reposts": 80,
-      "replies": 5,
-      "quotes": 0,
+      "views": 16224,
+      "views_label": "16,224",
+      "likes": 251,
+      "reposts": 106,
+      "replies": 23,
+      "quotes": 1,
       "bookmarks": 0,
       "url": "https://x.com/JorgeRoHe/status/2122815551986712916",
       "status_url": "https://x.com/JorgeRoHe/status/2122815551986712916",
       "created_local": "2026-11-17 16:14",
       "created_at": "2026-11-17T22:14:02.000Z",
       "posted_at": "2026-11-17T22:14:02.000Z",
-      "lang": null,
+      "lang": "es",
       "media": [
         "photo"
       ],
@@ -587,49 +469,165 @@
       "handle": "@LillyTellez",
       "display_name": "Lilly Téllez",
       "name": "Lilly Téllez",
-      "followers": 1128723,
+      "followers": 1128729,
       "text": "Morena ha salido más caro y más dañino que el Fobaproa: https://t.co/ALkuCKfFv7",
       "original_en": "Morena ha salido más caro y más dañino que el Fobaproa: https://t.co/ALkuCKfFv7",
-      "views": 8719,
-      "views_label": "8,719",
-      "likes": 806,
-      "reposts": 286,
-      "replies": 33,
+      "views": 12745,
+      "views_label": "12,745",
+      "likes": 1292,
+      "reposts": 474,
+      "replies": 48,
       "quotes": 0,
-      "bookmarks": 2,
+      "bookmarks": 5,
       "url": "https://x.com/LillyTellez/status/2122721235742134345",
       "status_url": "https://x.com/LillyTellez/status/2122721235742134345",
       "created_local": "2026-11-17 09:59",
       "created_at": "2026-11-17T15:59:15.000Z",
       "posted_at": "2026-11-17T15:59:15.000Z",
-      "lang": null,
+      "lang": "es",
       "media": [],
-      "star": false,
-      "highlight": false,
+      "star": true,
+      "highlight": true,
       "quote": true,
       "category": "Gobierno y políticas públicas"
     },
     {
-      "id": "2122477460071514474",
+      "id": "2122766359427682755",
       "handle": "@samuel_garcias",
       "display_name": "Samuel García",
       "name": "Samuel García",
-      "followers": 444321,
-      "text": "¡Que chulada ver a las y los neoleoneses disfrutando los espacios públicos de Nuevo León! Un gusto saludarlos en el Nuevo Parque del Agua y La Pastora. 🦁️️️️️️👊🏻️️️️ https://t.co/1d0LivpRzT",
-      "original_en": "¡Que chulada ver a las y los neoleoneses disfrutando los espacios públicos de Nuevo León! Un gusto saludarlos en el Nuevo Parque del Agua y La Pastora. 🦁️️️️️️👊🏻️️️️ https://t.co/1d0LivpRzT",
-      "views": 8203,
-      "views_label": "8,203",
-      "likes": 62,
-      "reposts": 3,
-      "replies": 5,
+      "followers": 444315,
+      "text": "Lo nuevo llega a Nuevo León: LLEGÓ EL SÉPTIMO TREN DE LAS NUEVAS LÍNEAS DEL METRO. \n\nTodos van a contar con clima, internet, cámaras de seguridad conectadas al C5 y botón de pánico para tu seguridad. Seguimos trabajando más de 5 mil trabajadores para que MUY PRONTO puedas usarlo. Solo te pedimos paciencia, valdrá la pena. 🦁️️️️👊🏻️️️️🚇️️️️️️",
+      "original_en": "Lo nuevo llega a Nuevo León: LLEGÓ EL SÉPTIMO TREN DE LAS NUEVAS LÍNEAS DEL METRO. \n\nTodos van a contar con clima, internet, cámaras de seguridad conectadas al C5 y botón de pánico para tu seguridad. Seguimos trabajando más de 5 mil trabajadores para que MUY PRONTO puedas usarlo. Solo te pedimos paciencia, valdrá la pena. 🦁️️️️👊🏻️️️️🚇️️️️️️",
+      "views": 9344,
+      "views_label": "9,344",
+      "likes": 121,
+      "reposts": 10,
+      "replies": 25,
       "quotes": 0,
+      "bookmarks": 4,
+      "url": "https://x.com/samuel_garcias/status/2122766359427682755",
+      "status_url": "https://x.com/samuel_garcias/status/2122766359427682755",
+      "created_local": "2026-11-17 12:58",
+      "created_at": "2026-11-17T18:58:33.000Z",
+      "posted_at": "2026-11-17T18:58:33.000Z",
+      "lang": "es",
+      "media": [
+        "video"
+      ],
+      "star": false,
+      "highlight": false,
+      "quote": false,
+      "category": "Seguridad"
+    },
+    {
+      "id": "2122806898072097160",
+      "handle": "@alitomorenoc",
+      "display_name": "Alejandro Moreno",
+      "name": "Alejandro Moreno",
+      "followers": 242355,
+      "text": "El modelo del Presidente @nayibbukele es un modelo que le da identidad, mística y sentido de pertenencia a una nación. Un modelo que busca devolverles la dignidad, la seguridad y la tranquilidad a las familias salvadoreñas. ¡Eso es lo que impulsa a un país a salir adelante!\n\nReconozco el liderazgo del Presidente Bukele y su visión de construir un país donde las familias puedan vivir en paz, recuperar la confianza y mirar al futuro con esperanza. ¡Porque cuando un pueblo recupera su seguridad, también recupera la libertad de construir su propio destino!",
+      "original_en": "El modelo del Presidente @nayibbukele es un modelo que le da identidad, mística y sentido de pertenencia a una nación. Un modelo que busca devolverles la dignidad, la seguridad y la tranquilidad a las familias salvadoreñas. ¡Eso es lo que impulsa a un país a salir adelante!\n\nReconozco el liderazgo del Presidente Bukele y su visión de construir un país donde las familias puedan vivir en paz, recuperar la confianza y mirar al futuro con esperanza. ¡Porque cuando un pueblo recupera su seguridad, también recupera la libertad de construir su propio destino!",
+      "views": 8787,
+      "views_label": "8,787",
+      "likes": 316,
+      "reposts": 158,
+      "replies": 111,
+      "quotes": 6,
+      "bookmarks": 13,
+      "url": "https://x.com/alitomorenoc/status/2122806898072097160",
+      "status_url": "https://x.com/alitomorenoc/status/2122806898072097160",
+      "created_local": "2026-11-17 15:39",
+      "created_at": "2026-11-17T21:39:39.000Z",
+      "posted_at": "2026-11-17T21:39:39.000Z",
+      "lang": "es",
+      "media": [
+        "video"
+      ],
+      "star": false,
+      "highlight": false,
+      "quote": false,
+      "category": "Seguridad"
+    },
+    {
+      "id": "2122736586995474824",
+      "handle": "@samuel_garcias",
+      "display_name": "Samuel García",
+      "name": "Samuel García",
+      "followers": 444315,
+      "text": "¿Listas y listos para la MACRONAVIDAD?\n\nDesde este 29 de noviembre al 15 de enero llega el Polo Norteño a la Explanada de los Héroes y al Parque del Agua para que disfrutemos juntos de estas fiestes navideñas.\n\nArráncate que es TOTALMENTE GRATIS. 🦁️️️️️👊🏻️️️🎄 https://t.co/xb1B5LuoKo",
+      "original_en": "¿Listas y listos para la MACRONAVIDAD?\n\nDesde este 29 de noviembre al 15 de enero llega el Polo Norteño a la Explanada de los Héroes y al Parque del Agua para que disfrutemos juntos de estas fiestes navideñas.\n\nArráncate que es TOTALMENTE GRATIS. 🦁️️️️️👊🏻️️️🎄 https://t.co/xb1B5LuoKo",
+      "views": 8060,
+      "views_label": "8,060",
+      "likes": 60,
+      "reposts": 10,
+      "replies": 22,
+      "quotes": 1,
       "bookmarks": 2,
-      "url": "https://x.com/samuel_garcias/status/2122477460071514474",
-      "status_url": "https://x.com/samuel_garcias/status/2122477460071514474",
-      "created_local": "2026-11-16 17:50",
-      "created_at": "2026-11-16T23:50:34.000Z",
-      "posted_at": "2026-11-16T23:50:34.000Z",
-      "lang": null,
+      "url": "https://x.com/samuel_garcias/status/2122736586995474824",
+      "status_url": "https://x.com/samuel_garcias/status/2122736586995474824",
+      "created_local": "2026-11-17 11:00",
+      "created_at": "2026-11-17T17:00:15.000Z",
+      "posted_at": "2026-11-17T17:00:15.000Z",
+      "lang": "es",
+      "media": [
+        "video"
+      ],
+      "star": false,
+      "highlight": false,
+      "quote": false,
+      "category": "Otros"
+    },
+    {
+      "id": "2122753482251771944",
+      "handle": "@alitomorenoc",
+      "display_name": "Alejandro Moreno",
+      "name": "Alejandro Moreno",
+      "followers": 242355,
+      "text": "¡Es una vergüenza y es profundamente lamentable que México haya perdido el reconocimiento de país libre de sarampión! La Organización Panamericana de la Salud confirmó este gravísimo retroceso sanitario, que pone en evidencia la incompetencia de los gobiernos de MORENA.\n\nFuimos los gobiernos del PRI los que, con décadas de trabajo, inversión en salud pública y grandes campañas de vacunación, logramos eliminar la transmisión endémica del sarampión desde 1996. ¡Un logro histórico que protegió a generaciones de mexicanos y que MORENA ha destruido con su ineptitud!\n\n¡Es inadmisible que la incapacidad de quienes gobiernan ponga en riesgo la salud y la vida de millones de mexicanos, especialmente de nuestras niñas y niños! En el PRI tenemos la experiencia y la capacidad para recuperar la cobertura de vacunación, garantizar medicamentos y fortalecer los hospitales. ¡México necesita recuperar el rumbo en seguridad, salud, educación y economía, con gobiernos que den resultados y protejan a las familias mexicanas!",
+      "original_en": "¡Es una vergüenza y es profundamente lamentable que México haya perdido el reconocimiento de país libre de sarampión! La Organización Panamericana de la Salud confirmó este gravísimo retroceso sanitario, que pone en evidencia la incompetencia de los gobiernos de MORENA.\n\nFuimos los gobiernos del PRI los que, con décadas de trabajo, inversión en salud pública y grandes campañas de vacunación, logramos eliminar la transmisión endémica del sarampión desde 1996. ¡Un logro histórico que protegió a generaciones de mexicanos y que MORENA ha destruido con su ineptitud!\n\n¡Es inadmisible que la incapacidad de quienes gobiernan ponga en riesgo la salud y la vida de millones de mexicanos, especialmente de nuestras niñas y niños! En el PRI tenemos la experiencia y la capacidad para recuperar la cobertura de vacunación, garantizar medicamentos y fortalecer los hospitales. ¡México necesita recuperar el rumbo en seguridad, salud, educación y economía, con gobiernos que den resultados y protejan a las familias mexicanas!",
+      "views": 7747,
+      "views_label": "7,747",
+      "likes": 576,
+      "reposts": 327,
+      "replies": 79,
+      "quotes": 11,
+      "bookmarks": 6,
+      "url": "https://x.com/alitomorenoc/status/2122753482251771944",
+      "status_url": "https://x.com/alitomorenoc/status/2122753482251771944",
+      "created_local": "2026-11-17 12:07",
+      "created_at": "2026-11-17T18:07:23.000Z",
+      "posted_at": "2026-11-17T18:07:23.000Z",
+      "lang": "es",
+      "media": [
+        "photo"
+      ],
+      "star": false,
+      "highlight": false,
+      "quote": false,
+      "category": "Elecciones e INE"
+    },
+    {
+      "id": "2122827291654824042",
+      "handle": "@samuel_garcias",
+      "display_name": "Samuel García",
+      "name": "Samuel García",
+      "followers": 444315,
+      "text": "LO NUEVO SÍ le cumple a las mujeres de Nuevo León.\n\nNos arrancamos a San Nicolás para entregar 690 nuevas tarjetas para las mujeres de San Nicolás para ayudarlas a ellas y sus familias con 2 MIL pesos mensuales, acceso a programas de gobierno y transporte gratuito. \n\nYa van más de 124 MIL mujeres beneficiarias. ¡Ánimo! 🦁👊🏻",
+      "original_en": "LO NUEVO SÍ le cumple a las mujeres de Nuevo León.\n\nNos arrancamos a San Nicolás para entregar 690 nuevas tarjetas para las mujeres de San Nicolás para ayudarlas a ellas y sus familias con 2 MIL pesos mensuales, acceso a programas de gobierno y transporte gratuito. \n\nYa van más de 124 MIL mujeres beneficiarias. ¡Ánimo! 🦁👊🏻",
+      "views": 5399,
+      "views_label": "5,399",
+      "likes": 33,
+      "reposts": 2,
+      "replies": 25,
+      "quotes": 2,
+      "bookmarks": 0,
+      "url": "https://x.com/samuel_garcias/status/2122827291654824042",
+      "status_url": "https://x.com/samuel_garcias/status/2122827291654824042",
+      "created_local": "2026-11-17 17:00",
+      "created_at": "2026-11-17T23:00:41.000Z",
+      "posted_at": "2026-11-17T23:00:41.000Z",
+      "lang": "es",
       "media": [
         "photo",
         "photo",
@@ -639,146 +637,124 @@
       "star": false,
       "highlight": false,
       "quote": false,
-      "category": "Otros"
-    },
-    {
-      "id": "2122516894611591628",
-      "handle": "@samuel_garcias",
-      "display_name": "Samuel García",
-      "name": "Samuel García",
-      "followers": 444321,
-      "text": "¡La Nueva Estación Macroplaza va a toda máquina!\n\nEsta estación será clave para la movilidad del centro de la ciudad ya que conectará a museos, instituciones de Gobierno y colonias de la zona.\n\nSeguimos construyendo la movilidad que Nuevo León merece. ¡A seguir jalando! 👊🚇🦁 https://t.co/8al2s2yVb6",
-      "original_en": "¡La Nueva Estación Macroplaza va a toda máquina!\n\nEsta estación será clave para la movilidad del centro de la ciudad ya que conectará a museos, instituciones de Gobierno y colonias de la zona.\n\nSeguimos construyendo la movilidad que Nuevo León merece. ¡A seguir jalando! 👊🚇🦁 https://t.co/8al2s2yVb6",
-      "views": 6227,
-      "views_label": "6,227",
-      "likes": 91,
-      "reposts": 9,
-      "replies": 13,
-      "quotes": 0,
-      "bookmarks": 3,
-      "url": "https://x.com/samuel_garcias/status/2122516894611591628",
-      "status_url": "https://x.com/samuel_garcias/status/2122516894611591628",
-      "created_local": "2026-11-16 20:27",
-      "created_at": "2026-11-17T02:27:16.000Z",
-      "posted_at": "2026-11-17T02:27:16.000Z",
-      "lang": null,
-      "media": [
-        "video"
-      ],
-      "star": false,
-      "highlight": false,
-      "quote": false,
       "category": "Gobierno y políticas públicas"
     }
   ],
-  "hits_count": 21,
+  "hits_count": 20,
   "virals": [],
   "outsiders": [],
   "outsiders_count": 0,
   "day_roster": [
     {
-      "handle": "@Claudiashein",
-      "name": "Claudia Sheinbaum Pardo",
-      "display_name": "Claudia Sheinbaum Pardo",
-      "hits": 3,
-      "total": 1019017,
-      "views": 1019017,
-      "best": 484047,
-      "best_url": "https://x.com/Claudiashein/status/2122616597814956234",
-      "posts": 3,
-      "rank": 1
-    },
-    {
       "handle": "@RicardoBSalinas",
       "name": "Don Ricardo Salinas Pliego",
       "display_name": "Don Ricardo Salinas Pliego",
       "hits": 8,
-      "total": 860246,
-      "views": 860246,
-      "best": 291986,
+      "total": 1226528,
+      "views": 1226528,
+      "best": 434925,
       "best_url": "https://x.com/RicardoBSalinas/status/2122733378323558640",
       "posts": 8,
-      "rank": 2
-    },
-    {
-      "handle": "@m_ebrard",
-      "name": "Marcelo Ebrard C.",
-      "display_name": "Marcelo Ebrard C.",
-      "hits": 3,
-      "total": 131289,
-      "views": 131289,
-      "best": 72690,
-      "best_url": "https://x.com/m_ebrard/status/2122567612228071570",
-      "posts": 3,
-      "rank": 3
-    },
-    {
-      "handle": "@JorgeRoHe",
-      "name": "Jorge Romero Herrera",
-      "display_name": "Jorge Romero Herrera",
-      "hits": 3,
-      "total": 48082,
-      "views": 48082,
-      "best": 21740,
-      "best_url": "https://x.com/JorgeRoHe/status/2122757923617046944",
-      "posts": 3,
-      "rank": 4
+      "rank": 1
     },
     {
       "handle": "@LillyTellez",
       "name": "Lilly Téllez",
       "display_name": "Lilly Téllez",
       "hits": 2,
-      "total": 32749,
-      "views": 32749,
-      "best": 24030,
+      "total": 67045,
+      "views": 67045,
+      "best": 54300,
       "best_url": "https://x.com/LillyTellez/status/2122752589850615977",
       "posts": 2,
-      "rank": 5
+      "rank": 2
+    },
+    {
+      "handle": "@JorgeRoHe",
+      "name": "Jorge Romero Herrera",
+      "display_name": "Jorge Romero Herrera",
+      "hits": 3,
+      "total": 60104,
+      "views": 60104,
+      "best": 27107,
+      "best_url": "https://x.com/JorgeRoHe/status/2122757923617046944",
+      "posts": 3,
+      "rank": 3
+    },
+    {
+      "handle": "@Claudiashein",
+      "name": "Claudia Sheinbaum Pardo",
+      "display_name": "Claudia Sheinbaum Pardo",
+      "hits": 1,
+      "total": 44679,
+      "views": 44679,
+      "best": 44679,
+      "best_url": "https://x.com/Claudiashein/status/2122958742907982263",
+      "posts": 1,
+      "rank": 4
     },
     {
       "handle": "@samuel_garcias",
       "name": "Samuel García",
       "display_name": "Samuel García",
-      "hits": 2,
-      "total": 14430,
-      "views": 14430,
-      "best": 8203,
-      "best_url": "https://x.com/samuel_garcias/status/2122477460071514474",
-      "posts": 2,
+      "hits": 3,
+      "total": 22803,
+      "views": 22803,
+      "best": 9344,
+      "best_url": "https://x.com/samuel_garcias/status/2122766359427682755",
+      "posts": 3,
+      "rank": 5
+    },
+    {
+      "handle": "@m_ebrard",
+      "name": "Marcelo Ebrard C.",
+      "display_name": "Marcelo Ebrard C.",
+      "hits": 1,
+      "total": 21101,
+      "views": 21101,
+      "best": 21101,
+      "best_url": "https://x.com/m_ebrard/status/2122680041192771677",
+      "posts": 1,
       "rank": 6
+    },
+    {
+      "handle": "@alitomorenoc",
+      "name": "Alejandro Moreno",
+      "display_name": "Alejandro Moreno",
+      "hits": 2,
+      "total": 16534,
+      "views": 16534,
+      "best": 8787,
+      "best_url": "https://x.com/alitomorenoc/status/2122806898072097160",
+      "posts": 2,
+      "rank": 7
     }
   ],
   "you_rank": {
-    "rank": 2,
-    "of": 6,
+    "rank": 1,
+    "of": 7,
     "handle": "@RicardoBSalinas",
     "hits": 8,
-    "total": 860246,
-    "best": 291986,
+    "total": 1226528,
+    "best": 434925,
     "best_url": "https://x.com/RicardoBSalinas/status/2122733378323558640",
-    "best_views": 291986,
-    "total_views": 860246,
-    "rank_among_watchlist": 2,
-    "total_accounts": 6,
+    "best_views": 434925,
+    "total_views": 1226528,
+    "rank_among_watchlist": 1,
+    "total_accounts": 7,
     "vs_5k": "done",
     "vs_10k": "done"
   },
   "no_hits": [
     {
       "handle": "@MaruCampos_G",
-      "reason": "1 post(s) original(es) en 24 h; máximo 861 vistas.",
-      "max_views": 861
+      "reason": "2 post(s) original(es) en 24 h; máximo 1,388 vistas.",
+      "max_views": 1388
     },
     {
       "handle": "@OHarfuch",
       "reason": "Sin posts originales en las últimas 24 h.",
       "max_views": 0
-    },
-    {
-      "handle": "@alitomorenoc",
-      "reason": "16 post(s) original(es) en 24 h; máximo 4,353 vistas.",
-      "max_views": 4353
     },
     {
       "handle": "@acostanaranjo",
@@ -787,137 +763,137 @@
     }
   ],
   "previous_day": {
-    "date": "2026-11-17 (corte 06:00)",
-    "hits_count": 17,
-    "total_views": 991770
+    "date": "2026-11-17 (corte 17:00)",
+    "hits_count": 21,
+    "total_views": 2105813
   },
   "trend_input_only_posts": [],
   "trend_input_only": [],
   "drafts_top10": [
     {
-      "rank": 4,
+      "rank": 2,
       "handle": "@RicardoBSalinas",
       "url": "https://x.com/RicardoBSalinas/status/2122732202404319314",
-      "draft_en": "A los jóvenes: el futuro no se hereda, se construye. Ahorra aunque sea poco, aprende un oficio, atrévete a emprender.\nLa libertad económica empieza el día que decides invertir en ti. ¿Cuál es tu primer paso? 💪🇲🇽",
-      "video_tip": "Video vertical de 15 s: un joven que cuenta monedas en una alcancía, una aprendiz en un taller, una laptop con una tienda en línea que recibe su primer pedido; rótulos \"Ahorra\" · \"Aprende\" · \"Emprende\". Cierra con la pregunta en pantalla. Sin personas públicas, partidos ni logotipos.",
+      "draft_en": "La tecnología no es enemiga del trabajo: es la herramienta para que nuestra gente aprenda, crezca y gane más. La mejor inversión de una empresa es preparar a su equipo para el futuro.\nA los jóvenes: el que aprende cada día nunca se queda atrás. ¿Qué habilidad nueva vas a aprender este año? 💡💪",
+      "video_tip": "Video vertical de 15 s: una joven que aprende a programar en una laptop, un técnico que repara un equipo con una tableta, un aula de capacitación llena y un apretón de manos al recibir un diploma; rótulos \"Aprende\" · \"Crece\" · \"Gana más\". Cierra con la pregunta en pantalla. Sin personas públicas, partidos ni logotipos.",
       "keywords": [
         "jóvenes",
         "futuro",
-        "emprender",
-        "libertad económica"
+        "tecnología",
+        "capacitación"
       ]
     },
     {
-      "rank": 8,
+      "rank": 5,
       "handle": "@RicardoBSalinas",
-      "url": "https://x.com/RicardoBSalinas/status/2122728558904975765",
-      "draft_en": "Liderar también es no tomarse todo personal. Quien está ocupado construyendo no tiene tiempo para el rencor: escucha, aprende y sigue adelante.\nLa serenidad es una forma de fuerza. ¿Qué vas a soltar hoy para avanzar? 🧭",
-      "video_tip": "Video vertical de 10 a 15 s: un escritorio al amanecer, una mano que tacha una lista de pendientes, un lago en calma y una persona que camina hacia adelante; la frase aparece en letras grandes, una línea a la vez, con música tranquila. Sin personas públicas, partidos ni logotipos.",
+      "url": "https://x.com/RicardoBSalinas/status/2122716987889471858",
+      "draft_en": "La confianza se construye con transparencia. Un país que abre sus cuentas y rinde cuentas es un país donde se invierte, se emprende y se crece.\nLo que se hace con el dinero de todos debe estar a la vista de todos. ¿Cuánto vale para ti la transparencia? 🔍📂",
+      "video_tip": "Video vertical de 10 a 15 s: un archivero que se abre, carpetas que se ordenan sobre una mesa con buena luz, una lupa sobre una tabla de cifras y una puerta de cristal que se abre; la frase aparece en letras grandes, una línea a la vez. Sin personas públicas, partidos ni logotipos.",
       "keywords": [
-        "calma",
-        "liderazgo",
-        "serenidad",
-        "frase"
+        "transparencia",
+        "rendir cuentas",
+        "confianza",
+        "dinero de todos"
       ]
     },
     {
-      "rank": 10,
+      "rank": 6,
       "handle": "@RicardoBSalinas",
-      "url": "https://x.com/RicardoBSalinas/status/2122541488261493059",
-      "draft_en": "Cuando una empresa mexicana cruza fronteras, lleva consigo el talento y el trabajo de miles de mexicanos.\nLos empleos no se decretan: se construyen con inversión y confianza. México tiene con qué competir en cualquier parte del mundo. ¿Qué frontera vas a cruzar tú? 🇲🇽🌎",
-      "video_tip": "Video vertical de 15 s: una línea de ensamblaje con piezas que se ajustan, un mapa de América que conecta México con otros países y trabajadores con casco que chocan las manos; rótulos grandes \"Invertir\" · \"Crear empleo\" · \"Competir\". Cierra con la pregunta en pantalla. Sin personas públicas, partidos ni logotipos.",
+      "url": "https://x.com/RicardoBSalinas/status/2122826815035359634",
+      "draft_en": "Invertir es un acto de confianza en el futuro. Cada planta que abre y cada empleo que se crea le dan a una familia lo más valioso: la libertad de salir adelante por su cuenta.\nLas empresas mexicanas ya compiten en el mundo. El reto es que México sea el mejor lugar para invertir. ¿Qué estás construyendo hoy? 🇲🇽🏭",
+      "video_tip": "Video vertical de 15 s: una nave industrial que enciende sus luces al amanecer, una motocicleta que sale terminada de la línea de ensamblaje, trabajadores con casco que se saludan y un mapa que une a México con otros países; rótulos grandes \"Invertir\" · \"Crear empleo\" · \"Competir\". Cierra con la pregunta en pantalla. Sin personas públicas, partidos ni logotipos.",
       "keywords": [
         "invertir",
         "empleo",
-        "México en el mundo",
-        "confianza"
+        "confianza",
+        "competir"
       ]
     }
   ],
   "last24h": {
-    "start": "2026-11-16T22:45:00Z",
-    "end": "2026-11-17T22:40:00Z"
+    "start": "2026-11-17T11:50:00Z",
+    "end": "2026-11-18T11:50:00Z"
   },
-  "virals_narrative": "Ventana: del 16 nov, 4:45 p.m. al 17 nov, 4:40 p.m. (hora del centro de México). 42 posts originales revisados (sin respuestas ni reposts) de 10 cuentas; 21 superaron 5,000 vistas y 18 pasaron de 10,000. Sin publicación arriba de 5,000: @MaruCampos_G (1 post(s) original(es) en 24 h; máximo 861 vistas.), @OHarfuch (Sin posts originales en las últimas 24 h.), @alitomorenoc (16 post(s) original(es) en 24 h; máximo 4,353 vistas.), @acostanaranjo (Sin posts originales en las últimas 24 h.). Sin sección Rivales nueva (corrida de la tarde; se conserva la de la mañana).",
+  "virals_narrative": "Ventana: del 17 nov, 5:50 a.m. al 18 nov, 5:50 a.m. (hora del centro de México). 46 posts originales revisados (sin respuestas ni reposts) de 10 cuentas (@OHarfuch y @acostanaranjo sin originales); 20 superaron 5,000 vistas y 15 pasaron de 10,000. Sin publicación arriba de 5,000: @MaruCampos_G (2 post(s) original(es) en 24 h; máximo 1,388 vistas.), @OHarfuch (Sin posts originales en las últimas 24 h.), @acostanaranjo (Sin posts originales en las últimas 24 h.).",
   "patterns": [
-    "Reunión de Estado con foto y frase corta: @Claudiashein con Xi Jinping, 484,047; con Mark Carney, 108,072",
-    "Video de discurso ante empresarios: @Claudiashein en APEC CEO Summit, 426,898",
-    "Respuesta retadora a una figura pública: @RicardoBSalinas a la ministra Batres, 291,986 (13,618 likes, 668 respuestas)",
-    "Cita de contenido viral con comentario breve: @RicardoBSalinas sobre los jóvenes (136,161) y una frase de calma (78,592)",
-    "Artículo de X con tema propio: \"Morena contra el Fobaproa\", 92,702; amplificado por @LillyTellez (24,030 y 8,719)",
-    "Inversión y empleo fuera del país: @RicardoBSalinas en Colombia, 49,416",
-    "Propuesta de bolsillo: @JorgeRoHe, deducir gastos de educación y salud, 10,316",
-    "Muchas citas seguidas sin mensaje propio no despegan: @alitomorenoc, 16 originales, máximo 4,353"
+    "Respuesta retadora a una figura pública: @RicardoBSalinas a la ministra Batres, 434,925 (19,798 likes, 883 respuestas)",
+    "Cita de contenido viral con comentario corto: \"listejo\" sobre los jóvenes 199,113; \"Que buena frase\" 120,553",
+    "Humor de marca: broma de Elektra, 148,425 (riesgo: se puede leer como burla de la inseguridad)",
+    "Artículo de X con tema propio amplificado por una aliada: Fobaproa 113,023; @LillyTellez 54,300; \"Bravo senadora\" 66,479",
+    "Anuncio de inversión con tono cercano: \"vine a invertir\" en Colombia, 104,166",
+    "Foto de reunión de Estado: @Claudiashein con el presidente de Vietnam, 44,679",
+    "Propuesta de bolsillo: @JorgeRoHe, deducir gastos de educación y salud, 16,224",
+    "Muchas citas seguidas sin mensaje propio no despegan: @alitomorenoc, 25 originales, máximo 8,787"
   ],
-  "narrative_synthesis": "La agenda la marcaron la cumbre APEC (Presidenta con Xi y con Carney) y los cruces de Salinas: con la ministra Batres por su doctorado y con el gobierno por el Fobaproa, más su visita a Colombia con anuncio de inversión. Su alcance se disparó (860,246 vistas, +364% contra la mañana) y las menciones subieron 30%, pero el tono sigue crítico por sus dichos sobre sustituir cajeros con máquinas. Para los borradores: inversión y empleo con visión de país, serenidad como liderazgo y un mensaje a los jóvenes sobre construir su futuro, sin nombres ni confrontación.",
+  "narrative_synthesis": "Las últimas 24 h las dominó @RicardoBSalinas: su cruce con la ministra Batres, el Fobaproa (con @LillyTellez) y el anuncio de Italika en Colombia lo llevaron a 1,226,528 vistas. Pero la conversación también se disparó por el video en el que llama \"estupidez\" al aumento del salario mínimo y habla de cambiar 15 mil cajeros por máquinas: las menciones casi se triplican (12,252) y el tono es mayormente crítico. Para los borradores: inversión y empleo con visión de país, transparencia sin nombres y un mensaje de tecnología que suma oportunidades para los jóvenes, para equilibrar la narrativa de los cajeros.",
   "trend_keywords": [
-    "Xi Jinping",
-    "APEC",
-    "Shenzhen",
-    "Canadá",
-    "nueva era",
-    "Fobaproa",
-    "IPAB",
-    "transparentar",
-    "doctorado",
+    "Lenia Batres",
     "demándeme",
+    "doctorado",
+    "Fobaproa",
+    "transparentar",
     "Colombia",
+    "invertir",
     "Italika",
+    "Elektra",
     "jóvenes",
-    "futuro",
-    "calma",
-    "#SolucionesParaMéxico"
+    "Vietnam",
+    "APEC",
+    "Xi Jinping",
+    "#SolucionesParaMéxico",
+    "Bukele",
+    "Metro"
   ],
   "trend_radar": {
-    "date": "2026-11-17",
+    "date": "2026-11-18",
     "title": "Trends and post ideas",
     "window": {
-      "end": "2026-11-17T22:40:00+00:00",
-      "label24": "16.11 22:45 - 17.11 22:40 UTC",
-      "label48": "15.11 22:45 - 17.11 22:40 UTC"
+      "end": "2026-11-18T11:50:00+00:00",
+      "label24": "17.11 11:50 - 18.11 11:50 UTC",
+      "label48": "16.11 11:50 - 18.11 11:50 UTC"
     },
     "corpus": {
-      "posts": 21,
+      "posts": 20,
       "min_views": 5000,
       "lanes": {
-        "watchlist": 21,
+        "watchlist": 20,
         "outsider": 0,
         "24h": 0,
         "trend_input": 0
       }
     },
     "summary": {
-      "top10_line": "1) @Claudiashein \"Reunión con el presidente Xi Jinping y su gabinete. Hablamos\" 484,047; 2) @Claudiashein \"Desde Shenzhen, China, les comparto mi participación en APEC\" 426,898; 3) @RicardoBSalinas \"Lenia… por favor demándeme, nada me haría más feliz que exhi\" 291,986; 4) @RicardoBSalinas \"Es listejo el joven Martínez !👍 https://t.co/4S3e4AoCO8\" 136,161; 5) @RicardoBSalinas \"Sin palabras 🤐 https://t.co/gYrag8UZv4\" 128,180; 6) @Claudiashein \"Reunión bilateral con el primer ministro Mark Carney. Vamos\" 108,072; 7) @RicardoBSalinas \"https://t.co/TKURMIxbxP\" 92,702; 8) @RicardoBSalinas \"Que buena frase - Gracias por compartir. https://t.co/wcjW6O\" 78,592; 9) @m_ebrard \"La Presidenta Claudia Sheinbaum ante la comunidad empresaria\" 72,690; 10) @RicardoBSalinas \"Llegamos de visita a #Colombia 😎 https://t.co/JrVYAYllgg\" 49,416.",
-      "headline": "Tarde de cumbre y de cruces: @Claudiashein suma 1,019,017 vistas en 3 posts (Xi Jinping 484,047; APEC CEO Summit 426,898; Carney 108,072) y @RicardoBSalinas es 2º de 6 con 860,246 en 8 originales, encabezados por su respuesta a la ministra Lenia Batres (\"demándeme\", 291,986).",
-      "takeaway": "Lo que jala: (1) la foto de una reunión de Estado con frase corta (Xi 484,047; Carney 108,072); (2) responder en tono retador a una figura pública que lo menciona (291,986 y 13,618 likes, pero con riesgo de imagen); (3) citar contenido que ya es viral con un comentario breve (\"listejo\" sobre los jóvenes 136,161; la frase de calma 78,592); (4) un Artículo de X con tema propio (\"Morena contra el Fobaproa\", 92,702) que luego amplifica una aliada (@LillyTellez 24,030 y 8,719); (5) agenda de inversión fuera del país (Colombia, 49,416, con cobertura de medios colombianos); (6) propuestas concretas de bolsillo (@JorgeRoHe, deducir gastos de educación y salud, 10,316). Lo que no jala: muchas citas seguidas sin mensaje propio (@alitomorenoc, 16 originales y ninguno arriba de 5,000) y no publicar (@OHarfuch y @acostanaranjo, 0 originales).",
+      "top10_line": "1) @RicardoBSalinas 434,925; 2) @RicardoBSalinas 199,113; 3) @RicardoBSalinas 148,425; 4) @RicardoBSalinas 120,553; 5) @RicardoBSalinas 113,023; 6) @RicardoBSalinas 104,166; 7) @RicardoBSalinas 66,479; 8) @LillyTellez 54,300; 9) @Claudiashein 44,679; 10) @RicardoBSalinas 39,844.",
+      "headline": "Mañana de @RicardoBSalinas: 1º de 7 con 1,226,528 vistas en 8 originales, encabezados por su respuesta a la ministra Lenia Batres (434,925). @LillyTellez es 2ª (67,045 en 2 posts, Fobaproa) y @JorgeRoHe 3º (60,104 en 3). @Claudiashein, de gira en APEC, solo publicó 1 original en la ventana (Vietnam, 44,679).",
+      "takeaway": "Lo que jala: (1) responder en tono retador a una figura pública (Lenia Batres 434,925, 19,798 likes, con riesgo de imagen); (2) citar contenido ajeno que ya es viral con un comentario corto (\"listejo\" 199,113; \"Que buena frase\" 120,553); (3) humor de marca (Elektra 148,425, pero puede leerse como burla de la inseguridad); (4) tema propio en Artículo de X que una aliada amplifica (Fobaproa: 113,023 + @LillyTellez 54,300 + \"Bravo senadora\" 66,479); (5) anuncio de inversión con tono cercano (Colombia 104,166, confirmado por El País, El Universal y Bloomberg Línea); (6) foto de reunión de Estado (Vietnam 44,679). No jala: muchas citas seguidas sin mensaje propio (@alitomorenoc, 25 originales y máximo 8,787) y no publicar (@OHarfuch y @acostanaranjo).",
       "stats": {
         "all": {
-          "n": 21,
+          "n": 20,
           "trend_n": 0,
           "trend_pct": 0,
           "avg_trend": null,
-          "avg_other": 100277,
+          "avg_other": 72940,
           "median_trend": null,
-          "median_other": 44248,
+          "median_other": 33475,
           "verdicts": {
             "tendencia": 0,
-            "visual": 13,
-            "autor/audiencia": 8,
+            "visual": 11,
+            "autor/audiencia": 9,
             "coincidencia/otro": 0
           }
         },
         "watchlist": {
-          "n": 21,
+          "n": 20,
           "trend_n": 0,
           "trend_pct": 0,
           "avg_trend": null,
-          "avg_other": 100277,
+          "avg_other": 72940,
           "median_trend": null,
-          "median_other": 44248,
+          "median_other": 33475,
           "verdicts": {
             "tendencia": 0,
-            "visual": 13,
-            "autor/audiencia": 8,
+            "visual": 11,
+            "autor/audiencia": 9,
             "coincidencia/otro": 0
           }
         },
@@ -941,44 +917,38 @@
           "trend_n": 0,
           "trend_pct": 0,
           "avg_trend": null,
-          "avg_other": 186874,
+          "avg_other": 132551,
           "median_trend": null,
-          "median_other": 118126,
+          "median_other": 108594,
           "verdicts": {
             "tendencia": 0,
-            "visual": 5,
-            "autor/audiencia": 5,
+            "visual": 2,
+            "autor/audiencia": 8,
             "coincidencia/otro": 0
           }
         },
         "media": {
-          "video_n": 2,
-          "median_video": 216562,
-          "other_n": 19,
-          "median_other": 44248
+          "video_n": 3,
+          "median_video": 8787,
+          "other_n": 17,
+          "median_other": 44679
         }
       }
     },
     "topics": [
       {
-        "name": "Cumbre APEC: Xi Jinping y Carney",
+        "name": "Cruce con la ministra Batres",
         "keywords": [
-          "Xi Jinping",
-          "APEC",
-          "Shenzhen",
-          "Canadá",
-          "nueva era"
+          "Lenia Batres",
+          "demándeme",
+          "doctorado",
+          "TV Azteca"
         ],
-        "posts_24h": 6,
-        "views_24h": 1150306,
+        "posts_24h": 1,
+        "views_24h": 434925,
         "momentum": "sube",
         "evidence": [
-          "https://x.com/Claudiashein/status/2122616597814956234",
-          "https://x.com/Claudiashein/status/2122550056276652273",
-          "https://x.com/Claudiashein/status/2122655101424730256",
-          "https://x.com/m_ebrard/status/2122567612228071570",
-          "https://x.com/m_ebrard/status/2122680041192771677",
-          "https://x.com/m_ebrard/status/2122475091351212502"
+          "https://x.com/RicardoBSalinas/status/2122733378323558640"
         ]
       },
       {
@@ -989,7 +959,7 @@
           "transparentar"
         ],
         "posts_24h": 4,
-        "views_24h": 169699,
+        "views_24h": 246547,
         "momentum": "sube",
         "evidence": [
           "https://x.com/RicardoBSalinas/status/2122716987889471858",
@@ -999,60 +969,63 @@
         ]
       },
       {
-        "name": "Cruce con la ministra Batres",
+        "name": "Inversión en Colombia (Italika)",
         "keywords": [
-          "doctorado",
-          "demándeme",
-          "TV Azteca"
+          "Colombia",
+          "invertir",
+          "Italika"
         ],
         "posts_24h": 1,
-        "views_24h": 291986,
-        "momentum": "nuevo",
+        "views_24h": 104166,
+        "momentum": "sube",
         "evidence": [
-          "https://x.com/RicardoBSalinas/status/2122733378323558640"
+          "https://x.com/RicardoBSalinas/status/2122826815035359634"
         ]
       },
       {
-        "name": "Citas de frases y de jóvenes",
+        "name": "Citas cortas y humor de @RicardoBSalinas",
         "keywords": [
           "jóvenes",
-          "futuro",
-          "calma",
-          "Sin palabras"
+          "frase",
+          "Elektra",
+          "Felicidades"
         ],
         "posts_24h": 4,
-        "views_24h": 381894,
-        "momentum": "sube",
+        "views_24h": 507935,
+        "momentum": "sigue",
         "evidence": [
           "https://x.com/RicardoBSalinas/status/2122732202404319314",
           "https://x.com/RicardoBSalinas/status/2122728558904975765",
           "https://x.com/RicardoBSalinas/status/2122801735995363677",
-          "https://x.com/RicardoBSalinas/status/2122520116416192822"
+          "https://x.com/RicardoBSalinas/status/2122894029289316529"
         ]
       },
       {
-        "name": "Viaje a Colombia",
+        "name": "Gira APEC: Xi Jinping y Vietnam",
         "keywords": [
-          "Colombia",
-          "Italika"
+          "APEC",
+          "Vietnam",
+          "Xi Jinping",
+          "nueva era"
         ],
-        "posts_24h": 1,
-        "views_24h": 49416,
-        "momentum": "sigue",
+        "posts_24h": 2,
+        "views_24h": 65780,
+        "momentum": "baja",
         "evidence": [
-          "https://x.com/RicardoBSalinas/status/2122541488261493059"
+          "https://x.com/Claudiashein/status/2122958742907982263",
+          "https://x.com/m_ebrard/status/2122680041192771677"
         ]
       },
       {
-        "name": "Propuestas y agenda del PAN",
+        "name": "Agenda del PAN rumbo a 2027",
         "keywords": [
           "#SolucionesParaMéxico",
           "deducir impuestos",
-          "#PatriaFamiliaYLibertad"
+          "Zambrano"
         ],
         "posts_24h": 3,
-        "views_24h": 48082,
-        "momentum": "nuevo",
+        "views_24h": 60104,
+        "momentum": "sigue",
         "evidence": [
           "https://x.com/JorgeRoHe/status/2122815551986712916",
           "https://x.com/JorgeRoHe/status/2122757923617046944",
@@ -1060,75 +1033,91 @@
         ]
       },
       {
-        "name": "Obra y espacios públicos en Nuevo León",
+        "name": "Nuevo León: Metro, mujeres y Macronavidad",
         "keywords": [
-          "Macroplaza",
-          "metro",
-          "Parque del Agua"
+          "Metro",
+          "Macronavidad",
+          "Ayudamos a las Mujeres"
+        ],
+        "posts_24h": 3,
+        "views_24h": 22803,
+        "momentum": "nuevo",
+        "evidence": [
+          "https://x.com/samuel_garcias/status/2122766359427682755",
+          "https://x.com/samuel_garcias/status/2122736586995474824",
+          "https://x.com/samuel_garcias/status/2122827291654824042"
+        ]
+      },
+      {
+        "name": "@alitomorenoc: Bukele y sarampión",
+        "keywords": [
+          "Bukele",
+          "sarampión",
+          "El Salvador"
         ],
         "posts_24h": 2,
-        "views_24h": 14430,
+        "views_24h": 16534,
         "momentum": "sigue",
         "evidence": [
-          "https://x.com/samuel_garcias/status/2122516894611591628",
-          "https://x.com/samuel_garcias/status/2122477460071514474"
+          "https://x.com/alitomorenoc/status/2122806898072097160",
+          "https://x.com/alitomorenoc/status/2122753482251771944"
         ]
       }
     ],
     "ideas": [
       {
-        "title": "Los empleos se construyen",
+        "title": "Invertir es confiar en el futuro",
         "topic": "Inversión y empleo",
         "keywords": [
           "invertir",
           "empleo",
-          "México en el mundo",
-          "confianza"
+          "confianza",
+          "competir"
         ],
         "format": "video",
         "visual_type": "video",
-        "visual": "Línea de ensamblaje, mapa que conecta México con el mundo",
-        "angle": "México compite en cualquier parte, visión de país sin política",
-        "hook_en": "Los empleos no se decretan: se construyen con inversión y confianza.",
-        "why": "Su post de la visita a Colombia sumó 49,416 vistas y medios colombianos cubrieron el anuncio de inversión.",
+        "visual": "Nave industrial al amanecer, moto que sale de la línea, mapa que une a México con el mundo",
+        "angle": "Visión de país: México como el mejor lugar para invertir",
+        "hook_en": "Invertir es un acto de confianza en el futuro.",
+        "why": "Su anuncio de inversión en Colombia sumó 104,166 vistas y lo cubrieron El País, El Universal y Bloomberg Línea.",
         "x_keywords": [],
         "x_rank": null,
         "source": "watchlist"
       },
       {
-        "title": "La serenidad es fuerza",
-        "topic": "Liderazgo",
+        "title": "Lo de todos, a la vista de todos",
+        "topic": "Transparencia",
         "keywords": [
-          "calma",
-          "liderazgo",
-          "serenidad",
-          "frase"
+          "transparencia",
+          "rendir cuentas",
+          "confianza",
+          "dinero de todos"
         ],
         "format": "video",
         "visual_type": "video",
-        "visual": "Escritorio al amanecer, lista que se tacha, lago en calma",
-        "angle": "Liderazgo sereno, sin pleitos",
-        "hook_en": "Liderar también es no tomarse todo personal.",
-        "why": "Citar una frase de calma llegó a 78,592 vistas con más likes que respuestas.",
+        "visual": "Archivero que se abre, carpetas ordenadas, puerta de cristal",
+        "angle": "Transparencia como base de la confianza y la inversión, sin nombres",
+        "hook_en": "La confianza se construye con transparencia.",
+        "why": "Su Artículo sobre el Fobaproa llegó a 113,023 vistas y el tema lo amplificó @LillyTellez (54,300).",
         "x_keywords": [],
         "x_rank": null,
         "source": "watchlist"
       },
       {
-        "title": "El futuro no se hereda",
-        "topic": "Jóvenes y libertad económica",
+        "title": "La tecnología suma oportunidades",
+        "topic": "Jóvenes, tecnología y empleo",
         "keywords": [
           "jóvenes",
           "futuro",
-          "emprender",
-          "libertad económica"
+          "tecnología",
+          "capacitación"
         ],
         "format": "video",
         "visual_type": "video",
-        "visual": "Alcancía, taller, tienda en línea con su primer pedido",
-        "angle": "Mensaje a los jóvenes: ahorro, oficio y emprendimiento",
-        "hook_en": "A los jóvenes: el futuro no se hereda, se construye.",
-        "why": "Su cita sobre el futuro de los jóvenes sumó 136,161 vistas.",
+        "visual": "Joven que programa, técnico con tableta, aula de capacitación",
+        "angle": "Responder al debate de los cajeros con un mensaje de capacitación, sin pleito",
+        "hook_en": "La tecnología no es enemiga del trabajo.",
+        "why": "Su cita sobre el futuro de los jóvenes sumó 199,113 vistas; el tema de las máquinas domina las menciones críticas.",
         "x_keywords": [],
         "x_rank": null,
         "source": "watchlist"
@@ -1137,52 +1126,18 @@
     "articles": [],
     "why_hit": [
       {
-        "id": "2122616597814956234",
-        "handle": "@Claudiashein",
-        "lane": "watchlist",
-        "views": 484047,
-        "trend_match": 36,
-        "verdict": "visual",
-        "matched_keywords": [
-          "Xi Jinping",
-          "nueva era"
-        ],
-        "media": "photo",
-        "followers": 5259808,
-        "topic": null,
-        "self_quote": false,
-        "note": ""
-      },
-      {
-        "id": "2122550056276652273",
-        "handle": "@Claudiashein",
-        "lane": "watchlist",
-        "views": 426898,
-        "trend_match": 36,
-        "verdict": "visual",
-        "matched_keywords": [
-          "APEC",
-          "Shenzhen"
-        ],
-        "media": "video",
-        "followers": 5259808,
-        "topic": null,
-        "self_quote": false,
-        "note": ""
-      },
-      {
         "id": "2122733378323558640",
         "handle": "@RicardoBSalinas",
         "lane": "watchlist",
-        "views": 291986,
+        "views": 434925,
         "trend_match": 36,
         "verdict": "autor/audiencia",
         "matched_keywords": [
-          "doctorado",
-          "demándeme"
+          "demándeme",
+          "doctorado"
         ],
         "media": "sin datos",
-        "followers": 2238688,
+        "followers": 2238893,
         "topic": null,
         "self_quote": false,
         "note": "media: sin datos"
@@ -1191,57 +1146,28 @@
         "id": "2122732202404319314",
         "handle": "@RicardoBSalinas",
         "lane": "watchlist",
-        "views": 136161,
+        "views": 199113,
         "trend_match": 0,
         "verdict": "autor/audiencia",
         "matched_keywords": [],
         "media": "sin datos",
-        "followers": 2238688,
+        "followers": 2238893,
         "topic": null,
         "self_quote": false,
         "note": "media: sin datos"
       },
       {
-        "id": "2122520116416192822",
+        "id": "2122801735995363677",
         "handle": "@RicardoBSalinas",
         "lane": "watchlist",
-        "views": 128180,
-        "trend_match": 0,
+        "views": 148425,
+        "trend_match": 20,
         "verdict": "autor/audiencia",
-        "matched_keywords": [],
-        "media": "sin datos",
-        "followers": 2238688,
-        "topic": null,
-        "self_quote": false,
-        "note": "media: sin datos"
-      },
-      {
-        "id": "2122655101424730256",
-        "handle": "@Claudiashein",
-        "lane": "watchlist",
-        "views": 108072,
-        "trend_match": 36,
-        "verdict": "visual",
         "matched_keywords": [
-          "Canadá",
-          "futuro"
+          "Elektra"
         ],
-        "media": "photo",
-        "followers": 5259808,
-        "topic": null,
-        "self_quote": false,
-        "note": ""
-      },
-      {
-        "id": "2122716987889471858",
-        "handle": "@RicardoBSalinas",
-        "lane": "watchlist",
-        "views": 92702,
-        "trend_match": 0,
-        "verdict": "autor/audiencia",
-        "matched_keywords": [],
         "media": "sin datos",
-        "followers": 2238688,
+        "followers": 2238893,
         "topic": null,
         "self_quote": false,
         "note": "media: sin datos"
@@ -1250,90 +1176,61 @@
         "id": "2122728558904975765",
         "handle": "@RicardoBSalinas",
         "lane": "watchlist",
-        "views": 78592,
+        "views": 120553,
         "trend_match": 0,
         "verdict": "autor/audiencia",
         "matched_keywords": [],
         "media": "sin datos",
-        "followers": 2238688,
+        "followers": 2238893,
         "topic": null,
         "self_quote": false,
         "note": "media: sin datos"
       },
       {
-        "id": "2122567612228071570",
-        "handle": "@m_ebrard",
-        "lane": "watchlist",
-        "views": 72690,
-        "trend_match": 20,
-        "verdict": "visual",
-        "matched_keywords": [
-          "APEC"
-        ],
-        "media": "photo",
-        "followers": 2710245,
-        "topic": null,
-        "self_quote": false,
-        "note": ""
-      },
-      {
-        "id": "2122541488261493059",
+        "id": "2122716987889471858",
         "handle": "@RicardoBSalinas",
         "lane": "watchlist",
-        "views": 49416,
-        "trend_match": 20,
-        "verdict": "visual",
-        "matched_keywords": [
-          "Colombia"
-        ],
-        "media": "photo",
-        "followers": 2238688,
-        "topic": null,
-        "self_quote": false,
-        "note": ""
-      },
-      {
-        "id": "2122787336983552257",
-        "handle": "@RicardoBSalinas",
-        "lane": "watchlist",
-        "views": 44248,
+        "views": 113023,
         "trend_match": 20,
         "verdict": "autor/audiencia",
         "matched_keywords": [
           "Fobaproa"
         ],
         "media": "sin datos",
-        "followers": 2238688,
+        "followers": 2238893,
         "topic": null,
         "self_quote": false,
         "note": "media: sin datos"
       },
       {
-        "id": "2122475091351212502",
-        "handle": "@m_ebrard",
-        "lane": "watchlist",
-        "views": 42079,
-        "trend_match": 20,
-        "verdict": "visual",
-        "matched_keywords": [
-          "Shenzhen"
-        ],
-        "media": "photo",
-        "followers": 2710245,
-        "topic": null,
-        "self_quote": false,
-        "note": ""
-      },
-      {
-        "id": "2122801735995363677",
+        "id": "2122826815035359634",
         "handle": "@RicardoBSalinas",
         "lane": "watchlist",
-        "views": 38961,
-        "trend_match": 0,
+        "views": 104166,
+        "trend_match": 36,
         "verdict": "autor/audiencia",
-        "matched_keywords": [],
+        "matched_keywords": [
+          "Colombia",
+          "invertir"
+        ],
         "media": "sin datos",
-        "followers": 2238688,
+        "followers": 2238893,
+        "topic": null,
+        "self_quote": false,
+        "note": "media: sin datos"
+      },
+      {
+        "id": "2122787336983552257",
+        "handle": "@RicardoBSalinas",
+        "lane": "watchlist",
+        "views": 66479,
+        "trend_match": 20,
+        "verdict": "autor/audiencia",
+        "matched_keywords": [
+          "Fobaproa"
+        ],
+        "media": "sin datos",
+        "followers": 2238893,
         "topic": null,
         "self_quote": false,
         "note": "media: sin datos"
@@ -1342,30 +1239,60 @@
         "id": "2122752589850615977",
         "handle": "@LillyTellez",
         "lane": "watchlist",
-        "views": 24030,
-        "trend_match": 49,
+        "views": 54300,
+        "trend_match": 36,
         "verdict": "visual",
         "matched_keywords": [
           "Fobaproa",
-          "IPAB",
           "transparentar"
         ],
         "media": "photo",
-        "followers": 1128723,
+        "followers": 1128729,
         "topic": null,
         "self_quote": false,
         "note": ""
       },
       {
+        "id": "2122958742907982263",
+        "handle": "@Claudiashein",
+        "lane": "watchlist",
+        "views": 44679,
+        "trend_match": 36,
+        "verdict": "visual",
+        "matched_keywords": [
+          "Vietnam",
+          "APEC"
+        ],
+        "media": "photo",
+        "followers": 5260377,
+        "topic": null,
+        "self_quote": false,
+        "note": ""
+      },
+      {
+        "id": "2122894029289316529",
+        "handle": "@RicardoBSalinas",
+        "lane": "watchlist",
+        "views": 39844,
+        "trend_match": 0,
+        "verdict": "autor/audiencia",
+        "matched_keywords": [],
+        "media": "sin datos",
+        "followers": 2238893,
+        "topic": null,
+        "self_quote": false,
+        "note": "media: sin datos"
+      },
+      {
         "id": "2122757923617046944",
         "handle": "@JorgeRoHe",
         "lane": "watchlist",
-        "views": 21740,
+        "views": 27107,
         "trend_match": 0,
         "verdict": "visual",
         "matched_keywords": [],
         "media": "photo",
-        "followers": 105583,
+        "followers": 105582,
         "topic": null,
         "self_quote": false,
         "note": ""
@@ -1374,15 +1301,14 @@
         "id": "2122680041192771677",
         "handle": "@m_ebrard",
         "lane": "watchlist",
-        "views": 16520,
-        "trend_match": 36,
+        "views": 21101,
+        "trend_match": 20,
         "verdict": "visual",
         "matched_keywords": [
-          "Xi Jinping",
-          "nueva era"
+          "Xi Jinping"
         ],
         "media": "photo",
-        "followers": 2710245,
+        "followers": 2710253,
         "topic": null,
         "self_quote": false,
         "note": ""
@@ -1391,12 +1317,12 @@
         "id": "2122725927960399965",
         "handle": "@JorgeRoHe",
         "lane": "watchlist",
-        "views": 16026,
+        "views": 16773,
         "trend_match": 0,
         "verdict": "visual",
         "matched_keywords": [],
         "media": "photo",
-        "followers": 105583,
+        "followers": 105582,
         "topic": null,
         "self_quote": false,
         "note": ""
@@ -1405,14 +1331,14 @@
         "id": "2122815551986712916",
         "handle": "@JorgeRoHe",
         "lane": "watchlist",
-        "views": 10316,
+        "views": 16224,
         "trend_match": 20,
         "verdict": "visual",
         "matched_keywords": [
           "#SolucionesParaMéxico"
         ],
         "media": "photo",
-        "followers": 105583,
+        "followers": 105582,
         "topic": null,
         "self_quote": false,
         "note": ""
@@ -1421,42 +1347,88 @@
         "id": "2122721235742134345",
         "handle": "@LillyTellez",
         "lane": "watchlist",
-        "views": 8719,
+        "views": 12745,
         "trend_match": 20,
         "verdict": "autor/audiencia",
         "matched_keywords": [
           "Fobaproa"
         ],
         "media": "sin datos",
-        "followers": 1128723,
+        "followers": 1128729,
         "topic": null,
         "self_quote": false,
         "note": "media: sin datos"
       },
       {
-        "id": "2122477460071514474",
+        "id": "2122766359427682755",
         "handle": "@samuel_garcias",
         "lane": "watchlist",
-        "views": 8203,
-        "trend_match": 0,
+        "views": 9344,
+        "trend_match": 20,
         "verdict": "visual",
-        "matched_keywords": [],
-        "media": "photo",
-        "followers": 444321,
+        "matched_keywords": [
+          "Metro"
+        ],
+        "media": "video",
+        "followers": 444315,
         "topic": null,
         "self_quote": false,
         "note": ""
       },
       {
-        "id": "2122516894611591628",
+        "id": "2122806898072097160",
+        "handle": "@alitomorenoc",
+        "lane": "watchlist",
+        "views": 8787,
+        "trend_match": 20,
+        "verdict": "visual",
+        "matched_keywords": [
+          "Bukele"
+        ],
+        "media": "video",
+        "followers": 242355,
+        "topic": null,
+        "self_quote": false,
+        "note": ""
+      },
+      {
+        "id": "2122736586995474824",
         "handle": "@samuel_garcias",
         "lane": "watchlist",
-        "views": 6227,
+        "views": 8060,
         "trend_match": 0,
         "verdict": "visual",
         "matched_keywords": [],
         "media": "video",
-        "followers": 444321,
+        "followers": 444315,
+        "topic": null,
+        "self_quote": false,
+        "note": ""
+      },
+      {
+        "id": "2122753482251771944",
+        "handle": "@alitomorenoc",
+        "lane": "watchlist",
+        "views": 7747,
+        "trend_match": 0,
+        "verdict": "visual",
+        "matched_keywords": [],
+        "media": "photo",
+        "followers": 242355,
+        "topic": null,
+        "self_quote": false,
+        "note": ""
+      },
+      {
+        "id": "2122827291654824042",
+        "handle": "@samuel_garcias",
+        "lane": "watchlist",
+        "views": 5399,
+        "trend_match": 0,
+        "verdict": "visual",
+        "matched_keywords": [],
+        "media": "photo",
+        "followers": 444315,
         "topic": null,
         "self_quote": false,
         "note": ""
@@ -1475,349 +1447,368 @@
     "legend": "Trend match 0-100% = 1 - prod(1 - w) over matched 24 h keywords that another author also used in the 48 h window (w: rank 1-10 0.35, 11-25 0.22, 26-40 0.12, curated 0.20). Verdict: >= 50% -> tendencia; else video/image in the post data -> visual; else >= 100K followers (outsiders without follower data: >= 500K views, estimate) -> autor/audiencia; else coincidencia/otro. Missing data shows as 'sin datos'. Heat = sum log10(views) of topic posts (24 h x1, 24-48 h x0.5), scaled to 100. Momentum = log-views last 24 h / previous 24 h. Trend-input-only accounts feed the corpus but are never shown as hits."
   },
   "imagen_rsp": {
-    "fecha": "2026-11-17 (17:00)",
+    "fecha": "2026-11-18 (06:00)",
     "parcial": false,
-    "ventana": "2026-11-16T22:45Z a 2026-11-17T22:40Z (16 nov 4:45 p.m. a 17 nov 4:40 p.m., hora del centro de México)",
+    "ventana": "2026-11-17T11:50Z a 2026-11-18T11:50Z (17 nov 5:50 a.m. a 18 nov 5:50 a.m., hora del centro de México)",
     "posts_propios": {
+      "originales": 8,
+      "vistas": 1226528,
+      "likes": 37294,
+      "reposts": 7289,
+      "respuestas": 1646,
+      "citas": 157,
+      "guardados": 640,
+      "top": "https://x.com/RicardoBSalinas/status/2122733378323558640",
+      "detalle": [
+        {
+          "url": "https://x.com/RicardoBSalinas/status/2122733378323558640",
+          "vistas": 434925,
+          "likes": 19799,
+          "reposts": 4435,
+          "respuestas": 883,
+          "citas": 98,
+          "guardados": 259,
+          "nota": "17 nov 10:47 a.m. (hora del centro). \"Lenia… por favor demándeme…\" citando a la ministra Lenia Batres. Sube 49% contra la tarde (291,986). Luego respondió en el mismo hilo \"póngale fecha\" (44,408 vistas; es respuesta, no cuenta como original). Choque directo con una ministra: riesgo para la imagen de estadista."
+        },
+        {
+          "url": "https://x.com/RicardoBSalinas/status/2122732202404319314",
+          "vistas": 199113,
+          "likes": 2483,
+          "reposts": 113,
+          "respuestas": 80,
+          "citas": 1,
+          "guardados": 97,
+          "nota": "17 nov 10:42 a.m. \"Es listejo el joven Martínez !👍\" citando un post viral sobre el futuro de los jóvenes."
+        },
+        {
+          "url": "https://x.com/RicardoBSalinas/status/2122801735995363677",
+          "vistas": 148425,
+          "likes": 2886,
+          "reposts": 233,
+          "respuestas": 130,
+          "citas": 7,
+          "guardados": 81,
+          "nota": "17 nov 3:19 p.m. Broma de Elektra sobre un video de robo (\"GTA Iztapalapa\"). Casi se cuadruplica (38,961 en la tarde). Puede leerse como burla de la inseguridad: riesgo."
+        },
+        {
+          "url": "https://x.com/RicardoBSalinas/status/2122728558904975765",
+          "vistas": 120553,
+          "likes": 3019,
+          "reposts": 367,
+          "respuestas": 78,
+          "citas": 4,
+          "guardados": 96,
+          "nota": "17 nov 10:28 a.m. \"Que buena frase - Gracias por compartir\" (frase sobre la calma). Tono sereno."
+        },
+        {
+          "url": "https://x.com/RicardoBSalinas/status/2122716987889471858",
+          "vistas": 113023,
+          "likes": 858,
+          "reposts": 361,
+          "respuestas": 128,
+          "citas": 18,
+          "guardados": 24,
+          "nota": "17 nov 9:42 a.m. Artículo de X \"Morena contra el Fobaproa\"."
+        },
+        {
+          "url": "https://x.com/RicardoBSalinas/status/2122826815035359634",
+          "vistas": 104166,
+          "likes": 4167,
+          "reposts": 859,
+          "respuestas": 259,
+          "citas": 20,
+          "guardados": 56,
+          "nota": "17 nov 4:58 p.m. NUEVO: \"vine a invertir y aprender de un gran amigo\" (cita con el presidente de Colombia). Confirmado por El País, El Universal y Bloomberg Línea: planta de Italika en Barranquilla."
+        },
+        {
+          "url": "https://x.com/RicardoBSalinas/status/2122787336983552257",
+          "vistas": 66479,
+          "likes": 2704,
+          "reposts": 779,
+          "respuestas": 42,
+          "citas": 5,
+          "guardados": 11,
+          "nota": "17 nov 2:21 p.m. \"Bravo senadora… FOBAPROA\" citando el punto de acuerdo de @LillyTellez."
+        },
+        {
+          "url": "https://x.com/RicardoBSalinas/status/2122894029289316529",
+          "vistas": 39844,
+          "likes": 1378,
+          "reposts": 142,
+          "respuestas": 46,
+          "citas": 4,
+          "guardados": 16,
+          "nota": "17 nov 9:25 p.m. NUEVO: \"Felicidades! - Gran carrera y gran futuro por delante\", citando un agradecimiento de cumpleaños."
+        }
+      ],
+      "nota": "8 originales (7 citas y 1 Artículo de X), sin contar 1 respuesta: 1,226,528 vistas, 37,294 likes, 7,289 reposts y 1,646 respuestas. Contra el corte de ayer 5:00 p.m. (8 originales, 860,246) sube 42.6%; 6 de los 8 son los mismos posts, que siguieron creciendo. Pasa de 2.º de 6 a 1.º de 7. Más likes que respuestas en los 8."
+    },
+    "dia_previo_referencia": {
+      "fecha": "2026-11-17 (17:00)",
       "originales": 8,
       "vistas": 860246,
       "likes": 26818,
       "reposts": 5005,
       "respuestas": 1438,
-      "citas": 131,
-      "guardados": 428,
-      "top": "https://x.com/RicardoBSalinas/status/2122733378323558640",
-      "detalle": [
-        {
-          "url": "https://x.com/RicardoBSalinas/status/2122733378323558640",
-          "vistas": 291986,
-          "likes": 13618,
-          "reposts": 2924,
-          "respuestas": 668,
-          "citas": 67,
-          "guardados": 181,
-          "nota": "17 nov 10:47 a.m. (hora del centro). \"Lenia… por favor demándeme…\" citando a la ministra Lenia Batres, que habló de demandar a TV Azteca por difamación por un reportaje sobre su doctorado (lo confirman El Universal y Político MX). Su post más visto del día; 13,618 likes contra 668 respuestas, pero es un choque directo con una ministra de la Corte: riesgo para la imagen de estadista."
-        },
-        {
-          "url": "https://x.com/RicardoBSalinas/status/2122732202404319314",
-          "vistas": 136161,
-          "likes": 1747,
-          "reposts": 77,
-          "respuestas": 60,
-          "citas": 0,
-          "guardados": 65,
-          "nota": "17 nov 10:42 a.m. \"Es listejo el joven Martínez !👍\" citando un post viral sobre el futuro de los jóvenes (779,224 vistas el original)."
-        },
-        {
-          "url": "https://x.com/RicardoBSalinas/status/2122520116416192822",
-          "vistas": 128180,
-          "likes": 4923,
-          "reposts": 941,
-          "respuestas": 345,
-          "citas": 32,
-          "guardados": 57,
-          "nota": "16 nov 8:40 p.m. \"Sin palabras 🤐\" sobre el programa de gallinas ponedoras de la CDMX. Ya contado en la mañana (60,526); más que duplica."
-        },
-        {
-          "url": "https://x.com/RicardoBSalinas/status/2122716987889471858",
-          "vistas": 92702,
-          "likes": 677,
-          "reposts": 301,
-          "respuestas": 87,
-          "citas": 16,
-          "guardados": 19,
-          "nota": "17 nov 9:42 a.m. Artículo de X \"Morena contra el Fobaproa\". @LillyTellez lo citó (8,719) y luego presentó un punto de acuerdo para transparentar el Fobaproa (Aristegui)."
-        },
-        {
-          "url": "https://x.com/RicardoBSalinas/status/2122728558904975765",
-          "vistas": 78592,
-          "likes": 1854,
-          "reposts": 245,
-          "respuestas": 58,
-          "citas": 3,
-          "guardados": 54,
-          "nota": "17 nov 10:28 a.m. \"Que buena frase - Gracias por compartir\" citando una frase sobre la calma de Marco Antonio Solís. Tono sereno, 1,854 likes contra 58 respuestas."
-        },
-        {
-          "url": "https://x.com/RicardoBSalinas/status/2122541488261493059",
-          "vistas": 49416,
-          "likes": 2052,
-          "reposts": 151,
-          "respuestas": 140,
-          "citas": 7,
-          "guardados": 16,
-          "nota": "16 nov 10:05 p.m. \"Llegamos de visita a #Colombia 😎\". Ahora sí hay confirmación: Infobae reporta que el presidente de Colombia, Abelardo de la Espriella, anunció que Italika instalará una planta de ensamblaje de motos en Barranquilla (cerca de 1,000 empleos)."
-        },
-        {
-          "url": "https://x.com/RicardoBSalinas/status/2122787336983552257",
-          "vistas": 44248,
-          "likes": 1106,
-          "reposts": 301,
-          "respuestas": 22,
-          "citas": 4,
-          "guardados": 9,
-          "nota": "17 nov 2:21 p.m. \"Bravo senadora, exijamos que se abra todo el FOBAPROA…\" citando el punto de acuerdo de @LillyTellez."
-        },
-        {
-          "url": "https://x.com/RicardoBSalinas/status/2122801735995363677",
-          "vistas": 38961,
-          "likes": 841,
-          "reposts": 65,
-          "respuestas": 58,
-          "citas": 2,
-          "guardados": 27,
-          "nota": "17 nov 3:19 p.m. \"Mis clientes de Elektra no tienen nada de qué preocuparse…🤣\" citando un video-broma de un robo (\"GTA Iztapalapa\"). Humor que puede leerse como burla de la inseguridad; vigilar."
-        }
-      ],
-      "nota": "8 originales (6 citas, 1 Artículo de X y 1 con foto), ninguna respuesta: 860,246 vistas, 26,818 likes, 5,005 reposts y 1,438 respuestas. Contra el corte de las 6:00 (3 originales, 185,243) sube 364% y queda 2.º de 6, detrás de @Claudiashein (1,019,017). Más likes que respuestas en los 8; el riesgo está en el tono (choque con una ministra y la broma de Elektra), no en la proporción."
-    },
-    "dia_previo_referencia": {
-      "fecha": "2026-11-17 (06:00)",
-      "originales": 3,
-      "vistas": 185243,
-      "likes": 7667,
-      "reposts": 1555,
-      "respuestas": 365,
       "rank": "2 de 6",
-      "nota": "Esta mañana: 3 originales, 185,243 vistas, 2.º de 6. Ahora 8 originales en 24 h y también 2.º de 6."
+      "nota": "Ayer 5:00 p.m.: 8 originales, 860,246 vistas, 2.º de 6. Hoy: 8 originales, 1,226,528 (+42.6%), 1.º de 7."
     },
     "posts_previos_actualizados": [
       {
         "url": "https://x.com/RicardoBSalinas/status/2121815480092827766",
-        "vistas": 310098,
-        "likes": 8171,
-        "reposts": 2071,
-        "respuestas": 1702,
-        "nota": "\"La verdadera Perrita\": +2.3% contra 303,041 de las 6:00. Sigue con 1,702 respuestas, casi tantas como reposts (2,071); #LaPerritaDeTrump y \"la cachorrita de Trump\" siguen en menciones: riesgo de imagen vigente."
+        "vistas": 315232,
+        "likes": 8202,
+        "reposts": 2080,
+        "respuestas": 1711,
+        "nota": "\"La verdadera Perrita\": +1.7% contra 310,098. 1,711 respuestas; #LaPerritaChillonaDeTrump sigue en menciones: riesgo vigente."
+      },
+      {
+        "url": "https://x.com/RicardoBSalinas/status/2122520116416192822",
+        "vistas": 146042,
+        "likes": 5562,
+        "reposts": 1108,
+        "respuestas": 382,
+        "nota": "\"Sin palabras\" (gallinas): +13.9% contra 128,180."
       },
       {
         "url": "https://x.com/RicardoBSalinas/status/2121813437265395949",
-        "vistas": 134133,
-        "likes": 7484,
-        "reposts": 2543,
+        "vistas": 136407,
+        "likes": 7496,
+        "reposts": 2547,
         "respuestas": 116,
-        "nota": "\"Genial !\": +1.8% contra 131,779 de las 6:00. "
+        "nota": "\"Genial !\": +1.7% contra 134,133."
       },
       {
         "url": "https://x.com/RicardoBSalinas/status/2121418477357633663",
-        "vistas": 622090,
-        "likes": 22839,
-        "reposts": 8359,
+        "vistas": 625602,
+        "likes": 22841,
+        "reposts": 8363,
         "respuestas": 1298,
-        "nota": "Video de pensiones: +0.6% contra 618,338 de las 6:00. Sigue siendo su mejor post de noviembre."
+        "nota": "Video de pensiones: +0.6% contra 622,090."
+      },
+      {
+        "url": "https://x.com/RicardoBSalinas/status/2122541488261493059",
+        "vistas": 58173,
+        "likes": 2413,
+        "reposts": 186,
+        "respuestas": 154,
+        "nota": "\"Llegamos de visita a #Colombia\": +17.7% contra 49,416."
       }
     ],
     "menciones": {
-      "volumen_24h": 6950,
-      "volumen_24h_previas": 5354,
-      "nota_volumen": "Conteo de X para 'Salinas Pliego' / 'Ricardo Salinas' / @RicardoBSalinas, sin reposts, 16 nov 22:40Z a 17 nov 22:40Z: 6,950, +30% contra las 24 h anteriores (5,354) y +75% contra el corte de las 6:00 (3,980). Pico de 759 menciones entre 11 a.m. y 12 p.m. de hoy (hora del centro), tras su respuesta a la ministra Batres y la difusión de sus dichos sobre los cajeros de Banco Azteca; por la tarde se mantiene arriba de 600 por hora.",
+      "volumen_24h": 12252,
+      "volumen_24h_previas": 4005,
+      "nota_volumen": "Conteo de X para 'Salinas Pliego' / 'Ricardo Salinas' / @RicardoBSalinas, sin reposts, 17 nov 11:50Z a 18 nov 11:50Z: 12,252, +206% contra las 24 h anteriores (4,005) y +76% contra el corte de ayer 5:00 p.m. (6,950). Pico de 1,042 menciones entre 6 y 7 p.m. del 17 nov (hora del centro), cuando circulaba el video de los cajeros y su anuncio en Colombia; de 5 p.m. a 11 p.m. se mantuvo arriba de 800 por hora.",
       "muestra": 50,
-      "excluidas_bots": 11,
-      "excluidas_pro_morena": 9,
-      "excluidas_fuera_de_tema": 1,
-      "excluidas_no_verificadas": 2,
-      "nota_filtro": "Filtro habitual sobre 50 menciones (25 por relevancia y 25 más recientes; 1 repetida, quedan 49 únicas; sin respuestas, sin reposts y sin posts propios). Bots (11) = cuentas creadas en 2026 sin bio y con decenas de posts al día (2), una cuenta creada en mayo 2026 de \"operaciones especiales\", handles con muchos dígitos (3), cuentas de más de 100 mil posts (4) y un mismo texto publicado 2 veces por la misma cuenta. Pro-Morena (9) = bios \"100% Obradorista\" (2 posts), \"AMLOÍSTA hace 20 años\" (3 posts), \"Obradorista de ❤️\", un usuario con \"morena\" en el handle, \"en pos de una Transformación\" y \"uno de los primeros liberados con AMLO\". Fuera de tema (1) = una broma sin tema. No verificadas (2) = un supuesto \"PREP 2030\" inventado y una acusación de \"narcoempresario\" sin fuente. Quedaron 26: 18 críticas, 1 favorable y 7 informativas.",
+      "excluidas_bots": 12,
+      "excluidas_pro_morena": 10,
+      "excluidas_fuera_de_tema": 4,
+      "excluidas_no_verificadas": 3,
+      "nota_filtro": "Filtro habitual sobre 50 menciones (25 por relevancia y 25 más recientes; 0 repetidas; sin respuestas, sin reposts y sin posts propios). Bots (12) = cuentas de más de 100 mil posts (6), cuentas creadas en 2026 sin bio (2), handles con muchos dígitos que copian el mismo texto (1), una cuenta sin bio que copia contenido (2 posts) y un mismo texto publicado 2 veces por la misma cuenta. Pro-Morena (10) = bio \"100% Obradorista\" (6 posts de la misma cuenta), \"Mi partido es Morena\", lema de la 4T en la bio, un portal que llama \"usurero\" a Salinas y un comunicador abiertamente afín a la 4T. Fuera de tema (4) = una nota de bitcoin, una queja de un programa de TV y 2 bromas sin tema. No verificadas (3) = un supuesto resultado electoral inventado, otro resultado inventado y una acusación sin fuente; no se repiten.",
       "temas": [
-        "Sus dichos de que podría pasar de 15 mil cajeros de Banco Azteca a ninguno por el costo del salario mínimo y la reducción de la jornada generaron la mayor ola de críticas del día (El Imparcial, Récord, SDP Noticias); algunos posts lo presentan como \"amenaza de despidos\", pero no hay despidos confirmados.",
-        "La visita a Colombia: medios colombianos (Infobae Colombia, Política LATAM, Última Hora CR) informan que el presidente Abelardo de la Espriella lo recibió en Barranquilla y anunció una planta de Italika con cerca de 1,000 empleos. Es la cobertura más favorable del día.",
-        "El cruce con la ministra Lenia Batres por su doctorado (El Universal, Político MX, El Informador).",
-        "Fobaproa: su Artículo y el punto de acuerdo de @LillyTellez para transparentar los expedientes (Aristegui).",
-        "Siguen las burlas (#LaPerritaDeTrump, \"la cachorrita de Trump\") y columnas en su contra (SDP Noticias: \"es un perdedor\"; Diario Red: \"segunda marcha de la Gen Z\")."
+        "El video donde llama \"estupidez\" al aumento del salario mínimo y dice que podría pasar de 15 mil cajeros a cero en Banco Azteca: es la mayor ola de críticas. Ningún medio confirma despidos ni anuncio oficial del banco.",
+        "La inversión en Colombia: medios colombianos y mexicanos informan del anuncio de Italika en Barranquilla; algunos críticos lo ligan a sus litigios fiscales en México.",
+        "El cruce con la ministra Lenia Batres por su doctorado (\"demándeme\", \"póngale fecha\").",
+        "El Fobaproa: su Artículo y el punto de acuerdo de @LillyTellez.",
+        "Siguen las burlas (#LaPerritaChillonaDeTrump) y columnas en su contra (Diario Red, \"Segunda marcha de la Gen Z\")."
       ],
-      "tono": "Volumen al alza (+30%) y tono crítico: 18 críticas, 1 favorable y 7 informativas (casi todas de Colombia, con lectura positiva para él). La mención válida más vista es una crítica de @ValeMediaMx sobre los cajeros (11,719); la favorable más vista es de @DerechaDiarioCO sobre Colombia (391).",
+      "tono": "Volumen al alza (+206%) y tono crítico: de 21 menciones válidas, 14 críticas, 2 favorables y 5 informativas. La crítica más vista es @ValeMediaMx (143,096) sobre los cajeros.",
       "menciones_destacadas": [
         {
           "handle": "@ValeMediaMx",
-          "vistas": 11719,
-          "likes": 244,
+          "vistas": 143096,
           "url": "https://x.com/ValeMediaMx/status/2122779067237695779",
-          "texto": "\"Para Ricardo Salinas Pliego, los derechos laborales son un estorbo\", sobre los cajeros de Banco Azteca (crítica)."
+          "texto": "Crítica por los dichos de los 15 mil cajeros y las máquinas."
         },
         {
-          "handle": "@sdpnoticias",
-          "vistas": 934,
-          "likes": 19,
-          "url": "https://x.com/sdpnoticias/status/2122488585269981608",
-          "texto": "Columna \"Ni Ricardo Salinas Pliego, ni la derecha, llegarán a México\" (crítica, opinión)."
+          "handle": "@MXReferencia",
+          "vistas": 8688,
+          "url": "https://x.com/MXReferencia/status/2122821579360886838",
+          "texto": "Informativa: \"El salario mínimo es una estupidez\"."
         },
         {
-          "handle": "@UltimaHoraCR",
-          "vistas": 932,
-          "likes": 4,
-          "url": "https://x.com/UltimaHoraCR/status/2122820441345589532",
-          "texto": "De la Espriella se reunió con él en la sede presidencial de Barranquilla (informativa)."
+          "handle": "@lafm",
+          "vistas": 1180,
+          "url": "https://x.com/lafm/status/2123004809154269578",
+          "texto": "Informativa (radio colombiana): quién es el empresario que invertirá en Colombia."
         },
         {
           "handle": "@maximoam_",
-          "vistas": 526,
-          "likes": 20,
+          "vistas": 1070,
           "url": "https://x.com/maximoam_/status/2122811923527880971",
-          "texto": "\"Amenaza con sustituir a 15 mil trabajadores por máquinas\" (crítica)."
+          "texto": "Crítica por lo de los cajeros."
         },
         {
-          "handle": "@DerechaDiarioCO",
-          "vistas": 391,
-          "likes": 31,
-          "url": "https://x.com/DerechaDiarioCO/status/2122820506885742761",
-          "texto": "\"Gran noticia\": lo recibe el presidente de Colombia (favorable)."
-        },
-        {
-          "handle": "@politico_latam",
-          "vistas": 195,
-          "likes": 0,
-          "url": "https://x.com/politico_latam/status/2122820638196760909",
-          "texto": "Italika llegará a Colombia y generará cerca de mil empleos (informativa)."
+          "handle": "@Mafalda_2020_",
+          "vistas": 891,
+          "url": "https://x.com/Mafalda_2020_/status/2123005086422974959",
+          "texto": "Crítica (Colombia): recuerda sus disputas fiscales en México."
         }
       ]
     },
     "medios": [
       {
-        "texto": "Infobae: De la Espriella anuncia que Italika llegará a Colombia, con planta de ensamblaje en Barranquilla",
-        "url": "https://www.infobae.com/colombia/2026/11/17/de-la-espriella-anuncia-que-italika-llegara-a-colombia-instalaran-una-planta-de-ensamblaje-de-motos-en-barranquilla/"
+        "texto": "El País: Salinas Pliego se reúne con De la Espriella y promete una inversión en Colombia",
+        "url": "https://elpais.com/mexico/2026-11-18/salinas-pliego-se-reune-con-de-la-espriella-y-promete-una-inversion-en-colombia.html"
       },
       {
-        "texto": "El Imparcial: plantea sustituir a los 15 mil cajeros de Banco Azteca por máquinas",
-        "url": "https://www.elimparcial.com/dinero/2026/11/17/ricardo-salinas-pliego-plantea-sustituir-a-los-15-mil-cajeros-de-banco-azteca-por-maquinas-al-argumentar-que-el-incremento-de-los-costos-laborales-el-salario-minimo-y-la-reduccion-de-la-jornada-de-trabajo-hacen-mas-atractiva-la-automatizacion/"
+        "texto": "Bloomberg Línea: Salinas Pliego anuncia planta de motocicletas Italika en Colombia",
+        "url": "https://www.bloomberglinea.com/latinoamerica/mexico/salinas-pliego-anuncia-planta-de-motocicletas-italika-en-colombia/"
       },
       {
-        "texto": "El Universal: Lenia Batres plantea demanda a TV Azteca; Salinas la reta",
-        "url": "https://www.eluniversal.com.mx/nacion/lenia-batres-plantea-demanda-a-tv-azteca-para-que-dejen-de-difamar-la-espero-le-voy-a-ganar-reta-salinas-pliego/"
+        "texto": "La Jornada: rechaza las 40 horas y habla de reemplazar 15 mil personas por máquinas",
+        "url": "https://www.jornada.com.mx/noticia/2026/11/17/economia/salinas-pliego-amaga-con-sustituir-empleados-por-maquinas-ante-reformas-laborales"
       },
       {
-        "texto": "Político MX: Salinas Pliego reta a Lenia Batres: 'Demándeme'",
-        "url": "https://politico.mx/2026/11/17/salinas-pliego-reta-a-lenia-batres-demandeme-nada-me-haria-mas-feliz/"
-      },
-      {
-        "texto": "Aristegui Noticias: Lilly Téllez propone auditar y transparentar todo el Fobaproa",
-        "url": "https://aristeguinoticias.com/1711/mexico/lilly-tellez-propone-auditar-y-transparentar-todo-el-fobaproa/"
+        "texto": "Vanguardia: no hay anuncio oficial ni despidos confirmados, solo declaraciones",
+        "url": "https://vanguardia.com.mx/noticias/mexico/ricardo-salinas-pliego-amenaza-con-sustituir-15-mil-cajeros-de-banco-azteca-por-maquinas-con-ia-DI24867884"
       }
     ]
   },
   "rivales": {
-    "fecha": "2026-11-17 (06:00)",
+    "fecha": "2026-11-18 (06:00)",
     "parcial_x": false,
-    "nota_base": "Comparado contra data/rivales_state.json del 2026-11-16 (06:00). Solo lo que cambió del 16 nov 5:48 a.m. al 17 nov 5:48 a.m. (hora del centro).",
-    "fuentes": "Búsqueda web en El Universal, Infobae, Reuters/El Nuevo Herald, CNN en Español, France 24, Político MX, Quinto Poder, Quadratín, Gobierno de Chihuahua, Revista Ecclesia, El Debate y Enfoque Monterrey, más lectura en X de las 10 cuentas. La búsqueda de noticias de X no devolvió notas de política mexicana.",
-    "contexto": "Lunes de gira: el gobierno sigue en China (bilateral con Xi); la oposición en foros internacionales (El Salvador, Madrid) y en la pelea por el INE.",
+    "nota_base": "Comparado contra data/rivales_state.json del 2026-11-17 (06:00). Solo lo que cambió del 17 nov 5:50 a.m. al 18 nov 5:50 a.m. (hora del centro).",
+    "fuentes": "Búsqueda web en El Economista, Infobae, Milenio, El País, El Imparcial, NTV Nayarit, Aristegui, El Universal, Reforma, Gobierno de Nuevo León y El Diario de Juárez, más lectura en X de las 10 cuentas. La búsqueda de noticias de X no devolvió notas de política mexicana.",
+    "contexto": "La Presidenta sigue en APEC y hoy tiene un encuentro breve con Trump tras su amenaza de aranceles; la oposición se mueve en el Fobaproa, el INE y las alianzas.",
     "rivales": [
       {
         "nombre": "Claudia Sheinbaum",
         "handle": "@Claudiashein",
         "novedades": [
           {
-            "texto": "Tuvo su primera reunión bilateral con Xi Jinping en Shenzhen, con 7 secretarios. Habló de una \"nueva era\" de cooperación (ciencia, tecnología, agricultura, energías limpias, agua, salud, cultura y turismo) y lo invitó a la APEC de México en 2028. France 24 dice que no trascendió si hablaron de aranceles o fentanilo.",
-            "url": "https://www.eluniversal.com.mx/nacion/sheinbaum-sostiene-primera-reunion-bilateral-con-xi-jinping-encuentro-se-realizo-en-el-marco-de-la-cumbre-apec-2026/"
+            "texto": "Se conectó a la mañanera desde Shenzhen. Dijo que con Xi Jinping hablaron de vender más aguacate y tequila a China, sin acuerdos concretos anunciados.",
+            "url": "https://www.elimparcial.com/mundo/2026/11/17/sheinbaum-y-xi-jinping-dialogan-sobre-aumentar-las-exportaciones-de-mexico-a-china-desde-aguacate-hasta-tequila-y-ampliar-la-cooperacion-comercial/"
           },
           {
-            "texto": "Presentó el Plan México ante más de mil empresarios en el APEC CEO Summit.",
-            "url": "https://www.infobae.com/mexico/2026/11/17/sheinbaum-se-reune-con-xi-jinping-en-china-lo-invita-a-mexico-y-plantea-nueva-era-de-cooperacion/"
+            "texto": "Hoy tendrá un encuentro breve con Donald Trump, después de que él amenazó con duplicar los aranceles si México no frena la caravana migrante que salió de Tapachula. Regresa el 20 nov para el desfile.",
+            "url": "https://www.eleconomista.com.mx/politica/sheinbaum-destaca-reuniones-china-canada-apec-miercoles-reunira-trump-20261117-844342.html"
           },
           {
-            "texto": "También se reunió con el primer ministro de Canadá, Mark Carney (post en X, 9,228 vistas).",
-            "url": "https://x.com/Claudiashein/status/2122655101424730256"
+            "texto": "Se reunió con el presidente de Vietnam, Tô Lâm (post en X, 44,679 vistas).",
+            "url": "https://x.com/Claudiashein/status/2122958742907982263"
           }
         ],
-        "nota": "Sigue 1ª del día: 4 hits, 623,933 vistas (comunidad mexicana 331,452; APEC CEO Summit 182,147; Xi 101,106; Carney 9,228)."
+        "nota": "Baja en X: de 4 hits (623,933) a 1 (44,679); en la ventana solo hizo 1 original y 3 reposts."
       },
       {
         "nombre": "Marcelo Ebrard",
         "handle": "@m_ebrard",
         "novedades": [
           {
-            "texto": "Acompañó la bilateral con Xi y el foro de empresarios; en X contó historias de mexicanos en Shenzhen (comunidad, \"Gabo\", cocina mexicana).",
-            "url": "https://x.com/m_ebrard/status/2122567612228071570"
+            "texto": "Se quedará más tiempo en China para seguir las conversaciones comerciales.",
+            "url": "https://elpais.com/mexico/2026-11-17/sheinbaum-defiende-su-modelo-de-desarrollo-para-mexico-en-la-apec-la-economia-debe-estar-al-servicio-de-las-personas.html"
           }
         ],
-        "nota": "De 6 hits (101,516) a 4 (118,546); 3º del día."
+        "nota": "De 4 hits (118,546) a 1 (21,101, la foto Sheinbaum–Xi)."
       },
       {
         "nombre": "Omar García Harfuch",
         "handle": "@OHarfuch",
         "novedades": [
           {
-            "texto": "Encabezó la Conferencia Nacional de Seguridad Pública Municipal en la CDMX y pidió a los alcaldes policías municipales con más personal, preparación y equipo.",
-            "url": "https://quinto-poder.mx/politicos/2026/11/16/que-paso-en-la-reunion-de-pepe-chedraui-y-garcia-harfuch--73336.html"
+            "texto": "Se reunió con el gobernador de Nayarit, Miguel Ángel Navarro, para reforzar la coordinación en seguridad.",
+            "url": "https://ntv.com.mx/2026/11/17/gobernador-navarro-y-harfuch-refuerzan-coordinacion-para-mantener-la-paz-en-nayarit/"
+          },
+          {
+            "texto": "Un tribunal le ordenó supervisar la búsqueda del joven desaparecido Carlos Emilio Galván.",
+            "url": "https://www.milenio.com/videos/estados/tribunal-ordena-garcia-harfuch-supervisar-busqueda-joven-desaparecido"
           }
         ],
-        "nota": "En X: 0 originales por segundo día (solo un repost)."
+        "nota": "En X, tercer día sin originales."
       },
       {
-        "nombre": "Jorge Romero",
-        "handle": "@JorgeRoHe",
+        "nombre": "Lilly Téllez",
+        "handle": "@LillyTellez",
         "novedades": [
           {
-            "texto": "Exigió un INE \"libre de imposiciones de Morena\" en el relevo de Guadalupe Taddei y pidió investigar su gestión.",
-            "url": "https://politico.mx/2026/11/17/jorge-romero-exige-un-ine-libre-de-imposiciones-de-morena-y-pide-investigar-gestion-de-taddei/"
+            "texto": "Presentó un punto de acuerdo para revisar y desclasificar todos los expedientes del Fobaproa (IPAB, Hacienda, Banxico, CNBV y ASF).",
+            "url": "https://aristeguinoticias.com/1711/mexico/lilly-tellez-propone-auditar-y-transparentar-todo-el-fobaproa/"
           }
         ],
-        "nota": "Baja de 5 hits (90,243) a 1 (13,883, video del informe en Coyoacán)."
-      },
-      {
-        "nombre": "Alejandro Moreno",
-        "handle": "@alitomorenoc",
-        "novedades": [
-          {
-            "texto": "En la II Conferencia Internacional sobre Estado y Democracia (San Salvador) dijo que la seguridad y la democracia deben ser prioridad de cualquier gobierno; se reunió con el ministro de Seguridad de El Salvador y con la vicepresidenta de República Dominicana, Raquel Peña.",
-            "url": "https://www.eluniversal.com.mx/nacion/alito-moreno-destaca-estrategia-de-seguridad-de-bukele-participa-en-conferencia-internacional-en-el-salvador/"
-          }
-        ],
-        "nota": "Sube de 1 hit (6,447) a 2 (26,083); sus posts siguen con muchas respuestas (122 en el de 14,906)."
+        "nota": "Sube de 0 a 2 hits (67,045): su exigencia sobre el Fobaproa (54,300) y la cita al Artículo de @RicardoBSalinas (12,745). 2ª del día."
       },
       {
         "nombre": "Maru Campos",
         "handle": "@MaruCampos_G",
         "novedades": [
           {
-            "texto": "Cerró en Madrid el 28º Congreso Católicos y Vida Pública: defendió su modelo \"humanista\" (alimentación, salud y agua) y criticó el sistema de salud federal y la caída de México en el Índice de Estado de Derecho. Su gobierno dice que los organizadores pagaron el viaje.",
-            "url": "https://cacech.chihuahua.gob.mx/prensa/maru-campos-presenta-en-madrid-el-modelo-de-servicio-humanista-de-chihuahua"
-          },
-          {
-            "texto": "Revista Ecclesia reseñó su conferencia de clausura.",
-            "url": "https://revistaecclesia.es/fe-y-libertad-como-respuesta-a-la-crisis-el-congreso-catolicos-y-vida-publica-llama-a-hacerse-presentes-como-mensajeros-de-esperanza/"
+            "texto": "En Madrid defendió la soberanía de México y dijo que \"nadie está por encima de la ley\".",
+            "url": "https://www.infobae.com/mexico/2026/11/17/maru-campos-defiende-la-soberania-de-mexico-durante-el-foro-catolico-en-espana-nadie-esta-por-encima-de-la-ley/"
           }
         ],
-        "nota": "En X sigue bajo: máximo 1,256 y publicó 2 veces el mismo texto."
+        "nota": "En X sigue baja: 2 originales, máximo 1,388."
+      },
+      {
+        "nombre": "Alejandro Moreno",
+        "handle": "@alitomorenoc",
+        "novedades": [
+          {
+            "texto": "Dijo que la alianza opositora será \"amplia y competitiva\" y que hay diálogo con otras fuerzas.",
+            "url": "https://www.eluniversal.com.mx/nacion/alito-moreno-garantiza-alianza-opositora-amplia-y-competitiva-rumbo-a-2027-en-morena-estan-preocupados-afirma/"
+          },
+          {
+            "texto": "Elogió el modelo de gobierno de Nayib Bukele (video en X, 8,787) y criticó que México perdiera el estatus de país libre de sarampión (7,747).",
+            "url": "https://www.infobae.com/mexico/2026/11/18/alito-moreno-reconoce-el-modelo-de-gobierno-de-nayib-bukele-en-el-salvador/"
+          }
+        ],
+        "nota": "2 hits (16,534) contra 2 (26,083); publicó 25 originales, casi todos citas."
+      },
+      {
+        "nombre": "Jorge Romero",
+        "handle": "@JorgeRoHe",
+        "novedades": [
+          {
+            "texto": "Se reunió con Jesús Zambrano para sumar fuerzas (post en X, 27,107).",
+            "url": "https://www.reforma.com/suman-fuerzas-zambrano-y-romero-rumbo-a-2027/ar3316191"
+          },
+          {
+            "texto": "En X propuso deducir todos los gastos de educación y salud (16,224).",
+            "url": "https://x.com/JorgeRoHe/status/2122815551986712916"
+          }
+        ],
+        "nota": "Sube de 1 hit (13,883) a 3 (60,104); 3º del día."
       },
       {
         "nombre": "Samuel García",
         "handle": "@samuel_garcias",
         "novedades": [
           {
-            "texto": "Encabezó el desfile de la Revolución en Monterrey y afirmó que los homicidios en Nuevo León bajaron hasta 90%; anunció su Quinto Informe para el sábado 21 nov.",
-            "url": "https://www.debate.com.mx/monterrey/samuel-garcia-encabeza-desfile-revolucionario-presume-avances-historicos-en-nuevo-leon-20261116-0242.html"
+            "texto": "Entregó 650 tarjetas de \"Ayudamos a las Mujeres\" en San Nicolás; el gobierno dice que ya son 124 mil beneficiarias.",
+            "url": "https://www.nl.gob.mx/es/boletines/entrega-gobernador-650-tarjetas-de-ayudamos-las-mujeres-en-san-nicolas-ya-suman-124-mil"
           },
           {
-            "texto": "Reunió a más de 150 liderazgos de Movimiento Ciudadano para preparar 2027.",
-            "url": "https://enfoquemonterrey.com.mx/2026/11/16/reune-samuel-garcia-a-liderazgos-de-mc-para-preparar-elecciones-de-2027/"
+            "texto": "Anunció la Macronavidad (29 nov al 15 ene) y presentó el 7º tren de las nuevas líneas del Metro (video en X, 9,344).",
+            "url": "https://x.com/samuel_garcias/status/2122766359427682755"
           }
         ],
-        "nota": "3 hits (24,082) contra 3 (34,036) ayer."
-      }
-    ],
-    "sin_cambios": [
-      {
-        "nombre": "Lilly Téllez",
-        "handle": "@LillyTellez",
-        "nota": "Sin novedades. 0 originales en X (solo reposts y 2 respuestas); no encontré notas nuevas desde ayer."
+        "nota": "3 hits (22,803) contra 3 (24,082)."
       },
       {
         "nombre": "Guadalupe Acosta Naranjo",
         "handle": "@acostanaranjo",
-        "nota": "Sin novedades. En X solo hizo reposts."
+        "novedades": [
+          {
+            "texto": "Afirmó que López Obrador sabía que perdía la elección de 2006.",
+            "url": "https://diario.mx/nacional/2026/nov/17/afirma-acosta-naranjo-que-amlo-sabia-que-perdia-en-2006-1149230.html"
+          }
+        ],
+        "nota": "En X, 0 originales (solo reposts)."
       }
-    ]
+    ],
+    "sin_cambios": []
   },
   "leaderboards": {
-    "as_of": "2026-11-17",
+    "as_of": "2026-11-18",
     "tracking_start": "2026-10-26",
     "days_included": [
-      "2026-11-11",
       "2026-11-12",
       "2026-11-13",
       "2026-11-14",
       "2026-11-15",
       "2026-11-16",
-      "2026-11-17"
+      "2026-11-17",
+      "2026-11-18"
     ],
     "month_days_included": [
       "2026-11-01",
@@ -1836,84 +1827,76 @@
       "2026-11-14",
       "2026-11-15",
       "2026-11-16",
-      "2026-11-17"
+      "2026-11-17",
+      "2026-11-18"
     ],
     "week": {
       "label": "Semana",
       "range": [
-        "2026-11-11",
-        "2026-11-17"
+        "2026-11-12",
+        "2026-11-18"
       ],
       "entries": [
         {
-          "handle": "@ricardobsalinas",
-          "name": "Ricardo B. Salinas",
-          "hits": 25,
-          "days": 7,
-          "views": 4925443,
-          "best": 1760231,
-          "best_url": "https://x.com/RicardoBSalinas/status/2120331518199447789"
-        },
-        {
           "handle": "@Claudiashein",
           "name": "Claudia Sheinbaum Pardo",
-          "hits": 16,
+          "hits": 15,
           "days": 7,
-          "views": 4001786,
+          "views": 4234791,
           "best": 1233596,
           "best_url": "https://x.com/Claudiashein/status/2122205377345605643"
         },
         {
+          "handle": "@ricardobsalinas",
+          "name": "Ricardo B. Salinas",
+          "hits": 22,
+          "days": 7,
+          "views": 3065045,
+          "best": 502271,
+          "best_url": "https://x.com/RicardoBSalinas/status/2121418477357633663"
+        },
+        {
           "handle": "@LillyTellez",
           "name": "Lilly Téllez",
-          "hits": 16,
-          "days": 6,
-          "views": 1265611,
-          "best": 362891,
-          "best_url": "https://x.com/LillyTellez/status/2120337524786864251"
+          "hits": 9,
+          "days": 5,
+          "views": 634116,
+          "best": 295338,
+          "best_url": "https://x.com/LillyTellez/status/2121321132137615752"
         },
         {
           "handle": "@JorgeRoHe",
           "name": "Jorge Romero Herrera",
-          "hits": 42,
-          "days": 7,
-          "views": 929713,
-          "best": 209875,
-          "best_url": "https://x.com/JorgeRoHe/status/2120347226606067917"
+          "hits": 34,
+          "days": 6,
+          "views": 605916,
+          "best": 27107,
+          "best_url": "https://x.com/JorgeRoHe/status/2122757923617046944"
         },
         {
           "handle": "@m_ebrard",
           "name": "Marcelo Ebrard C.",
           "hits": 19,
           "days": 6,
-          "views": 444703,
-          "best": 72690,
+          "views": 467465,
+          "best": 88153,
           "best_url": "https://x.com/m_ebrard/status/2122567612228071570"
         },
         {
           "handle": "@acostanaranjo",
           "name": "Guadalupe Acosta Naranjo",
-          "hits": 2,
-          "days": 2,
-          "views": 323059,
+          "hits": 1,
+          "days": 1,
+          "views": 249849,
           "best": 249849,
           "best_url": "https://x.com/acostanaranjo/status/2120696928145203512"
         },
         {
-          "handle": "@OHarfuch",
-          "name": "Omar H Garcia Harfuch",
-          "hits": 4,
-          "days": 2,
-          "views": 221639,
-          "best": 101635,
-          "best_url": "https://x.com/OHarfuch/status/2120552353086517677"
-        },
-        {
           "handle": "@samuel_garcias",
           "name": "Samuel García",
-          "hits": 18,
+          "hits": 20,
           "days": 7,
-          "views": 176157,
+          "views": 184687,
           "best": 18573,
           "best_url": "https://x.com/samuel_garcias/status/2122015141772300402"
         },
@@ -1922,9 +1905,18 @@
           "name": "Alejandro Moreno",
           "hits": 11,
           "days": 6,
-          "views": 120668,
+          "views": 118362,
           "best": 19206,
           "best_url": "https://x.com/alitomorenoc/status/2121801993781977181"
+        },
+        {
+          "handle": "@OHarfuch",
+          "name": "Omar H Garcia Harfuch",
+          "hits": 2,
+          "days": 1,
+          "views": 82189,
+          "best": 64868,
+          "best_url": "https://x.com/OHarfuch/status/2120860999452438729"
         }
       ]
     },
@@ -1932,24 +1924,24 @@
       "label": "Mes",
       "range": [
         "2026-11-01",
-        "2026-11-17"
+        "2026-11-18"
       ],
       "entries": [
         {
           "handle": "@ricardobsalinas",
           "name": "Ricardo B. Salinas",
-          "hits": 54,
-          "days": 16,
-          "views": 8342393,
+          "hits": 56,
+          "days": 17,
+          "views": 8912890,
           "best": 1760231,
           "best_url": "https://x.com/RicardoBSalinas/status/2120331518199447789"
         },
         {
           "handle": "@Claudiashein",
           "name": "Claudia Sheinbaum Pardo",
-          "hits": 40,
-          "days": 17,
-          "views": 6119503,
+          "hits": 41,
+          "days": 18,
+          "views": 6487748,
           "best": 1233596,
           "best_url": "https://x.com/Claudiashein/status/2122205377345605643"
         },
@@ -1958,7 +1950,7 @@
           "name": "Lilly Téllez",
           "hits": 36,
           "days": 13,
-          "views": 2257160,
+          "views": 2291456,
           "best": 362891,
           "best_url": "https://x.com/LillyTellez/status/2120337524786864251"
         },
@@ -1967,7 +1959,7 @@
           "name": "Jorge Romero Herrera",
           "hits": 101,
           "days": 17,
-          "views": 1885298,
+          "views": 1897320,
           "best": 209875,
           "best_url": "https://x.com/JorgeRoHe/status/2120347226606067917"
         },
@@ -1983,9 +1975,9 @@
         {
           "handle": "@samuel_garcias",
           "name": "Samuel García",
-          "hits": 60,
-          "days": 17,
-          "views": 765765,
+          "hits": 63,
+          "days": 18,
+          "views": 789645,
           "best": 109340,
           "best_url": "https://x.com/samuel_garcias/status/2117446693444571350"
         },
@@ -1994,8 +1986,8 @@
           "name": "Marcelo Ebrard C.",
           "hits": 34,
           "days": 11,
-          "views": 547316,
-          "best": 72690,
+          "views": 570078,
+          "best": 88153,
           "best_url": "https://x.com/m_ebrard/status/2122567612228071570"
         },
         {
@@ -2010,9 +2002,9 @@
         {
           "handle": "@alitomorenoc",
           "name": "Alejandro Moreno",
-          "hits": 27,
-          "days": 14,
-          "views": 414668,
+          "hits": 29,
+          "days": 15,
+          "views": 431202,
           "best": 62409,
           "best_url": "https://x.com/alitomorenoc/status/2117029935952826663"
         },

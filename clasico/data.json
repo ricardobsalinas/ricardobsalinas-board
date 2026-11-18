@@ -36,7 +36,7 @@
   "timezone": "America/Mexico_City",
   "title": "Digest de la mañana en X — 2026-11-18",
   "date": "2026-11-18",
-  "updated": "2026-11-18T05:59:43-06:00",
+  "updated": "2026-11-18T06:01:48-06:00",
   "hits": [
     {
       "id": "2122733378323558640",
@@ -823,7 +823,7 @@
     "Anuncio de inversión con tono cercano: \"vine a invertir\" en Colombia, 104,166",
     "Foto de reunión de Estado: @Claudiashein con el presidente de Vietnam, 44,679",
     "Propuesta de bolsillo: @JorgeRoHe, deducir gastos de educación y salud, 16,224",
-    "Muchas citas seguidas sin mensaje propio no despegan: @alitomorenoc, 25 originales, máximo 8,787"
+    "Muchas citas seguidas sin mensaje propio no despegan: @alitomorenoc, 22 originales, máximo 8,787"
   ],
   "narrative_synthesis": "Las últimas 24 h las dominó @RicardoBSalinas: su cruce con la ministra Batres, el Fobaproa (con @LillyTellez) y el anuncio de Italika en Colombia lo llevaron a 1,226,528 vistas. Pero la conversación también se disparó por el video en el que llama \"estupidez\" al aumento del salario mínimo y habla de cambiar 15 mil cajeros por máquinas: las menciones casi se triplican (12,252) y el tono es mayormente crítico. Para los borradores: inversión y empleo con visión de país, transparencia sin nombres y un mensaje de tecnología que suma oportunidades para los jóvenes, para equilibrar la narrativa de los cajeros.",
   "trend_keywords": [
@@ -865,7 +865,7 @@
     "summary": {
       "top10_line": "1) @RicardoBSalinas 434,925; 2) @RicardoBSalinas 199,113; 3) @RicardoBSalinas 148,425; 4) @RicardoBSalinas 120,553; 5) @RicardoBSalinas 113,023; 6) @RicardoBSalinas 104,166; 7) @RicardoBSalinas 66,479; 8) @LillyTellez 54,300; 9) @Claudiashein 44,679; 10) @RicardoBSalinas 39,844.",
       "headline": "Mañana de @RicardoBSalinas: 1º de 7 con 1,226,528 vistas en 8 originales, encabezados por su respuesta a la ministra Lenia Batres (434,925). @LillyTellez es 2ª (67,045 en 2 posts, Fobaproa) y @JorgeRoHe 3º (60,104 en 3). @Claudiashein, de gira en APEC, solo publicó 1 original en la ventana (Vietnam, 44,679).",
-      "takeaway": "Lo que jala: (1) responder en tono retador a una figura pública (Lenia Batres 434,925, 19,798 likes, con riesgo de imagen); (2) citar contenido ajeno que ya es viral con un comentario corto (\"listejo\" 199,113; \"Que buena frase\" 120,553); (3) humor de marca (Elektra 148,425, pero puede leerse como burla de la inseguridad); (4) tema propio en Artículo de X que una aliada amplifica (Fobaproa: 113,023 + @LillyTellez 54,300 + \"Bravo senadora\" 66,479); (5) anuncio de inversión con tono cercano (Colombia 104,166, confirmado por El País, El Universal y Bloomberg Línea); (6) foto de reunión de Estado (Vietnam 44,679). No jala: muchas citas seguidas sin mensaje propio (@alitomorenoc, 25 originales y máximo 8,787) y no publicar (@OHarfuch y @acostanaranjo).",
+      "takeaway": "Lo que jala: (1) responder en tono retador a una figura pública (Lenia Batres 434,925, 19,798 likes, con riesgo de imagen); (2) citar contenido ajeno que ya es viral con un comentario corto (\"listejo\" 199,113; \"Que buena frase\" 120,553); (3) humor de marca (Elektra 148,425, pero puede leerse como burla de la inseguridad); (4) tema propio en Artículo de X que una aliada amplifica (Fobaproa: 113,023 + @LillyTellez 54,300 + \"Bravo senadora\" 66,479); (5) anuncio de inversión con tono cercano (Colombia 104,166, confirmado por El País, El Universal y Bloomberg Línea); (6) foto de reunión de Estado (Vietnam 44,679). No jala: muchas citas seguidas sin mensaje propio (@alitomorenoc, 22 originales y máximo 8,787) y no publicar (@OHarfuch y @acostanaranjo).",
       "stats": {
         "all": {
           "n": 20,
@@ -1752,7 +1752,7 @@
             "url": "https://www.infobae.com/mexico/2026/11/18/alito-moreno-reconoce-el-modelo-de-gobierno-de-nayib-bukele-en-el-salvador/"
           }
         ],
-        "nota": "2 hits (16,534) contra 2 (26,083); publicó 25 originales, casi todos citas."
+        "nota": "2 hits (16,534) contra 2 (26,083); publicó 22 originales, casi todos citas."
       },
       {
         "nombre": "Jorge Romero",

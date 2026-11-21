@@ -34,129 +34,159 @@
   "virals_window": "últimas 24 h",
   "virals_target": 20,
   "timezone": "America/Mexico_City",
-  "title": "Digest de la tarde en X — 2026-11-20",
-  "date": "2026-11-20",
-  "updated": "2026-11-20T16:53:06-06:00",
+  "title": "Digest de la mañana en X — 2026-11-21",
+  "date": "2026-11-21",
+  "updated": "2026-11-21T05:59:40-06:00",
   "hits": [
     {
-      "id": "2123654488347267264",
-      "handle": "@Claudiashein",
-      "display_name": "Claudia Sheinbaum Pardo",
-      "name": "Claudia Sheinbaum Pardo",
-      "followers": 5265748,
-      "text": "Llegamos a la Ciudad de México en el vuelo CZ8031 desde Shenzhen, China. Agradecemos a toda la tripulación por su apoyo. https://t.co/DSC83CpnDQ",
-      "original_en": "Llegamos a la Ciudad de México en el vuelo CZ8031 desde Shenzhen, China. Agradecemos a toda la tripulación por su apoyo. https://t.co/DSC83CpnDQ",
-      "views": 534303,
-      "views_label": "534,303",
-      "likes": 30638,
-      "reposts": 3910,
-      "replies": 754,
-      "quotes": 191,
-      "bookmarks": 494,
-      "url": "https://x.com/Claudiashein/status/2123654488347267264",
-      "status_url": "https://x.com/Claudiashein/status/2123654488347267264",
-      "created_local": "2026-11-19 23:47",
-      "created_at": "2026-11-20T05:47:40.000Z",
-      "posted_at": "2026-11-20T05:47:40.000Z",
+      "id": "2123987913859805494",
+      "handle": "@RicardoBSalinas",
+      "display_name": "Don Ricardo Salinas Pliego",
+      "name": "Don Ricardo Salinas Pliego",
+      "followers": 2238671,
+      "text": "Que triste país… mientras el Narco gobernador @rochamoya_ está libre y descansando en Torre Banus en Culiacán. Sinaloa arde en llamas, y sus habitantes viven en carne propia el miedo de salir a la calle o ir al beisbol cualquier fin de semana.\n\nEste es el resultado de los abrazos y no balazos.",
+      "original_en": "Que triste país… mientras el Narco gobernador @rochamoya_ está libre y descansando en Torre Banus en Culiacán. Sinaloa arde en llamas, y sus habitantes viven en carne propia el miedo de salir a la calle o ir al beisbol cualquier fin de semana.\n\nEste es el resultado de los abrazos y no balazos.",
+      "views": 266018,
+      "views_label": "266,018",
+      "likes": 8455,
+      "reposts": 1915,
+      "replies": 312,
+      "quotes": 40,
+      "bookmarks": 519,
+      "url": "https://x.com/RicardoBSalinas/status/2123987913859805494",
+      "status_url": "https://x.com/RicardoBSalinas/status/2123987913859805494",
+      "created_local": "2026-11-20 21:52",
+      "created_at": "2026-11-21T03:52:35.000Z",
+      "posted_at": "2026-11-21T03:52:35.000Z",
       "lang": null,
       "media": [
-        "photo"
+        "video",
+        "video",
+        "video"
       ],
       "star": true,
       "highlight": true,
       "quote": false,
+      "draft_en": "La libertad empieza por algo muy sencillo: poder salir a la calle sin miedo. Ir al trabajo, abrir el negocio, llevar a los hijos al estadio.\nUn país seguro no se construye con discursos, sino con ley que se cumple todos los días. Sin seguridad no hay inversión, ni empleo, ni futuro. 🇲🇽",
+      "video_tip": "Video vertical de 15 s: una familia que entra a un estadio de béisbol, una calle iluminada de noche, un comerciante que cierra tarde y tranquilo. Rótulos grandes \"Calle\" · \"Trabajo\" · \"Familia\" · \"Libertad\". Sin imágenes de violencia, personas públicas, partidos ni logotipos.",
+      "draft_keywords": [
+        "seguridad",
+        "libertad",
+        "ley",
+        "familias"
+      ],
       "top10_rank": 1,
-      "category": "Internacional"
+      "category": "Seguridad"
     },
     {
       "id": "2123809534028255260",
       "handle": "@Claudiashein",
       "display_name": "Claudia Sheinbaum Pardo",
       "name": "Claudia Sheinbaum Pardo",
-      "followers": 5265748,
+      "followers": 5266298,
       "text": "116 Aniversario de la Revolución Mexicana. Ciudad de México https://t.co/luurZLWDR4",
       "original_en": "116 Aniversario de la Revolución Mexicana. Ciudad de México https://t.co/luurZLWDR4",
-      "views": 64840,
-      "views_label": "64,840",
-      "likes": 2282,
-      "reposts": 826,
-      "replies": 168,
-      "quotes": 90,
-      "bookmarks": 48,
+      "views": 98694,
+      "views_label": "98,694",
+      "likes": 3171,
+      "reposts": 1039,
+      "replies": 275,
+      "quotes": 98,
+      "bookmarks": 74,
       "url": "https://x.com/Claudiashein/status/2123809534028255260",
       "status_url": "https://x.com/Claudiashein/status/2123809534028255260",
       "created_local": "2026-11-20 10:03",
       "created_at": "2026-11-20T16:03:46.000Z",
       "posted_at": "2026-11-20T16:03:46.000Z",
-      "lang": "es",
+      "lang": null,
       "media": [],
       "star": true,
       "highlight": true,
       "quote": false,
-      "draft_en": "Hace 116 años, México decidió que ningún poder está por encima de la libertad de su gente. Hoy esa lucha se honra trabajando, emprendiendo y defendiendo lo que es justo.\nLa libertad no se hereda: se cuida todos los días. ¿Qué significa para ti ser libre en México? 🇲🇽",
-      "video_tip": "Video vertical de 15 s: fotos en sepia de 1910 que se funden, una por una, con escenas de hoy (un taller que abre, un mercado lleno, una estudiante con su título); rótulos grandes \"Libertad\" · \"Trabajo\" · \"Justicia\". Cierra con la pregunta en pantalla. Sin personas públicas, partidos ni logotipos.",
-      "draft_keywords": [
-        "Revolución",
-        "libertad",
-        "ley",
-        "trabajo"
-      ],
       "top10_rank": 2,
       "category": "Otros"
     },
     {
-      "id": "2123621524565369157",
-      "handle": "@RicardoBSalinas",
-      "display_name": "Don Ricardo Salinas Pliego",
-      "name": "Don Ricardo Salinas Pliego",
-      "followers": 2238820,
-      "text": "50, 40, 35 y 25 años. Eso es lo que llevan muchos de mis colaboradores trabajando en el Grupo, y ayer tuve el honor de reconocerlos.\n\nMientras algunos viven del presupuesto, estas mujeres y estos hombres han servido al cliente toda una vida y han construido México con trabajo de https://t.co/h3LQLnO1Tp",
-      "original_en": "50, 40, 35 y 25 años. Eso es lo que llevan muchos de mis colaboradores trabajando en el Grupo, y ayer tuve el honor de reconocerlos.\n\nMientras algunos viven del presupuesto, estas mujeres y estos hombres han servido al cliente toda una vida y han construido México con trabajo de https://t.co/h3LQLnO1Tp",
-      "views": 62020,
-      "views_label": "62,020",
-      "likes": 1858,
-      "reposts": 391,
-      "replies": 194,
-      "quotes": 14,
-      "bookmarks": 35,
-      "url": "https://x.com/RicardoBSalinas/status/2123621524565369157",
-      "status_url": "https://x.com/RicardoBSalinas/status/2123621524565369157",
-      "created_local": "2026-11-19 21:36",
-      "created_at": "2026-11-20T03:36:41.000Z",
-      "posted_at": "2026-11-20T03:36:41.000Z",
-      "lang": null,
+      "id": "2123895607622541823",
+      "handle": "@samuel_garcias",
+      "display_name": "Samuel García",
+      "name": "Samuel García",
+      "followers": 444252,
+      "text": "ASÍ SE VE EL PUENTE NUEVO\n\nNos arrancamos a supervisar los detalles finales de este puente que conectará la Avenida Constitución con Morones Prieto, y también tendrá conexiones con los nuevos parques lineales, el NUEVO METRO y la Torre Rise. \n\nY ahora, ya podrás usarlo. LO NUEVO CUMPLE conectando a la ciudad y a Nuevo León. ¡Ánimo! 🦁👊🏻",
+      "original_en": "ASÍ SE VE EL PUENTE NUEVO\n\nNos arrancamos a supervisar los detalles finales de este puente que conectará la Avenida Constitución con Morones Prieto, y también tendrá conexiones con los nuevos parques lineales, el NUEVO METRO y la Torre Rise. \n\nY ahora, ya podrás usarlo. LO NUEVO CUMPLE conectando a la ciudad y a Nuevo León. ¡Ánimo! 🦁👊🏻",
+      "views": 82144,
+      "views_label": "82,144",
+      "likes": 515,
+      "reposts": 27,
+      "replies": 116,
+      "quotes": 9,
+      "bookmarks": 88,
+      "url": "https://x.com/samuel_garcias/status/2123895607622541823",
+      "status_url": "https://x.com/samuel_garcias/status/2123895607622541823",
+      "created_local": "2026-11-20 15:45",
+      "created_at": "2026-11-20T21:45:47.000Z",
+      "posted_at": "2026-11-20T21:45:47.000Z",
+      "lang": "es",
       "media": [
         "video"
       ],
       "star": true,
       "highlight": true,
       "quote": false,
-      "draft_en": "Hay personas que llevan 25, 35 y hasta 50 años construyendo algo contigo. Eso no se compra: se gana con respeto, oportunidades y palabra cumplida.\nLas grandes empresas, como los grandes países, se levantan con lealtad y trabajo. ¿A quién le agradeces hoy tu camino? 🤝🇲🇽",
-      "video_tip": "Video vertical de 15 s: manos que reciben un reconocimiento, rótulos con los años de servicio (25 · 35 · 50), un abrazo entre compañeros y una toma final del equipo completo; música cálida y la frase en letras grandes. Cierra con la pregunta en pantalla. Sin personas públicas, partidos ni logotipos.",
+      "draft_en": "Los países se transforman con obras que conectan: un puente, una carretera, una red que acerca a la gente a su trabajo y a sus oportunidades.\nConstruir es el idioma de quienes creen en el futuro. Emprender es apostar por México todos los días. ¿Qué obra cambiaría la vida de tu ciudad? 🏗️🇲🇽",
+      "video_tip": "Timelapse vertical de 15 s: de una obra con grúas a una calle terminada con gente que la cruza; cierra con una tienda que abre sus puertas. Rótulos \"Conectar\" · \"Construir\" · \"Emprender\" y la pregunta al final. Sin personas públicas, partidos ni logotipos.",
       "draft_keywords": [
-        "colaboradores",
-        "lealtad",
-        "trabajo",
-        "oportunidades"
+        "construir",
+        "obras",
+        "emprender",
+        "futuro"
       ],
       "top10_rank": 3,
-      "category": "Motivación y liderazgo"
+      "category": "Otros"
+    },
+    {
+      "id": "2123895979975815219",
+      "handle": "@LillyTellez",
+      "display_name": "Lilly Téllez",
+      "name": "Lilly Téllez",
+      "followers": 1128807,
+      "text": "Es uno de los puños de @craviotocesar \n\n¡Ánimo @AlessandraRdlv !\nEstamos contigo https://t.co/G9ep5kpQnT",
+      "original_en": "Es uno de los puños de @craviotocesar \n\n¡Ánimo @AlessandraRdlv !\nEstamos contigo https://t.co/G9ep5kpQnT",
+      "views": 58401,
+      "views_label": "58,401",
+      "likes": 5312,
+      "reposts": 1613,
+      "replies": 137,
+      "quotes": 12,
+      "bookmarks": 69,
+      "url": "https://x.com/LillyTellez/status/2123895979975815219",
+      "status_url": "https://x.com/LillyTellez/status/2123895979975815219",
+      "created_local": "2026-11-20 15:47",
+      "created_at": "2026-11-20T21:47:16.000Z",
+      "posted_at": "2026-11-20T21:47:16.000Z",
+      "lang": null,
+      "media": [],
+      "star": true,
+      "highlight": true,
+      "quote": true,
+      "top10_rank": 4,
+      "category": "Otros"
     },
     {
       "id": "2123849642995548641",
       "handle": "@RicardoBSalinas",
       "display_name": "Don Ricardo Salinas Pliego",
       "name": "Don Ricardo Salinas Pliego",
-      "followers": 2238820,
+      "followers": 2238671,
       "text": "Muy bien dicho @PelonGomis - Los MoreNarcos son los verdaderos FASCISTAS. https://t.co/YBoYKOOK7W",
       "original_en": "Muy bien dicho @PelonGomis - Los MoreNarcos son los verdaderos FASCISTAS. https://t.co/YBoYKOOK7W",
-      "views": 26462,
-      "views_label": "26,462",
-      "likes": 819,
-      "reposts": 200,
-      "replies": 63,
-      "quotes": 2,
-      "bookmarks": 12,
+      "views": 55195,
+      "views_label": "55,195",
+      "likes": 1781,
+      "reposts": 439,
+      "replies": 106,
+      "quotes": 5,
+      "bookmarks": 26,
       "url": "https://x.com/RicardoBSalinas/status/2123849642995548641",
       "status_url": "https://x.com/RicardoBSalinas/status/2123849642995548641",
       "created_local": "2026-11-20 12:43",
@@ -167,7 +197,7 @@
       "star": true,
       "highlight": true,
       "quote": true,
-      "top10_rank": 4,
+      "top10_rank": 5,
       "category": "Seguridad"
     },
     {
@@ -175,74 +205,115 @@
       "handle": "@LillyTellez",
       "display_name": "Lilly Téllez",
       "name": "Lilly Téllez",
-      "followers": 1128797,
+      "followers": 1128807,
       "text": "Las series de mafiosos de Netflix se quedan cortas, vean el Senado: https://t.co/JIKHnPC1vG",
       "original_en": "Las series de mafiosos de Netflix se quedan cortas, vean el Senado: https://t.co/JIKHnPC1vG",
-      "views": 23791,
-      "views_label": "23,791",
-      "likes": 1665,
-      "reposts": 603,
-      "replies": 81,
-      "quotes": 4,
-      "bookmarks": 50,
+      "views": 47088,
+      "views_label": "47,088",
+      "likes": 3615,
+      "reposts": 1308,
+      "replies": 149,
+      "quotes": 11,
+      "bookmarks": 93,
       "url": "https://x.com/LillyTellez/status/2123828419804930455",
       "status_url": "https://x.com/LillyTellez/status/2123828419804930455",
       "created_local": "2026-11-20 11:18",
       "created_at": "2026-11-20T17:18:48.000Z",
       "posted_at": "2026-11-20T17:18:48.000Z",
-      "lang": "es",
+      "lang": null,
       "media": [
         "video"
       ],
       "star": true,
       "highlight": true,
       "quote": false,
-      "top10_rank": 5,
+      "top10_rank": 6,
       "category": "Gobierno y políticas públicas"
     },
     {
-      "id": "2123584319398555862",
-      "handle": "@RicardoBSalinas",
-      "display_name": "Don Ricardo Salinas Pliego",
-      "name": "Don Ricardo Salinas Pliego",
-      "followers": 2238820,
-      "text": "Hoy en @ColeccionesRSP fíjense en esta escena que resguardamos en @ColeccionesRSP. Se trata de un paseo dominical en el campo mexicano, retratado con enorme maestría por Ernesto Icaza Sánchez, el gran pintor de nuestra charrería.\n\nAquí vemos a Don Jesús Pliego llevando a su https://t.co/wVvT1qLJIb",
-      "original_en": "Hoy en @ColeccionesRSP fíjense en esta escena que resguardamos en @ColeccionesRSP. Se trata de un paseo dominical en el campo mexicano, retratado con enorme maestría por Ernesto Icaza Sánchez, el gran pintor de nuestra charrería.\n\nAquí vemos a Don Jesús Pliego llevando a su https://t.co/wVvT1qLJIb",
-      "views": 22763,
-      "views_label": "22,763",
-      "likes": 347,
-      "reposts": 60,
-      "replies": 21,
-      "quotes": 1,
-      "bookmarks": 5,
-      "url": "https://x.com/RicardoBSalinas/status/2123584319398555862",
-      "status_url": "https://x.com/RicardoBSalinas/status/2123584319398555862",
-      "created_local": "2026-11-19 19:08",
-      "created_at": "2026-11-20T01:08:50.000Z",
-      "posted_at": "2026-11-20T01:08:50.000Z",
-      "lang": null,
+      "id": "2123882471574172148",
+      "handle": "@alitomorenoc",
+      "display_name": "Alejandro Moreno",
+      "name": "Alejandro Moreno",
+      "followers": 242186,
+      "text": "Condeno las agresiones contra la alcaldesa @AlessandraRdlv, nuestra diputada @TaniaLariosMX y vecinas y vecinos de la alcaldía Cuauhtémoc, por parte de un grupo armado comandado por la diputada de MORENA Diana Sánchez Barrios. Es inadmisible que se ponga en riesgo la vida de legisladores y ciudadanos. Así actúan las mafias, y ese es el sello del narcopartido MORENA.\n\nPresentaremos las denuncias correspondientes y exigiremos que se finquen responsabilidades. El Gobierno de la Ciudad de México debe garantizar de inmediato la seguridad de las personas agredidas. La Fiscalía capitalina tiene que esclarecer quién dio la orden, quién la ejecutó y llevarlos ante la justicia. ¡Ya basta del actuar criminal de MORENA!",
+      "original_en": "Condeno las agresiones contra la alcaldesa @AlessandraRdlv, nuestra diputada @TaniaLariosMX y vecinas y vecinos de la alcaldía Cuauhtémoc, por parte de un grupo armado comandado por la diputada de MORENA Diana Sánchez Barrios. Es inadmisible que se ponga en riesgo la vida de legisladores y ciudadanos. Así actúan las mafias, y ese es el sello del narcopartido MORENA.\n\nPresentaremos las denuncias correspondientes y exigiremos que se finquen responsabilidades. El Gobierno de la Ciudad de México debe garantizar de inmediato la seguridad de las personas agredidas. La Fiscalía capitalina tiene que esclarecer quién dio la orden, quién la ejecutó y llevarlos ante la justicia. ¡Ya basta del actuar criminal de MORENA!",
+      "views": 45957,
+      "views_label": "45,957",
+      "likes": 2028,
+      "reposts": 850,
+      "replies": 124,
+      "quotes": 12,
+      "bookmarks": 7,
+      "url": "https://x.com/alitomorenoc/status/2123882471574172148",
+      "status_url": "https://x.com/alitomorenoc/status/2123882471574172148",
+      "created_local": "2026-11-20 14:53",
+      "created_at": "2026-11-20T20:53:35.000Z",
+      "posted_at": "2026-11-20T20:53:35.000Z",
+      "lang": "es",
       "media": [
         "photo"
       ],
       "star": true,
       "highlight": true,
       "quote": false,
-      "top10_rank": 6,
-      "category": "Otros"
+      "draft_en": "Las diferencias se resuelven con argumentos, nunca con golpes. Un país libre se defiende con instituciones fuertes, respeto a la ley y diálogo de altura.\nLiderar es dar el ejemplo: firmeza en las ideas y respeto por las personas. 🇲🇽",
+      "video_tip": "Video vertical de 10 a 15 s con fondo sobrio: una mesa de diálogo vacía, un apretón de manos en primer plano y la fachada de un edificio público con la bandera. Texto en pantalla que avanza frase por frase. Música serena. Sin personas públicas, partidos ni logotipos.",
+      "draft_keywords": [
+        "respeto",
+        "instituciones",
+        "ley",
+        "liderazgo"
+      ],
+      "top10_rank": 7,
+      "category": "Corrupción y justicia"
+    },
+    {
+      "id": "2124008745348854088",
+      "handle": "@alitomorenoc",
+      "display_name": "Alejandro Moreno",
+      "name": "Alejandro Moreno",
+      "followers": 242186,
+      "text": "El gobierno de MORENA no tiene ni la más mínima idea de cómo enfrentar al crimen organizado. Creyeron que pactando con los criminales obtendrían beneficios electorales, pero lo único que consiguieron fue fortalecer a un enemigo peligroso y voraz para la patria. ¡Para muestra, Sinaloa!\n\nSi no pueden con el paquete, ¡que se hagan a un lado! Los priistas sabemos cómo y tenemos con qué hacerlo. México necesita recuperar la seguridad, restablecer el orden y hacer valer la ley con toda la fuerza del Estado. Los criminales solo pueden tener dos destinos: LA CÁRCEL o EL CEMENTERIO.",
+      "original_en": "El gobierno de MORENA no tiene ni la más mínima idea de cómo enfrentar al crimen organizado. Creyeron que pactando con los criminales obtendrían beneficios electorales, pero lo único que consiguieron fue fortalecer a un enemigo peligroso y voraz para la patria. ¡Para muestra, Sinaloa!\n\nSi no pueden con el paquete, ¡que se hagan a un lado! Los priistas sabemos cómo y tenemos con qué hacerlo. México necesita recuperar la seguridad, restablecer el orden y hacer valer la ley con toda la fuerza del Estado. Los criminales solo pueden tener dos destinos: LA CÁRCEL o EL CEMENTERIO.",
+      "views": 45612,
+      "views_label": "45,612",
+      "likes": 1151,
+      "reposts": 344,
+      "replies": 278,
+      "quotes": 12,
+      "bookmarks": 71,
+      "url": "https://x.com/alitomorenoc/status/2124008745348854088",
+      "status_url": "https://x.com/alitomorenoc/status/2124008745348854088",
+      "created_local": "2026-11-20 23:15",
+      "created_at": "2026-11-21T05:15:21.000Z",
+      "posted_at": "2026-11-21T05:15:21.000Z",
+      "lang": "es",
+      "media": [
+        "video",
+        "video",
+        "video",
+        "video"
+      ],
+      "star": true,
+      "highlight": true,
+      "quote": false,
+      "top10_rank": 8,
+      "category": "Elecciones e INE"
     },
     {
       "id": "2123774015298756714",
       "handle": "@JorgeRoHe",
       "display_name": "Jorge Romero Herrera",
       "name": "Jorge Romero Herrera",
-      "followers": 105579,
+      "followers": 105573,
       "text": "En @AccionNacional propusimos bajar el impuesto por litro para que la gasolina sea más barata y el dinero te alcance para más.\n\n#SolucionesParaMéxico https://t.co/5TXoCKvW5l",
       "original_en": "En @AccionNacional propusimos bajar el impuesto por litro para que la gasolina sea más barata y el dinero te alcance para más.\n\n#SolucionesParaMéxico https://t.co/5TXoCKvW5l",
-      "views": 20898,
-      "views_label": "20,898",
-      "likes": 291,
-      "reposts": 99,
-      "replies": 145,
+      "views": 21549,
+      "views_label": "21,549",
+      "likes": 304,
+      "reposts": 103,
+      "replies": 272,
       "quotes": 5,
       "bookmarks": 1,
       "url": "https://x.com/JorgeRoHe/status/2123774015298756714",
@@ -257,7 +328,7 @@
       "star": true,
       "highlight": true,
       "quote": false,
-      "top10_rank": 7,
+      "top10_rank": 9,
       "category": "Economía y empleo"
     },
     {
@@ -265,14 +336,14 @@
       "handle": "@JorgeRoHe",
       "display_name": "Jorge Romero Herrera",
       "name": "Jorge Romero Herrera",
-      "followers": 105579,
+      "followers": 105573,
       "text": "Estamos #EnVivo desde Tepic, Nayarit. \n\nAcompáñanos en esta rueda de prensa en la que hablaremos de nuestra agenda en el estado y del trabajo del PAN en Nayarit. #PatriaFamiliaYLibertad\n\n🔗 https://t.co/3OXERoOj5Y",
       "original_en": "Estamos #EnVivo desde Tepic, Nayarit. \n\nAcompáñanos en esta rueda de prensa en la que hablaremos de nuestra agenda en el estado y del trabajo del PAN en Nayarit. #PatriaFamiliaYLibertad\n\n🔗 https://t.co/3OXERoOj5Y",
-      "views": 19270,
-      "views_label": "19,270",
-      "likes": 260,
-      "reposts": 97,
-      "replies": 6,
+      "views": 19434,
+      "views_label": "19,434",
+      "likes": 265,
+      "reposts": 100,
+      "replies": 7,
       "quotes": 0,
       "bookmarks": 0,
       "url": "https://x.com/JorgeRoHe/status/2123832799920836772",
@@ -285,21 +356,50 @@
       "star": true,
       "highlight": true,
       "quote": false,
-      "top10_rank": 8,
+      "top10_rank": 10,
       "category": "Gobierno y políticas públicas"
+    },
+    {
+      "id": "2123891866269786308",
+      "handle": "@JorgeRoHe",
+      "display_name": "Jorge Romero Herrera",
+      "name": "Jorge Romero Herrera",
+      "followers": 105573,
+      "text": "Desde Nayarit, junto a nuestra senadora @IvidelizaR, hacemos un llamado a respetar la convocatoria para la presidencia del @INEMexico. \n\nMéxico necesita un árbitro electoral autónomo, imparcial y libre de presiones políticas. ¡La democracia se defiende! #UnINELibre https://t.co/yzQk4Z7Eu7",
+      "original_en": "Desde Nayarit, junto a nuestra senadora @IvidelizaR, hacemos un llamado a respetar la convocatoria para la presidencia del @INEMexico. \n\nMéxico necesita un árbitro electoral autónomo, imparcial y libre de presiones políticas. ¡La democracia se defiende! #UnINELibre https://t.co/yzQk4Z7Eu7",
+      "views": 18699,
+      "views_label": "18,699",
+      "likes": 310,
+      "reposts": 88,
+      "replies": 12,
+      "quotes": 0,
+      "bookmarks": 0,
+      "url": "https://x.com/JorgeRoHe/status/2123891866269786308",
+      "status_url": "https://x.com/JorgeRoHe/status/2123891866269786308",
+      "created_local": "2026-11-20 15:30",
+      "created_at": "2026-11-20T21:30:55.000Z",
+      "posted_at": "2026-11-20T21:30:55.000Z",
+      "lang": "es",
+      "media": [
+        "video"
+      ],
+      "star": true,
+      "highlight": true,
+      "quote": false,
+      "category": "Elecciones e INE"
     },
     {
       "id": "2123855830051385349",
       "handle": "@JorgeRoHe",
       "display_name": "Jorge Romero Herrera",
       "name": "Jorge Romero Herrera",
-      "followers": 105579,
+      "followers": 105573,
       "text": "¡Estamos en las calles de Tepic, Nayarit! \n\nCon toda la energía y las ganas de seguir recorriendo cada rincón, escuchando a la gente y construyendo juntos un mejor futuro.\n\nEl trabajo se hace cerca de las personas, conociendo sus necesidades y estando presentes. ¡Vamos con todo! https://t.co/YebzGwGZ7g",
       "original_en": "¡Estamos en las calles de Tepic, Nayarit! \n\nCon toda la energía y las ganas de seguir recorriendo cada rincón, escuchando a la gente y construyendo juntos un mejor futuro.\n\nEl trabajo se hace cerca de las personas, conociendo sus necesidades y estando presentes. ¡Vamos con todo! https://t.co/YebzGwGZ7g",
-      "views": 18425,
-      "views_label": "18,425",
-      "likes": 224,
-      "reposts": 86,
+      "views": 18623,
+      "views_label": "18,623",
+      "likes": 227,
+      "reposts": 87,
       "replies": 9,
       "quotes": 0,
       "bookmarks": 0,
@@ -318,51 +418,20 @@
       "star": true,
       "highlight": true,
       "quote": false,
-      "top10_rank": 9,
       "category": "Motivación y liderazgo"
-    },
-    {
-      "id": "2123891866269786308",
-      "handle": "@JorgeRoHe",
-      "display_name": "Jorge Romero Herrera",
-      "name": "Jorge Romero Herrera",
-      "followers": 105579,
-      "text": "Desde Nayarit, junto a nuestra senadora @IvidelizaR, hacemos un llamado a respetar la convocatoria para la presidencia del @INEMexico. \n\nMéxico necesita un árbitro electoral autónomo, imparcial y libre de presiones políticas. ¡La democracia se defiende! #UnINELibre https://t.co/yzQk4Z7Eu7",
-      "original_en": "Desde Nayarit, junto a nuestra senadora @IvidelizaR, hacemos un llamado a respetar la convocatoria para la presidencia del @INEMexico. \n\nMéxico necesita un árbitro electoral autónomo, imparcial y libre de presiones políticas. ¡La democracia se defiende! #UnINELibre https://t.co/yzQk4Z7Eu7",
-      "views": 18286,
-      "views_label": "18,286",
-      "likes": 299,
-      "reposts": 83,
-      "replies": 6,
-      "quotes": 0,
-      "bookmarks": 0,
-      "url": "https://x.com/JorgeRoHe/status/2123891866269786308",
-      "status_url": "https://x.com/JorgeRoHe/status/2123891866269786308",
-      "created_local": "2026-11-20 15:30",
-      "created_at": "2026-11-20T21:30:55.000Z",
-      "posted_at": "2026-11-20T21:30:55.000Z",
-      "lang": "es",
-      "media": [
-        "video"
-      ],
-      "star": true,
-      "highlight": true,
-      "quote": false,
-      "top10_rank": 10,
-      "category": "Elecciones e INE"
     },
     {
       "id": "2123776681915641923",
       "handle": "@JorgeRoHe",
       "display_name": "Jorge Romero Herrera",
       "name": "Jorge Romero Herrera",
-      "followers": 105579,
+      "followers": 105573,
       "text": "Ayer, en La Paz, visitamos a Doña Luz y escuchamos de cerca sus necesidades.\n\nGracias por abrirnos las puertas y brindarnos su confianza para seguir trabajando por México. En @AccionNacional tenemos un objetivo claro: que las familias mexicanas vivan mejor.\n\n#PatriaFamiliaYLibertad",
       "original_en": "Ayer, en La Paz, visitamos a Doña Luz y escuchamos de cerca sus necesidades.\n\nGracias por abrirnos las puertas y brindarnos su confianza para seguir trabajando por México. En @AccionNacional tenemos un objetivo claro: que las familias mexicanas vivan mejor.\n\n#PatriaFamiliaYLibertad",
-      "views": 16813,
-      "views_label": "16,813",
-      "likes": 225,
-      "reposts": 101,
+      "views": 16907,
+      "views_label": "16,907",
+      "likes": 228,
+      "reposts": 103,
       "replies": 10,
       "quotes": 0,
       "bookmarks": 0,
@@ -381,25 +450,25 @@
       "category": "Otros"
     },
     {
-      "id": "2123594500530380997",
+      "id": "2123831099059060941",
       "handle": "@JorgeRoHe",
       "display_name": "Jorge Romero Herrera",
       "name": "Jorge Romero Herrera",
-      "followers": 105579,
-      "text": "En @AccionNacional creemos que escuchar y estar cerca de las familias es el primer paso para construir un mejor futuro.\n\nGracias a Doña Luz y a su familia por abrirme las puertas de su hogar en La Paz, compartir sus historias y recibirme con tanta calidez. Me llevo su cariño, su confianza y el compromiso de seguir trabajando cerca de la gente.\n\nLa alianza del PAN es con las familias.",
-      "original_en": "En @AccionNacional creemos que escuchar y estar cerca de las familias es el primer paso para construir un mejor futuro.\n\nGracias a Doña Luz y a su familia por abrirme las puertas de su hogar en La Paz, compartir sus historias y recibirme con tanta calidez. Me llevo su cariño, su confianza y el compromiso de seguir trabajando cerca de la gente.\n\nLa alianza del PAN es con las familias.",
-      "views": 15982,
-      "views_label": "15,982",
-      "likes": 249,
-      "reposts": 102,
-      "replies": 19,
-      "quotes": 0,
-      "bookmarks": 1,
-      "url": "https://x.com/JorgeRoHe/status/2123594500530380997",
-      "status_url": "https://x.com/JorgeRoHe/status/2123594500530380997",
-      "created_local": "2026-11-19 19:49",
-      "created_at": "2026-11-20T01:49:18.000Z",
-      "posted_at": "2026-11-20T01:49:18.000Z",
+      "followers": 105573,
+      "text": "¡Gracias, La Paz, por recibirnos con tanto entusiasmo! \n\nFelicidades a @RigoMaresA por asumir la Coordinación de la Defensa de la #PatriaFamiliaYLibertad en La Paz, Baja California Sur. ¡Vamos con todo! https://t.co/YkYn9FPugV",
+      "original_en": "¡Gracias, La Paz, por recibirnos con tanto entusiasmo! \n\nFelicidades a @RigoMaresA por asumir la Coordinación de la Defensa de la #PatriaFamiliaYLibertad en La Paz, Baja California Sur. ¡Vamos con todo! https://t.co/YkYn9FPugV",
+      "views": 16569,
+      "views_label": "16,569",
+      "likes": 267,
+      "reposts": 101,
+      "replies": 2,
+      "quotes": 1,
+      "bookmarks": 0,
+      "url": "https://x.com/JorgeRoHe/status/2123831099059060941",
+      "status_url": "https://x.com/JorgeRoHe/status/2123831099059060941",
+      "created_local": "2026-11-20 11:29",
+      "created_at": "2026-11-20T17:29:27.000Z",
+      "posted_at": "2026-11-20T17:29:27.000Z",
       "lang": "es",
       "media": [
         "video"
@@ -407,21 +476,21 @@
       "star": true,
       "highlight": true,
       "quote": false,
-      "category": "Gobierno y políticas públicas"
+      "category": "Otros"
     },
     {
       "id": "2123831642645270689",
       "handle": "@JorgeRoHe",
       "display_name": "Jorge Romero Herrera",
       "name": "Jorge Romero Herrera",
-      "followers": 105579,
+      "followers": 105573,
       "text": "¡Qué gusto verte querido @ramoncambero! \n\nA darle por Nayarit y todo México. \n#PatriaFamiliaYLibertad https://t.co/eNtN0N7AJ8",
       "original_en": "¡Qué gusto verte querido @ramoncambero! \n\nA darle por Nayarit y todo México. \n#PatriaFamiliaYLibertad https://t.co/eNtN0N7AJ8",
-      "views": 15793,
-      "views_label": "15,793",
+      "views": 15914,
+      "views_label": "15,914",
       "likes": 243,
       "reposts": 93,
-      "replies": 4,
+      "replies": 5,
       "quotes": 0,
       "bookmarks": 0,
       "url": "https://x.com/JorgeRoHe/status/2123831642645270689",
@@ -439,18 +508,47 @@
       "category": "Otros"
     },
     {
+      "id": "2123854265609601385",
+      "handle": "@JorgeRoHe",
+      "display_name": "Jorge Romero Herrera",
+      "name": "Jorge Romero Herrera",
+      "followers": 105573,
+      "text": "Morena quiere seguir adueñándose del INE. \n\nEn @AccionNacional llegaremos hasta las últimas consecuencias para cuidar de esta gran institución y que no esté bajo el régimen de ningún partido político. \n#INEsinMORENA. https://t.co/v0q2dQCmbK",
+      "original_en": "Morena quiere seguir adueñándose del INE. \n\nEn @AccionNacional llegaremos hasta las últimas consecuencias para cuidar de esta gran institución y que no esté bajo el régimen de ningún partido político. \n#INEsinMORENA. https://t.co/v0q2dQCmbK",
+      "views": 15761,
+      "views_label": "15,761",
+      "likes": 255,
+      "reposts": 114,
+      "replies": 22,
+      "quotes": 1,
+      "bookmarks": 0,
+      "url": "https://x.com/JorgeRoHe/status/2123854265609601385",
+      "status_url": "https://x.com/JorgeRoHe/status/2123854265609601385",
+      "created_local": "2026-11-20 13:01",
+      "created_at": "2026-11-20T19:01:30.000Z",
+      "posted_at": "2026-11-20T19:01:30.000Z",
+      "lang": "es",
+      "media": [
+        "video"
+      ],
+      "star": true,
+      "highlight": true,
+      "quote": false,
+      "category": "Elecciones e INE"
+    },
+    {
       "id": "2123819221662544294",
       "handle": "@JorgeRoHe",
       "display_name": "Jorge Romero Herrera",
       "name": "Jorge Romero Herrera",
-      "followers": 105579,
+      "followers": 105573,
       "text": "¡Enhorabuena, @RigoMaresA, por asumir la Coordinación de la Defensa de la #PatriaFamiliaYLibertad en La Paz!\n\nTu compromiso y liderazgo serán fundamentales para impulsar este proyecto y construir nuevas oportunidades para los sudcalifornianos.\n\n¡Cuenta conmigo en esta importante encomienda!",
       "original_en": "¡Enhorabuena, @RigoMaresA, por asumir la Coordinación de la Defensa de la #PatriaFamiliaYLibertad en La Paz!\n\nTu compromiso y liderazgo serán fundamentales para impulsar este proyecto y construir nuevas oportunidades para los sudcalifornianos.\n\n¡Cuenta conmigo en esta importante encomienda!",
-      "views": 15390,
-      "views_label": "15,390",
-      "likes": 215,
+      "views": 15495,
+      "views_label": "15,495",
+      "likes": 217,
       "reposts": 97,
-      "replies": 6,
+      "replies": 7,
       "quotes": 0,
       "bookmarks": 0,
       "url": "https://x.com/JorgeRoHe/status/2123819221662544294",
@@ -468,111 +566,18 @@
       "category": "Motivación y liderazgo"
     },
     {
-      "id": "2123854265609601385",
-      "handle": "@JorgeRoHe",
-      "display_name": "Jorge Romero Herrera",
-      "name": "Jorge Romero Herrera",
-      "followers": 105579,
-      "text": "Morena quiere seguir adueñándose del INE. \n\nEn @AccionNacional llegaremos hasta las últimas consecuencias para cuidar de esta gran institución y que no esté bajo el régimen de ningún partido político. \n#INEsinMORENA. https://t.co/v0q2dQCmbK",
-      "original_en": "Morena quiere seguir adueñándose del INE. \n\nEn @AccionNacional llegaremos hasta las últimas consecuencias para cuidar de esta gran institución y que no esté bajo el régimen de ningún partido político. \n#INEsinMORENA. https://t.co/v0q2dQCmbK",
-      "views": 15217,
-      "views_label": "15,217",
-      "likes": 237,
-      "reposts": 106,
-      "replies": 11,
-      "quotes": 0,
-      "bookmarks": 0,
-      "url": "https://x.com/JorgeRoHe/status/2123854265609601385",
-      "status_url": "https://x.com/JorgeRoHe/status/2123854265609601385",
-      "created_local": "2026-11-20 13:01",
-      "created_at": "2026-11-20T19:01:30.000Z",
-      "posted_at": "2026-11-20T19:01:30.000Z",
-      "lang": "es",
-      "media": [
-        "video"
-      ],
-      "star": true,
-      "highlight": true,
-      "quote": false,
-      "category": "Elecciones e INE"
-    },
-    {
-      "id": "2123597285615448519",
-      "handle": "@JorgeRoHe",
-      "display_name": "Jorge Romero Herrera",
-      "name": "Jorge Romero Herrera",
-      "followers": 105579,
-      "text": "¡Muchas felicidades, @RigoMaresA, por tu nombramiento como coordinador de la #PatriaFamiliaYLibertad en La Paz!\n\nEstoy seguro de que seguiremos sumando esfuerzos y trabajando por un mejor futuro para las familias de Baja California Sur.\n\n¡Mucho éxito en esta nueva responsabilidad!",
-      "original_en": "¡Muchas felicidades, @RigoMaresA, por tu nombramiento como coordinador de la #PatriaFamiliaYLibertad en La Paz!\n\nEstoy seguro de que seguiremos sumando esfuerzos y trabajando por un mejor futuro para las familias de Baja California Sur.\n\n¡Mucho éxito en esta nueva responsabilidad!",
-      "views": 14876,
-      "views_label": "14,876",
-      "likes": 267,
-      "reposts": 87,
-      "replies": 3,
-      "quotes": 0,
-      "bookmarks": 0,
-      "url": "https://x.com/JorgeRoHe/status/2123597285615448519",
-      "status_url": "https://x.com/JorgeRoHe/status/2123597285615448519",
-      "created_local": "2026-11-19 20:00",
-      "created_at": "2026-11-20T02:00:22.000Z",
-      "posted_at": "2026-11-20T02:00:22.000Z",
-      "lang": "es",
-      "media": [
-        "photo",
-        "photo",
-        "photo",
-        "photo",
-        "photo",
-        "photo",
-        "photo"
-      ],
-      "star": true,
-      "highlight": true,
-      "quote": false,
-      "category": "Motivación y liderazgo"
-    },
-    {
-      "id": "2123831099059060941",
-      "handle": "@JorgeRoHe",
-      "display_name": "Jorge Romero Herrera",
-      "name": "Jorge Romero Herrera",
-      "followers": 105579,
-      "text": "¡Gracias, La Paz, por recibirnos con tanto entusiasmo! \n\nFelicidades a @RigoMaresA por asumir la Coordinación de la Defensa de la #PatriaFamiliaYLibertad en La Paz, Baja California Sur. ¡Vamos con todo! https://t.co/YkYn9FPugV",
-      "original_en": "¡Gracias, La Paz, por recibirnos con tanto entusiasmo! \n\nFelicidades a @RigoMaresA por asumir la Coordinación de la Defensa de la #PatriaFamiliaYLibertad en La Paz, Baja California Sur. ¡Vamos con todo! https://t.co/YkYn9FPugV",
-      "views": 14518,
-      "views_label": "14,518",
-      "likes": 262,
-      "reposts": 99,
-      "replies": 1,
-      "quotes": 0,
-      "bookmarks": 0,
-      "url": "https://x.com/JorgeRoHe/status/2123831099059060941",
-      "status_url": "https://x.com/JorgeRoHe/status/2123831099059060941",
-      "created_local": "2026-11-20 11:29",
-      "created_at": "2026-11-20T17:29:27.000Z",
-      "posted_at": "2026-11-20T17:29:27.000Z",
-      "lang": "es",
-      "media": [
-        "video"
-      ],
-      "star": true,
-      "highlight": true,
-      "quote": false,
-      "category": "Otros"
-    },
-    {
       "id": "2123894880938467373",
       "handle": "@JorgeRoHe",
       "display_name": "Jorge Romero Herrera",
       "name": "Jorge Romero Herrera",
-      "followers": 105579,
+      "followers": 105573,
       "text": "En Tepic, Nayarit, recorrí las calles junto a nuestra secretaria general, @MichelGonzalezM, y la senadora @IvidelizaR.\n\nPlaticamos con las familias, escuchamos sus inquietudes y conocimos de primera mano lo que viven todos los días. Porque para nosotros, estar cerca de la gente y escucharla es fundamental para construir soluciones.\n\n#PatriaFamiliaYLibertad",
       "original_en": "En Tepic, Nayarit, recorrí las calles junto a nuestra secretaria general, @MichelGonzalezM, y la senadora @IvidelizaR.\n\nPlaticamos con las familias, escuchamos sus inquietudes y conocimos de primera mano lo que viven todos los días. Porque para nosotros, estar cerca de la gente y escucharla es fundamental para construir soluciones.\n\n#PatriaFamiliaYLibertad",
-      "views": 13889,
-      "views_label": "13,889",
-      "likes": 260,
-      "reposts": 83,
-      "replies": 7,
+      "views": 14582,
+      "views_label": "14,582",
+      "likes": 274,
+      "reposts": 91,
+      "replies": 33,
       "quotes": 0,
       "bookmarks": 0,
       "url": "https://x.com/JorgeRoHe/status/2123894880938467373",
@@ -590,109 +595,190 @@
       "category": "Gobierno y políticas públicas"
     },
     {
-      "id": "2123895979975815219",
-      "handle": "@LillyTellez",
-      "display_name": "Lilly Téllez",
-      "name": "Lilly Téllez",
-      "followers": 1128797,
-      "text": "Es uno de los puños de @craviotocesar \n\n¡Ánimo @AlessandraRdlv !\nEstamos contigo https://t.co/G9ep5kpQnT",
-      "original_en": "Es uno de los puños de @craviotocesar \n\n¡Ánimo @AlessandraRdlv !\nEstamos contigo https://t.co/G9ep5kpQnT",
-      "views": 9138,
-      "views_label": "9,138",
-      "likes": 709,
-      "reposts": 221,
-      "replies": 29,
-      "quotes": 2,
-      "bookmarks": 14,
-      "url": "https://x.com/LillyTellez/status/2123895979975815219",
-      "status_url": "https://x.com/LillyTellez/status/2123895979975815219",
-      "created_local": "2026-11-20 15:47",
-      "created_at": "2026-11-20T21:47:16.000Z",
-      "posted_at": "2026-11-20T21:47:16.000Z",
+      "id": "2123983155652645277",
+      "handle": "@JorgeRoHe",
+      "display_name": "Jorge Romero Herrera",
+      "name": "Jorge Romero Herrera",
+      "followers": 105573,
+      "text": "¡Muchas felicidades, @IvidelizaR por tu informe como senadora y por el trabajo que realizas en favor de las familias de Nayarit y de todo México! \n\nQue sigan los resultados, el compromiso y las buenas noticias para las y los nayaritas. ¡Enhorabuena! https://t.co/cU3UowT0WF",
+      "original_en": "¡Muchas felicidades, @IvidelizaR por tu informe como senadora y por el trabajo que realizas en favor de las familias de Nayarit y de todo México! \n\nQue sigan los resultados, el compromiso y las buenas noticias para las y los nayaritas. ¡Enhorabuena! https://t.co/cU3UowT0WF",
+      "views": 13601,
+      "views_label": "13,601",
+      "likes": 241,
+      "reposts": 89,
+      "replies": 5,
+      "quotes": 0,
+      "bookmarks": 0,
+      "url": "https://x.com/JorgeRoHe/status/2123983155652645277",
+      "status_url": "https://x.com/JorgeRoHe/status/2123983155652645277",
+      "created_local": "2026-11-20 21:33",
+      "created_at": "2026-11-21T03:33:40.000Z",
+      "posted_at": "2026-11-21T03:33:40.000Z",
       "lang": "es",
-      "media": [],
-      "star": false,
-      "highlight": false,
-      "quote": true,
+      "media": [
+        "video"
+      ],
+      "star": true,
+      "highlight": true,
+      "quote": false,
+      "category": "Gobierno y políticas públicas"
+    },
+    {
+      "id": "2123924473829380417",
+      "handle": "@m_ebrard",
+      "display_name": "Marcelo Ebrard C.",
+      "name": "Marcelo Ebrard C.",
+      "followers": 2710000,
+      "text": "116 Aniversario de la Revolución Mexicana https://t.co/5HoVC88iXK",
+      "original_en": "116 Aniversario de la Revolución Mexicana https://t.co/5HoVC88iXK",
+      "views": 11843,
+      "views_label": "11,843",
+      "likes": 718,
+      "reposts": 82,
+      "replies": 11,
+      "quotes": 2,
+      "bookmarks": 9,
+      "url": "https://x.com/m_ebrard/status/2123924473829380417",
+      "status_url": "https://x.com/m_ebrard/status/2123924473829380417",
+      "created_local": "2026-11-20 17:40",
+      "created_at": "2026-11-20T23:40:29.000Z",
+      "posted_at": "2026-11-20T23:40:29.000Z",
+      "lang": "es",
+      "media": [
+        "photo"
+      ],
+      "star": true,
+      "highlight": true,
+      "quote": false,
       "category": "Otros"
     },
     {
-      "id": "2123601107444285701",
+      "id": "2123991567450947804",
       "handle": "@alitomorenoc",
       "display_name": "Alejandro Moreno",
       "name": "Alejandro Moreno",
-      "followers": 242189,
-      "text": "¡Hay esperanza para México mientras existan jóvenes valientes que no se queden callados, que cuestionen al poder y exijan respuestas ante la complicidad de los gobiernos de MORENA con los cárteles del crimen organizado! Esa valentía es la que necesita México para construir un futuro de paz, seguridad, justicia y oportunidades para todos.",
-      "original_en": "¡Hay esperanza para México mientras existan jóvenes valientes que no se queden callados, que cuestionen al poder y exijan respuestas ante la complicidad de los gobiernos de MORENA con los cárteles del crimen organizado! Esa valentía es la que necesita México para construir un futuro de paz, seguridad, justicia y oportunidades para todos.",
-      "views": 7337,
-      "views_label": "7,337",
-      "likes": 836,
-      "reposts": 314,
-      "replies": 28,
+      "followers": 242186,
+      "text": "¡En Sinaloa, hasta un partido de béisbol termina bajo el terror de las balaceras! Las familias viven a merced del crimen organizado. ¡Los narcopolíticos de MORENA deben responder por sus pactos con los criminales! ¡México no puede seguir secuestrado por la delincuencia y la impunidad!",
+      "original_en": "¡En Sinaloa, hasta un partido de béisbol termina bajo el terror de las balaceras! Las familias viven a merced del crimen organizado. ¡Los narcopolíticos de MORENA deben responder por sus pactos con los criminales! ¡México no puede seguir secuestrado por la delincuencia y la impunidad!",
+      "views": 10118,
+      "views_label": "10,118",
+      "likes": 435,
+      "reposts": 173,
+      "replies": 60,
       "quotes": 2,
-      "bookmarks": 9,
-      "url": "https://x.com/alitomorenoc/status/2123601107444285701",
-      "status_url": "https://x.com/alitomorenoc/status/2123601107444285701",
-      "created_local": "2026-11-19 20:15",
-      "created_at": "2026-11-20T02:15:33.000Z",
-      "posted_at": "2026-11-20T02:15:33.000Z",
+      "bookmarks": 8,
+      "url": "https://x.com/alitomorenoc/status/2123991567450947804",
+      "status_url": "https://x.com/alitomorenoc/status/2123991567450947804",
+      "created_local": "2026-11-20 22:07",
+      "created_at": "2026-11-21T04:07:06.000Z",
+      "posted_at": "2026-11-21T04:07:06.000Z",
       "lang": "es",
       "media": [],
-      "star": false,
-      "highlight": false,
+      "star": true,
+      "highlight": true,
       "quote": true,
       "category": "Seguridad"
     },
     {
-      "id": "2123606364324802838",
+      "id": "2123820769201328160",
+      "handle": "@samuel_garcias",
+      "display_name": "Samuel García",
+      "name": "Samuel García",
+      "followers": 444252,
+      "text": "La Estación Paseo La Fe del NUEVO METRO está quedando al puro tiro\n\nGracias al trabajo de más de 5 MIL trabajadores, ya estamos a punto de terminar e inaugurar estaciones, que darán servicio a cientos de miles de personas. Esta es la movilidad que Nuevo León merece. Te pedimos paciencia, VALDRÁ LA PENA 🚇🦁👊🏻",
+      "original_en": "La Estación Paseo La Fe del NUEVO METRO está quedando al puro tiro\n\nGracias al trabajo de más de 5 MIL trabajadores, ya estamos a punto de terminar e inaugurar estaciones, que darán servicio a cientos de miles de personas. Esta es la movilidad que Nuevo León merece. Te pedimos paciencia, VALDRÁ LA PENA 🚇🦁👊🏻",
+      "views": 8488,
+      "views_label": "8,488",
+      "likes": 74,
+      "reposts": 8,
+      "replies": 19,
+      "quotes": 0,
+      "bookmarks": 7,
+      "url": "https://x.com/samuel_garcias/status/2123820769201328160",
+      "status_url": "https://x.com/samuel_garcias/status/2123820769201328160",
+      "created_local": "2026-11-20 10:48",
+      "created_at": "2026-11-20T16:48:24.000Z",
+      "posted_at": "2026-11-20T16:48:24.000Z",
+      "lang": "es",
+      "media": [
+        "video"
+      ],
+      "star": false,
+      "highlight": false,
+      "quote": false,
+      "category": "Economía y empleo"
+    },
+    {
+      "id": "2123941456356233466",
+      "handle": "@samuel_garcias",
+      "display_name": "Samuel García",
+      "name": "Samuel García",
+      "followers": 444252,
+      "text": "Nuevos puentes, nuevos parques lineales y NUEVO METRO para conectar a Nuevo León.\n\nAdemás de supervisar el Puente Nuevo, aprovechamos para mostrarles los avances de la Línea 4 del metro. Ya liberamos los carriles de la Avenida Constitución y el tramo de San Jerónimo sigue avanzando, donde próximamente se conectará con el Tren del Norte. Te pedimos paciencia, VALDRÁ LA PENA 🚇🦁👊🏻",
+      "original_en": "Nuevos puentes, nuevos parques lineales y NUEVO METRO para conectar a Nuevo León.\n\nAdemás de supervisar el Puente Nuevo, aprovechamos para mostrarles los avances de la Línea 4 del metro. Ya liberamos los carriles de la Avenida Constitución y el tramo de San Jerónimo sigue avanzando, donde próximamente se conectará con el Tren del Norte. Te pedimos paciencia, VALDRÁ LA PENA 🚇🦁👊🏻",
+      "views": 7606,
+      "views_label": "7,606",
+      "likes": 69,
+      "reposts": 9,
+      "replies": 45,
+      "quotes": 0,
+      "bookmarks": 6,
+      "url": "https://x.com/samuel_garcias/status/2123941456356233466",
+      "status_url": "https://x.com/samuel_garcias/status/2123941456356233466",
+      "created_local": "2026-11-20 18:47",
+      "created_at": "2026-11-21T00:47:58.000Z",
+      "posted_at": "2026-11-21T00:47:58.000Z",
+      "lang": "es",
+      "media": [
+        "video"
+      ],
+      "star": false,
+      "highlight": false,
+      "quote": false,
+      "category": "Otros"
+    },
+    {
+      "id": "2123800663809269848",
       "handle": "@alitomorenoc",
       "display_name": "Alejandro Moreno",
       "name": "Alejandro Moreno",
-      "followers": 242189,
-      "text": "¡Es una barbaridad que en México salir a trabajar por carretera signifique arriesgar la vida! Más de mil 100 ataques al transporte de carga y 15 operadores asesinados en lo que va de 2026.\n\n¡Ya basta de tanta inseguridad! Las carreteras tienen que ser seguras para todos. El Estado tiene la obligación de enfrentar a los delincuentes con toda la fuerza de la ley y garantizar que cada mexicano pueda salir a trabajar y regresar con bien a su casa.",
-      "original_en": "¡Es una barbaridad que en México salir a trabajar por carretera signifique arriesgar la vida! Más de mil 100 ataques al transporte de carga y 15 operadores asesinados en lo que va de 2026.\n\n¡Ya basta de tanta inseguridad! Las carreteras tienen que ser seguras para todos. El Estado tiene la obligación de enfrentar a los delincuentes con toda la fuerza de la ley y garantizar que cada mexicano pueda salir a trabajar y regresar con bien a su casa.",
-      "views": 5263,
-      "views_label": "5,263",
-      "likes": 224,
-      "reposts": 129,
-      "replies": 22,
-      "quotes": 1,
-      "bookmarks": 1,
-      "url": "https://x.com/alitomorenoc/status/2123606364324802838",
-      "status_url": "https://x.com/alitomorenoc/status/2123606364324802838",
-      "created_local": "2026-11-19 20:36",
-      "created_at": "2026-11-20T02:36:26.000Z",
-      "posted_at": "2026-11-20T02:36:26.000Z",
+      "followers": 242186,
+      "text": "¡Una niña vio cómo asesinaban a su padre en plena carretera! ¿Hasta cuándo las familias mexicanas tendrán que pagar con sangre la inseguridad que el gobierno de MORENA no ha logrado detener? ¡Es su responsabilidad garantizar que salir a trabajar no signifique arriesgar la vida! ¡Ya basta de tanta violencia, miedo e impunidad!",
+      "original_en": "¡Una niña vio cómo asesinaban a su padre en plena carretera! ¿Hasta cuándo las familias mexicanas tendrán que pagar con sangre la inseguridad que el gobierno de MORENA no ha logrado detener? ¡Es su responsabilidad garantizar que salir a trabajar no signifique arriesgar la vida! ¡Ya basta de tanta violencia, miedo e impunidad!",
+      "views": 6607,
+      "views_label": "6,607",
+      "likes": 616,
+      "reposts": 394,
+      "replies": 39,
+      "quotes": 6,
+      "bookmarks": 4,
+      "url": "https://x.com/alitomorenoc/status/2123800663809269848",
+      "status_url": "https://x.com/alitomorenoc/status/2123800663809269848",
+      "created_local": "2026-11-20 09:28",
+      "created_at": "2026-11-20T15:28:31.000Z",
+      "posted_at": "2026-11-20T15:28:31.000Z",
       "lang": "es",
       "media": [],
       "star": false,
       "highlight": false,
       "quote": true,
-      "draft_en": "Quien sale a trabajar merece volver a casa con bien. Transportistas, comerciantes y familias enteras dependen de caminos seguros para ganarse la vida.\nSin seguridad no hay libertad, ni empleo, ni futuro. Un país fuerte protege a quien lo mueve. 🚚🇲🇽",
-      "video_tip": "Video vertical de 10 a 15 s: un tráiler que arranca de madrugada, un chofer que se despide de su familia, la carretera al amanecer y el regreso a casa con un abrazo; rótulos \"Trabajo\" · \"Seguridad\" · \"Libertad\". Sin imágenes de violencia, personas públicas, partidos ni logotipos.",
-      "draft_keywords": [
-        "seguridad",
-        "carreteras",
-        "trabajo",
-        "libertad"
-      ],
       "category": "Seguridad"
     }
   ],
-  "hits_count": 21,
+  "hits_count": 24,
   "virals": [],
   "outsiders": [],
   "outsiders_count": 0,
   "day_roster": [
     {
-      "handle": "@Claudiashein",
-      "name": "Claudia Sheinbaum Pardo",
-      "display_name": "Claudia Sheinbaum Pardo",
+      "handle": "@RicardoBSalinas",
+      "name": "Don Ricardo Salinas Pliego",
+      "display_name": "Don Ricardo Salinas Pliego",
       "hits": 2,
-      "total": 599143,
-      "views": 599143,
-      "best": 534303,
-      "best_url": "https://x.com/Claudiashein/status/2123654488347267264",
+      "total": 321213,
+      "views": 321213,
+      "best": 266018,
+      "best_url": "https://x.com/RicardoBSalinas/status/2123987913859805494",
       "posts": 2,
       "rank": 1
     },
@@ -700,24 +786,24 @@
       "handle": "@JorgeRoHe",
       "name": "Jorge Romero Herrera",
       "display_name": "Jorge Romero Herrera",
-      "hits": 12,
-      "total": 199357,
-      "views": 199357,
-      "best": 20898,
+      "hits": 11,
+      "total": 187134,
+      "views": 187134,
+      "best": 21549,
       "best_url": "https://x.com/JorgeRoHe/status/2123774015298756714",
-      "posts": 12,
+      "posts": 11,
       "rank": 2
     },
     {
-      "handle": "@RicardoBSalinas",
-      "name": "Don Ricardo Salinas Pliego",
-      "display_name": "Don Ricardo Salinas Pliego",
-      "hits": 3,
-      "total": 111245,
-      "views": 111245,
-      "best": 62020,
-      "best_url": "https://x.com/RicardoBSalinas/status/2123621524565369157",
-      "posts": 3,
+      "handle": "@alitomorenoc",
+      "name": "Alejandro Moreno",
+      "display_name": "Alejandro Moreno",
+      "hits": 4,
+      "total": 108294,
+      "views": 108294,
+      "best": 45957,
+      "best_url": "https://x.com/alitomorenoc/status/2123882471574172148",
+      "posts": 4,
       "rank": 3
     },
     {
@@ -725,61 +811,75 @@
       "name": "Lilly Téllez",
       "display_name": "Lilly Téllez",
       "hits": 2,
-      "total": 32929,
-      "views": 32929,
-      "best": 23791,
-      "best_url": "https://x.com/LillyTellez/status/2123828419804930455",
+      "total": 105489,
+      "views": 105489,
+      "best": 58401,
+      "best_url": "https://x.com/LillyTellez/status/2123895979975815219",
       "posts": 2,
       "rank": 4
     },
     {
-      "handle": "@alitomorenoc",
-      "name": "Alejandro Moreno",
-      "display_name": "Alejandro Moreno",
-      "hits": 2,
-      "total": 12600,
-      "views": 12600,
-      "best": 7337,
-      "best_url": "https://x.com/alitomorenoc/status/2123601107444285701",
-      "posts": 2,
+      "handle": "@Claudiashein",
+      "name": "Claudia Sheinbaum Pardo",
+      "display_name": "Claudia Sheinbaum Pardo",
+      "hits": 1,
+      "total": 98694,
+      "views": 98694,
+      "best": 98694,
+      "best_url": "https://x.com/Claudiashein/status/2123809534028255260",
+      "posts": 1,
       "rank": 5
+    },
+    {
+      "handle": "@samuel_garcias",
+      "name": "Samuel García",
+      "display_name": "Samuel García",
+      "hits": 3,
+      "total": 98238,
+      "views": 98238,
+      "best": 82144,
+      "best_url": "https://x.com/samuel_garcias/status/2123895607622541823",
+      "posts": 3,
+      "rank": 6
+    },
+    {
+      "handle": "@m_ebrard",
+      "name": "Marcelo Ebrard C.",
+      "display_name": "Marcelo Ebrard C.",
+      "hits": 1,
+      "total": 11843,
+      "views": 11843,
+      "best": 11843,
+      "best_url": "https://x.com/m_ebrard/status/2123924473829380417",
+      "posts": 1,
+      "rank": 7
     }
   ],
   "you_rank": {
-    "rank": 3,
-    "of": 5,
+    "rank": 1,
+    "of": 7,
     "handle": "@RicardoBSalinas",
-    "hits": 3,
-    "total": 111245,
-    "best": 62020,
-    "best_url": "https://x.com/RicardoBSalinas/status/2123621524565369157",
-    "best_views": 62020,
-    "total_views": 111245,
-    "rank_among_watchlist": 3,
-    "total_accounts": 5,
+    "hits": 2,
+    "total": 321213,
+    "best": 266018,
+    "best_url": "https://x.com/RicardoBSalinas/status/2123987913859805494",
+    "best_views": 266018,
+    "total_views": 321213,
+    "rank_among_watchlist": 1,
+    "total_accounts": 7,
     "vs_5k": "done",
     "vs_10k": "done"
   },
   "no_hits": [
     {
       "handle": "@MaruCampos_G",
-      "reason": "1 post(s) original(es) en 24 h; máximo 443 vistas.",
-      "max_views": 443
+      "reason": "1 post(s) original(es) en 24 h; máximo 1,844 vistas.",
+      "max_views": 1844
     },
     {
       "handle": "@OHarfuch",
       "reason": "Sin posts originales en las últimas 24 h.",
       "max_views": 0
-    },
-    {
-      "handle": "@m_ebrard",
-      "reason": "Sin posts originales en las últimas 24 h.",
-      "max_views": 0
-    },
-    {
-      "handle": "@samuel_garcias",
-      "reason": "5 post(s) original(es) en 24 h; máximo 4,623 vistas.",
-      "max_views": 4623
     },
     {
       "handle": "@acostanaranjo",
@@ -788,136 +888,136 @@
     }
   ],
   "previous_day": {
-    "date": "2026-11-20 (corte 06:00)",
-    "hits_count": 24,
-    "total_views": 1170073
+    "date": "2026-11-20 (corte 17:00)",
+    "hits_count": 21,
+    "total_views": 955274
   },
   "trend_input_only_posts": [],
   "trend_input_only": [],
   "drafts_top10": [
     {
-      "rank": 2,
-      "handle": "@Claudiashein",
-      "url": "https://x.com/Claudiashein/status/2123809534028255260",
-      "draft_en": "Hace 116 años, México decidió que ningún poder está por encima de la libertad de su gente. Hoy esa lucha se honra trabajando, emprendiendo y defendiendo lo que es justo.\nLa libertad no se hereda: se cuida todos los días. ¿Qué significa para ti ser libre en México? 🇲🇽",
-      "video_tip": "Video vertical de 15 s: fotos en sepia de 1910 que se funden, una por una, con escenas de hoy (un taller que abre, un mercado lleno, una estudiante con su título); rótulos grandes \"Libertad\" · \"Trabajo\" · \"Justicia\". Cierra con la pregunta en pantalla. Sin personas públicas, partidos ni logotipos.",
+      "rank": 1,
+      "handle": "@RicardoBSalinas",
+      "url": "https://x.com/RicardoBSalinas/status/2123987913859805494",
+      "draft_en": "La libertad empieza por algo muy sencillo: poder salir a la calle sin miedo. Ir al trabajo, abrir el negocio, llevar a los hijos al estadio.\nUn país seguro no se construye con discursos, sino con ley que se cumple todos los días. Sin seguridad no hay inversión, ni empleo, ni futuro. 🇲🇽",
+      "video_tip": "Video vertical de 15 s: una familia que entra a un estadio de béisbol, una calle iluminada de noche, un comerciante que cierra tarde y tranquilo. Rótulos grandes \"Calle\" · \"Trabajo\" · \"Familia\" · \"Libertad\". Sin imágenes de violencia, personas públicas, partidos ni logotipos.",
       "keywords": [
-        "Revolución",
+        "seguridad",
         "libertad",
         "ley",
-        "trabajo"
+        "familias"
       ]
     },
     {
       "rank": 3,
-      "handle": "@RicardoBSalinas",
-      "url": "https://x.com/RicardoBSalinas/status/2123621524565369157",
-      "draft_en": "Hay personas que llevan 25, 35 y hasta 50 años construyendo algo contigo. Eso no se compra: se gana con respeto, oportunidades y palabra cumplida.\nLas grandes empresas, como los grandes países, se levantan con lealtad y trabajo. ¿A quién le agradeces hoy tu camino? 🤝🇲🇽",
-      "video_tip": "Video vertical de 15 s: manos que reciben un reconocimiento, rótulos con los años de servicio (25 · 35 · 50), un abrazo entre compañeros y una toma final del equipo completo; música cálida y la frase en letras grandes. Cierra con la pregunta en pantalla. Sin personas públicas, partidos ni logotipos.",
+      "handle": "@samuel_garcias",
+      "url": "https://x.com/samuel_garcias/status/2123895607622541823",
+      "draft_en": "Los países se transforman con obras que conectan: un puente, una carretera, una red que acerca a la gente a su trabajo y a sus oportunidades.\nConstruir es el idioma de quienes creen en el futuro. Emprender es apostar por México todos los días. ¿Qué obra cambiaría la vida de tu ciudad? 🏗️🇲🇽",
+      "video_tip": "Timelapse vertical de 15 s: de una obra con grúas a una calle terminada con gente que la cruza; cierra con una tienda que abre sus puertas. Rótulos \"Conectar\" · \"Construir\" · \"Emprender\" y la pregunta al final. Sin personas públicas, partidos ni logotipos.",
       "keywords": [
-        "colaboradores",
-        "lealtad",
-        "trabajo",
-        "oportunidades"
+        "construir",
+        "obras",
+        "emprender",
+        "futuro"
       ]
     },
     {
-      "rank": null,
+      "rank": 7,
       "handle": "@alitomorenoc",
-      "url": "https://x.com/alitomorenoc/status/2123606364324802838",
-      "draft_en": "Quien sale a trabajar merece volver a casa con bien. Transportistas, comerciantes y familias enteras dependen de caminos seguros para ganarse la vida.\nSin seguridad no hay libertad, ni empleo, ni futuro. Un país fuerte protege a quien lo mueve. 🚚🇲🇽",
-      "video_tip": "Video vertical de 10 a 15 s: un tráiler que arranca de madrugada, un chofer que se despide de su familia, la carretera al amanecer y el regreso a casa con un abrazo; rótulos \"Trabajo\" · \"Seguridad\" · \"Libertad\". Sin imágenes de violencia, personas públicas, partidos ni logotipos.",
+      "url": "https://x.com/alitomorenoc/status/2123882471574172148",
+      "draft_en": "Las diferencias se resuelven con argumentos, nunca con golpes. Un país libre se defiende con instituciones fuertes, respeto a la ley y diálogo de altura.\nLiderar es dar el ejemplo: firmeza en las ideas y respeto por las personas. 🇲🇽",
+      "video_tip": "Video vertical de 10 a 15 s con fondo sobrio: una mesa de diálogo vacía, un apretón de manos en primer plano y la fachada de un edificio público con la bandera. Texto en pantalla que avanza frase por frase. Música serena. Sin personas públicas, partidos ni logotipos.",
       "keywords": [
-        "seguridad",
-        "carreteras",
-        "trabajo",
-        "libertad"
+        "respeto",
+        "instituciones",
+        "ley",
+        "liderazgo"
       ]
     }
   ],
   "last24h": {
-    "start": "2026-11-19T22:50:00Z",
-    "end": "2026-11-20T22:47:00Z"
+    "start": "2026-11-20T11:50:00Z",
+    "end": "2026-11-21T11:50:00Z"
   },
-  "virals_narrative": "Ventana: del 19 nov, 4:50 p.m. al 20 nov, 4:47 p.m. (hora del centro de México). 36 posts originales revisados (sin respuestas ni reposts) de 10 cuentas; 21 superaron 5,000 vistas y 18 pasaron de 10,000. Sin publicación arriba de 5,000: @MaruCampos_G (1 post(s) original(es) en 24 h; máximo 443 vistas.), @OHarfuch (Sin posts originales en las últimas 24 h.), @m_ebrard (Sin posts originales en las últimas 24 h.), @samuel_garcias (5 post(s) original(es) en 24 h; máximo 4,623 vistas.), @acostanaranjo (Sin posts originales en las últimas 24 h.). Sin sección Rivales nueva (corrida de la tarde; se conserva la de la mañana).",
+  "virals_narrative": "Ventana: del 20 nov, 5:50 a.m. al 21 nov, 5:50 a.m. (hora del centro de México). 31 posts originales revisados (sin respuestas ni reposts) de 10 cuentas (@OHarfuch y @acostanaranjo sin originales); 24 superaron 5,000 vistas y 21 pasaron de 10,000; 14 ya estaban en el corte de ayer 5:00 p.m. (no se cuentan doble en semana/mes). Sin publicación arriba de 5,000: @MaruCampos_G (1 post(s) original(es) en 24 h; máximo 1,844 vistas.), @OHarfuch (Sin posts originales en las últimas 24 h.), @acostanaranjo (Sin posts originales en las últimas 24 h.).",
   "patterns": [
-    "Foto de regreso tras gira internacional: llegada desde Shenzhen (@Claudiashein) 534,154",
-    "Efeméride patria: 116 aniversario de la Revolución Mexicana (@Claudiashein) 64,840",
-    "Reconocimiento a colaboradores en video: @RicardoBSalinas, 25 a 50 años de trabajo, 62,020",
-    "Video de denuncia corto con frase-gancho: @LillyTellez, \"vean el Senado\", 23,791",
-    "Propuesta de bolsillo con imagen: @JorgeRoHe, bajar el impuesto a la gasolina, 20,898",
-    "Gira con volumen: 12 posts de @JorgeRoHe entre 13,889 y 20,898 (INE, Nayarit, La Paz)",
-    "Cultura y patrimonio: Colecciones RSP (pintura del campo mexicano) 22,763",
-    "Citas en serie sin mensaje propio no despegan: @alitomorenoc 11 citas, máximo 7,337"
+    "Seguridad en tiempo real con video: @RicardoBSalinas sobre Sinaloa, 266,018 (riesgo: nombra a un gobernador como \"narco\")",
+    "Postura firme después de un hecho violento: @alitomorenoc tras Guasave, 45,612",
+    "Respaldo público a una aliada agredida: @LillyTellez 58,401 y @alitomorenoc 45,957 (Congreso de la CDMX)",
+    "Obra terminada en video: @samuel_garcias, Puente Nuevo, 82,144",
+    "Fecha patria con imagen sobria: @Claudiashein, desfile de la Revolución, 98,694",
+    "Gira de campo y propuesta de bolsillo: @JorgeRoHe, gasolina más barata, 21,549",
+    "Etiquetas de \"narco\" a partidos o personas dan alcance pero cargan riesgo: \"MoreNarcos\" 55,195",
+    "Posts de servicio sin gancho no despegan: @MaruCampos_G 1,844; Macronavidad 2,415"
   ],
-  "narrative_synthesis": "Día festivo y de regreso: la llegada de la Presidenta desde China y el 116 aniversario de la Revolución marcaron la conversación, con su llamado a que \"van a volver a fracasar\" quienes busquen deslegitimar la elección de 2027 (El País, Expansión). Salinas bajó a 3 originales en la ventana y 111,245 vistas (−73% contra la mañana, cuando contaban sus citas del 19 nov); lo positivo es el video de reconocimiento a colaboradores y lo riesgoso, la cita \"Los MoreNarcos son los verdaderos FASCISTAS\". Las menciones bajan a 4,233. Para los borradores: historia y libertad, lealtad y trabajo, y caminos seguros para quien sale a ganarse la vida, sin nombres ni confrontación.",
+  "narrative_synthesis": "Día del desfile y noche de violencia en Sinaloa. La captura de \"El Chapo Isidro\" en Guasave y las balaceras que siguieron dominaron la conversación, y @RicardoBSalinas se puso al frente con un video que llegó a 266 mil vistas en ocho horas. Pero ese video llama \"narco\" a un gobernador con nombre, y ese es el principal riesgo del día. La oposición se movió en dos frentes: seguridad (@alitomorenoc) y las agresiones en el Congreso de la CDMX (@LillyTellez, @alitomorenoc). La Presidenta encabezó el desfile y acusó a la oposición de querer deslegitimar la elección. Las menciones de Salinas bajaron a 3,996 (−20%): Sinaloa, los cajeros (ahora en MVS) y el fallo del Tribunal. Para los borradores: seguridad como libertad, construir y emprender, y el respeto como forma de liderazgo, sin nombres.",
   "trend_keywords": [
+    "Sinaloa",
+    "Guasave",
+    "seguridad",
+    "abrazos y no balazos",
+    "narco",
     "Revolución",
-    "116 aniversario",
-    "China",
-    "Shenzhen",
-    "colaboradores",
-    "trabajo",
+    "desfile",
+    "Congreso CDMX",
+    "Cuauhtémoc",
+    "agresiones",
+    "Puente Nuevo",
+    "metro",
     "INE",
     "Nayarit",
-    "La Paz",
     "gasolina",
-    "Senado",
-    "seguridad",
-    "carretera",
-    "libertad",
-    "Colecciones RSP",
-    "2027"
+    "cárcel o cementerio"
   ],
   "trend_radar": {
-    "date": "2026-11-20",
+    "date": "2026-11-21",
     "title": "Trends and post ideas",
     "window": {
-      "end": "2026-11-20T22:47:00+00:00",
-      "label24": "19.11 22:50 - 20.11 22:47 UTC",
-      "label48": "18.11 22:50 - 20.11 22:47 UTC"
+      "end": "2026-11-21T11:50:00+00:00",
+      "label24": "20.11 11:50 - 21.11 11:50 UTC",
+      "label48": "19.11 11:50 - 21.11 11:50 UTC"
     },
     "corpus": {
-      "posts": 21,
+      "posts": 24,
       "min_views": 5000,
       "lanes": {
-        "watchlist": 21,
+        "watchlist": 24,
         "outsider": 0,
         "24h": 0,
         "trend_input": 0
       }
     },
     "summary": {
-      "top10_line": "1) @Claudiashein \"Llegamos a la Ciudad de México en el vuelo CZ8031 desde Shen\" 534,303; 2) @Claudiashein \"116 Aniversario de la Revolución Mexicana. Ciudad de México\" 64,840; 3) @RicardoBSalinas \"50, 40, 35 y 25 años. Eso es lo que llevan muchos de mis col\" 62,020; 4) @RicardoBSalinas \"Muy bien dicho @PelonGomis - Los MoreNarcos son los verdader\" 26,462; 5) @LillyTellez \"Las series de mafiosos de Netflix se quedan cortas, vean el\" 23,791; 6) @RicardoBSalinas \"Hoy en @ColeccionesRSP fíjense en esta escena que resguardam\" 22,763; 7) @JorgeRoHe \"En @AccionNacional propusimos bajar el impuesto por litro pa\" 20,898; 8) @JorgeRoHe \"Estamos #EnVivo desde Tepic, Nayarit.\" 19,270; 9) @JorgeRoHe \"¡Estamos en las calles de Tepic, Nayarit!\" 18,425; 10) @JorgeRoHe \"Desde Nayarit, junto a nuestra senadora @IvidelizaR, hacemos\" 18,286.",
-      "headline": "Tarde de 20 de noviembre: la llegada de @Claudiashein desde China sigue arriba (534,154) y encabeza el ranking; @JorgeRoHe es 2º con 12 publicaciones de su gira por Baja California Sur y Nayarit; @RicardoBSalinas es 3º de 5 con 111,245 vistas en 3 originales, encabezados por el reconocimiento a sus colaboradores (62,020).",
-      "takeaway": "Lo que jala: (1) foto de regreso o de momento de Estado (llegada desde Shenzhen 534,154) y efeméride patria (116 aniversario de la Revolución 64,840); (2) reconocimiento a la gente que trabaja, en video (colaboradores con 25 a 50 años en el Grupo, 62,020); (3) gira con volumen constante: 12 posts de @JorgeRoHe, todos entre 13,889 y 20,898, con su mejor en una propuesta de bolsillo (gasolina más barata, 20,898); (4) video de denuncia corto (@LillyTellez, Senado, 23,791). Lo que no jala: citas en serie sin mensaje propio (@alitomorenoc, 11 citas, máximo 7,337), mucha publicación local sin gancho (@samuel_garcias, máximo 4,623) y no publicar (@m_ebrard, @OHarfuch y @acostanaranjo sin originales).",
+      "top10_line": "1) @RicardoBSalinas 266,018; 2) @Claudiashein 98,694; 3) @samuel_garcias 82,144; 4) @LillyTellez 58,401; 5) @RicardoBSalinas 55,195; 6) @LillyTellez 47,088; 7) @alitomorenoc 45,957; 8) @alitomorenoc 45,612; 9) @JorgeRoHe 21,549; 10) @JorgeRoHe 19,434.",
+      "headline": "@RicardoBSalinas queda 1º de 7 con 321,213 vistas en 2 originales: su video sobre la violencia en Sinaloa (266,018) es el post más visto de la lista, pero nombra a un gobernador como \"narco\". @JorgeRoHe es 2º con 11 hits (187,134) desde La Paz y Tepic; @alitomorenoc vuelve con 4 hits (108,294) y @samuel_garcias pega con el Puente Nuevo (82,144).",
+      "takeaway": "Lo que jala: (1) la seguridad en tiempo real: la violencia en Sinaloa movió los posts más vistos (@RicardoBSalinas 266,018; @alitomorenoc 45,612); (2) reaccionar con postura clara a un hecho del día: las agresiones en el Congreso de la CDMX (@LillyTellez 58,401; @alitomorenoc 45,957); (3) obra visible en video: @samuel_garcias y el Puente Nuevo (82,144); (4) fecha patria con foto sobria (@Claudiashein, desfile, 98,694); (5) gira con propuesta de bolsillo: @JorgeRoHe, gasolina más barata (21,549). Ojo: lo que más alcance da (llamar \"narco\" a personas o partidos) es también el mayor riesgo. No jala: posts de servicio sin video llamativo (@MaruCampos_G, 1,844) ni publicaciones festivas sin novedad (@samuel_garcias, Macronavidad, 2,415).",
       "stats": {
         "all": {
-          "n": 21,
-          "trend_n": 0,
-          "trend_pct": 0,
-          "avg_trend": null,
-          "avg_other": 45489,
-          "median_trend": null,
-          "median_other": 16813,
+          "n": 24,
+          "trend_n": 1,
+          "trend_pct": 4,
+          "avg_trend": 45957,
+          "avg_other": 38476,
+          "median_trend": 45957,
+          "median_other": 16907,
           "verdicts": {
-            "tendencia": 0,
-            "visual": 15,
+            "tendencia": 1,
+            "visual": 17,
             "autor/audiencia": 6,
             "coincidencia/otro": 0
           }
         },
         "watchlist": {
-          "n": 21,
-          "trend_n": 0,
-          "trend_pct": 0,
-          "avg_trend": null,
-          "avg_other": 45489,
-          "median_trend": null,
-          "median_other": 16813,
+          "n": 24,
+          "trend_n": 1,
+          "trend_pct": 4,
+          "avg_trend": 45957,
+          "avg_other": 38476,
+          "median_trend": 45957,
+          "median_other": 16907,
           "verdicts": {
-            "tendencia": 0,
-            "visual": 15,
+            "tendencia": 1,
+            "visual": 17,
             "autor/audiencia": 6,
             "coincidencia/otro": 0
           }
@@ -939,171 +1039,184 @@
         },
         "top10": {
           "n": 10,
-          "trend_n": 0,
-          "trend_pct": 0,
-          "avg_trend": null,
-          "avg_other": 81106,
-          "median_trend": null,
-          "median_other": 23277,
+          "trend_n": 1,
+          "trend_pct": 10,
+          "avg_trend": 45957,
+          "avg_other": 77126,
+          "median_trend": 45957,
+          "median_other": 55195,
           "verdicts": {
-            "tendencia": 0,
-            "visual": 7,
-            "autor/audiencia": 3,
+            "tendencia": 1,
+            "visual": 5,
+            "autor/audiencia": 4,
             "coincidencia/otro": 0
           }
         },
         "media": {
-          "video_n": 9,
-          "median_video": 15982,
-          "other_n": 12,
-          "median_other": 18847
+          "video_n": 13,
+          "median_video": 16569,
+          "other_n": 11,
+          "median_other": 19434
         }
       }
     },
     "topics": [
       {
-        "name": "Regreso de China y 20 de noviembre",
+        "name": "Seguridad: Sinaloa y Guasave",
         "keywords": [
-          "China",
-          "Shenzhen",
-          "Revolución",
-          "116 aniversario"
-        ],
-        "posts_24h": 2,
-        "views_24h": 599143,
-        "momentum": "sube",
-        "evidence": [
-          "https://x.com/Claudiashein/status/2123654488347267264",
-          "https://x.com/Claudiashein/status/2123809534028255260"
-        ]
-      },
-      {
-        "name": "Trabajo y cultura: colaboradores y Colecciones RSP",
-        "keywords": [
-          "colaboradores",
-          "trayectoria",
-          "Colecciones RSP"
-        ],
-        "posts_24h": 2,
-        "views_24h": 84783,
-        "momentum": "sigue",
-        "evidence": [
-          "https://x.com/RicardoBSalinas/status/2123621524565369157",
-          "https://x.com/RicardoBSalinas/status/2123584319398555862"
-        ]
-      },
-      {
-        "name": "Cita de @RicardoBSalinas: 'MoreNarcos'",
-        "keywords": [
-          "MoreNarcos",
-          "fascistas"
-        ],
-        "posts_24h": 1,
-        "views_24h": 26462,
-        "momentum": "nuevo",
-        "evidence": [
-          "https://x.com/RicardoBSalinas/status/2123849642995548641"
-        ]
-      },
-      {
-        "name": "PAN: gira en La Paz y Nayarit, INE y gasolina",
-        "keywords": [
-          "La Paz",
-          "Nayarit",
-          "INE",
-          "gasolina",
-          "Patria, Familia y Libertad"
-        ],
-        "posts_24h": 12,
-        "views_24h": 199357,
-        "momentum": "sube",
-        "evidence": [
-          "https://x.com/JorgeRoHe/status/2123774015298756714",
-          "https://x.com/JorgeRoHe/status/2123832799920836772",
-          "https://x.com/JorgeRoHe/status/2123855830051385349",
-          "https://x.com/JorgeRoHe/status/2123891866269786308",
-          "https://x.com/JorgeRoHe/status/2123776681915641923",
-          "https://x.com/JorgeRoHe/status/2123594500530380997",
-          "https://x.com/JorgeRoHe/status/2123831642645270689",
-          "https://x.com/JorgeRoHe/status/2123819221662544294",
-          "https://x.com/JorgeRoHe/status/2123854265609601385",
-          "https://x.com/JorgeRoHe/status/2123597285615448519",
-          "https://x.com/JorgeRoHe/status/2123831099059060941",
-          "https://x.com/JorgeRoHe/status/2123894880938467373"
-        ]
-      },
-      {
-        "name": "Seguridad e inseguridad: Senado, carreteras y Cuauhtémoc",
-        "keywords": [
-          "Senado",
-          "carreteras",
-          "seguridad"
+          "Sinaloa",
+          "Guasave",
+          "seguridad",
+          "abrazos y no balazos"
         ],
         "posts_24h": 4,
-        "views_24h": 45529,
+        "views_24h": 328355,
+        "momentum": "nuevo",
+        "evidence": [
+          "https://x.com/RicardoBSalinas/status/2123987913859805494",
+          "https://x.com/alitomorenoc/status/2124008745348854088",
+          "https://x.com/alitomorenoc/status/2123991567450947804",
+          "https://x.com/alitomorenoc/status/2123800663809269848"
+        ]
+      },
+      {
+        "name": "Agresiones en el Congreso de la CDMX",
+        "keywords": [
+          "Congreso CDMX",
+          "Cuauhtémoc",
+          "agresiones"
+        ],
+        "posts_24h": 2,
+        "views_24h": 104358,
+        "momentum": "nuevo",
+        "evidence": [
+          "https://x.com/LillyTellez/status/2123895979975815219",
+          "https://x.com/alitomorenoc/status/2123882471574172148"
+        ]
+      },
+      {
+        "name": "Desfile de la Revolución",
+        "keywords": [
+          "Revolución",
+          "desfile"
+        ],
+        "posts_24h": 2,
+        "views_24h": 110537,
+        "momentum": "nuevo",
+        "evidence": [
+          "https://x.com/Claudiashein/status/2123809534028255260",
+          "https://x.com/m_ebrard/status/2123924473829380417"
+        ]
+      },
+      {
+        "name": "Etiquetas políticas: \"MoreNarcos\" y el Senado",
+        "keywords": [
+          "narco",
+          "Senado"
+        ],
+        "posts_24h": 2,
+        "views_24h": 102283,
         "momentum": "sigue",
         "evidence": [
-          "https://x.com/LillyTellez/status/2123828419804930455",
-          "https://x.com/LillyTellez/status/2123895979975815219",
-          "https://x.com/alitomorenoc/status/2123601107444285701",
-          "https://x.com/alitomorenoc/status/2123606364324802838"
+          "https://x.com/RicardoBSalinas/status/2123849642995548641",
+          "https://x.com/LillyTellez/status/2123828419804930455"
+        ]
+      },
+      {
+        "name": "PAN: gira en La Paz y Tepic, INE y gasolina",
+        "keywords": [
+          "Nayarit",
+          "La Paz",
+          "INE",
+          "gasolina"
+        ],
+        "posts_24h": 11,
+        "views_24h": 187134,
+        "momentum": "sigue",
+        "evidence": [
+          "https://x.com/JorgeRoHe/status/2123983155652645277",
+          "https://x.com/JorgeRoHe/status/2123894880938467373",
+          "https://x.com/JorgeRoHe/status/2123891866269786308",
+          "https://x.com/JorgeRoHe/status/2123855830051385349",
+          "https://x.com/JorgeRoHe/status/2123854265609601385",
+          "https://x.com/JorgeRoHe/status/2123832799920836772",
+          "https://x.com/JorgeRoHe/status/2123831642645270689",
+          "https://x.com/JorgeRoHe/status/2123831099059060941",
+          "https://x.com/JorgeRoHe/status/2123819221662544294",
+          "https://x.com/JorgeRoHe/status/2123776681915641923",
+          "https://x.com/JorgeRoHe/status/2123774015298756714"
+        ]
+      },
+      {
+        "name": "Nuevo León: Puente Nuevo y metro",
+        "keywords": [
+          "Puente Nuevo",
+          "metro"
+        ],
+        "posts_24h": 3,
+        "views_24h": 98238,
+        "momentum": "sube",
+        "evidence": [
+          "https://x.com/samuel_garcias/status/2123895607622541823",
+          "https://x.com/samuel_garcias/status/2123941456356233466",
+          "https://x.com/samuel_garcias/status/2123820769201328160"
         ]
       }
     ],
     "ideas": [
       {
-        "title": "116 años de libertad",
-        "topic": "Identidad nacional",
-        "keywords": [
-          "Revolución",
-          "libertad",
-          "ley",
-          "trabajo"
-        ],
-        "format": "video",
-        "visual_type": "video",
-        "visual": "Fotos en sepia de 1910 que se funden con escenas de trabajo actuales",
-        "angle": "Fecha patria con mensaje de libertad y trabajo, sin política",
-        "hook_en": "La libertad no se hereda: se cuida todos los días.",
-        "why": "El post del 116 aniversario de la Revolución sumó 64,840 vistas en pocas horas.",
-        "x_keywords": [],
-        "x_rank": null,
-        "source": "watchlist"
-      },
-      {
-        "title": "Lealtad que se gana",
-        "topic": "Trabajo y lealtad",
-        "keywords": [
-          "colaboradores",
-          "lealtad",
-          "trabajo",
-          "oportunidades"
-        ],
-        "format": "video",
-        "visual_type": "video",
-        "visual": "Reconocimientos, rótulos con años de servicio y abrazos del equipo",
-        "angle": "Reconocer el esfuerzo de la gente, sin compararse con nadie",
-        "hook_en": "Eso no se compra: se gana con respeto.",
-        "why": "Su video de colaboradores es su mejor post de la ventana: 62,020 vistas.",
-        "x_keywords": [],
-        "x_rank": null,
-        "source": "watchlist"
-      },
-      {
-        "title": "Volver a casa con bien",
-        "topic": "Seguridad y trabajo",
+        "title": "La seguridad es libertad",
+        "topic": "Seguridad y Estado de derecho",
         "keywords": [
           "seguridad",
-          "carreteras",
-          "trabajo",
-          "libertad"
+          "libertad",
+          "ley",
+          "familias"
         ],
         "format": "video",
         "visual_type": "video",
-        "visual": "Tráiler de madrugada, carretera al amanecer y regreso a casa",
-        "angle": "Seguridad como base para trabajar, sin nombres ni violencia",
-        "hook_en": "Quien sale a trabajar merece volver a casa con bien.",
-        "why": "La inseguridad en carreteras movió 5,263 vistas en una cita y la seguridad ya le funcionó como frase-principio.",
+        "visual": "Familia que entra al estadio, calle iluminada, comercio que cierra tranquilo",
+        "angle": "Seguridad como base de la libertad y la inversión, sin nombres",
+        "hook_en": "La libertad empieza por poder salir a la calle sin miedo.",
+        "why": "La violencia en Sinaloa movió su post a 266,018 vistas; el tema domina la conversación.",
+        "x_keywords": [],
+        "x_rank": null,
+        "source": "watchlist"
+      },
+      {
+        "title": "Construir es creer en el futuro",
+        "topic": "Obras y emprendimiento",
+        "keywords": [
+          "construir",
+          "obras",
+          "emprender",
+          "futuro"
+        ],
+        "format": "video",
+        "visual_type": "video",
+        "visual": "Timelapse de una obra que termina en una calle con gente y un negocio que abre",
+        "angle": "Construir y emprender como forma de apostar por México",
+        "hook_en": "Los países se transforman con obras que conectan.",
+        "why": "El video del Puente Nuevo de @samuel_garcias sumó 82,144.",
+        "x_keywords": [],
+        "x_rank": null,
+        "source": "watchlist"
+      },
+      {
+        "title": "Argumentos, nunca golpes",
+        "topic": "Liderazgo y civilidad",
+        "keywords": [
+          "respeto",
+          "instituciones",
+          "ley",
+          "liderazgo"
+        ],
+        "format": "video",
+        "visual_type": "video",
+        "visual": "Mesa de diálogo, apretón de manos y edificio público con bandera",
+        "angle": "Respeto e instituciones como forma de liderazgo, sin nombres",
+        "hook_en": "Las diferencias se resuelven con argumentos, nunca con golpes.",
+        "why": "Las agresiones en el Congreso de la CDMX llevaron a 45,957 y 58,401 a dos rivales.",
         "x_keywords": [],
         "x_rank": null,
         "source": "watchlist"
@@ -1112,18 +1225,19 @@
     "articles": [],
     "why_hit": [
       {
-        "id": "2123654488347267264",
-        "handle": "@Claudiashein",
+        "id": "2123987913859805494",
+        "handle": "@RicardoBSalinas",
         "lane": "watchlist",
-        "views": 534303,
-        "trend_match": 36,
+        "views": 266018,
+        "trend_match": 49,
         "verdict": "visual",
         "matched_keywords": [
-          "China",
-          "Shenzhen"
+          "Sinaloa",
+          "abrazos y no balazos",
+          "narco"
         ],
-        "media": "photo",
-        "followers": 5265748,
+        "media": "video",
+        "followers": 2238671,
         "topic": null,
         "self_quote": false,
         "note": ""
@@ -1132,281 +1246,32 @@
         "id": "2123809534028255260",
         "handle": "@Claudiashein",
         "lane": "watchlist",
-        "views": 64840,
-        "trend_match": 36,
-        "verdict": "autor/audiencia",
-        "matched_keywords": [
-          "Revolución",
-          "116 aniversario"
-        ],
-        "media": "sin datos",
-        "followers": 5265748,
-        "topic": null,
-        "self_quote": false,
-        "note": "media: sin datos"
-      },
-      {
-        "id": "2123621524565369157",
-        "handle": "@RicardoBSalinas",
-        "lane": "watchlist",
-        "views": 62020,
-        "trend_match": 36,
-        "verdict": "visual",
-        "matched_keywords": [
-          "colaboradores",
-          "trabajo"
-        ],
-        "media": "video",
-        "followers": 2238820,
-        "topic": null,
-        "self_quote": false,
-        "note": ""
-      },
-      {
-        "id": "2123849642995548641",
-        "handle": "@RicardoBSalinas",
-        "lane": "watchlist",
-        "views": 26462,
-        "trend_match": 0,
-        "verdict": "autor/audiencia",
-        "matched_keywords": [],
-        "media": "sin datos",
-        "followers": 2238820,
-        "topic": null,
-        "self_quote": false,
-        "note": "media: sin datos"
-      },
-      {
-        "id": "2123828419804930455",
-        "handle": "@LillyTellez",
-        "lane": "watchlist",
-        "views": 23791,
+        "views": 98694,
         "trend_match": 20,
-        "verdict": "visual",
-        "matched_keywords": [
-          "Senado"
-        ],
-        "media": "video",
-        "followers": 1128797,
-        "topic": null,
-        "self_quote": false,
-        "note": ""
-      },
-      {
-        "id": "2123584319398555862",
-        "handle": "@RicardoBSalinas",
-        "lane": "watchlist",
-        "views": 22763,
-        "trend_match": 0,
-        "verdict": "visual",
-        "matched_keywords": [],
-        "media": "photo",
-        "followers": 2238820,
-        "topic": null,
-        "self_quote": false,
-        "note": ""
-      },
-      {
-        "id": "2123774015298756714",
-        "handle": "@JorgeRoHe",
-        "lane": "watchlist",
-        "views": 20898,
-        "trend_match": 36,
-        "verdict": "visual",
-        "matched_keywords": [
-          "INE",
-          "gasolina"
-        ],
-        "media": "photo",
-        "followers": 105579,
-        "topic": null,
-        "self_quote": false,
-        "note": ""
-      },
-      {
-        "id": "2123832799920836772",
-        "handle": "@JorgeRoHe",
-        "lane": "watchlist",
-        "views": 19270,
-        "trend_match": 49,
         "verdict": "autor/audiencia",
         "matched_keywords": [
-          "trabajo",
-          "Nayarit",
-          "libertad"
+          "Revolución"
         ],
         "media": "sin datos",
-        "followers": 105579,
+        "followers": 5266298,
         "topic": null,
         "self_quote": false,
         "note": "media: sin datos"
       },
       {
-        "id": "2123855830051385349",
-        "handle": "@JorgeRoHe",
+        "id": "2123895607622541823",
+        "handle": "@samuel_garcias",
         "lane": "watchlist",
-        "views": 18425,
-        "trend_match": 36,
-        "verdict": "visual",
-        "matched_keywords": [
-          "trabajo",
-          "Nayarit"
-        ],
-        "media": "photo",
-        "followers": 105579,
-        "topic": null,
-        "self_quote": false,
-        "note": ""
-      },
-      {
-        "id": "2123891866269786308",
-        "handle": "@JorgeRoHe",
-        "lane": "watchlist",
-        "views": 18286,
+        "views": 82144,
         "trend_match": 49,
         "verdict": "visual",
         "matched_keywords": [
-          "INE",
-          "Nayarit",
-          "Senado"
-        ],
-        "media": "video",
-        "followers": 105579,
-        "topic": null,
-        "self_quote": false,
-        "note": ""
-      },
-      {
-        "id": "2123776681915641923",
-        "handle": "@JorgeRoHe",
-        "lane": "watchlist",
-        "views": 16813,
-        "trend_match": 36,
-        "verdict": "visual",
-        "matched_keywords": [
-          "La Paz",
-          "libertad"
-        ],
-        "media": "video",
-        "followers": 105579,
-        "topic": null,
-        "self_quote": false,
-        "note": ""
-      },
-      {
-        "id": "2123594500530380997",
-        "handle": "@JorgeRoHe",
-        "lane": "watchlist",
-        "views": 15982,
-        "trend_match": 20,
-        "verdict": "visual",
-        "matched_keywords": [
-          "La Paz"
-        ],
-        "media": "video",
-        "followers": 105579,
-        "topic": null,
-        "self_quote": false,
-        "note": ""
-      },
-      {
-        "id": "2123831642645270689",
-        "handle": "@JorgeRoHe",
-        "lane": "watchlist",
-        "views": 15793,
-        "trend_match": 36,
-        "verdict": "visual",
-        "matched_keywords": [
-          "Nayarit",
-          "libertad"
-        ],
-        "media": "photo",
-        "followers": 105579,
-        "topic": null,
-        "self_quote": false,
-        "note": ""
-      },
-      {
-        "id": "2123819221662544294",
-        "handle": "@JorgeRoHe",
-        "lane": "watchlist",
-        "views": 15390,
-        "trend_match": 36,
-        "verdict": "visual",
-        "matched_keywords": [
-          "La Paz",
-          "libertad"
-        ],
-        "media": "video",
-        "followers": 105579,
-        "topic": null,
-        "self_quote": false,
-        "note": ""
-      },
-      {
-        "id": "2123854265609601385",
-        "handle": "@JorgeRoHe",
-        "lane": "watchlist",
-        "views": 15217,
-        "trend_match": 20,
-        "verdict": "visual",
-        "matched_keywords": [
+          "Puente Nuevo",
+          "metro",
           "INE"
         ],
         "media": "video",
-        "followers": 105579,
-        "topic": null,
-        "self_quote": false,
-        "note": ""
-      },
-      {
-        "id": "2123597285615448519",
-        "handle": "@JorgeRoHe",
-        "lane": "watchlist",
-        "views": 14876,
-        "trend_match": 36,
-        "verdict": "visual",
-        "matched_keywords": [
-          "La Paz",
-          "libertad"
-        ],
-        "media": "photo",
-        "followers": 105579,
-        "topic": null,
-        "self_quote": false,
-        "note": ""
-      },
-      {
-        "id": "2123831099059060941",
-        "handle": "@JorgeRoHe",
-        "lane": "watchlist",
-        "views": 14518,
-        "trend_match": 36,
-        "verdict": "visual",
-        "matched_keywords": [
-          "La Paz",
-          "libertad"
-        ],
-        "media": "video",
-        "followers": 105579,
-        "topic": null,
-        "self_quote": false,
-        "note": ""
-      },
-      {
-        "id": "2123894880938467373",
-        "handle": "@JorgeRoHe",
-        "lane": "watchlist",
-        "views": 13889,
-        "trend_match": 49,
-        "verdict": "visual",
-        "matched_keywords": [
-          "Nayarit",
-          "Senado",
-          "libertad"
-        ],
-        "media": "video",
-        "followers": 105579,
+        "followers": 444252,
         "topic": null,
         "self_quote": false,
         "note": ""
@@ -1415,45 +1280,333 @@
         "id": "2123895979975815219",
         "handle": "@LillyTellez",
         "lane": "watchlist",
-        "views": 9138,
+        "views": 58401,
         "trend_match": 0,
         "verdict": "autor/audiencia",
         "matched_keywords": [],
         "media": "sin datos",
-        "followers": 1128797,
+        "followers": 1128807,
         "topic": null,
         "self_quote": false,
         "note": "media: sin datos"
       },
       {
-        "id": "2123601107444285701",
+        "id": "2123849642995548641",
+        "handle": "@RicardoBSalinas",
+        "lane": "watchlist",
+        "views": 55195,
+        "trend_match": 20,
+        "verdict": "autor/audiencia",
+        "matched_keywords": [
+          "narco"
+        ],
+        "media": "sin datos",
+        "followers": 2238671,
+        "topic": null,
+        "self_quote": false,
+        "note": "media: sin datos"
+      },
+      {
+        "id": "2123828419804930455",
+        "handle": "@LillyTellez",
+        "lane": "watchlist",
+        "views": 47088,
+        "trend_match": 0,
+        "verdict": "visual",
+        "matched_keywords": [],
+        "media": "video",
+        "followers": 1128807,
+        "topic": null,
+        "self_quote": false,
+        "note": ""
+      },
+      {
+        "id": "2123882471574172148",
         "handle": "@alitomorenoc",
         "lane": "watchlist",
-        "views": 7337,
+        "views": 45957,
+        "trend_match": 59,
+        "verdict": "tendencia",
+        "matched_keywords": [
+          "seguridad",
+          "narco",
+          "Cuauhtémoc",
+          "agresiones"
+        ],
+        "media": "photo",
+        "followers": 242186,
+        "topic": null,
+        "self_quote": false,
+        "note": ""
+      },
+      {
+        "id": "2124008745348854088",
+        "handle": "@alitomorenoc",
+        "lane": "watchlist",
+        "views": 45612,
+        "trend_match": 36,
+        "verdict": "visual",
+        "matched_keywords": [
+          "Sinaloa",
+          "seguridad"
+        ],
+        "media": "video",
+        "followers": 242186,
+        "topic": null,
+        "self_quote": false,
+        "note": ""
+      },
+      {
+        "id": "2123774015298756714",
+        "handle": "@JorgeRoHe",
+        "lane": "watchlist",
+        "views": 21549,
+        "trend_match": 36,
+        "verdict": "visual",
+        "matched_keywords": [
+          "INE",
+          "gasolina"
+        ],
+        "media": "photo",
+        "followers": 105573,
+        "topic": null,
+        "self_quote": false,
+        "note": ""
+      },
+      {
+        "id": "2123832799920836772",
+        "handle": "@JorgeRoHe",
+        "lane": "watchlist",
+        "views": 19434,
+        "trend_match": 20,
+        "verdict": "autor/audiencia",
+        "matched_keywords": [
+          "Nayarit"
+        ],
+        "media": "sin datos",
+        "followers": 105573,
+        "topic": null,
+        "self_quote": false,
+        "note": "media: sin datos"
+      },
+      {
+        "id": "2123891866269786308",
+        "handle": "@JorgeRoHe",
+        "lane": "watchlist",
+        "views": 18699,
+        "trend_match": 36,
+        "verdict": "visual",
+        "matched_keywords": [
+          "INE",
+          "Nayarit"
+        ],
+        "media": "video",
+        "followers": 105573,
+        "topic": null,
+        "self_quote": false,
+        "note": ""
+      },
+      {
+        "id": "2123855830051385349",
+        "handle": "@JorgeRoHe",
+        "lane": "watchlist",
+        "views": 18623,
+        "trend_match": 20,
+        "verdict": "visual",
+        "matched_keywords": [
+          "Nayarit"
+        ],
+        "media": "photo",
+        "followers": 105573,
+        "topic": null,
+        "self_quote": false,
+        "note": ""
+      },
+      {
+        "id": "2123776681915641923",
+        "handle": "@JorgeRoHe",
+        "lane": "watchlist",
+        "views": 16907,
+        "trend_match": 0,
+        "verdict": "visual",
+        "matched_keywords": [],
+        "media": "video",
+        "followers": 105573,
+        "topic": null,
+        "self_quote": false,
+        "note": ""
+      },
+      {
+        "id": "2123831099059060941",
+        "handle": "@JorgeRoHe",
+        "lane": "watchlist",
+        "views": 16569,
+        "trend_match": 0,
+        "verdict": "visual",
+        "matched_keywords": [],
+        "media": "video",
+        "followers": 105573,
+        "topic": null,
+        "self_quote": false,
+        "note": ""
+      },
+      {
+        "id": "2123831642645270689",
+        "handle": "@JorgeRoHe",
+        "lane": "watchlist",
+        "views": 15914,
+        "trend_match": 20,
+        "verdict": "visual",
+        "matched_keywords": [
+          "Nayarit"
+        ],
+        "media": "photo",
+        "followers": 105573,
+        "topic": null,
+        "self_quote": false,
+        "note": ""
+      },
+      {
+        "id": "2123854265609601385",
+        "handle": "@JorgeRoHe",
+        "lane": "watchlist",
+        "views": 15761,
+        "trend_match": 20,
+        "verdict": "visual",
+        "matched_keywords": [
+          "INE"
+        ],
+        "media": "video",
+        "followers": 105573,
+        "topic": null,
+        "self_quote": false,
+        "note": ""
+      },
+      {
+        "id": "2123819221662544294",
+        "handle": "@JorgeRoHe",
+        "lane": "watchlist",
+        "views": 15495,
+        "trend_match": 0,
+        "verdict": "visual",
+        "matched_keywords": [],
+        "media": "video",
+        "followers": 105573,
+        "topic": null,
+        "self_quote": false,
+        "note": ""
+      },
+      {
+        "id": "2123894880938467373",
+        "handle": "@JorgeRoHe",
+        "lane": "watchlist",
+        "views": 14582,
+        "trend_match": 20,
+        "verdict": "visual",
+        "matched_keywords": [
+          "Nayarit"
+        ],
+        "media": "video",
+        "followers": 105573,
+        "topic": null,
+        "self_quote": false,
+        "note": ""
+      },
+      {
+        "id": "2123983155652645277",
+        "handle": "@JorgeRoHe",
+        "lane": "watchlist",
+        "views": 13601,
+        "trend_match": 20,
+        "verdict": "visual",
+        "matched_keywords": [
+          "Nayarit"
+        ],
+        "media": "video",
+        "followers": 105573,
+        "topic": null,
+        "self_quote": false,
+        "note": ""
+      },
+      {
+        "id": "2123924473829380417",
+        "handle": "@m_ebrard",
+        "lane": "watchlist",
+        "views": 11843,
+        "trend_match": 20,
+        "verdict": "visual",
+        "matched_keywords": [
+          "Revolución"
+        ],
+        "media": "photo",
+        "followers": 2710000,
+        "topic": null,
+        "self_quote": false,
+        "note": ""
+      },
+      {
+        "id": "2123991567450947804",
+        "handle": "@alitomorenoc",
+        "lane": "watchlist",
+        "views": 10118,
+        "trend_match": 36,
+        "verdict": "autor/audiencia",
+        "matched_keywords": [
+          "Sinaloa",
+          "narco"
+        ],
+        "media": "sin datos",
+        "followers": 242186,
+        "topic": null,
+        "self_quote": false,
+        "note": "media: sin datos"
+      },
+      {
+        "id": "2123820769201328160",
+        "handle": "@samuel_garcias",
+        "lane": "watchlist",
+        "views": 8488,
+        "trend_match": 20,
+        "verdict": "visual",
+        "matched_keywords": [
+          "metro"
+        ],
+        "media": "video",
+        "followers": 444252,
+        "topic": null,
+        "self_quote": false,
+        "note": ""
+      },
+      {
+        "id": "2123941456356233466",
+        "handle": "@samuel_garcias",
+        "lane": "watchlist",
+        "views": 7606,
+        "trend_match": 49,
+        "verdict": "visual",
+        "matched_keywords": [
+          "Puente Nuevo",
+          "metro",
+          "INE"
+        ],
+        "media": "video",
+        "followers": 444252,
+        "topic": null,
+        "self_quote": false,
+        "note": ""
+      },
+      {
+        "id": "2123800663809269848",
+        "handle": "@alitomorenoc",
+        "lane": "watchlist",
+        "views": 6607,
         "trend_match": 20,
         "verdict": "autor/audiencia",
         "matched_keywords": [
           "seguridad"
         ],
         "media": "sin datos",
-        "followers": 242189,
-        "topic": null,
-        "self_quote": false,
-        "note": "media: sin datos"
-      },
-      {
-        "id": "2123606364324802838",
-        "handle": "@alitomorenoc",
-        "lane": "watchlist",
-        "views": 5263,
-        "trend_match": 36,
-        "verdict": "autor/audiencia",
-        "matched_keywords": [
-          "seguridad",
-          "carretera"
-        ],
-        "media": "sin datos",
-        "followers": 242189,
+        "followers": 242186,
         "topic": null,
         "self_quote": false,
         "note": "media: sin datos"
@@ -1472,312 +1625,334 @@
     "legend": "Trend match 0-100% = 1 - prod(1 - w) over matched 24 h keywords that another author also used in the 48 h window (w: rank 1-10 0.35, 11-25 0.22, 26-40 0.12, curated 0.20). Verdict: >= 50% -> tendencia; else video/image in the post data -> visual; else >= 100K followers (outsiders without follower data: >= 500K views, estimate) -> autor/audiencia; else coincidencia/otro. Missing data shows as 'sin datos'. Heat = sum log10(views) of topic posts (24 h x1, 24-48 h x0.5), scaled to 100. Momentum = log-views last 24 h / previous 24 h. Trend-input-only accounts feed the corpus but are never shown as hits."
   },
   "imagen_rsp": {
-    "fecha": "2026-11-20 (17:00)",
+    "fecha": "2026-11-21 (06:00)",
     "parcial": false,
-    "ventana": "2026-11-19T22:50Z a 2026-11-20T22:47Z (19 nov 4:50 p.m. a 20 nov 4:47 p.m., hora del centro de México)",
+    "ventana": "2026-11-20T11:50Z a 2026-11-21T11:50Z (20 nov 5:50 a.m. a 21 nov 5:50 a.m., hora del centro de México)",
     "posts_propios": {
+      "originales": 2,
+      "vistas": 321213,
+      "likes": 10236,
+      "reposts": 2354,
+      "respuestas": 418,
+      "citas": 45,
+      "guardados": 545,
+      "top": "https://x.com/RicardoBSalinas/status/2123987913859805494",
+      "detalle": [
+        {
+          "url": "https://x.com/RicardoBSalinas/status/2123987913859805494",
+          "vistas": 266018,
+          "likes": 8455,
+          "reposts": 1915,
+          "respuestas": 312,
+          "citas": 40,
+          "guardados": 519,
+          "nota": "20 nov 9:52 p.m. (hora del centro). Video sobre la violencia en Sinaloa: \"Que triste país… mientras el Narco gobernador @rochamoya_ está libre y descansando en Torre Banus… Este es el resultado de los abrazos y no balazos.\" Su post más visto de la ventana (8,455 likes contra 312 respuestas). Riesgo: nombra a un gobernador y lo llama \"narco\" como hecho. Existe una acusación formal de EU (abril de 2026), pero no hay condena; él la niega y la FGR dijo no hallar pruebas. El detalle de \"Torre Banus\" no tiene fuente reputada."
+        },
+        {
+          "url": "https://x.com/RicardoBSalinas/status/2123849642995548641",
+          "vistas": 55195,
+          "likes": 1781,
+          "reposts": 439,
+          "respuestas": 106,
+          "citas": 5,
+          "guardados": 26,
+          "nota": "20 nov 12:43 p.m. Cita con \"Muy bien dicho… Los MoreNarcos son los verdaderos FASCISTAS\". Sube de 26,462 (5:00 p.m.) a 55,195. Riesgo: etiqueta a un partido con el término \"narco\" y choca con la línea de estadista."
+        }
+      ],
+      "nota": "2 originales (1 video y 1 cita), sin contar 1 repost y 1 respuesta: 321,213 vistas, 10,236 likes, 2,354 reposts y 418 respuestas. Contra el corte de ayer 5:00 p.m. (3 originales, 111,248, 3.º de 5) sube +188.7% y queda 1.º de 7; contra ayer 6:00 (6 originales, 418,958) baja -23.3%. El 83% de sus vistas sale del video de Sinaloa, que nombra a un gobernador como \"narco\". Más likes que respuestas en los 2."
+    },
+    "dia_previo_referencia": {
+      "fecha": "2026-11-20 (17:00)",
       "originales": 3,
       "vistas": 111248,
       "likes": 3024,
       "reposts": 651,
       "respuestas": 278,
-      "citas": 17,
-      "guardados": 52,
-      "top": "https://x.com/RicardoBSalinas/status/2123621524565369157",
-      "detalle": [
-        {
-          "url": "https://x.com/RicardoBSalinas/status/2123621524565369157",
-          "vistas": 62020,
-          "likes": 1858,
-          "reposts": 391,
-          "respuestas": 194,
-          "citas": 14,
-          "guardados": 35,
-          "nota": "19 nov 9:36 p.m. (hora del centro). Video del reconocimiento a colaboradores con 25 a 50 años en el Grupo (135 colaboradores). Sube de 26,778 (6:00) a 62,020. Su mejor post de la ventana; incluye la frase \"mientras algunos viven del presupuesto\"."
-        },
-        {
-          "url": "https://x.com/RicardoBSalinas/status/2123849642995548641",
-          "vistas": 26462,
-          "likes": 819,
-          "reposts": 200,
-          "respuestas": 63,
-          "citas": 2,
-          "guardados": 12,
-          "nota": "20 nov 12:43 p.m. NUEVO: cita con \"Muy bien dicho… Los MoreNarcos son los verdaderos FASCISTAS\". Riesgo: etiqueta a un partido con el término \"narco\" y choca con la línea de estadista; además, cita a un tercero."
-        },
-        {
-          "url": "https://x.com/RicardoBSalinas/status/2123584319398555862",
-          "vistas": 22766,
-          "likes": 347,
-          "reposts": 60,
-          "respuestas": 21,
-          "citas": 1,
-          "guardados": 5,
-          "nota": "19 nov 7:08 p.m. Colecciones RSP: pintura del campo mexicano (paseo dominical). Sube de 18,296 a 22,766. Contenido cultural, sin riesgo."
-        }
-      ],
-      "nota": "3 originales (1 video, 1 foto y 1 cita), sin contar respuestas: 111,248 vistas, 3,024 likes, 651 reposts y 278 respuestas. Contra el corte de las 6:00 (6 originales, 418,958, 1.º de 6) baja 73.4%: sus citas del 19 nov a las 3 p.m. (reforma judicial, \"EXACTO\", \"JAJAJAJA\") y el video de seguridad ya salieron de la ventana, y hoy solo publicó 1 post nuevo. Queda 3.º de 5. Más likes que respuestas en los 3."
-    },
-    "dia_previo_referencia": {
-      "fecha": "2026-11-20 (06:00)",
-      "originales": 6,
-      "vistas": 418958,
-      "likes": 11793,
-      "reposts": 3411,
-      "respuestas": 513,
-      "rank": "1 de 6",
-      "nota": "Esta mañana: 6 originales, 418,958 vistas, 1.º de 6. Ahora: 3 originales, 111,248 (-73.4%), 3.º de 5."
+      "rank": "3 de 5",
+      "nota": "Ayer 5:00 p.m.: 3 originales, 111,248 vistas, 3.º de 5 (ayer 6:00: 6 originales, 418,958, 1.º de 6). Hoy: 2 originales, 321,213 (+188.7% contra las 5:00 p.m.; -23.3% contra ayer 6:00), 1.º de 7."
     },
     "posts_previos_actualizados": [
       {
+        "url": "https://x.com/RicardoBSalinas/status/2123621524565369157",
+        "vistas": 72448,
+        "likes": 2072,
+        "reposts": 442,
+        "respuestas": 235,
+        "nota": "Video de colaboradores (25 a 50 años): +16.8% contra 62,020 de ayer 5:00 p.m. Ya salió de la ventana; sigue sumando."
+      },
+      {
+        "url": "https://x.com/RicardoBSalinas/status/2123584319398555862",
+        "vistas": 24908,
+        "likes": 373,
+        "reposts": 65,
+        "respuestas": 22,
+        "nota": "Colecciones RSP (pintura de Icaza): +9.4% contra 22,766 de ayer 5:00 p.m."
+      },
+      {
         "url": "https://x.com/RicardoBSalinas/status/2123525282040881319",
-        "vistas": 249935,
-        "likes": 8527,
-        "reposts": 3388,
-        "respuestas": 215,
-        "nota": "Cita sobre la reforma judicial: +39.7% contra 178,899 de las 6:00. Ya salió de la ventana; sigue creciendo y repite una versión sin fuente reputada: riesgo vigente."
+        "vistas": 288655,
+        "likes": 9835,
+        "reposts": 4000,
+        "respuestas": 240,
+        "nota": "Cita sobre la reforma judicial: +15.5% contra 249,935 de ayer 5:00 p.m. Fuera de ventana; repite una versión sin fuente reputada: riesgo vigente."
       },
       {
         "url": "https://x.com/RicardoBSalinas/status/2123525941330858151",
-        "vistas": 131021,
-        "likes": 3027,
-        "reposts": 561,
-        "respuestas": 68,
-        "nota": "\"EXACTO\": +36.1% contra 96,259 de las 6:00. Ya salió de la ventana; respalda acusaciones no verificadas: riesgo."
+        "vistas": 143124,
+        "likes": 3400,
+        "reposts": 645,
+        "respuestas": 71,
+        "nota": "\"EXACTO\": +9.2% contra 131,021 de ayer 5:00 p.m. Respalda acusaciones no verificadas: riesgo."
       },
       {
         "url": "https://x.com/RicardoBSalinas/status/2123521760616452107",
-        "vistas": 72099,
-        "likes": 888,
-        "reposts": 113,
+        "vistas": 76220,
+        "likes": 918,
+        "reposts": 118,
         "respuestas": 26,
-        "nota": "\"JAJAJAJA !\": +34.8% contra 53,469 de las 6:00. Sin riesgo."
+        "nota": "\"JAJAJAJA !\": +5.7% contra 72,099 de ayer 5:00 p.m. Sin riesgo."
       },
       {
         "url": "https://x.com/RicardoBSalinas/status/2123442303872221394",
-        "vistas": 50619,
-        "likes": 1994,
-        "reposts": 489,
-        "respuestas": 208,
-        "nota": "\"La seguridad es la primera de las libertades\" (video): +11.8% contra 45,257 de las 6:00. Ya salió de la ventana."
+        "vistas": 52157,
+        "likes": 2019,
+        "reposts": 493,
+        "respuestas": 211,
+        "nota": "\"La seguridad es la primera de las libertades\" (video): +3.0% contra 50,619 de ayer 5:00 p.m."
       },
       {
         "url": "https://x.com/RicardoBSalinas/status/2123269419858088434",
-        "vistas": 285749,
-        "likes": 9021,
-        "reposts": 1588,
-        "respuestas": 740,
-        "nota": "Video de seguridad en Colombia: +8.1% contra 264,296 de las 6:00."
+        "vistas": 291696,
+        "likes": 9228,
+        "reposts": 1626,
+        "respuestas": 755,
+        "nota": "Video de seguridad en Colombia: +2.1% contra 285,749 de ayer 5:00 p.m."
       },
       {
         "url": "https://x.com/RicardoBSalinas/status/2122733378323558640",
-        "vistas": 530254,
-        "likes": 24468,
-        "reposts": 5684,
+        "vistas": 531732,
+        "likes": 24469,
+        "reposts": 5686,
         "respuestas": 1009,
-        "nota": "\"Lenia… por favor demándeme\": +0.4% contra 528,283 de las 6:00. Choque directo con una ministra: riesgo vigente, ya casi no crece."
+        "nota": "\"Lenia… por favor demándeme\": +0.3% contra 530,254 de ayer 5:00 p.m. Riesgo vigente; ya casi no crece."
       },
       {
         "url": "https://x.com/RicardoBSalinas/status/2122801735995363677",
-        "vistas": 361189,
-        "likes": 5988,
-        "reposts": 517,
-        "respuestas": 244,
-        "nota": "Broma de Elektra (\"GTA Iztapalapa\"): +1.2% contra 356,856 de las 6:00. Riesgo: puede leerse como burla de la inseguridad."
+        "vistas": 364442,
+        "likes": 5990,
+        "reposts": 518,
+        "respuestas": 243,
+        "nota": "Broma de Elektra (\"GTA Iztapalapa\"): +0.9% contra 361,189 de ayer 5:00 p.m. Riesgo: puede leerse como burla de la inseguridad."
       },
       {
         "url": "https://x.com/RicardoBSalinas/status/2121815480092827766",
-        "vistas": 325751,
+        "vistas": 326928,
         "likes": 8263,
         "reposts": 2099,
         "respuestas": 1723,
-        "nota": "\"La verdadera Perrita\": +0.4% contra 324,504 de las 6:00. #LaPerritaDeTrump sigue en menciones críticas."
+        "nota": "\"La verdadera Perrita\": +0.4% contra 325,751 de ayer 5:00 p.m. #LaPerritaDeTrump sigue en menciones críticas."
       }
     ],
     "menciones": {
-      "volumen_24h": 4233,
-      "volumen_24h_previas": 5742,
-      "nota_volumen": "Conteo de X para 'Salinas Pliego' / 'Ricardo Salinas' / @RicardoBSalinas, sin reposts, 19 nov 23:00Z a 20 nov 22:45Z: 4,233, −26% contra las 24 h anteriores (5,742) y −15% contra el corte de las 6:00 (4,960). El pico fue de 287 menciones entre 5 y 6 p.m. del 19 nov (hora del centro); de 1 a 5 a.m. bajó a menos de 45 por hora y hoy de 8 a.m. a 3 p.m. se movió entre 197 y 275 por hora.",
+      "volumen_24h": 3996,
+      "volumen_24h_previas": 4978,
+      "nota_volumen": "Conteo de X para 'Salinas Pliego' / 'Ricardo Salinas' / @RicardoBSalinas, sin reposts, 20 nov 12:00Z a 21 nov 11:50Z: 3,996, −20% contra las 24 h anteriores (4,978) y −6% contra el corte de ayer 5:00 p.m. (4,233). El pico fue de 273 menciones entre 10 y 11 a.m. del 20 nov (hora del centro); hubo un segundo repunte de 235 y 239 por hora entre 10 p.m. y medianoche, justo después de su video de Sinaloa; de 2 a 5 a.m. bajó a menos de 80 por hora.",
       "muestra": 50,
-      "excluidas_bots": 7,
-      "excluidas_pro_morena": 4,
+      "excluidas_bots": 10,
+      "excluidas_pro_morena": 2,
       "excluidas_fuera_de_tema": 13,
-      "excluidas_no_verificadas": 5,
-      "nota_filtro": "Filtro habitual sobre 50 menciones (25 por relevancia y 25 más recientes; 2 repetidas, 48 únicas; sin respuestas, sin reposts y sin posts propios). Bots (7) = 2 posts de una cuenta sin bio creada en 2025 que refrita la frase del libro de López Obrador y otra acusación, cuentas creadas en 2025-2026 sin bio y con 1 a 16 seguidores (4) y una cuenta sin bio de abril de 2026 con un texto copiado. Pro-Morena (4) = bios \"De izquierda 4T… Sheinbaum Presidenta\", \"Seguidor de ALMLO\", \"La más Obradorista\" y \"obradorista pro 4T\". Fuera de tema (13) = listas de etiquetas a periodistas y políticos (6), una queja de cliente de Totalplay, posts sobre otros temas que solo lo mencionan de paso (5) y un texto personal sin relación. No verificadas (5) = 3 posts de una misma cuenta que lo ligan a una red de abusos sin ninguna fuente (#LaGranjaVIP), un post que le atribuye abusos en su equipo sin fuente y un portal que asegura que la Presidenta lo acusó por nombre de querer deslegitimar la elección de 2027 (los medios reputados citan que habló de \"la oposición\", sin nombrarlo). Quedaron 19: 10 críticas, 4 favorables (2 de medios propios de TV Azteca) y 5 informativas.",
+      "excluidas_no_verificadas": 4,
+      "nota_filtro": "Filtro habitual sobre 50 menciones (25 por relevancia y 25 más recientes; 4 repetidas, 46 únicas; sin respuestas, sin reposts y sin posts propios). Bots (10) = 3 posts de la cuenta sin bio creada en 2025 que ya habíamos filtrado (refrita el libro de López Obrador y acusaciones), 2 insultos de una cuenta de julio de 2025 con 6 seguidores, cuentas sin bio creadas en abril, mayo y noviembre de 2026 con 1 a 23 seguidores (4) y una cuenta de 2024 con más de 92 mil posts. Pro-Morena (2) = bio \"Siempre será un honor estar con OBRADOR\" y un handle \"AMLO_\". Fuera de tema (13) = listas de etiquetas, quejas de clientes del banco (2), otra persona con el mismo nombre (Ricardo Salinas Méndez, Acapulco), un boletín de Guerrero, menciones de paso y textos personales. No verificadas (4) = 2 posts de una misma cuenta que lo ligan a una red de abusos sin fuente (#LaGranjaVIP), un post que lo llama socio de un capo recién detenido sin ninguna fuente y uno que le atribuye órdenes a un gobierno extranjero sin fuente. No se repiten. Quedaron 17.",
       "temas": [
-        "El reto a debate de Gerardo Fernández Noroña tras su propuesta de automatizar las cajas de Banco Azteca sigue circulando (Quinta Fuerza, notas que lo replican). Siguen las críticas por los cajeros y las máquinas y por su postura sobre el salario mínimo; ningún medio confirma despidos ni un calendario.",
-        "El fallo del Tribunal Electoral sobre la queja de Morena por \"narcopartido\" se sigue compartiendo como favorable (adn Noticias, Etcétera, Político MX).",
-        "En la ceremonia del 116 aniversario de la Revolución, la Presidenta dijo que \"van a volver a fracasar\" quienes intenten deslegitimar la elección de 2027; los medios reputados lo reportan como dirigido a la oposición, sin nombrarlo (El País, Expansión, La Jornada).",
-        "Azteca Guatemala volvió a difundir su reunión con Nayib Bukele, que fue el 10 de noviembre (El Diario de Hoy): no es nueva.",
-        "Cuentas excluidas refritan acusaciones sin fuente (#LaGranjaVIP) y la frase del libro de López Obrador; siguen las burlas (#LaPerritaDeTrump) con poco alcance."
+        "Sinaloa: su video sobre la violencia y el gobernador fue el centro de la conversación de la noche. Coincidió con la captura de \"El Chapo Isidro\" en Guasave, confirmada por la Defensa (Infobae, Milenio), y con el video de un reportero de TV Azteca en medio del fuego cruzado, que él compartió; hubo críticas que piden protección para el reportero.",
+        "Los cajeros y las 40 horas siguen: MVS Noticias difundió la crítica de la analista Vanessa Romero a la idea de sustituir 15 mil cajeros por máquinas (10,651 vistas). No hay anuncio oficial ni despidos confirmados.",
+        "Favorable: columna de Etcétera sobre el fallo del Tribunal Electoral (\"no hubo calumnia\") y Azteca Guatemala recircula su visita a Bukele del 10 de noviembre.",
+        "Informativo: columna de 24 Horas sobre el juicio de Vladimir Sklarov en EU y la agencia Black Cube en su conflicto legal.",
+        "Siguen el reto a debate de Noroña, los apodos (#PerritadeTRUMP) y La Granja VIP (los señalamientos graves sin fuente se excluyeron)."
       ],
-      "tono": "Volumen a la baja (4,233; −26% contra el día anterior, −15% contra la mañana) y tono mayormente crítico: de 19 menciones válidas, 10 críticas, 4 favorables y 5 informativas. La mención válida más vista es de adn Noticias (1,773), favorable, sobre el fallo del Tribunal Electoral.",
+      "tono": "Volumen a la baja (−20%). De 17 menciones válidas, 9 críticas, 5 favorables y 3 informativas. Las críticas se concentran en los cajeros, el reportero en Guasave e insultos; las favorables, en el fallo del Tribunal, la visita a Bukele y en contra del reto de Noroña.",
       "menciones_destacadas": [
         {
-          "handle": "@adnnoticiasmx",
-          "vistas": 1773,
-          "likes": 39,
-          "url": "https://x.com/adnnoticiasmx/status/2123626400494088268",
-          "texto": "Favorable (medio de TV Azteca): el Tribunal Electoral frenó la queja de Morena."
-        },
-        {
-          "handle": "@lucesdelsiglo",
-          "vistas": 736,
-          "likes": 2,
-          "url": "https://x.com/lucesdelsiglo/status/2123604747240546525",
-          "texto": "Informativa: plantea sustituir empleados por inteligencia artificial."
+          "handle": "@MVSNoticias",
+          "vistas": 10651,
+          "url": "https://x.com/MVSNoticias/status/2123919407776710822",
+          "texto": "Informativa/crítica: Vanessa Romero cuestiona la propuesta de sustituir 15 mil cajeros por máquinas."
         },
         {
           "handle": "@AztecaGuate",
-          "vistas": 480,
-          "likes": 0,
+          "vistas": 1087,
           "url": "https://x.com/AztecaGuate/status/2123858390505898217",
-          "texto": "Favorable (medio propio): fotos de su reunión con Bukele (del 10 nov)."
-        },
-        {
-          "handle": "@jose_anbriz",
-          "vistas": 321,
-          "likes": 13,
-          "url": "https://x.com/jose_anbriz/status/2123885997058413046",
-          "texto": "Informativa: el reto a debate de Fernández Noroña."
+          "texto": "Favorable: fotos de su visita a Bukele (medio del grupo)."
         },
         {
           "handle": "@revistaetcetera",
-          "vistas": 318,
-          "likes": 4,
+          "vistas": 646,
           "url": "https://x.com/revistaetcetera/status/2123884087622447323",
-          "texto": "Favorable: 'No hubo calumnia', según el Tribunal Electoral."
+          "texto": "Favorable: columna sobre el fallo del Tribunal Electoral."
+        },
+        {
+          "handle": "@xmedia7",
+          "vistas": 533,
+          "url": "https://x.com/xmedia7/status/2124037541921955953",
+          "texto": "Crítica: pide chaleco antibalas para el reportero de TV Azteca en Guasave."
+        },
+        {
+          "handle": "@diario24horas",
+          "vistas": 298,
+          "url": "https://x.com/diario24horas/status/2123782164328128980",
+          "texto": "Informativa: columna sobre el juicio de Sklarov y Black Cube."
         }
       ]
     },
+    "riesgos": [
+      "Video de Sinaloa (266,018): llama \"narco\" a un gobernador con nombre y arroba. Hay una acusación formal de EU, pero no condena; él la niega y la FGR dijo no hallar pruebas. El detalle de \"Torre Banus\" no tiene fuente reputada.",
+      "\"MoreNarcos… FASCISTAS\" (55,195): etiqueta a un partido como \"narco\"; choca con la línea de estadista.",
+      "Reportero de TV Azteca en medio del fuego cruzado en Guasave: ya hay quien le pide a la empresa protegerlo; conviene un mensaje de cuidado a su equipo.",
+      "Cajeros y 40 horas: el tema llegó a MVS Noticias y sigue siendo la crítica principal.",
+      "Riesgos previos que siguen creciendo fuera de ventana: reforma judicial (288,655) y \"EXACTO\" (143,124)."
+    ],
     "medios": [
       {
-        "texto": "El País: Sheinbaum acusa a la oposición de querer deslegitimar la elección de 2027",
-        "url": "https://elpais.com/mexico/2026-11-20/sheinbaum-acusa-a-la-oposicion-querer-deslegitimar-la-eleccion-de-2027.html"
+        "texto": "La Razón: EU acusa al gobernador de Sinaloa de delitos ligados al narco (29 abr 2026)",
+        "url": "https://www.razon.com.mx/mexico/2026/04/29/gobernador-de-sinaloa-es-acusado-por-eu-de-delitos-relacionados-con-el-narco/"
       },
       {
-        "texto": "Expansión Política: Sheinbaum advierte intento de deslegitimar elección de 2027, pero augura fracaso",
-        "url": "https://politica.expansion.mx/presidencia/2026/11/20/sheinbaum-augura-fracaso-buscan-deslegitimar-eleccion-2027"
+        "texto": "AM: Rocha Moya retoma la gubernatura; dice que la FGR no halló pruebas (21 ago 2026)",
+        "url": "https://www.am.com.mx/nacional/2026/08/21/reasume-ruben-rocha-gubernatura-de-sinaloa-afirma-que-fgr-no-hallo-pruebas-en-su-contra-1834930.html"
       },
       {
-        "texto": "El Diario de Hoy (11 nov): Bukele recibe al empresario Ricardo Salinas en El Salvador",
-        "url": "https://www.elsalvador.com/noticias/nacional/nayib-bukele-ricardo-salinas-bitcoin/1303592/2026/"
+        "texto": "Infobae: así cayó \"El Chapo Isidro\" en Guasave (Defensa con inteligencia de EU)",
+        "url": "https://www.infobae.com/mexico/2026/11/21/asi-cayo-el-chapo-isidro-inteligencia-de-eeuu-y-fuerzas-especiales-lo-cercaron-en-sinaloa/"
+      },
+      {
+        "texto": "Milenio: enfrentamientos y bloqueos en Guasave tras la captura",
+        "url": "https://www.milenio.com/estados/enfrentamiento-guasave-sinaloa-hoy-20-noviembre-noticias-en-vivo"
       }
     ]
   },
   "rivales": {
-    "fecha": "2026-11-20 (06:00)",
+    "fecha": "2026-11-21 (06:00)",
     "parcial_x": false,
-    "nota_base": "Comparado contra data/rivales_state.json del 2026-11-19 (06:00). Solo lo que cambió del 19 nov 5:50 a.m. al 20 nov 5:50 a.m. (hora del centro).",
-    "fuentes": "Búsqueda web en Infobae, La Jornada, Excélsior, El Heraldo de México, El Economista, El Universal, El Debate (España), El Diario de Chihuahua e Info7, más lectura en X de las 10 cuentas. La búsqueda de noticias de X solo trajo el regreso de la Presidenta en clase económica.",
-    "contexto": "La Presidenta volvió de APEC y hoy encabeza el desfile del 20 de noviembre; la oposición se mueve en territorio (PAN en BCS) y Maru Campos subió el tono en la prensa española.",
+    "nota_base": "Comparado contra data/rivales_state.json del 2026-11-20 (06:00). Solo lo que cambió del 20 nov 5:50 a.m. al 21 nov 5:50 a.m. (hora del centro).",
+    "fuentes": "Búsqueda web en El País, El Universal, Infobae, Milenio, Expansión, El Financiero, La Razón, El Norte y El Diario de Chihuahua, más lectura en X de las 10 cuentas. La búsqueda de noticias de X no trajo nada relevante para México.",
+    "contexto": "Día del desfile de la Revolución. La noche la marcaron la captura de \"El Chapo Isidro\" y la violencia en Guasave; en la CDMX, la oposición cerró filas con la alcaldesa de Cuauhtémoc tras las agresiones en el Congreso local.",
     "rivales": [
       {
         "nombre": "Claudia Sheinbaum",
         "handle": "@Claudiashein",
         "novedades": [
           {
-            "texto": "Se reunió en Shenzhen con el primer ministro de Singapur, Lawrence Wong, para atraer inversión con el Plan México; no se anunciaron acuerdos ni montos.",
-            "url": "https://www.infobae.com/mexico/2026/11/19/sheinbaum-se-reune-con-primer-ministro-de-singapur-califica-el-encuentro-como-fructifero-en-la-apec/"
+            "texto": "Encabezó el desfile por el 116 aniversario de la Revolución. En su mensaje dijo que la oposición \"va a volver a fracasar\" si intenta deslegitimar las elecciones de 2027.",
+            "url": "https://elpais.com/mexico/2026-11-20/sheinbaum-acusa-a-la-oposicion-querer-deslegitimar-la-eleccion-de-2027.html"
           },
           {
-            "texto": "Regresó a México en un vuelo comercial (clase económica) poco antes de la medianoche y hoy encabeza el desfile del 20 de noviembre en el Zócalo.",
-            "url": "https://www.jornada.com.mx/noticia/2026/11/19/politica/claudia-sheinbaum-regresa-a-mexico-tras-reuniones-bilaterales-con-xi-jinping-y-trump-en-cumbre-apec"
+            "texto": "Su gobierno confirmó, por medio de la Defensa, la captura de \"El Chapo Isidro\" en Guasave, Sinaloa, con apoyo de inteligencia de EU. Después hubo balaceras y bloqueos.",
+            "url": "https://www.infobae.com/mexico/2026/11/21/asi-cayo-el-chapo-isidro-inteligencia-de-eeuu-y-fuerzas-especiales-lo-cercaron-en-sinaloa/"
           }
         ],
-        "nota": "En X baja de 7 hits (1,321,446) a 2 (364,546) y pasa a 2ª; la foto de su llegada con la tripulación suma 237,142."
+        "nota": "En X baja de 2 hits (364,546) a 1 (98,694, el desfile) y pasa a 5ª. Su foto de llegada desde China ya va en 714,932, pero salió de la ventana."
       },
       {
-        "nombre": "Omar García Harfuch",
-        "handle": "@OHarfuch",
+        "nombre": "Lilly Téllez",
+        "handle": "@LillyTellez",
         "novedades": [
           {
-            "texto": "Anunció la captura en Mocorito, Sinaloa, de \"El Pagador\", señalado como líder de una célula ligada a Los Mayos, junto con otros cinco detenidos (operativo encabezado por Marina).",
-            "url": "https://www.eleconomista.com.mx/politica/garcia-harfuch-confirma-captura-irvin-eduardo-n-pagador-otros-5-sujetos-sinaloa-20261119-844882.html"
-          }
-        ],
-        "nota": "En X pasa de 2 hits (92,931) a 1 (153,278) y queda 4º, detrás de @JorgeRoHe."
-      },
-      {
-        "nombre": "Maru Campos",
-        "handle": "@MaruCampos_G",
-        "novedades": [
-          {
-            "texto": "En una entrevista con el diario español El Debate dijo que el Gobierno federal \"tiene vínculos muy claros con el crimen organizado\" y que la Defensa no deja al estado entrar a municipios de la frontera con Sinaloa y Sonora.",
-            "url": "https://www.eldebate.com/internacional/20261119/maru-campos-gobernadora-chihuahua-gobierno-mexicotiene-vinculos-claros-crimen-organizado_481882.html"
+            "texto": "Respaldó a la alcaldesa de Cuauhtémoc, Alessandra Rojo de la Vega, tras las agresiones afuera del Congreso de la CDMX durante su comparecencia; la diputada señalada lo niega y dice que ella también fue agredida.",
+            "url": "https://politica.expansion.mx/mexico/2026/11/20/alessandra-rojo-acusa-diana-sanchez-barrios-agresion-cdmx"
           },
           {
-            "texto": "Anunció más de mil millones de pesos para seis obras viales en la capital de Chihuahua.",
-            "url": "https://eldiariodechihuahua.mx/local/2026/nov/19/destaca-maru-inversion-para-obras-viales-en-la-ciudad-858988.html"
+            "texto": "En X publicó un video del Senado con \"Las series de mafiosos de Netflix se quedan cortas\" (47,088).",
+            "url": "https://x.com/LillyTellez/status/2123828419804930455"
           }
         ],
-        "nota": "En X sigue baja: 1 post con 1,781 (ayer 969)."
+        "nota": "Regresa con 2 hits (105,489); ayer en la mañana no tenía originales. Queda 4ª."
+      },
+      {
+        "nombre": "Alejandro Moreno",
+        "handle": "@alitomorenoc",
+        "novedades": [
+          {
+            "texto": "Condenó las agresiones en el Congreso de la CDMX contra la alcaldesa de Cuauhtémoc y la diputada del PRI Tania Larios (45,957); Larios pidió a la Fiscalía investigar.",
+            "url": "https://www.infobae.com/mexico/2026/11/21/tania-larios-denuncia-agresiones-de-diana-sanchez-barrios-en-el-congreso-de-la-cdmx/"
+          },
+          {
+            "texto": "Tras la violencia en Guasave publicó \"que se hagan a un lado… la cárcel o el cementerio\" (45,612).",
+            "url": "https://x.com/alitomorenoc/status/2124008745348854088"
+          }
+        ],
+        "nota": "Pasa de 0 hits a 4 (108,294) y queda 3º. Le funcionó dejar las citas en ráfaga por posts propios sobre seguridad."
       },
       {
         "nombre": "Jorge Romero",
         "handle": "@JorgeRoHe",
         "novedades": [
           {
-            "texto": "De gira en La Paz, nombró a Rigoberto Mares coordinador de la \"Defensa de la Patria, la Familia y la Libertad\" del PAN, con la mira en recuperar Baja California Sur.",
-            "url": "https://www.eluniversal.com.mx/nacion/nombran-a-rigoberto-mares-precandidato-del-pan-en-la-paz-buscan-recuperar-baja-california-sur-en-2027/"
+            "texto": "Exigió a la FGR avances en la denuncia sobre el INE y pidió emitir la convocatoria para su presidencia. Advirtió que el PAN irá a la \"resistencia civil\" si se impone a una persona cercana al oficialismo.",
+            "url": "https://www.razon.com.mx/mexico/2026/11/20/pan-exige-avances-a-la-fgr-en-denuncia-contra-guadalupe-taddei/"
           },
           {
-            "texto": "En X propuso cero ISR para quien gane hasta 12 mil pesos al mes (19,374) y siguió con la presidencia del INE.",
-            "url": "https://x.com/JorgeRoHe/status/2123426950656225736"
+            "texto": "Pasó de La Paz a Tepic, Nayarit, y propuso bajar el impuesto por litro de gasolina (21,549).",
+            "url": "https://x.com/JorgeRoHe/status/2123774015298756714"
           }
         ],
-        "nota": "Sube de 6 hits (114,948) a 11 (187,742) y queda 3º en vistas totales, por encima de Harfuch."
+        "nota": "Se mantiene con 11 hits (187,134, contra 187,742) y queda 2º."
       },
       {
         "nombre": "Samuel García",
         "handle": "@samuel_garcias",
         "novedades": [
           {
-            "texto": "Subió de 7.4 a 8.0 en la evaluación ciudadana \"Gobernador, ¿Cómo Vamos?\".",
-            "url": "https://www.info7.mx/nuevoleon/sube-samuel-garcia-calificacion-en-gobernador-como-vamos/6291745290"
+            "texto": "Supervisó el Puente Nuevo, que unirá Constitución con Morones Prieto, y dijo que \"ya podrás usarlo\". Es dicho de su gobierno; la prensa local reporta que todavía no hay calendario público de apertura.",
+            "url": "https://www.elnorte.com/pintan-naranja-peatonal-de-morones/ar3318229"
           },
           {
-            "texto": "En X anunció una inversión de 206 millones de dólares de Miller Parks (cifra de su gobierno).",
-            "url": "https://x.com/samuel_garcias/status/2123596943838347376"
+            "texto": "En X: video del Puente Nuevo (82,144), avance de la Línea 4 y de la estación Paseo La Fe.",
+            "url": "https://x.com/samuel_garcias/status/2123895607622541823"
           }
         ],
-        "nota": "Baja de 3 hits (32,414) a 2 (19,146)."
+        "nota": "Sube de 2 hits (19,146) a 3 (98,238) y queda 6º."
+      },
+      {
+        "nombre": "Maru Campos",
+        "handle": "@MaruCampos_G",
+        "novedades": [
+          {
+            "texto": "No asistió al desfile del 20 de noviembre en Chihuahua; la representó el secretario de Educación.",
+            "url": "https://www.eldiariodechihuahua.mx/local/2026/nov/20/inicia-desfile-del-20-de-noviembre-859256.html"
+          }
+        ],
+        "nota": "En X sigue baja: 1 post con 1,844 (cierres viales por obra)."
       }
     ],
     "sin_cambios": [
       {
+        "nombre": "Omar García Harfuch",
+        "handle": "@OHarfuch",
+        "nota": "Sin novedades propias confirmadas: la captura de \"El Chapo Isidro\" la anunció la Defensa y no encontré declaración suya en medios. En X, 0 originales (ayer en la mañana tenía 1 hit, 153,278)."
+      },
+      {
         "nombre": "Marcelo Ebrard",
         "handle": "@m_ebrard",
-        "nota": "Sin novedades confirmadas fuera de APEC. En X baja de 7 hits (332,186) a 2 (26,403)."
-      },
-      {
-        "nombre": "Lilly Téllez",
-        "handle": "@LillyTellez",
-        "nota": "Sin novedades confirmadas. En X, 0 originales (solo 4 respuestas); ayer tenía 4 hits (73,193)."
-      },
-      {
-        "nombre": "Alejandro Moreno",
-        "handle": "@alitomorenoc",
-        "nota": "Sin novedades confirmadas en la ventana. En X, 8 citas y ninguna pasó de 5,000 (máximo 3,716). Volvió a circular la grabación de 2022 sobre una supuesta amenaza en su contra y @RicardoBSalinas la citó."
+        "nota": "Sin novedades confirmadas. En X, 1 hit (11,843, el desfile), contra 2 (26,403)."
       },
       {
         "nombre": "Guadalupe Acosta Naranjo",
         "handle": "@acostanaranjo",
-        "nota": "Sin novedades nuevas (sus dichos sobre 2006 son del 17 nov y hoy se reciclan en medios). En X, 0 originales."
+        "nota": "Sin novedades nuevas (lo último es del 17 y 18 nov). En X, 0 originales."
       }
     ]
   },
   "leaderboards": {
-    "as_of": "2026-11-20",
+    "as_of": "2026-11-21",
     "tracking_start": "2026-10-26",
     "days_included": [
-      "2026-11-14",
       "2026-11-15",
       "2026-11-16",
       "2026-11-17",
       "2026-11-18",
       "2026-11-19",
-      "2026-11-20"
+      "2026-11-20",
+      "2026-11-21"
     ],
     "month_days_included": [
       "2026-11-01",
@@ -1799,68 +1974,69 @@
       "2026-11-17",
       "2026-11-18",
       "2026-11-19",
-      "2026-11-20"
+      "2026-11-20",
+      "2026-11-21"
     ],
     "week": {
       "label": "Semana",
       "range": [
-        "2026-11-14",
-        "2026-11-20"
+        "2026-11-15",
+        "2026-11-21"
       ],
       "entries": [
         {
           "handle": "@Claudiashein",
           "name": "Claudia Sheinbaum Pardo",
-          "hits": 19,
-          "days": 7,
-          "views": 6361320,
+          "hits": 17,
+          "days": 6,
+          "views": 6311008,
           "best": 1233596,
           "best_url": "https://x.com/Claudiashein/status/2122205377345605643"
         },
         {
           "handle": "@ricardobsalinas",
           "name": "Ricardo B. Salinas",
-          "hits": 24,
+          "hits": 23,
           "days": 7,
-          "views": 3372767,
-          "best": 502271,
-          "best_url": "https://x.com/RicardoBSalinas/status/2121418477357633663"
+          "views": 3113734,
+          "best": 434925,
+          "best_url": "https://x.com/RicardoBSalinas/status/2122733378323558640"
         },
         {
           "handle": "@m_ebrard",
           "name": "Marcelo Ebrard C.",
           "hits": 21,
           "days": 7,
-          "views": 1126794,
+          "views": 1124587,
           "best": 549841,
           "best_url": "https://x.com/m_ebrard/status/2123286834004496652"
         },
         {
           "handle": "@JorgeRoHe",
           "name": "Jorge Romero Herrera",
-          "hits": 40,
+          "hits": 37,
           "days": 7,
-          "views": 860444,
+          "views": 812249,
           "best": 173525,
           "best_url": "https://x.com/JorgeRoHe/status/2123247393944621490"
         },
         {
-          "handle": "@LillyTellez",
-          "name": "Lilly Téllez",
-          "hits": 11,
-          "days": 6,
-          "views": 379879,
-          "best": 127370,
-          "best_url": "https://x.com/LillyTellez/status/2121651510077763701"
-        },
-        {
           "handle": "@samuel_garcias",
           "name": "Samuel García",
-          "hits": 25,
+          "hits": 26,
           "days": 7,
-          "views": 246271,
-          "best": 18573,
-          "best_url": "https://x.com/samuel_garcias/status/2122015141772300402"
+          "views": 331146,
+          "best": 82144,
+          "best_url": "https://x.com/samuel_garcias/status/2123895607622541823"
+        },
+        {
+          "handle": "@LillyTellez",
+          "name": "Lilly Téllez",
+          "hits": 9,
+          "days": 5,
+          "views": 295397,
+          "best": 58401,
+          "best_url": "https://x.com/LillyTellez/status/2123895979975815219"
         },
         {
           "handle": "@OHarfuch",
@@ -1874,11 +2050,11 @@
         {
           "handle": "@alitomorenoc",
           "name": "Alejandro Moreno",
-          "hits": 10,
+          "hits": 12,
           "days": 5,
-          "views": 103379,
-          "best": 19206,
-          "best_url": "https://x.com/alitomorenoc/status/2121801993781977181"
+          "views": 198707,
+          "best": 45957,
+          "best_url": "https://x.com/alitomorenoc/status/2123882471574172148"
         }
       ]
     },
@@ -1886,15 +2062,15 @@
       "label": "Mes",
       "range": [
         "2026-11-01",
-        "2026-11-20"
+        "2026-11-21"
       ],
       "entries": [
         {
           "handle": "@ricardobsalinas",
           "name": "Ricardo B. Salinas",
-          "hits": 65,
-          "days": 19,
-          "views": 9812003,
+          "hits": 66,
+          "days": 20,
+          "views": 10119327,
           "best": 1760231,
           "best_url": "https://x.com/RicardoBSalinas/status/2120331518199447789"
         },
@@ -1903,16 +2079,16 @@
           "name": "Claudia Sheinbaum Pardo",
           "hits": 51,
           "days": 20,
-          "views": 9150774,
+          "views": 9365257,
           "best": 1233596,
           "best_url": "https://x.com/Claudiashein/status/2122205377345605643"
         },
         {
           "handle": "@JorgeRoHe",
           "name": "Jorge Romero Herrera",
-          "hits": 128,
-          "days": 20,
-          "views": 2525427,
+          "hits": 129,
+          "days": 21,
+          "views": 2544631,
           "best": 209875,
           "best_url": "https://x.com/JorgeRoHe/status/2120347226606067917"
         },
@@ -1921,7 +2097,7 @@
           "name": "Lilly Téllez",
           "hits": 42,
           "days": 16,
-          "views": 2421552,
+          "views": 2494112,
           "best": 362891,
           "best_url": "https://x.com/LillyTellez/status/2120337524786864251"
         },
@@ -1937,20 +2113,29 @@
         {
           "handle": "@m_ebrard",
           "name": "Marcelo Ebrard C.",
-          "hits": 43,
-          "days": 14,
-          "views": 1336317,
+          "hits": 44,
+          "days": 15,
+          "views": 1348801,
           "best": 549841,
           "best_url": "https://x.com/m_ebrard/status/2123286834004496652"
         },
         {
           "handle": "@samuel_garcias",
           "name": "Samuel García",
-          "hits": 71,
-          "days": 20,
-          "views": 872642,
+          "hits": 74,
+          "days": 21,
+          "views": 971239,
           "best": 109340,
           "best_url": "https://x.com/samuel_garcias/status/2117446693444571350"
+        },
+        {
+          "handle": "@alitomorenoc",
+          "name": "Alejandro Moreno",
+          "hits": 35,
+          "days": 17,
+          "views": 559385,
+          "best": 62409,
+          "best_url": "https://x.com/alitomorenoc/status/2117029935952826663"
         },
         {
           "handle": "@acostanaranjo",
@@ -1960,15 +2145,6 @@
           "views": 468540,
           "best": 249849,
           "best_url": "https://x.com/acostanaranjo/status/2120696928145203512"
-        },
-        {
-          "handle": "@alitomorenoc",
-          "name": "Alejandro Moreno",
-          "hits": 31,
-          "days": 16,
-          "views": 448873,
-          "best": 62409,
-          "best_url": "https://x.com/alitomorenoc/status/2117029935952826663"
         },
         {
           "handle": "@MaruCampos_G",

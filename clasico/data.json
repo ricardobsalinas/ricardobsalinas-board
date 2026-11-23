@@ -34,94 +34,44 @@
   "virals_window": "últimas 24 h",
   "virals_target": 20,
   "timezone": "America/Mexico_City",
-  "title": "Digest de la tarde en X — 2026-11-22",
-  "date": "2026-11-22",
-  "updated": "2026-11-22T16:58:48-06:00",
+  "title": "Digest de la mañana en X — 2026-11-23",
+  "date": "2026-11-23",
+  "updated": "2026-11-23T05:55:45-06:00",
   "hits": [
-    {
-      "id": "2124283461808660906",
-      "handle": "@Claudiashein",
-      "display_name": "Claudia Sheinbaum Pardo",
-      "name": "Claudia Sheinbaum Pardo",
-      "followers": 5265950,
-      "text": "Gira por Zacatecas este sábado 21 de noviembre. https://t.co/kHBIs2PxYz",
-      "original_en": "Gira por Zacatecas este sábado 21 de noviembre. https://t.co/kHBIs2PxYz",
-      "views": 88686,
-      "views_label": "88,686",
-      "likes": 2614,
-      "reposts": 773,
-      "replies": 333,
-      "quotes": 35,
-      "bookmarks": 49,
-      "url": "https://x.com/Claudiashein/status/2124283461808660906",
-      "status_url": "https://x.com/Claudiashein/status/2124283461808660906",
-      "created_local": "2026-11-21 17:26",
-      "created_at": "2026-11-21T23:26:59.000Z",
-      "posted_at": "2026-11-21T23:26:59.000Z",
-      "lang": "es",
-      "media": [
-        "video"
-      ],
-      "star": true,
-      "highlight": true,
-      "quote": false,
-      "top10_rank": 1,
-      "category": "Otros"
-    },
-    {
-      "id": "2124412588566134965",
-      "handle": "@RicardoBSalinas",
-      "display_name": "Don Ricardo Salinas Pliego",
-      "name": "Don Ricardo Salinas Pliego",
-      "followers": 2238473,
-      "text": "Wow no podría creerse https://t.co/Jpbz6Y54Gx",
-      "original_en": "Wow no podría creerse https://t.co/Jpbz6Y54Gx",
-      "views": 82363,
-      "views_label": "82,363",
-      "likes": 4263,
-      "reposts": 1230,
-      "replies": 75,
-      "quotes": 3,
-      "bookmarks": 42,
-      "url": "https://x.com/RicardoBSalinas/status/2124412588566134965",
-      "status_url": "https://x.com/RicardoBSalinas/status/2124412588566134965",
-      "created_local": "2026-11-22 02:00",
-      "created_at": "2026-11-22T08:00:05.000Z",
-      "posted_at": "2026-11-22T08:00:05.000Z",
-      "lang": "es",
-      "media": [],
-      "star": true,
-      "highlight": true,
-      "quote": true,
-      "top10_rank": 2,
-      "category": "Otros"
-    },
     {
       "id": "2124526744585617754",
       "handle": "@RicardoBSalinas",
       "display_name": "Don Ricardo Salinas Pliego",
       "name": "Don Ricardo Salinas Pliego",
-      "followers": 2238473,
-      "text": "La FGR abrió por fin una carpeta sobre la gestión de Guadalupe Taddei, pero hasta hoy no hay ninguna acción contra ella. Los mexicanos merecemos saber qué ocurrió en el INE durante la elección de 2024 y si se va a recuperar el dinero público.\n\nLo mismo con @rochamoya_ y el narco senador @InzunzaCazarez que a seis meses de la acusación de EE. UU., en México no sabemos nada de la investigación. \n\nSin justicia pareja no hay Estado de derecho, solo hay estado de chueco.",
-      "original_en": "La FGR abrió por fin una carpeta sobre la gestión de Guadalupe Taddei, pero hasta hoy no hay ninguna acción contra ella. Los mexicanos merecemos saber qué ocurrió en el INE durante la elección de 2024 y si se va a recuperar el dinero público.\n\nLo mismo con @rochamoya_ y el narco senador @InzunzaCazarez que a seis meses de la acusación de EE. UU., en México no sabemos nada de la investigación. \n\nSin justicia pareja no hay Estado de derecho, solo hay estado de chueco.",
-      "views": 48382,
-      "views_label": "48,382",
-      "likes": 3237,
-      "reposts": 1119,
-      "replies": 110,
-      "quotes": 6,
-      "bookmarks": 17,
+      "followers": 2238416,
+      "text": "La FGR abrió por fin una carpeta sobre la gestión de Guadalupe Taddei, pero hasta hoy no hay ninguna acción contra ella. Los mexicanos merecemos saber qué ocurrió en el INE durante la elección de 2024 y si se va a recuperar el dinero público.\n\nLo mismo con @rochamoya_ y el narco https://t.co/M0eZhbwLDf",
+      "original_en": "La FGR abrió por fin una carpeta sobre la gestión de Guadalupe Taddei, pero hasta hoy no hay ninguna acción contra ella. Los mexicanos merecemos saber qué ocurrió en el INE durante la elección de 2024 y si se va a recuperar el dinero público.\n\nLo mismo con @rochamoya_ y el narco https://t.co/M0eZhbwLDf",
+      "views": 84763,
+      "views_label": "84,763",
+      "likes": 6087,
+      "reposts": 2279,
+      "replies": 157,
+      "quotes": 14,
+      "bookmarks": 34,
       "url": "https://x.com/RicardoBSalinas/status/2124526744585617754",
       "status_url": "https://x.com/RicardoBSalinas/status/2124526744585617754",
       "created_local": "2026-11-22 09:33",
       "created_at": "2026-11-22T15:33:42.000Z",
       "posted_at": "2026-11-22T15:33:42.000Z",
-      "lang": "es",
+      "lang": null,
       "media": [],
       "star": true,
       "highlight": true,
       "quote": true,
-      "top10_rank": 3,
+      "draft_en": "Sin justicia pareja no hay confianza, y sin confianza no hay inversión ni empleo. Un país grande aplica la misma ley para todos, sin importar el cargo ni el apellido.\nEl Estado de derecho es la base de la libertad. ⚖️🇲🇽",
+      "video_tip": "Video vertical de 12 a 15 s: balanza de la justicia en primer plano, una mano que firma un documento y la fachada de un edificio público al amanecer. Rótulos grandes \"Misma ley\" · \"Para todos\" · \"Libertad\". Música sobria; sin personas públicas, partidos ni logotipos.",
+      "draft_keywords": [
+        "justicia pareja",
+        "Estado de derecho",
+        "confianza",
+        "libertad"
+      ],
+      "top10_rank": 1,
       "category": "Elecciones e INE"
     },
     {
@@ -132,13 +82,13 @@
       "followers": 188857,
       "text": "Carta a la presidenta @Claudiashein. https://t.co/KBCjE2JJuV",
       "original_en": "Carta a la presidenta @Claudiashein. https://t.co/KBCjE2JJuV",
-      "views": 28701,
-      "views_label": "28,701",
-      "likes": 655,
-      "reposts": 403,
-      "replies": 117,
-      "quotes": 36,
-      "bookmarks": 29,
+      "views": 81010,
+      "views_label": "81,010",
+      "likes": 1597,
+      "reposts": 960,
+      "replies": 198,
+      "quotes": 60,
+      "bookmarks": 72,
       "url": "https://x.com/acostanaranjo/status/2124560451182772237",
       "status_url": "https://x.com/acostanaranjo/status/2124560451182772237",
       "created_local": "2026-11-22 11:47",
@@ -153,65 +103,75 @@
       "star": true,
       "highlight": true,
       "quote": false,
-      "draft_en": "Carta abierta a quien sueña con emprender: empieza hoy, aunque sea pequeño. Los grandes negocios nacieron de una idea, una mesa y muchas ganas.\nAprende, tropieza, vuelve a intentar. La libertad se construye con trabajo y se defiende con el ejemplo. 🚀🇲🇽",
-      "video_tip": "Video vertical de 15 s con formato de carta: una mano escribe en un cuaderno mientras pasan escenas rápidas (un puesto que abre, un taller, una joven con su laptop); el texto aparece en letras blancas línea por línea y cierra con \"Empieza hoy\". Música optimista, sin nombres ni partidos.",
+      "draft_en": "Las grandes naciones no se construyen con monólogos, sino con diálogo. Escuchar al que piensa distinto no es debilidad: es liderazgo.\nInstituciones fuertes, voces libres y respeto: así se construye un México para todos. 🤝🇲🇽",
+      "video_tip": "Video vertical de 10 a 15 s: una mesa larga con sillas vacías que se van ocupando por gente diversa (obrero, estudiante, empresaria, campesino) y manos que se estrechan al final. Rótulos \"Diálogo\" · \"Respeto\" · \"Libertad\". Sin personas públicas, partidos ni logotipos.",
       "draft_keywords": [
-        "emprender",
-        "negocios",
+        "diálogo",
+        "instituciones",
         "libertad",
-        "trabajo"
+        "liderazgo"
       ],
-      "top10_rank": 4,
+      "top10_rank": 2,
       "category": "Economía y empleo"
     },
     {
-      "id": "2124365241697878154",
-      "handle": "@LillyTellez",
-      "display_name": "Lilly Téllez",
-      "name": "Lilly Téllez",
-      "followers": 1128795,
-      "text": "Ya salió mi noticiario de este fin de semana https://t.co/Ql0QtjRgPS https://t.co/rthCdbWtls",
-      "original_en": "Ya salió mi noticiario de este fin de semana https://t.co/Ql0QtjRgPS https://t.co/rthCdbWtls",
-      "views": 25199,
-      "views_label": "25,199",
-      "likes": 1459,
-      "reposts": 458,
-      "replies": 50,
-      "quotes": 2,
-      "bookmarks": 6,
-      "url": "https://x.com/LillyTellez/status/2124365241697878154",
-      "status_url": "https://x.com/LillyTellez/status/2124365241697878154",
-      "created_local": "2026-11-21 22:51",
-      "created_at": "2026-11-22T04:51:57.000Z",
-      "posted_at": "2026-11-22T04:51:57.000Z",
-      "lang": "es",
-      "media": [],
-      "star": true,
-      "highlight": true,
-      "quote": true,
-      "top10_rank": 5,
-      "category": "Otros"
-    },
-    {
-      "id": "2124375229614993655",
+      "id": "2124623815971860787",
       "handle": "@samuel_garcias",
       "display_name": "Samuel García",
       "name": "Samuel García",
       "followers": 444209,
-      "text": "Hoy, 8 de cada 10 neoleonesas y neoleoneses siguen confiando en lo NUEVO. Porque, a diferencia de la vieja política, nosotros en 5 años hemos demostrado que LO NUEVO CUMPLE. \n\nY este sexto y último año seguiremos jalando IMPARABLES, consolidando al nuevo Nuevo León. ¡Ánimo! 🦁👊🏻 https://t.co/fbEELCkG9i",
-      "original_en": "Hoy, 8 de cada 10 neoleonesas y neoleoneses siguen confiando en lo NUEVO. Porque, a diferencia de la vieja política, nosotros en 5 años hemos demostrado que LO NUEVO CUMPLE. \n\nY este sexto y último año seguiremos jalando IMPARABLES, consolidando al nuevo Nuevo León. ¡Ánimo! 🦁👊🏻 https://t.co/fbEELCkG9i",
-      "views": 18717,
-      "views_label": "18,717",
-      "likes": 40,
-      "reposts": 3,
-      "replies": 90,
-      "quotes": 3,
-      "bookmarks": 3,
-      "url": "https://x.com/samuel_garcias/status/2124375229614993655",
-      "status_url": "https://x.com/samuel_garcias/status/2124375229614993655",
-      "created_local": "2026-11-21 23:31",
-      "created_at": "2026-11-22T05:31:38.000Z",
-      "posted_at": "2026-11-22T05:31:38.000Z",
+      "text": "Previo a la presentación de resultados de estos 5 años, @marrdzcantu y su servidor aprovechamos la oportunidad para mostrar a autoridades todo el trabajo que hemos hecho en el NUEVO DIF CAPULLOS.\n\nHoy las niñas y niños tienen un espacio más digno y, lo más importante, ya llegamos https://t.co/TXimrFLYBa",
+      "original_en": "Previo a la presentación de resultados de estos 5 años, @marrdzcantu y su servidor aprovechamos la oportunidad para mostrar a autoridades todo el trabajo que hemos hecho en el NUEVO DIF CAPULLOS.\n\nHoy las niñas y niños tienen un espacio más digno y, lo más importante, ya llegamos https://t.co/TXimrFLYBa",
+      "views": 54597,
+      "views_label": "54,597",
+      "likes": 96,
+      "reposts": 7,
+      "replies": 55,
+      "quotes": 5,
+      "bookmarks": 4,
+      "url": "https://x.com/samuel_garcias/status/2124623815971860787",
+      "status_url": "https://x.com/samuel_garcias/status/2124623815971860787",
+      "created_local": "2026-11-22 15:59",
+      "created_at": "2026-11-22T21:59:25.000Z",
+      "posted_at": "2026-11-22T21:59:25.000Z",
+      "lang": null,
+      "media": [
+        "photo",
+        "photo",
+        "photo",
+        "photo",
+        "photo",
+        "photo",
+        "photo",
+        "photo",
+        "photo"
+      ],
+      "star": true,
+      "highlight": true,
+      "quote": false,
+      "top10_rank": 3,
+      "category": "Motivación y liderazgo"
+    },
+    {
+      "id": "2124534464466321781",
+      "handle": "@LillyTellez",
+      "display_name": "Lilly Téllez",
+      "name": "Lilly Téllez",
+      "followers": 1128795,
+      "text": "Ya salió mi noticiario de este fin de semana:\nhttps://t.co/Ql0QtjRgPS https://t.co/nEhy85n8YL",
+      "original_en": "Ya salió mi noticiario de este fin de semana:\nhttps://t.co/Ql0QtjRgPS https://t.co/nEhy85n8YL",
+      "views": 22018,
+      "views_label": "22,018",
+      "likes": 1764,
+      "reposts": 480,
+      "replies": 102,
+      "quotes": 4,
+      "bookmarks": 9,
+      "url": "https://x.com/LillyTellez/status/2124534464466321781",
+      "status_url": "https://x.com/LillyTellez/status/2124534464466321781",
+      "created_local": "2026-11-22 10:04",
+      "created_at": "2026-11-22T16:04:22.000Z",
+      "posted_at": "2026-11-22T16:04:22.000Z",
       "lang": null,
       "media": [
         "video"
@@ -219,16 +179,36 @@
       "star": true,
       "highlight": true,
       "quote": false,
-      "draft_en": "Liderar es cumplir: se mide en hechos, no en discursos. Empleos que se crean, calles donde se vive con tranquilidad, familias que salen adelante.\nCuentas claras y resultados a la vista: así se gana la confianza. 🇲🇽",
-      "video_tip": "Video de 15 s con cortes limpios: una obra terminada, un taller con las luces prendidas, una calle iluminada de noche, una familia que cena; rótulos \"Hechos\" · \"Cuentas claras\" · \"Confianza\". Sin logotipos, cifras inventadas ni personas públicas.",
-      "draft_keywords": [
-        "liderazgo",
-        "resultados",
-        "cuentas claras",
-        "confianza"
-      ],
-      "top10_rank": 6,
-      "category": "Gobierno y políticas públicas"
+      "top10_rank": 4,
+      "category": "Otros"
+    },
+    {
+      "id": "2124587658609397845",
+      "handle": "@LillyTellez",
+      "display_name": "Lilly Téllez",
+      "name": "Lilly Téllez",
+      "followers": 1128795,
+      "text": "Absolutamente de acuerdo ☝️ https://t.co/ysI1p6tMMr",
+      "original_en": "Absolutamente de acuerdo ☝️ https://t.co/ysI1p6tMMr",
+      "views": 21032,
+      "views_label": "21,032",
+      "likes": 644,
+      "reposts": 75,
+      "replies": 17,
+      "quotes": 0,
+      "bookmarks": 14,
+      "url": "https://x.com/LillyTellez/status/2124587658609397845",
+      "status_url": "https://x.com/LillyTellez/status/2124587658609397845",
+      "created_local": "2026-11-22 13:35",
+      "created_at": "2026-11-22T19:35:45.000Z",
+      "posted_at": "2026-11-22T19:35:45.000Z",
+      "lang": null,
+      "media": [],
+      "star": true,
+      "highlight": true,
+      "quote": true,
+      "top10_rank": 5,
+      "category": "Otros"
     },
     {
       "id": "2124527217874993636",
@@ -238,11 +218,11 @@
       "followers": 105564,
       "text": "En @AccionNacional propusimos que puedas deducir todos tus gastos médicos, dentales y educativos con factura. \n\n¡Tu dinero debe rendir más! Hay #SolucionesParaMéxico. https://t.co/xlVRP8ULc8",
       "original_en": "En @AccionNacional propusimos que puedas deducir todos tus gastos médicos, dentales y educativos con factura. \n\n¡Tu dinero debe rendir más! Hay #SolucionesParaMéxico. https://t.co/xlVRP8ULc8",
-      "views": 18129,
-      "views_label": "18,129",
-      "likes": 245,
-      "reposts": 91,
-      "replies": 11,
+      "views": 18378,
+      "views_label": "18,378",
+      "likes": 249,
+      "reposts": 94,
+      "replies": 13,
       "quotes": 0,
       "bookmarks": 0,
       "url": "https://x.com/JorgeRoHe/status/2124527217874993636",
@@ -250,23 +230,53 @@
       "created_local": "2026-11-22 09:35",
       "created_at": "2026-11-22T15:35:35.000Z",
       "posted_at": "2026-11-22T15:35:35.000Z",
-      "lang": "es",
+      "lang": null,
       "media": [
         "photo"
       ],
       "star": true,
       "highlight": true,
       "quote": false,
-      "draft_en": "Que tu dinero rinda más es una forma de libertad. Lo que ganas con tu trabajo debe ayudar a tu familia a vivir mejor, no perderse en el camino.\nUn país próspero cuida el bolsillo de quien trabaja y premia a quien se esfuerza. 💪🇲🇽",
-      "video_tip": "Video vertical de 15 s, cálido y sin cifras: unas manos que cuentan monedas, una familia en la mesa, un papá que paga una cuenta desde el celular y sonríe; rótulos \"Trabaja\" · \"Ahorra\" · \"Prospera\". Sin críticas, partidos ni personas públicas.",
+      "draft_en": "Cada peso que una familia invierte en la salud y la educación de sus hijos es una inversión en México. Ese esfuerzo merece rendir más.\nAprender, innovar y emprender: así se construye la prosperidad. 💡🇲🇽",
+      "video_tip": "Video vertical de 15 s: una mamá revisa la tarea con su hijo, una consulta médica sencilla, una alcancía que se llena y, al final, ese mismo joven ya grande en un taller o laboratorio. Rótulos \"Salud\" · \"Educación\" · \"Innovación\". Sin personas públicas, partidos ni logotipos.",
       "draft_keywords": [
-        "dinero",
-        "libertad",
-        "familia",
-        "trabajo"
+        "familias",
+        "educación",
+        "innovación",
+        "prosperidad"
       ],
-      "top10_rank": 7,
+      "top10_rank": 6,
       "category": "Economía y empleo"
+    },
+    {
+      "id": "2124704565216047320",
+      "handle": "@m_ebrard",
+      "display_name": "Marcelo Ebrard C.",
+      "name": "Marcelo Ebrard C.",
+      "followers": 2709527,
+      "text": "China y la innovación https://t.co/ADfwpFUkb7",
+      "original_en": "China y la innovación https://t.co/ADfwpFUkb7",
+      "views": 14597,
+      "views_label": "14,597",
+      "likes": 505,
+      "reposts": 128,
+      "replies": 27,
+      "quotes": 3,
+      "bookmarks": 25,
+      "url": "https://x.com/m_ebrard/status/2124704565216047320",
+      "status_url": "https://x.com/m_ebrard/status/2124704565216047320",
+      "created_local": "2026-11-22 21:20",
+      "created_at": "2026-11-23T03:20:18.000Z",
+      "posted_at": "2026-11-23T03:20:18.000Z",
+      "lang": null,
+      "media": [
+        "video"
+      ],
+      "star": true,
+      "highlight": true,
+      "quote": false,
+      "top10_rank": 7,
+      "category": "Internacional"
     },
     {
       "id": "2124529087129722939",
@@ -276,11 +286,11 @@
       "followers": 105564,
       "text": "¡Muchas felicidades, @AgsMoniBecerra!\n\nMe da mucho gusto coincidir contigo y compartir el compromiso de trabajar por Aguascalientes y por México. Espero que hoy tengas un gran día, rodeada de mucho cariño. \n\n¡Un abrazo! https://t.co/Ay60RnWfYI",
       "original_en": "¡Muchas felicidades, @AgsMoniBecerra!\n\nMe da mucho gusto coincidir contigo y compartir el compromiso de trabajar por Aguascalientes y por México. Espero que hoy tengas un gran día, rodeada de mucho cariño. \n\n¡Un abrazo! https://t.co/Ay60RnWfYI",
-      "views": 13887,
-      "views_label": "13,887",
-      "likes": 279,
-      "reposts": 87,
-      "replies": 11,
+      "views": 14112,
+      "views_label": "14,112",
+      "likes": 268,
+      "reposts": 80,
+      "replies": 12,
       "quotes": 0,
       "bookmarks": 0,
       "url": "https://x.com/JorgeRoHe/status/2124529087129722939",
@@ -288,7 +298,7 @@
       "created_local": "2026-11-22 09:43",
       "created_at": "2026-11-22T15:43:00.000Z",
       "posted_at": "2026-11-22T15:43:00.000Z",
-      "lang": "es",
+      "lang": null,
       "media": [
         "photo"
       ],
@@ -299,183 +309,37 @@
       "category": "Motivación y liderazgo"
     },
     {
-      "id": "2124288966434120014",
-      "handle": "@JorgeRoHe",
-      "display_name": "Jorge Romero Herrera",
-      "name": "Jorge Romero Herrera",
-      "followers": 105564,
-      "text": "Ayer en Nayarit tuvimos una jornada de mucho trabajo. Recorrimos las calles de Tepic, escuchamos a su gente y acompañamos a @IvidelizaR en la presentación de su informe de resultados como senadora.\n\n¡Gracias por recibirnos con tanto cariño! Seguimos trabajando por México. https://t.co/TA08U6gSGq",
-      "original_en": "Ayer en Nayarit tuvimos una jornada de mucho trabajo. Recorrimos las calles de Tepic, escuchamos a su gente y acompañamos a @IvidelizaR en la presentación de su informe de resultados como senadora.\n\n¡Gracias por recibirnos con tanto cariño! Seguimos trabajando por México. https://t.co/TA08U6gSGq",
-      "views": 13767,
-      "views_label": "13,767",
-      "likes": 237,
-      "reposts": 94,
-      "replies": 14,
-      "quotes": 0,
-      "bookmarks": 0,
-      "url": "https://x.com/JorgeRoHe/status/2124288966434120014",
-      "status_url": "https://x.com/JorgeRoHe/status/2124288966434120014",
-      "created_local": "2026-11-21 17:48",
-      "created_at": "2026-11-21T23:48:51.000Z",
-      "posted_at": "2026-11-21T23:48:51.000Z",
+      "id": "2124662562339889380",
+      "handle": "@samuel_garcias",
+      "display_name": "Samuel García",
+      "name": "Samuel García",
+      "followers": 444209,
+      "text": "Estos 5 años trabajando por un nuevo Nuevo León no serían lo mismo sin el apoyo incondicional de @marrdzcantu, de mis padres y mi familia. Muchas gracias por siempre estar ahí. https://t.co/XPlIIGtwdl",
+      "original_en": "Estos 5 años trabajando por un nuevo Nuevo León no serían lo mismo sin el apoyo incondicional de @marrdzcantu, de mis padres y mi familia. Muchas gracias por siempre estar ahí. https://t.co/XPlIIGtwdl",
+      "views": 10507,
+      "views_label": "10,507",
+      "likes": 52,
+      "reposts": 3,
+      "replies": 105,
+      "quotes": 2,
+      "bookmarks": 2,
+      "url": "https://x.com/samuel_garcias/status/2124662562339889380",
+      "status_url": "https://x.com/samuel_garcias/status/2124662562339889380",
+      "created_local": "2026-11-22 18:33",
+      "created_at": "2026-11-23T00:33:23.000Z",
+      "posted_at": "2026-11-23T00:33:23.000Z",
       "lang": null,
       "media": [
-        "video"
+        "photo"
       ],
       "star": true,
       "highlight": true,
       "quote": false,
       "top10_rank": 9,
-      "category": "Gobierno y políticas públicas"
-    },
-    {
-      "id": "2124363911742861554",
-      "handle": "@samuel_garcias",
-      "display_name": "Samuel García",
-      "name": "Samuel García",
-      "followers": 444209,
-      "text": "Un año más de jalar todos los días por Nuevo León, de victorias, retos, situaciones difíciles, pero siempre juntos. \n\nGracias Mariana, por el apoyo  incondicional, los consejos y sobre todo por trabajar día y noche por las niñas y niños, las mujeres y por ser parte de la https://t.co/aJE7UNov5X",
-      "original_en": "Un año más de jalar todos los días por Nuevo León, de victorias, retos, situaciones difíciles, pero siempre juntos. \n\nGracias Mariana, por el apoyo  incondicional, los consejos y sobre todo por trabajar día y noche por las niñas y niños, las mujeres y por ser parte de la https://t.co/aJE7UNov5X",
-      "views": 12119,
-      "views_label": "12,119",
-      "likes": 76,
-      "reposts": 5,
-      "replies": 86,
-      "quotes": 3,
-      "bookmarks": 3,
-      "url": "https://x.com/samuel_garcias/status/2124363911742861554",
-      "status_url": "https://x.com/samuel_garcias/status/2124363911742861554",
-      "created_local": "2026-11-21 22:46",
-      "created_at": "2026-11-22T04:46:39.000Z",
-      "posted_at": "2026-11-22T04:46:39.000Z",
-      "lang": null,
-      "media": [
-        "photo",
-        "photo",
-        "photo"
-      ],
-      "star": true,
-      "highlight": true,
-      "quote": false,
-      "top10_rank": 10,
       "category": "Otros"
-    },
-    {
-      "id": "2124534464466321781",
-      "handle": "@LillyTellez",
-      "display_name": "Lilly Téllez",
-      "name": "Lilly Téllez",
-      "followers": 1128795,
-      "text": "Ya salió mi noticiario de este fin de semana:\nhttps://t.co/Ql0QtjRgPS https://t.co/nEhy85n8YL",
-      "original_en": "Ya salió mi noticiario de este fin de semana:\nhttps://t.co/Ql0QtjRgPS https://t.co/nEhy85n8YL",
-      "views": 11916,
-      "views_label": "11,916",
-      "likes": 844,
-      "reposts": 213,
-      "replies": 49,
-      "quotes": 0,
-      "bookmarks": 6,
-      "url": "https://x.com/LillyTellez/status/2124534464466321781",
-      "status_url": "https://x.com/LillyTellez/status/2124534464466321781",
-      "created_local": "2026-11-22 10:04",
-      "created_at": "2026-11-22T16:04:22.000Z",
-      "posted_at": "2026-11-22T16:04:22.000Z",
-      "lang": "es",
-      "media": [
-        "video"
-      ],
-      "star": true,
-      "highlight": true,
-      "quote": false,
-      "category": "Otros"
-    },
-    {
-      "id": "2124279709831959014",
-      "handle": "@m_ebrard",
-      "display_name": "Marcelo Ebrard C.",
-      "name": "Marcelo Ebrard C.",
-      "followers": 2709527,
-      "text": "Ya viene InnovaFest Morelos en Cuernavaca el próximo 10 de diciembre . Encuentro de talentos , premios nobel, emprendedores , inversionistas y funcionarios a cargo de la economía. Ven , es para ti !! https://t.co/6RWMSmSLOj",
-      "original_en": "Ya viene InnovaFest Morelos en Cuernavaca el próximo 10 de diciembre . Encuentro de talentos , premios nobel, emprendedores , inversionistas y funcionarios a cargo de la economía. Ven , es para ti !! https://t.co/6RWMSmSLOj",
-      "views": 10437,
-      "views_label": "10,437",
-      "likes": 268,
-      "reposts": 70,
-      "replies": 15,
-      "quotes": 6,
-      "bookmarks": 0,
-      "url": "https://x.com/m_ebrard/status/2124279709831959014",
-      "status_url": "https://x.com/m_ebrard/status/2124279709831959014",
-      "created_local": "2026-11-21 17:12",
-      "created_at": "2026-11-21T23:12:04.000Z",
-      "posted_at": "2026-11-21T23:12:04.000Z",
-      "lang": null,
-      "media": [
-        "video"
-      ],
-      "star": true,
-      "highlight": true,
-      "quote": false,
-      "category": "Economía y empleo"
-    },
-    {
-      "id": "2124587658609397845",
-      "handle": "@LillyTellez",
-      "display_name": "Lilly Téllez",
-      "name": "Lilly Téllez",
-      "followers": 1128795,
-      "text": "Absolutamente de acuerdo ☝️ https://t.co/ysI1p6tMMr",
-      "original_en": "Absolutamente de acuerdo ☝️ https://t.co/ysI1p6tMMr",
-      "views": 7272,
-      "views_label": "7,272",
-      "likes": 192,
-      "reposts": 26,
-      "replies": 5,
-      "quotes": 0,
-      "bookmarks": 4,
-      "url": "https://x.com/LillyTellez/status/2124587658609397845",
-      "status_url": "https://x.com/LillyTellez/status/2124587658609397845",
-      "created_local": "2026-11-22 13:35",
-      "created_at": "2026-11-22T19:35:45.000Z",
-      "posted_at": "2026-11-22T19:35:45.000Z",
-      "lang": "es",
-      "media": [],
-      "star": false,
-      "highlight": false,
-      "quote": true,
-      "category": "Otros"
-    },
-    {
-      "id": "2124323353603289275",
-      "handle": "@samuel_garcias",
-      "display_name": "Samuel García",
-      "name": "Samuel García",
-      "followers": 444209,
-      "text": "Nuevo León, a 5 años de gobierno, demostramos que LO NUEVO CUMPLE. https://t.co/ElycDokWfs",
-      "original_en": "Nuevo León, a 5 años de gobierno, demostramos que LO NUEVO CUMPLE. https://t.co/ElycDokWfs",
-      "views": 5661,
-      "views_label": "5,661",
-      "likes": 67,
-      "reposts": 6,
-      "replies": 54,
-      "quotes": 0,
-      "bookmarks": 1,
-      "url": "https://x.com/samuel_garcias/status/2124323353603289275",
-      "status_url": "https://x.com/samuel_garcias/status/2124323353603289275",
-      "created_local": "2026-11-21 20:05",
-      "created_at": "2026-11-22T02:05:30.000Z",
-      "posted_at": "2026-11-22T02:05:30.000Z",
-      "lang": null,
-      "media": [
-        "photo"
-      ],
-      "star": false,
-      "highlight": false,
-      "quote": false,
-      "category": "Gobierno y políticas públicas"
     }
   ],
-  "hits_count": 14,
+  "hits_count": 9,
   "virals": [],
   "outsiders": [],
   "outsiders_count": 0,
@@ -484,107 +348,100 @@
       "handle": "@RicardoBSalinas",
       "name": "Don Ricardo Salinas Pliego",
       "display_name": "Don Ricardo Salinas Pliego",
-      "hits": 2,
-      "total": 130745,
-      "views": 130745,
-      "best": 82363,
-      "best_url": "https://x.com/RicardoBSalinas/status/2124412588566134965",
-      "posts": 2,
-      "rank": 1
-    },
-    {
-      "handle": "@Claudiashein",
-      "name": "Claudia Sheinbaum Pardo",
-      "display_name": "Claudia Sheinbaum Pardo",
       "hits": 1,
-      "total": 88686,
-      "views": 88686,
-      "best": 88686,
-      "best_url": "https://x.com/Claudiashein/status/2124283461808660906",
+      "total": 84763,
+      "views": 84763,
+      "best": 84763,
+      "best_url": "https://x.com/RicardoBSalinas/status/2124526744585617754",
       "posts": 1,
-      "rank": 2
-    },
-    {
-      "handle": "@JorgeRoHe",
-      "name": "Jorge Romero Herrera",
-      "display_name": "Jorge Romero Herrera",
-      "hits": 3,
-      "total": 45783,
-      "views": 45783,
-      "best": 18129,
-      "best_url": "https://x.com/JorgeRoHe/status/2124527217874993636",
-      "posts": 3,
-      "rank": 3
-    },
-    {
-      "handle": "@LillyTellez",
-      "name": "Lilly Téllez",
-      "display_name": "Lilly Téllez",
-      "hits": 3,
-      "total": 44387,
-      "views": 44387,
-      "best": 25199,
-      "best_url": "https://x.com/LillyTellez/status/2124365241697878154",
-      "posts": 3,
-      "rank": 4
-    },
-    {
-      "handle": "@samuel_garcias",
-      "name": "Samuel García",
-      "display_name": "Samuel García",
-      "hits": 3,
-      "total": 36497,
-      "views": 36497,
-      "best": 18717,
-      "best_url": "https://x.com/samuel_garcias/status/2124375229614993655",
-      "posts": 3,
-      "rank": 5
+      "rank": 1
     },
     {
       "handle": "@acostanaranjo",
       "name": "Guadalupe Acosta Naranjo",
       "display_name": "Guadalupe Acosta Naranjo",
       "hits": 1,
-      "total": 28701,
-      "views": 28701,
-      "best": 28701,
+      "total": 81010,
+      "views": 81010,
+      "best": 81010,
       "best_url": "https://x.com/acostanaranjo/status/2124560451182772237",
       "posts": 1,
-      "rank": 6
+      "rank": 2
+    },
+    {
+      "handle": "@samuel_garcias",
+      "name": "Samuel García",
+      "display_name": "Samuel García",
+      "hits": 2,
+      "total": 65104,
+      "views": 65104,
+      "best": 54597,
+      "best_url": "https://x.com/samuel_garcias/status/2124623815971860787",
+      "posts": 2,
+      "rank": 3
+    },
+    {
+      "handle": "@LillyTellez",
+      "name": "Lilly Téllez",
+      "display_name": "Lilly Téllez",
+      "hits": 2,
+      "total": 43050,
+      "views": 43050,
+      "best": 22018,
+      "best_url": "https://x.com/LillyTellez/status/2124534464466321781",
+      "posts": 2,
+      "rank": 4
+    },
+    {
+      "handle": "@JorgeRoHe",
+      "name": "Jorge Romero Herrera",
+      "display_name": "Jorge Romero Herrera",
+      "hits": 2,
+      "total": 32490,
+      "views": 32490,
+      "best": 18378,
+      "best_url": "https://x.com/JorgeRoHe/status/2124527217874993636",
+      "posts": 2,
+      "rank": 5
     },
     {
       "handle": "@m_ebrard",
       "name": "Marcelo Ebrard C.",
       "display_name": "Marcelo Ebrard C.",
       "hits": 1,
-      "total": 10437,
-      "views": 10437,
-      "best": 10437,
-      "best_url": "https://x.com/m_ebrard/status/2124279709831959014",
+      "total": 14597,
+      "views": 14597,
+      "best": 14597,
+      "best_url": "https://x.com/m_ebrard/status/2124704565216047320",
       "posts": 1,
-      "rank": 7
+      "rank": 6
     }
   ],
   "you_rank": {
     "rank": 1,
-    "of": 7,
+    "of": 6,
     "handle": "@RicardoBSalinas",
-    "hits": 2,
-    "total": 130745,
-    "best": 82363,
-    "best_url": "https://x.com/RicardoBSalinas/status/2124412588566134965",
-    "best_views": 82363,
-    "total_views": 130745,
+    "hits": 1,
+    "total": 84763,
+    "best": 84763,
+    "best_url": "https://x.com/RicardoBSalinas/status/2124526744585617754",
+    "best_views": 84763,
+    "total_views": 84763,
     "rank_among_watchlist": 1,
-    "total_accounts": 7,
+    "total_accounts": 6,
     "vs_5k": "done",
     "vs_10k": "done"
   },
   "no_hits": [
     {
       "handle": "@MaruCampos_G",
-      "reason": "1 post(s) original(es) en 24 h; máximo 459 vistas.",
-      "max_views": 459
+      "reason": "1 post(s) original(es) en 24 h; máximo 720 vistas.",
+      "max_views": 720
+    },
+    {
+      "handle": "@Claudiashein",
+      "reason": "Sin posts originales en las últimas 24 h.",
+      "max_views": 0
     },
     {
       "handle": "@OHarfuch",
@@ -593,141 +450,142 @@
     },
     {
       "handle": "@alitomorenoc",
-      "reason": "11 post(s) original(es) en 24 h; máximo 1,314 vistas.",
-      "max_views": 1314
+      "reason": "16 post(s) original(es) en 24 h; máximo 2,314 vistas.",
+      "max_views": 2314
     }
   ],
   "previous_day": {
-    "date": "2026-11-22 (corte 06:00)",
-    "hits_count": 26,
-    "total_views": 3311087
+    "date": "2026-11-22 (corte 17:00)",
+    "hits_count": 14,
+    "total_views": 385236
   },
   "trend_input_only_posts": [],
   "trend_input_only": [],
   "drafts_top10": [
     {
-      "rank": 4,
+      "rank": 1,
+      "handle": "@RicardoBSalinas",
+      "url": "https://x.com/RicardoBSalinas/status/2124526744585617754",
+      "draft_en": "Sin justicia pareja no hay confianza, y sin confianza no hay inversión ni empleo. Un país grande aplica la misma ley para todos, sin importar el cargo ni el apellido.\nEl Estado de derecho es la base de la libertad. ⚖️🇲🇽",
+      "video_tip": "Video vertical de 12 a 15 s: balanza de la justicia en primer plano, una mano que firma un documento y la fachada de un edificio público al amanecer. Rótulos grandes \"Misma ley\" · \"Para todos\" · \"Libertad\". Música sobria; sin personas públicas, partidos ni logotipos.",
+      "keywords": [
+        "justicia pareja",
+        "Estado de derecho",
+        "confianza",
+        "libertad"
+      ]
+    },
+    {
+      "rank": 2,
       "handle": "@acostanaranjo",
       "url": "https://x.com/acostanaranjo/status/2124560451182772237",
-      "draft_en": "Carta abierta a quien sueña con emprender: empieza hoy, aunque sea pequeño. Los grandes negocios nacieron de una idea, una mesa y muchas ganas.\nAprende, tropieza, vuelve a intentar. La libertad se construye con trabajo y se defiende con el ejemplo. 🚀🇲🇽",
-      "video_tip": "Video vertical de 15 s con formato de carta: una mano escribe en un cuaderno mientras pasan escenas rápidas (un puesto que abre, un taller, una joven con su laptop); el texto aparece en letras blancas línea por línea y cierra con \"Empieza hoy\". Música optimista, sin nombres ni partidos.",
+      "draft_en": "Las grandes naciones no se construyen con monólogos, sino con diálogo. Escuchar al que piensa distinto no es debilidad: es liderazgo.\nInstituciones fuertes, voces libres y respeto: así se construye un México para todos. 🤝🇲🇽",
+      "video_tip": "Video vertical de 10 a 15 s: una mesa larga con sillas vacías que se van ocupando por gente diversa (obrero, estudiante, empresaria, campesino) y manos que se estrechan al final. Rótulos \"Diálogo\" · \"Respeto\" · \"Libertad\". Sin personas públicas, partidos ni logotipos.",
       "keywords": [
-        "emprender",
-        "negocios",
+        "diálogo",
+        "instituciones",
         "libertad",
-        "trabajo"
+        "liderazgo"
       ]
     },
     {
       "rank": 6,
-      "handle": "@samuel_garcias",
-      "url": "https://x.com/samuel_garcias/status/2124375229614993655",
-      "draft_en": "Liderar es cumplir: se mide en hechos, no en discursos. Empleos que se crean, calles donde se vive con tranquilidad, familias que salen adelante.\nCuentas claras y resultados a la vista: así se gana la confianza. 🇲🇽",
-      "video_tip": "Video de 15 s con cortes limpios: una obra terminada, un taller con las luces prendidas, una calle iluminada de noche, una familia que cena; rótulos \"Hechos\" · \"Cuentas claras\" · \"Confianza\". Sin logotipos, cifras inventadas ni personas públicas.",
-      "keywords": [
-        "liderazgo",
-        "resultados",
-        "cuentas claras",
-        "confianza"
-      ]
-    },
-    {
-      "rank": 7,
       "handle": "@JorgeRoHe",
       "url": "https://x.com/JorgeRoHe/status/2124527217874993636",
-      "draft_en": "Que tu dinero rinda más es una forma de libertad. Lo que ganas con tu trabajo debe ayudar a tu familia a vivir mejor, no perderse en el camino.\nUn país próspero cuida el bolsillo de quien trabaja y premia a quien se esfuerza. 💪🇲🇽",
-      "video_tip": "Video vertical de 15 s, cálido y sin cifras: unas manos que cuentan monedas, una familia en la mesa, un papá que paga una cuenta desde el celular y sonríe; rótulos \"Trabaja\" · \"Ahorra\" · \"Prospera\". Sin críticas, partidos ni personas públicas.",
+      "draft_en": "Cada peso que una familia invierte en la salud y la educación de sus hijos es una inversión en México. Ese esfuerzo merece rendir más.\nAprender, innovar y emprender: así se construye la prosperidad. 💡🇲🇽",
+      "video_tip": "Video vertical de 15 s: una mamá revisa la tarea con su hijo, una consulta médica sencilla, una alcancía que se llena y, al final, ese mismo joven ya grande en un taller o laboratorio. Rótulos \"Salud\" · \"Educación\" · \"Innovación\". Sin personas públicas, partidos ni logotipos.",
       "keywords": [
-        "dinero",
-        "libertad",
-        "familia",
-        "trabajo"
+        "familias",
+        "educación",
+        "innovación",
+        "prosperidad"
       ]
     }
   ],
   "last24h": {
-    "start": "2026-11-21T22:55:00Z",
-    "end": "2026-11-22T22:55:00Z"
+    "start": "2026-11-22T11:45:00Z",
+    "end": "2026-11-23T11:50:00Z"
   },
-  "virals_narrative": "Ventana: del 21 nov, 4:55 p.m. al 22 nov, 4:55 p.m. (hora del centro de México). 31 posts originales revisados (sin respuestas ni reposts) de 10 cuentas (@OHarfuch sin originales en la ventana); 14 superaron 5,000 vistas y 12 pasaron de 10,000. Sin publicación arriba de 5,000: @MaruCampos_G (1 post(s) original(es) en 24 h; máximo 459 vistas.), @OHarfuch (Sin posts originales en las últimas 24 h.), @alitomorenoc (11 post(s) original(es) en 24 h; máximo 1,314 vistas.). Sin sección Rivales nueva (corrida de la tarde; se conserva la de la mañana).",
+  "virals_narrative": "Ventana: del 22 nov, 5:45 a.m. al 23 nov, 5:45 a.m. (hora del centro de México). 31 posts originales revisados (sin respuestas ni reposts) de 10 cuentas (@Claudiashein y @OHarfuch sin originales en la ventana); 9 superaron 5,000 vistas y 9 pasaron de 10,000; 6 ya estaban en el corte de ayer 5:00 p.m. (no se cuentan doble en semana/mes). Sin publicación arriba de 5,000: @MaruCampos_G (1 post(s) original(es) en 24 h; máximo 720 vistas.), @Claudiashein (Sin posts originales en las últimas 24 h.), @OHarfuch (Sin posts originales en las últimas 24 h.), @alitomorenoc (16 post(s) original(es) en 24 h; máximo 2,314 vistas.).",
   "patterns": [
-    "Video corto de gira con una sola línea: @Claudiashein 88,686",
-    "Lema y resultado con cifra (informe): @samuel_garcias \"8 de cada 10… LO NUEVO CUMPLE\" 18,717",
-    "Propuesta de bolsillo con imagen: @JorgeRoHe deducir gastos médicos, dentales y educativos 18,129",
-    "Carta en imagen sin texto largo: @acostanaranjo 28,701",
-    "Noticiario semanal repetido: @LillyTellez 25,199 y 11,916",
-    "Cita de justicia y rendición de cuentas: @RicardoBSalinas 48,382",
-    "Citas en serie de actos de partido no despegan: @alitomorenoc 11 citas, máximo 1,314"
+    "Justicia pareja y Estado de derecho sobre un tema de coyuntura: @RicardoBSalinas, FGR e INE, 84,763 (riesgo: \"narco senador\" a una persona con nombre)",
+    "Carta abierta en imágenes, en primera persona y dirigida a la Presidenta: @acostanaranjo, 81,010",
+    "Niñez y familia con fotos de obra terminada: @samuel_garcias, DIF Capullos, 54,597",
+    "Propuesta económica de bolsillo con foto y hashtag: @JorgeRoHe, deducir gastos médicos y educativos, 18,378",
+    "Noticiario propio en video de fin de semana: @LillyTellez, 22,018",
+    "Cita breve de apoyo (\"Absolutamente de acuerdo\"): @LillyTellez, 21,032",
+    "Innovación y China en video corto: @m_ebrard, 14,597",
+    "Ráfagas de citas de gira y avisos sin gancho no despegan: @alitomorenoc 16 citas, máximo 2,314; @MaruCampos_G 720"
   ],
-  "narrative_synthesis": "Domingo de pocas publicaciones grandes: el día de seguridad quedó atrás (@OHarfuch no publicó originales después de las 4:55 p.m. del sábado) y lo más visto es un video de gira de @Claudiashein (88,686). @RicardoBSalinas publicó solo 1 original nueva (cita sobre la FGR y el INE, 48,382) y su cita \"Wow no podría creerse\" de la madrugada subió a 82,363; su serie de tecnología y empleo salió de la ventana, aunque el video sigue creciendo (370,902). Las menciones suben 38% contra las 24 h anteriores (6,776) por la aclaración sobre los cajeros de Banco Azteca. Para los borradores: bolsillo y libertad, resultados con cuentas claras y carta abierta a quien emprende, sin nombres ni ataques.",
+  "narrative_synthesis": "Domingo sin mañanera y con poca actividad: la Presidenta y Harfuch no publicaron originales. El tema del día fue el INE: @RicardoBSalinas pidió justicia pareja tras la carpeta de la FGR sobre la gestión de Taddei (84,763) y @acostanaranjo publicó una carta abierta a la Presidenta para rechazar que lo vinculen con la crisis del instituto (81,010). Samuel García siguió con su informe (DIF Capullos, 54,597), Jorge Romero propuso deducir gastos médicos y educativos y Ebrard habló de innovación desde China antes de su reunión de hoy. Las menciones de RSP bajaron a 4,647 (−33%); la más vista es una broma sobre cancelar la cuenta de Banco Azteca (82,128). Para los borradores: justicia pareja, diálogo e instituciones, y familias que invierten en salud y educación, sin nombres.",
   "trend_keywords": [
-    "libertad",
-    "dinero",
-    "resultados",
-    "cuentas claras",
-    "emprender",
-    "negocios",
-    "familia",
-    "trabajo",
-    "justicia",
+    "FGR",
+    "INE",
+    "justicia pareja",
+    "Estado de derecho",
     "carta",
-    "liderazgo",
-    "confianza",
-    "tecnología",
-    "jóvenes",
-    "gira",
-    "informe"
+    "diálogo",
+    "democracia",
+    "DIF Capullos",
+    "niñas y niños",
+    "Lo nuevo cumple",
+    "gastos médicos",
+    "deducir",
+    "China",
+    "innovación",
+    "noticiario",
+    "Banco Azteca"
   ],
   "trend_radar": {
-    "date": "2026-11-22",
+    "date": "2026-11-23",
     "title": "Trends and post ideas",
     "window": {
-      "end": "2026-11-22T22:55:00+00:00",
-      "label24": "21.11 22:55 - 22.11 22:55 UTC",
-      "label48": "20.11 22:55 - 22.11 22:55 UTC"
+      "end": "2026-11-23T11:50:00+00:00",
+      "label24": "22.11 11:45 - 23.11 11:45 UTC",
+      "label48": "21.11 11:45 - 23.11 11:45 UTC"
     },
     "corpus": {
-      "posts": 14,
+      "posts": 9,
       "min_views": 5000,
       "lanes": {
-        "watchlist": 14,
+        "watchlist": 9,
         "outsider": 0,
         "24h": 0,
         "trend_input": 0
       }
     },
     "summary": {
-      "top10_line": "1) @Claudiashein \"Gira por Zacatecas este sábado 21 de noviembre. https://t.co\" 88,686; 2) @RicardoBSalinas \"Wow no podría creerse https://t.co/Jpbz6Y54Gx\" 82,363; 3) @RicardoBSalinas \"La FGR abrió por fin una carpeta sobre la gestión de Guadalu\" 48,382; 4) @acostanaranjo \"Carta a la presidenta @Claudiashein. https://t.co/KBCjE2JJuV\" 28,701; 5) @LillyTellez \"Ya salió mi noticiario de este fin de semana https://t.co/Ql\" 25,199; 6) @samuel_garcias \"Hoy, 8 de cada 10 neoleonesas y neoleoneses siguen confiando\" 18,717; 7) @JorgeRoHe \"En @AccionNacional propusimos que puedas deducir todos tus g\" 18,129; 8) @JorgeRoHe \"¡Muchas felicidades, @AgsMoniBecerra!\" 13,887; 9) @JorgeRoHe \"Ayer en Nayarit tuvimos una jornada de mucho trabajo. Recorr\" 13,767; 10) @samuel_garcias \"Un año más de jalar todos los días por Nuevo León, de victor\" 12,119.",
-      "headline": "Tarde del 22 de noviembre: @RicardoBSalinas queda 1º de 7 con 130,745 vistas en 2 originales (cita sobre la FGR y el INE 48,382; cita \"Wow no podría creerse\" 82,363); @Claudiashein es 2ª con 88,686 (video de gira por Zacatecas). @OHarfuch no publicó originales en la ventana.",
-      "takeaway": "Lo que jala: (1) video corto de gira con una sola línea (@Claudiashein, 88,686); (2) lema y resultado con cifra (@samuel_garcias, \"8 de cada 10… LO NUEVO CUMPLE\", 18,717 y 36,497 entre 3 posts); (3) propuesta de bolsillo con imagen (@JorgeRoHe, deducir gastos médicos, dentales y educativos, 18,129); (4) carta en imagen (@acostanaranjo, \"Carta a la presidenta\", 28,701) y noticiario semanal (@LillyTellez, 25,199 y 11,916); (5) cita de justicia y rendición de cuentas (@RicardoBSalinas, 48,382). Lo que no jala: citas en serie de actos de partido (@alitomorenoc, 11 citas entre 866 y 1,314), avisos de obra (@MaruCampos_G, 459) y no publicar (@OHarfuch).",
+      "top10_line": "1) @RicardoBSalinas \"La FGR abrió por fin una carpeta sobre la gestión de Guadalu\" 84,763; 2) @acostanaranjo \"Carta a la presidenta @Claudiashein. https://t.co/KBCjE2JJuV\" 81,010; 3) @samuel_garcias \"Previo a la presentación de resultados de estos 5 años, @mar\" 54,597; 4) @LillyTellez \"Ya salió mi noticiario de este fin de semana:\" 22,018; 5) @LillyTellez \"Absolutamente de acuerdo ☝️ https://t.co/ysI1p6tMMr\" 21,032; 6) @JorgeRoHe \"En @AccionNacional propusimos que puedas deducir todos tus g\" 18,378; 7) @m_ebrard \"China y la innovación https://t.co/ADfwpFUkb7\" 14,597; 8) @JorgeRoHe \"¡Muchas felicidades, @AgsMoniBecerra!\" 14,112; 9) @samuel_garcias \"Estos 5 años trabajando por un nuevo Nuevo León no serían lo\" 10,507.",
+      "headline": "Domingo de poco volumen: @RicardoBSalinas es 1º de 6 con 84,763 vistas en 1 original (su cita sobre la FGR y el INE). Le siguen la carta de @acostanaranjo a la Presidenta (81,010), @samuel_garcias con 2 hits (65,104) y @LillyTellez con 2 (43,050). @Claudiashein y @OHarfuch no publicaron originales en 24 h.",
+      "takeaway": "Lo que jala: (1) justicia y Estado de derecho con un tema de coyuntura (FGR e INE): @RicardoBSalinas 84,763; (2) la carta abierta con imágenes, larga y en primera persona: @acostanaranjo 81,010; (3) familia y niñez con fotos de obra (DIF Capullos): @samuel_garcias 54,597, aunque con solo 96 likes; (4) propuestas de bolsillo con foto (deducir gastos médicos y educativos): @JorgeRoHe 18,378; (5) innovación y China en video: @m_ebrard 14,597. No jala: la ráfaga de 16 citas de giras de @alitomorenoc (máximo 2,314), los avisos de obra (@MaruCampos_G 720) y los mensajes repetidos del informe de @samuel_garcias (2,990 a 4,447).",
       "stats": {
         "all": {
-          "n": 14,
+          "n": 9,
           "trend_n": 0,
           "trend_pct": 0,
           "avg_trend": null,
-          "avg_other": 27517,
+          "avg_other": 35668,
           "median_trend": null,
-          "median_other": 16008,
+          "median_other": 21032,
           "verdicts": {
             "tendencia": 0,
-            "visual": 10,
-            "autor/audiencia": 4,
+            "visual": 7,
+            "autor/audiencia": 2,
             "coincidencia/otro": 0
           }
         },
         "watchlist": {
-          "n": 14,
+          "n": 9,
           "trend_n": 0,
           "trend_pct": 0,
           "avg_trend": null,
-          "avg_other": 27517,
+          "avg_other": 35668,
           "median_trend": null,
-          "median_other": 16008,
+          "median_other": 21032,
           "verdicts": {
             "tendencia": 0,
-            "visual": 10,
-            "autor/audiencia": 4,
+            "visual": 7,
+            "autor/audiencia": 2,
             "coincidencia/otro": 0
           }
         },
@@ -747,179 +605,171 @@
           }
         },
         "top10": {
-          "n": 10,
+          "n": 9,
           "trend_n": 0,
           "trend_pct": 0,
           "avg_trend": null,
-          "avg_other": 34995,
+          "avg_other": 35668,
           "median_trend": null,
-          "median_other": 21958,
+          "median_other": 21032,
           "verdicts": {
             "tendencia": 0,
             "visual": 7,
-            "autor/audiencia": 3,
+            "autor/audiencia": 2,
             "coincidencia/otro": 0
           }
         },
         "media": {
-          "video_n": 5,
-          "median_video": 13767,
-          "other_n": 9,
-          "median_other": 18129
+          "video_n": 2,
+          "median_video": 18307,
+          "other_n": 7,
+          "median_other": 21032
         }
       }
     },
     "topics": [
       {
-        "name": "Resultados y lema \"LO NUEVO CUMPLE\" (@samuel_garcias)",
+        "name": "INE, FGR y justicia pareja",
         "keywords": [
-          "resultados",
-          "8 de cada 10",
-          "LO NUEVO CUMPLE",
-          "informe"
-        ],
-        "posts_24h": 3,
-        "views_24h": 36497,
-        "momentum": "nuevo",
-        "evidence": [
-          "https://x.com/samuel_garcias/status/2124375229614993655",
-          "https://x.com/samuel_garcias/status/2124363911742861554",
-          "https://x.com/samuel_garcias/status/2124323353603289275"
-        ]
-      },
-      {
-        "name": "Video corto de gira con una sola línea (@Claudiashein)",
-        "keywords": [
-          "gira",
-          "Zacatecas",
-          "video"
+          "FGR",
+          "INE",
+          "justicia pareja",
+          "Estado de derecho"
         ],
         "posts_24h": 1,
-        "views_24h": 88686,
-        "momentum": "sigue",
+        "views_24h": 84763,
+        "momentum": "sube",
         "evidence": [
-          "https://x.com/Claudiashein/status/2124283461808660906"
+          "https://x.com/RicardoBSalinas/status/2124526744585617754"
         ]
       },
       {
-        "name": "Dinero del bolsillo y felicitación con foto (@JorgeRoHe)",
-        "keywords": [
-          "deducir gastos",
-          "dinero",
-          "familia",
-          "felicitar"
-        ],
-        "posts_24h": 3,
-        "views_24h": 45783,
-        "momentum": "nuevo",
-        "evidence": [
-          "https://x.com/JorgeRoHe/status/2124527217874993636",
-          "https://x.com/JorgeRoHe/status/2124529087129722939",
-          "https://x.com/JorgeRoHe/status/2124288966434120014"
-        ]
-      },
-      {
-        "name": "Carta en imagen y noticiario semanal",
+        "name": "Carta abierta a la Presidenta (INE y democracia)",
         "keywords": [
           "carta",
-          "noticiario",
-          "presidenta"
+          "diálogo",
+          "democracia",
+          "INE"
         ],
-        "posts_24h": 4,
-        "views_24h": 73088,
+        "posts_24h": 1,
+        "views_24h": 81010,
         "momentum": "nuevo",
         "evidence": [
-          "https://x.com/acostanaranjo/status/2124560451182772237",
-          "https://x.com/LillyTellez/status/2124365241697878154",
+          "https://x.com/acostanaranjo/status/2124560451182772237"
+        ]
+      },
+      {
+        "name": "Nuevo León: informe, DIF Capullos y familia",
+        "keywords": [
+          "Lo nuevo cumple",
+          "DIF Capullos",
+          "niñas y niños"
+        ],
+        "posts_24h": 2,
+        "views_24h": 65104,
+        "momentum": "sigue",
+        "evidence": [
+          "https://x.com/samuel_garcias/status/2124623815971860787",
+          "https://x.com/samuel_garcias/status/2124662562339889380"
+        ]
+      },
+      {
+        "name": "Propuestas económicas y saludos del PAN",
+        "keywords": [
+          "gastos médicos",
+          "deducir",
+          "#SolucionesParaMéxico"
+        ],
+        "posts_24h": 2,
+        "views_24h": 32490,
+        "momentum": "sigue",
+        "evidence": [
+          "https://x.com/JorgeRoHe/status/2124527217874993636",
+          "https://x.com/JorgeRoHe/status/2124529087129722939"
+        ]
+      },
+      {
+        "name": "Senado: noticiario y citas de @LillyTellez",
+        "keywords": [
+          "noticiario",
+          "Absolutamente de acuerdo"
+        ],
+        "posts_24h": 2,
+        "views_24h": 43050,
+        "momentum": "baja",
+        "evidence": [
           "https://x.com/LillyTellez/status/2124534464466321781",
           "https://x.com/LillyTellez/status/2124587658609397845"
         ]
       },
       {
-        "name": "Justicia y rendición de cuentas (@RicardoBSalinas)",
+        "name": "China e innovación",
         "keywords": [
-          "FGR",
-          "INE",
-          "justicia",
-          "Estado de derecho"
-        ],
-        "posts_24h": 2,
-        "views_24h": 130745,
-        "momentum": "nuevo",
-        "evidence": [
-          "https://x.com/RicardoBSalinas/status/2124526744585617754",
-          "https://x.com/RicardoBSalinas/status/2124412588566134965"
-        ]
-      },
-      {
-        "name": "Innovación y emprendedores (@m_ebrard)",
-        "keywords": [
-          "InnovaFest",
-          "emprendedores",
-          "inversionistas"
+          "China",
+          "innovación"
         ],
         "posts_24h": 1,
-        "views_24h": 10437,
+        "views_24h": 14597,
         "momentum": "sigue",
         "evidence": [
-          "https://x.com/m_ebrard/status/2124279709831959014"
+          "https://x.com/m_ebrard/status/2124704565216047320"
         ]
       }
     ],
     "ideas": [
       {
-        "title": "Que el dinero rinda más",
-        "topic": "Bolsillo y libertad",
+        "title": "Justicia pareja, base de la confianza",
+        "topic": "Estado de derecho y libertad",
         "keywords": [
-          "dinero",
-          "libertad",
-          "familia",
-          "trabajo"
+          "justicia pareja",
+          "Estado de derecho",
+          "confianza",
+          "libertad"
         ],
         "format": "video",
         "visual_type": "video",
-        "visual": "Manos que cuentan monedas, familia en la mesa, pago desde el celular",
-        "angle": "Libertad económica en positivo, sin cifras ni críticas",
-        "hook_en": "Que tu dinero rinda más es una forma de libertad.",
-        "why": "La propuesta de bolsillo con imagen movió 18,129 vistas (@JorgeRoHe), junto con otras 2 publicaciones suyas de 13,000 a 14,000.",
+        "visual": "Balanza de la justicia, una mano que firma y un edificio público al amanecer",
+        "angle": "Misma ley para todos, sin nombres ni acusaciones",
+        "hook_en": "Sin justicia pareja no hay confianza.",
+        "why": "Su cita sobre la FGR y el INE fue el post más visto de la ventana (84,763); la idea funciona sin señalar a nadie.",
         "x_keywords": [],
         "x_rank": null,
         "source": "watchlist"
       },
       {
-        "title": "Liderar es cumplir",
-        "topic": "Resultados y cuentas claras",
+        "title": "Diálogo e instituciones fuertes",
+        "topic": "Liderazgo y democracia",
         "keywords": [
-          "liderazgo",
-          "resultados",
-          "cuentas claras",
-          "confianza"
+          "diálogo",
+          "instituciones",
+          "libertad",
+          "liderazgo"
         ],
         "format": "video",
         "visual_type": "video",
-        "visual": "Obra terminada, taller encendido, calle iluminada, familia que cena",
-        "angle": "Hechos y transparencia, sin nombres ni partidos",
-        "hook_en": "Liderar es cumplir: se mide en hechos, no en discursos.",
-        "why": "El mensaje de resultados con \"8 de cada 10\" sumó 18,717 vistas (@samuel_garcias, 3 posts: 36,497).",
+        "visual": "Mesa larga que se llena de gente diversa y manos que se estrechan",
+        "angle": "Escuchar al que piensa distinto es liderazgo",
+        "hook_en": "Las grandes naciones se construyen con diálogo.",
+        "why": "La carta abierta de @acostanaranjo, que pide diálogo, llegó a 81,010.",
         "x_keywords": [],
         "x_rank": null,
         "source": "watchlist"
       },
       {
-        "title": "Carta abierta a quien emprende",
-        "topic": "Emprender y libertad",
+        "title": "Familias que invierten en salud y educación",
+        "topic": "Prosperidad y emprendimiento",
         "keywords": [
-          "emprender",
-          "negocios",
-          "libertad",
-          "trabajo"
+          "familias",
+          "educación",
+          "innovación",
+          "prosperidad"
         ],
         "format": "video",
         "visual_type": "video",
-        "visual": "Mano que escribe una carta, puesto que abre, taller, joven con laptop",
-        "angle": "Inspirar a emprender, sin atacar a nadie",
-        "hook_en": "Empieza hoy, aunque sea pequeño.",
-        "why": "La \"Carta a la presidenta\" (solo imagen) llegó a 28,701 vistas (@acostanaranjo); el formato carta jala sin necesidad de texto largo.",
+        "visual": "Tarea en casa, consulta médica, alcancía y un joven en un taller de innovación",
+        "angle": "El esfuerzo de las familias debe rendir más",
+        "hook_en": "Cada peso en salud y educación es una inversión en México.",
+        "why": "La propuesta de deducir gastos médicos y educativos de @JorgeRoHe sumó 18,378 y el post de niñez de @samuel_garcias, 54,597.",
         "x_keywords": [],
         "x_rank": null,
         "source": "watchlist"
@@ -928,48 +778,18 @@
     "articles": [],
     "why_hit": [
       {
-        "id": "2124283461808660906",
-        "handle": "@Claudiashein",
-        "lane": "watchlist",
-        "views": 88686,
-        "trend_match": 20,
-        "verdict": "visual",
-        "matched_keywords": [
-          "gira"
-        ],
-        "media": "video",
-        "followers": 5265950,
-        "topic": null,
-        "self_quote": false,
-        "note": ""
-      },
-      {
-        "id": "2124412588566134965",
-        "handle": "@RicardoBSalinas",
-        "lane": "watchlist",
-        "views": 82363,
-        "trend_match": 0,
-        "verdict": "autor/audiencia",
-        "matched_keywords": [],
-        "media": "sin datos",
-        "followers": 2238473,
-        "topic": null,
-        "self_quote": false,
-        "note": "media: sin datos"
-      },
-      {
         "id": "2124526744585617754",
         "handle": "@RicardoBSalinas",
         "lane": "watchlist",
-        "views": 48382,
+        "views": 84763,
         "trend_match": 36,
         "verdict": "autor/audiencia",
         "matched_keywords": [
-          "dinero",
-          "justicia"
+          "FGR",
+          "INE"
         ],
         "media": "sin datos",
-        "followers": 2238473,
+        "followers": 2238416,
         "topic": null,
         "self_quote": false,
         "note": "media: sin datos"
@@ -978,7 +798,7 @@
         "id": "2124560451182772237",
         "handle": "@acostanaranjo",
         "lane": "watchlist",
-        "views": 28701,
+        "views": 81010,
         "trend_match": 20,
         "verdict": "visual",
         "matched_keywords": [
@@ -991,89 +811,16 @@
         "note": ""
       },
       {
-        "id": "2124365241697878154",
-        "handle": "@LillyTellez",
-        "lane": "watchlist",
-        "views": 25199,
-        "trend_match": 0,
-        "verdict": "autor/audiencia",
-        "matched_keywords": [],
-        "media": "sin datos",
-        "followers": 1128795,
-        "topic": null,
-        "self_quote": false,
-        "note": "media: sin datos"
-      },
-      {
-        "id": "2124375229614993655",
+        "id": "2124623815971860787",
         "handle": "@samuel_garcias",
         "lane": "watchlist",
-        "views": 18717,
-        "trend_match": 0,
-        "verdict": "visual",
-        "matched_keywords": [],
-        "media": "video",
-        "followers": 444209,
-        "topic": null,
-        "self_quote": false,
-        "note": ""
-      },
-      {
-        "id": "2124527217874993636",
-        "handle": "@JorgeRoHe",
-        "lane": "watchlist",
-        "views": 18129,
-        "trend_match": 20,
+        "views": 54597,
+        "trend_match": 36,
         "verdict": "visual",
         "matched_keywords": [
-          "dinero"
+          "DIF Capullos",
+          "niñas y niños"
         ],
-        "media": "photo",
-        "followers": 105564,
-        "topic": null,
-        "self_quote": false,
-        "note": ""
-      },
-      {
-        "id": "2124529087129722939",
-        "handle": "@JorgeRoHe",
-        "lane": "watchlist",
-        "views": 13887,
-        "trend_match": 0,
-        "verdict": "visual",
-        "matched_keywords": [],
-        "media": "photo",
-        "followers": 105564,
-        "topic": null,
-        "self_quote": false,
-        "note": ""
-      },
-      {
-        "id": "2124288966434120014",
-        "handle": "@JorgeRoHe",
-        "lane": "watchlist",
-        "views": 13767,
-        "trend_match": 49,
-        "verdict": "visual",
-        "matched_keywords": [
-          "resultados",
-          "trabajo",
-          "informe"
-        ],
-        "media": "video",
-        "followers": 105564,
-        "topic": null,
-        "self_quote": false,
-        "note": ""
-      },
-      {
-        "id": "2124363911742861554",
-        "handle": "@samuel_garcias",
-        "lane": "watchlist",
-        "views": 12119,
-        "trend_match": 0,
-        "verdict": "visual",
-        "matched_keywords": [],
         "media": "photo",
         "followers": 444209,
         "topic": null,
@@ -1084,26 +831,14 @@
         "id": "2124534464466321781",
         "handle": "@LillyTellez",
         "lane": "watchlist",
-        "views": 11916,
-        "trend_match": 0,
+        "views": 22018,
+        "trend_match": 20,
         "verdict": "visual",
-        "matched_keywords": [],
+        "matched_keywords": [
+          "noticiario"
+        ],
         "media": "video",
         "followers": 1128795,
-        "topic": null,
-        "self_quote": false,
-        "note": ""
-      },
-      {
-        "id": "2124279709831959014",
-        "handle": "@m_ebrard",
-        "lane": "watchlist",
-        "views": 10437,
-        "trend_match": 0,
-        "verdict": "visual",
-        "matched_keywords": [],
-        "media": "video",
-        "followers": 2709527,
         "topic": null,
         "self_quote": false,
         "note": ""
@@ -1112,7 +847,7 @@
         "id": "2124587658609397845",
         "handle": "@LillyTellez",
         "lane": "watchlist",
-        "views": 7272,
+        "views": 21032,
         "trend_match": 0,
         "verdict": "autor/audiencia",
         "matched_keywords": [],
@@ -1123,10 +858,59 @@
         "note": "media: sin datos"
       },
       {
-        "id": "2124323353603289275",
+        "id": "2124527217874993636",
+        "handle": "@JorgeRoHe",
+        "lane": "watchlist",
+        "views": 18378,
+        "trend_match": 49,
+        "verdict": "visual",
+        "matched_keywords": [
+          "INE",
+          "gastos médicos",
+          "deducir"
+        ],
+        "media": "photo",
+        "followers": 105564,
+        "topic": null,
+        "self_quote": false,
+        "note": ""
+      },
+      {
+        "id": "2124704565216047320",
+        "handle": "@m_ebrard",
+        "lane": "watchlist",
+        "views": 14597,
+        "trend_match": 36,
+        "verdict": "visual",
+        "matched_keywords": [
+          "China",
+          "innovación"
+        ],
+        "media": "video",
+        "followers": 2709527,
+        "topic": null,
+        "self_quote": false,
+        "note": ""
+      },
+      {
+        "id": "2124529087129722939",
+        "handle": "@JorgeRoHe",
+        "lane": "watchlist",
+        "views": 14112,
+        "trend_match": 0,
+        "verdict": "visual",
+        "matched_keywords": [],
+        "media": "photo",
+        "followers": 105564,
+        "topic": null,
+        "self_quote": false,
+        "note": ""
+      },
+      {
+        "id": "2124662562339889380",
         "handle": "@samuel_garcias",
         "lane": "watchlist",
-        "views": 5661,
+        "views": 10507,
         "trend_match": 0,
         "verdict": "visual",
         "matched_keywords": [],
@@ -1150,364 +934,339 @@
     "legend": "Trend match 0-100% = 1 - prod(1 - w) over matched 24 h keywords that another author also used in the 48 h window (w: rank 1-10 0.35, 11-25 0.22, 26-40 0.12, curated 0.20). Verdict: >= 50% -> tendencia; else video/image in the post data -> visual; else >= 100K followers (outsiders without follower data: >= 500K views, estimate) -> autor/audiencia; else coincidencia/otro. Missing data shows as 'sin datos'. Heat = sum log10(views) of topic posts (24 h x1, 24-48 h x0.5), scaled to 100. Momentum = log-views last 24 h / previous 24 h. Trend-input-only accounts feed the corpus but are never shown as hits."
   },
   "imagen_rsp": {
-    "fecha": "2026-11-22 (17:00)",
+    "fecha": "2026-11-23 (06:00)",
     "parcial": false,
-    "ventana": "2026-11-21T22:55Z a 2026-11-22T22:55Z (21 nov 4:55 p.m. a 22 nov 4:55 p.m., hora del centro de México)",
+    "ventana": "2026-11-22T11:45Z a 2026-11-23T11:45Z (22 nov 5:45 a.m. a 23 nov 5:45 a.m., hora del centro de México)",
     "posts_propios": {
+      "originales": 1,
+      "vistas": 84763,
+      "likes": 6087,
+      "reposts": 2279,
+      "respuestas": 157,
+      "citas": 14,
+      "guardados": 34,
+      "top": "https://x.com/RicardoBSalinas/status/2124526744585617754",
+      "detalle": [
+        {
+          "url": "https://x.com/RicardoBSalinas/status/2124526744585617754",
+          "vistas": 84763,
+          "likes": 6087,
+          "reposts": 2279,
+          "respuestas": 157,
+          "citas": 14,
+          "guardados": 34,
+          "nota": "22 nov 9:33 a.m. (hora del centro). Cita: \"La FGR abrió por fin una carpeta sobre la gestión de Guadalupe Taddei…\" y \"Sin justicia pareja no hay Estado de derecho, solo hay estado de chueco\". Sube de 48,382 (ayer 5:00 p.m.) a 84,763. La carpeta de la FGR está confirmada (El Informador, 14 nov) y la acusación de EE. UU. contra el senador Inzunza también (Departamento de Justicia, abril de 2026; él la niega). Riesgo: llamarlo \"narco senador\" da por probada una acusación que no tiene sentencia; y la cita a otra cuenta habla de \"Morenarcos\". La frase de justicia pareja sí es de estadista. 6,087 likes contra 157 respuestas."
+        }
+      ],
+      "nota": "1 original (1 cita), sin contar respuestas ni reposts: 84,763 vistas, 6,087 likes, 2,279 reposts y 157 respuestas. Contra ayer 5:00 p.m. (2 originales, 130,745, 1.º de 7) baja -35.2% porque la cita de la boda (2:00 a.m. del 22) ya salió de la ventana; esa cita sigue creciendo (82,363 a 111,726). Contra ayer 6:00 a.m. (5 originales, 631,294, 2.º de 9) baja -86.6%: domingo de 1 sola original. Queda 1.º de 6, apenas arriba de @acostanaranjo (81,010)."
+    },
+    "dia_previo_referencia": {
+      "fecha": "2026-11-22 (17:00)",
       "originales": 2,
       "vistas": 130745,
       "likes": 7500,
       "reposts": 2349,
       "respuestas": 185,
-      "citas": 9,
-      "guardados": 59,
-      "top": "https://x.com/RicardoBSalinas/status/2124412588566134965",
-      "detalle": [
-        {
-          "url": "https://x.com/RicardoBSalinas/status/2124412588566134965",
-          "vistas": 82363,
-          "likes": 4263,
-          "reposts": 1230,
-          "respuestas": 75,
-          "citas": 3,
-          "guardados": 42,
-          "nota": "22 nov 2:00 a.m. (hora del centro). Cita \"Wow no podría creerse\" de @ValienteLT sobre una \"boda millonaria de la hija de un morenista en Yucatán\" (gasto \"calculado\" sin fuente verificable). Sube de 15,379 (6:00) a 82,363: es su post más visto de la ventana. Riesgo menor: amplifica un dato partidista sin confirmar."
-        },
-        {
-          "url": "https://x.com/RicardoBSalinas/status/2124526744585617754",
-          "vistas": 48382,
-          "likes": 3237,
-          "reposts": 1119,
-          "respuestas": 110,
-          "citas": 6,
-          "guardados": 17,
-          "nota": "22 nov 9:33 a.m. NUEVO (cita): pide justicia por la gestión de Guadalupe Taddei en el INE. Lo de la carpeta de la FGR sí está confirmado (El Informador y El Universal, 13-14 nov), pero no pude confirmar que \"hasta hoy no hay ninguna acción contra ella\". Riesgo: llama \"narco senador\" a una persona con nombre y menciona una \"acusación de EE. UU.\" que no verifiqué; el remate \"estado de chueco\" es de tono duro."
-        }
-      ],
-      "nota": "2 originales (2 citas), sin contar 3 respuestas: 130,745 vistas, 7,500 likes, 2,349 reposts y 185 respuestas. Contra el corte de las 6:00 (5 originales, 631,294, 2.º de 9) baja -79.3% solo porque la serie de tecnología y empleo (4 posts) quedó fuera de la ventana: esos 4 siguen creciendo (615,915 a 798,044, +29.6%) y hoy publicó solo 1 original nueva. La cita \"Wow no podría creerse\" pasó de 15,379 a 82,363. Queda 1.º de 7, por delante de @Claudiashein (88,686 en 1 video). Más likes que respuestas en los 2."
-    },
-    "dia_previo_referencia": {
-      "fecha": "2026-11-22 (06:00)",
-      "originales": 5,
-      "vistas": 631294,
-      "likes": 15236,
-      "reposts": 3043,
-      "respuestas": 2431,
-      "rank": "2 de 9",
-      "nota": "Esta mañana: 5 originales, 631,294 vistas, 2.º de 9. Ahora: 2 originales, 130,745 (-79.3%), 1.º de 7."
+      "rank": "1 de 7",
+      "nota": "Ayer 5:00 p.m.: 2 originales, 130,745 vistas, 1.º de 7 (ayer 6:00: 5 originales, 631,294, 2.º de 9). Hoy: 1 original, 84,763 (-35.2% contra las 5:00 p.m.; -86.6% contra ayer 6:00), 1.º de 6."
     },
     "posts_previos_actualizados": [
       {
+        "url": "https://x.com/RicardoBSalinas/status/2124412588566134965",
+        "vistas": 111726,
+        "likes": 6003,
+        "reposts": 1882,
+        "respuestas": 96,
+        "nota": "Cita \"Wow no podría creerse\" (boda en Yucatán): +35.7% contra 82,363 de ayer 5:00 p.m. Ya salió de la ventana; sigue creciendo. Gasto sin fuente verificable: riesgo menor vigente."
+      },
+      {
         "url": "https://x.com/RicardoBSalinas/status/2124209093694939379",
-        "vistas": 370902,
-        "likes": 8092,
-        "reposts": 2243,
-        "respuestas": 2461,
-        "nota": "Video \"La tecnología no le quita el trabajo a nadie que se prepara\": +40.2% contra 264,583 de las 6:00. Ya salió de la ventana; sigue creciendo. En él aclara lo de los cajeros de Banco Azteca."
+        "vistas": 486005,
+        "likes": 9104,
+        "reposts": 2576,
+        "respuestas": 2640,
+        "nota": "Video \"La tecnología no le quita el trabajo a nadie que se prepara\": +31.0% contra 370,902 de ayer 5:00 p.m. Sigue creciendo; aclara lo de los cajeros."
       },
       {
         "url": "https://x.com/RicardoBSalinas/status/2124174418259685469",
-        "vistas": 202039,
-        "likes": 5871,
-        "reposts": 1001,
-        "respuestas": 256,
-        "nota": "Cita a @FarmaciasGdl por innovar: +17.4% contra 172,066 de las 6:00. Cierra con un \"cartel de Tabasco\" sin fuente: riesgo vigente."
+        "vistas": 210970,
+        "likes": 6120,
+        "reposts": 1056,
+        "respuestas": 262,
+        "nota": "Cita a @FarmaciasGdl: +4.4% contra 202,039 de ayer 5:00 p.m. \"Cartel de Tabasco\" sin fuente: riesgo vigente."
       },
       {
         "url": "https://x.com/RicardoBSalinas/status/2124225794247635106",
-        "vistas": 174706,
-        "likes": 4400,
-        "reposts": 630,
-        "respuestas": 357,
-        "nota": "Cita \"¿Ya se les olvidó?\": +32.7% contra 131,679 de las 6:00."
+        "vistas": 195645,
+        "likes": 5106,
+        "reposts": 776,
+        "respuestas": 394,
+        "nota": "Cita \"¿Ya se les olvidó?\": +12.0% contra 174,706 de ayer 5:00 p.m."
       },
       {
         "url": "https://x.com/RicardoBSalinas/status/2124147816867995666",
-        "vistas": 50397,
-        "likes": 586,
-        "reposts": 34,
-        "respuestas": 81,
-        "nota": "Cita \"Felicidades Javier\": +5.9% contra 47,587 de las 6:00. Sin riesgo."
+        "vistas": 51906,
+        "likes": 594,
+        "reposts": 35,
+        "respuestas": 80,
+        "nota": "Cita \"Felicidades Javier\": +3.0% contra 50,397 de ayer 5:00 p.m. Sin riesgo."
       },
       {
         "url": "https://x.com/RicardoBSalinas/status/2123987913859805494",
-        "vistas": 435237,
-        "likes": 18484,
-        "reposts": 5396,
-        "respuestas": 676,
-        "nota": "Video de Sinaloa (\"Narco gobernador…\"): +4.6% contra 416,174 de las 6:00. Riesgo principal vigente."
+        "vistas": 451570,
+        "likes": 19091,
+        "reposts": 5646,
+        "respuestas": 692,
+        "nota": "Video de Sinaloa (\"Narco gobernador…\"): +3.8% contra 435,237 de ayer 5:00 p.m. Riesgo principal vigente."
       },
       {
         "url": "https://x.com/RicardoBSalinas/status/2123849642995548641",
-        "vistas": 76120,
-        "likes": 2625,
-        "reposts": 675,
+        "vistas": 77117,
+        "likes": 2629,
+        "reposts": 679,
         "respuestas": 149,
-        "nota": "Cita \"Los MoreNarcos son los verdaderos FASCISTAS\": +2.3% contra 74,413 de las 6:00. Riesgo vigente."
+        "nota": "Cita \"Los MoreNarcos son los verdaderos FASCISTAS\": +1.3% contra 76,120 de ayer 5:00 p.m. Riesgo vigente."
       },
       {
         "url": "https://x.com/RicardoBSalinas/status/2123621524565369157",
-        "vistas": 79834,
-        "likes": 2169,
-        "reposts": 461,
+        "vistas": 80655,
+        "likes": 2172,
+        "reposts": 463,
         "respuestas": 255,
-        "nota": "Video de colaboradores (25 a 50 años): +1.3% contra 78,823 de las 6:00. Positivo."
-      },
-      {
-        "url": "https://x.com/RicardoBSalinas/status/2123584319398555862",
-        "vistas": 27197,
-        "likes": 392,
-        "reposts": 68,
-        "respuestas": 23,
-        "nota": "Colecciones RSP (pintura de Icaza): +1.6% contra 26,763 de las 6:00. Sin riesgo."
+        "nota": "Video de colaboradores (25 a 50 años): +1.0% contra 79,834 de ayer 5:00 p.m. Positivo."
       },
       {
         "url": "https://x.com/RicardoBSalinas/status/2123525282040881319",
-        "vistas": 323933,
-        "likes": 10907,
-        "reposts": 4483,
+        "vistas": 325538,
+        "likes": 10913,
+        "reposts": 4488,
         "respuestas": 253,
-        "nota": "Cita sobre la reforma judicial: +0.7% contra 321,759 de las 6:00. Acusaciones sin fuente reputada: riesgo vigente."
-      },
-      {
-        "url": "https://x.com/RicardoBSalinas/status/2123525941330858151",
-        "vistas": 148479,
-        "likes": 3455,
-        "reposts": 660,
-        "respuestas": 73,
-        "nota": "\"EXACTO\": +0.5% contra 147,672 de las 6:00. Respalda acusaciones no verificadas: riesgo."
-      },
-      {
-        "url": "https://x.com/RicardoBSalinas/status/2123269419858088434",
-        "vistas": 294809,
-        "likes": 9253,
-        "reposts": 1630,
-        "respuestas": 755,
-        "nota": "Video de seguridad en Colombia: +0.2% contra 294,111 de las 6:00."
-      },
-      {
-        "url": "https://x.com/RicardoBSalinas/status/2122733378323558640",
-        "vistas": 534738,
-        "likes": 24474,
-        "reposts": 5688,
-        "respuestas": 1011,
-        "nota": "\"Lenia… por favor demándeme\": +0.2% contra 533,911 de las 6:00. Riesgo vigente, ya casi no crece."
-      },
-      {
-        "url": "https://x.com/RicardoBSalinas/status/2122801735995363677",
-        "vistas": 370868,
-        "likes": 5994,
-        "reposts": 520,
-        "respuestas": 245,
-        "nota": "Broma de Elektra (\"GTA Iztapalapa\"): +0.4% contra 369,234 de las 6:00. Riesgo: puede leerse como burla de la inseguridad."
-      },
-      {
-        "url": "https://x.com/RicardoBSalinas/status/2121815480092827766",
-        "vistas": 329334,
-        "likes": 8260,
-        "reposts": 2099,
-        "respuestas": 1722,
-        "nota": "\"La verdadera Perrita\": +0.2% contra 328,813 de las 6:00. #LaPerritaDeTrump sigue en menciones críticas."
+        "nota": "Cita sobre la reforma judicial: +0.5% contra 323,933 de ayer 5:00 p.m. Acusaciones sin fuente reputada: riesgo vigente."
       }
     ],
     "menciones": {
-      "volumen_24h": 6776,
-      "volumen_24h_previas": 4911,
-      "nota_volumen": "Conteo de X para 'Salinas Pliego' / 'Ricardo Salinas' / @RicardoBSalinas, sin reposts, 21 nov 23:00Z a 22 nov 22:52Z: 6,776, +38% contra las 24 h anteriores (4,911) y -2.7% contra el corte de las 6:00 (6,967, otra ventana). Fue más alto entre 5 y 6 p.m. del sábado (479 por hora), con otro pico de 467 entre 8 y 9 p.m.; bajó a 54 entre 4 y 5 a.m. y hoy subió a 433 entre 10 y 11 a.m. cuando los medios publicaron su aclaración sobre los cajeros. La hora en curso (4 p.m.) está incompleta.",
+      "volumen_24h": 4647,
+      "volumen_24h_previas": 6971,
+      "nota_volumen": "Conteo de X para 'Salinas Pliego' / 'Ricardo Salinas' / @RicardoBSalinas, sin reposts, 22 nov 11:45Z a 23 nov 11:50Z: 4,647, −33% contra las 24 h anteriores (6,971) y −31% contra el corte de ayer 5:00 p.m. (6,776, otra ventana). Subió de 142 por hora a las 6 a.m. a su pico de 433 entre 10 y 11 a.m. (hora del centro), después de su cita sobre la FGR y de las notas de El Imparcial sobre los cajeros; bajó a 160-240 por hora en la noche y a 30-34 por hora de 3 a 5 a.m.",
       "muestra": 50,
-      "excluidas_bots": 13,
-      "excluidas_pro_morena": 9,
-      "excluidas_fuera_de_tema": 10,
+      "excluidas_bots": 12,
+      "excluidas_pro_morena": 7,
+      "excluidas_fuera_de_tema": 8,
       "excluidas_no_verificadas": 3,
-      "nota_filtro": "Filtro habitual sobre 50 menciones (25 por relevancia y 25 más recientes; 1 repetida, 49 únicas; sin respuestas, sin reposts y sin posts propios). Bots (13) = cuentas creadas en 2026 con 7 a 862 seguidores o con bio vacía (7 posts), handles con muchos dígitos (5), una cuenta nueva sin bio con más de 10,000 posts que copia el mismo texto \"¡HIPÓCRITA!\" que otras dos. Pro-Morena (9) = bios \"100% Obradorista\", \"AMLOVER… obradorista por convicción\", \"100% AMLO\", \"Seguidor de ALMLO\", \"Obradorista\", una cuenta de \"transformación\" y 3 posts de una cuenta que defiende a la presidenta. Fuera de tema (10) = listas de etiquetas a periodistas y políticos (5), un link de YouTube sin texto, spam de TikTok, una nota de deporte en Morelos, quejas de cuetes y un comentario sobre Calderón que solo lo menciona de paso. No verificadas (3) = 2 posts que lo llaman \"delincuente\" o hablan de su \"fortuna por corruptelas\" sin fuente y una especulación política sobre planes de terceros. Quedaron 14: 10 críticas, 0 favorables y 4 informativas.",
+      "nota_filtro": "Filtro habitual sobre 50 menciones (25 por relevancia y 25 más recientes; sin respuestas, sin reposts y sin posts propios; 0 repetidas). Bots (12) = handles con muchos dígitos y decenas de miles de posts (6 posts de 5 cuentas, una con avatar por defecto), una cuenta de 2024 con 6 seguidores y 19 posts, una cuenta que copia palabra por palabra el texto viral de Banco Azteca y 4 publicaciones automáticas idénticas de Frontera y La Crónica que repiten la nota de El Imparcial. Pro-Morena (7) = bios \"100% Obradorista\", \"PacoObradorista\", \"5ta y Última Transformación\", \"#AMLITOnoSeToca\", una cuenta con #4T (2 posts) y otra que firma \"Ignoro a los inútiles PRIANISTAS\". Fuera de tema (8) = listas de etiquetas a medios y políticos (6) y 2 posts sobre Canal Red que lo mencionan de paso. No verificadas (3) = 2 posts que lo ligan a los archivos Epstein y a \"pedófilos\", y 1 que lo llama \"terrorista digital\", todos sin fuente reputada (no los repito). Quedaron 20: 15 críticas, 1 favorable y 4 informativas.",
       "temas": [
-        "Aclaración sobre los cajeros de Banco Azteca: El Informador, El Imparcial y Sinaloa en Línea reportan que en su video del sábado dice que el banco va a ser \"100% digital\", que es \"ridículo\" pensar que eso acaba con todo el empleo y que la jornada de 40 horas y el aumento del salario mínimo \"hacen más rápido\" el camino a la automatización. No precisó cuántos cajeros quedan, en qué plazo ni si habrá reubicación. El primer clip (17 nov: \"tenía 15 mil cajeros… voy a tener cero\") sigue circulando.",
-        "FGR y el INE: su cita pide acción sobre la gestión de Guadalupe Taddei. Sí hay carpeta de la FGR por presuntos actos de corrupción y conflicto de interés (El Informador, 14 nov), pero el post no es una noticia nueva.",
-        "Fortaleza Mexicana: una cuenta (21,680 vistas) dice que convoca a sumarse a \"su movimiento\"; el sitio oficial la describe como una plataforma de historia, arte y cultura con registro gratuito (la impulsan él, María Laura Medina y Juan Miguel Zunzunegui, según TV Azteca).",
-        "Siguen las burlas con #LaPerritaDeTrump y los insultos por los cajeros, con poco alcance."
+        "Banco Azteca: la mención más vista del día (82,128) es una broma sobre cancelar la cuenta para \"no tener ningún vínculo\" con él. Es la secuela de los cajeros: El Imparcial publicó el 22 nov que, en su segundo video, dice que la automatización sigue y critica la jornada de 40 horas y el aumento del salario mínimo (https://www.elimparcial.com/dinero/2026/11/22/despues-de-decir-ricardo-salinas-pliego-que-planeaba-sustituir-a-15-mil-cajeros-de-banco-azteca-ahora-dice-que-sus-planes-de-automatizacion-siguen-y-critico-la-jornada-laboral-de-40-horas-el-aumento-del-salario-minimo-y-las-prestaciones-laborales-senala-que-eso-lo-afecta/).",
+        "Italika en Colombia: circula de nuevo el anuncio de una ensambladora en Barranquilla con cerca de 1,000 empleos (Portafolio, Bloomberg Línea). Es positivo, pero una cuenta lo enmarca con un \"quebrado Grupo Azteca en Colombia\".",
+        "La Granja VIP: una cuenta de divulgación (4,930) critica a la funcionaria de CDMX que exhortó a TV Azteca por bienestar animal. El oficio de la AGATAN existe (Infobae, 19 nov).",
+        "Siguen las burlas con #LaPerritaDeTrump y los insultos por los cajeros, con muy poco alcance."
       ],
-      "tono": "Volumen al alza (6,776; +38% contra el día anterior) y tono mayormente crítico: de 14 menciones válidas, 10 críticas, 0 favorables y 4 informativas. La mención válida más vista es de @Jackie2theworld (21,680), informativa, sobre Fortaleza Mexicana.",
+      "tono": "Volumen a la baja (4,647; −33%) y tono mayormente crítico: de 20 menciones válidas, 15 críticas, 1 favorable y 4 informativas. Casi todo el alcance está en una sola broma sobre Banco Azteca (82,128); el resto tiene menos de 5,000 vistas.",
       "menciones_destacadas": [
         {
-          "handle": "@Jackie2theworld",
-          "vistas": 21680,
-          "likes": 2199,
-          "url": "https://x.com/Jackie2theworld/status/2124339323978051940",
-          "texto": "Informativa: dice que invita a registrarse en la plataforma Fortaleza Mexicana (plataforma cultural real; llamarla \"movimiento\" es de la cuenta)."
-        },
-        {
           "handle": "@IvoneGarza",
-          "vistas": 6481,
-          "likes": 32,
+          "vistas": 82128,
+          "likes": 2303,
           "url": "https://x.com/IvoneGarza/status/2124552019855704275",
-          "texto": "Crítica (en tono de broma): cancelar la cuenta de Banco Azteca."
+          "texto": "Crítica en tono de broma: cancelar la cuenta de Banco Azteca para no tener vínculo con él (ayer tenía 6,481)."
         },
         {
-          "handle": "@elmitoteromx",
-          "vistas": 460,
-          "likes": 2,
-          "url": "https://x.com/elmitoteromx/status/2124289549010686398",
-          "texto": "Informativa: resume la polémica de los 15 mil cajeros y su segundo video."
+          "handle": "@YoAmoaLaCiencia",
+          "vistas": 4930,
+          "likes": 201,
+          "url": "https://x.com/YoAmoaLaCiencia/status/2124715982765605248",
+          "texto": "Informativa/crítica a la funcionaria de CDMX que intervino en La Granja VIP; él aparece solo como dueño del reality."
         },
         {
-          "handle": "@losexpulsados",
-          "vistas": 332,
-          "likes": 20,
-          "url": "https://x.com/losexpulsados/status/2124630105980903883",
-          "texto": "Crítica: dice que quiere cambiar su discurso tras el video viral."
+          "handle": "@andresmania",
+          "vistas": 532,
+          "likes": 0,
+          "url": "https://x.com/andresmania/status/2124673133617746126",
+          "texto": "Crítica: la ensambladora de Italika en Barranquilla, con \"quebrado Grupo Azteca en Colombia\"."
         },
         {
-          "handle": "@monomonky",
-          "vistas": 162,
-          "likes": 1,
-          "url": "https://x.com/monomonky/status/2124635516070924681",
-          "texto": "Crítica: se burla de que subió otro video para explicar."
+          "handle": "@saburguete",
+          "vistas": 482,
+          "likes": 14,
+          "url": "https://x.com/saburguete/status/2124566796741017810",
+          "texto": "Crítica: lo llama \"chavoruco\" por un video para la Generación Z."
+        },
+        {
+          "handle": "@elimparcialcom",
+          "vistas": 199,
+          "likes": 0,
+          "url": "https://x.com/elimparcialcom/status/2124558290902208538",
+          "texto": "Informativa: su segundo video sobre la automatización en Banco Azteca."
+        },
+        {
+          "handle": "@PorMiMexico71",
+          "vistas": 175,
+          "likes": 4,
+          "url": "https://x.com/PorMiMexico71/status/2124760169192026189",
+          "texto": "Favorable: pregunta en qué se usó el dinero que pagó al fisco."
         }
       ]
     },
     "riesgos": [
-      "Citas con personas nombradas: el post de la FGR (48,382) llama \"narco senador\" a una persona con nombre y menciona una acusación de EE. UU. no verificada; choca con la imagen de estadista.",
-      "Cajeros: aunque aclara que Banco Azteca seguirá teniendo colaboradores, no da cifras ni plazos, y culpar a la jornada de 40 horas y al salario mínimo alimenta la lectura de que justifica despidos.",
-      "Citas sin fuente de acusaciones (\"Wow no podría creerse\" 82,363, reforma judicial, \"EXACTO\") y el video de Sinaloa que llama \"narco\" a un gobernador."
+      "Cita de la FGR y el INE (84,763): la idea de justicia pareja es buena, pero llamar \"narco senador\" a una persona con nombre da por probada una acusación de EE. UU. que no tiene sentencia (él la niega), y la cuenta que cita habla de \"Morenarcos\".",
+      "Banco Azteca: la broma de cancelar la cuenta (82,128) muestra que la polémica de los cajeros ya pega en la marca; su segundo video (automatización sigue; críticas a la jornada de 40 horas) no la apagó.",
+      "\"Wow no podría creerse\" (111,726, +35.7%): sigue creciendo con un gasto de boda sin fuente verificable.",
+      "Riesgos previos que siguen creciendo fuera de ventana: video de Sinaloa (451,570), cita a Farmacias Gdl con \"cartel de Tabasco\" (210,970), reforma judicial (325,538) y \"MoreNarcos\" (77,117).",
+      "Cuentas excluidas lo ligan sin fuente a los archivos Epstein; no hay confirmación de medios reputados. Vigilar, no responder."
     ],
     "medios": [
       {
-        "texto": "El Informador: Salinas Pliego \"explica\" su video viral (22 nov)",
-        "url": "https://www.informador.mx/mexico/salinas-pliego-explica-su-video-viral-cuando-sube-la-mano-de-obra-el-camino-a-la-automatizacion-se-hace-mas-rapido-20261122-0053.html"
+        "texto": "El Imparcial: tras lo de los 15 mil cajeros, dice que la automatización sigue y critica la jornada de 40 horas (22 nov)",
+        "url": "https://www.elimparcial.com/dinero/2026/11/22/despues-de-decir-ricardo-salinas-pliego-que-planeaba-sustituir-a-15-mil-cajeros-de-banco-azteca-ahora-dice-que-sus-planes-de-automatizacion-siguen-y-critico-la-jornada-laboral-de-40-horas-el-aumento-del-salario-minimo-y-las-prestaciones-laborales-senala-que-eso-lo-afecta/"
       },
       {
-        "texto": "Sinaloa en Línea: Salinas Pliego, 48 a 40 horas encarece el empleo, aclara en video (21 nov)",
-        "url": "https://sinaloaenlinea.com/salinas-pliego-40-horas-empleo/"
+        "texto": "Bloomberg Línea: Salinas Pliego anuncia planta de motos Italika en Barranquilla con 1,000 empleos",
+        "url": "https://www.bloomberglinea.com/latinoamerica/mexico/salinas-pliego-anuncia-planta-de-motocicletas-italika-en-colombia/"
       },
       {
-        "texto": "El Informador: la FGR hace diligencias en el INE y abre carpeta de investigación por corrupción (14 nov)",
-        "url": "https://www.informador.mx/mexico/la-fgr-hace-diligencias-en-el-ine-y-abre-carpeta-de-investigacion-por-corrupcion-20261114-0024.html"
+        "texto": "El Universal: Enrique Inzunza, entre los acusados por EU de narcotráfico (él lo niega)",
+        "url": "https://www.eluniversal.com.mx/nacion/enrique-inzunza-senador-de-morena-entre-los-acusados-por-eu-de-narcotrafico-denuncian-que-pacto-con-los-chapitos/"
       }
     ]
   },
   "rivales": {
-    "fecha": "2026-11-22 (06:00)",
+    "fecha": "2026-11-23 (06:00)",
     "parcial_x": false,
-    "nota_base": "Comparado contra data/rivales_state.json del 2026-11-21 (06:00). Solo lo que cambió del 21 nov 5:50 a.m. al 22 nov 5:50 a.m. (hora del centro).",
-    "fuentes": "Búsqueda web en Infobae, El Universal, Heraldo de México, La Jornada Zacatecas, Revista Perfiles, La Gaceta Chihuahua y portales locales, más lectura en X de las 10 cuentas. La búsqueda de noticias de X no trajo nada relevante para México.",
-    "contexto": "Sábado de luto por los cuatro militares muertos en Guasave tras la captura de \"El Chapo Isidro\"; Sheinbaum de gira en Zacatecas y Ebrard en Beijing a la espera de su reunión del lunes.",
+    "nota_base": "Comparado contra data/rivales_state.json del 2026-11-22 (06:00). Solo lo que cambió del 22 nov 5:45 a.m. al 23 nov 5:45 a.m. (hora del centro).",
+    "fuentes": "Búsqueda web en Infobae, El Economista, Repretel/EFE, SDP Noticias, Milenio, La Jornada, Etcétera y portales locales, más lectura en X de las 10 cuentas. La búsqueda de noticias de X no trajo nada relevante para México.",
+    "contexto": "Domingo sin mañanera: la Presidenta y Harfuch no publicaron en X. La conversación giró en torno al INE (carta de Acosta Naranjo a la Presidenta, demanda del PAN ante el Tribunal Electoral) y hoy Ebrard tiene su reunión en Beijing.",
     "rivales": [
       {
         "nombre": "Claudia Sheinbaum",
         "handle": "@Claudiashein",
         "novedades": [
           {
-            "texto": "Gira por Villanueva, Zacatecas: entregó becas Gertrudis Bocanegra y Benito Juárez, y anunció que la sede de la Universidad Rosario Castellanos pasará de 3 mil a 10 mil lugares; supervisó equipo oncológico nuevo en Guadalupe.",
-            "url": "https://heraldodemexico.com.mx/nacional/2026/11/21/claudia-sheinbaum-anuncia-universidad-rosario-castellanos-para-10-mil-estudiantes-en-zacatecas-2922146.html"
+            "texto": "Dijo confiar en un buen acuerdo con EE. UU. en la revisión del T-MEC, pese a los aranceles de 50% que Washington impuso a Canadá; señaló que hay planteamientos de EE. UU. que México considera incompatibles con el tratado (Repretel/EFE, 22 nov).",
+            "url": "https://www.repretel.com/noticia/sheinbaum-confia-en-acuerdo-con-ee-uu-pese-a-desencuentro-entre-washington-y-canada/"
           },
           {
-            "texto": "La Jornada Zacatecas: supervisó el acelerador lineal que su gobierno describe como el más moderno del país y se reunió con directores del IMSS-Bienestar.",
-            "url": "https://ljz.mx/21/11/2026/sheinbaum-supervisa-instalacion-de-equipo-oncologico-de-ultima-generacion-en-zacatecas/"
+            "texto": "El Economista resume su gira a China (APEC): sin tratado de libre comercio, pero con memorandos en energía, medio ambiente, ciencia y educación, salud, turismo y cooperación (22 nov).",
+            "url": "https://www.eleconomista.com.mx/economia/apec-2026-claudia-sheinbaum-principales-acuerdos-dejo-viaje-china-20261122-845195.html"
           }
         ],
-        "nota": "En X sigue con 1 hit: 64,271 (video de la gira), contra 98,694 (desfile). Queda 5ª."
+        "nota": "En X no publicó originales en 24 h (ayer 1 hit, 64,271; ese video de Zacatecas ya va en 102,227 fuera de ventana). Sale del ranking del día."
       },
       {
         "nombre": "Omar García Harfuch",
         "handle": "@OHarfuch",
         "novedades": [
           {
-            "texto": "Lamentó la muerte de cuatro militares en el operativo de Guasave: \"Su valentía y heroísmo merecen el reconocimiento de todo México\". La Defensa informó también de siete agresores abatidos y aseguró un fusil calibre .50 y un lanzagranadas.",
-            "url": "https://www.infobae.com/mexico/2026/11/21/operativo-contra-el-chapo-isidro-deja-cuatro-militares-fallecidos-y-siete-presuntos-agresores-abatidos-harfuch-lamenta-decesos-de-la-defensa/"
-          },
-          {
-            "texto": "En X, su pésame es el post más visto de la lista (1,722,104) y su reconocimiento a la Defensa y a la Guardia Nacional suma 374,236.",
-            "url": "https://x.com/OHarfuch/status/2124217638306091286"
+            "texto": "Infobae y Publimetro aclararon que no hay renuncia ni anuncio oficial de Presidencia o de la SSPC: las versiones salen de una frase del 18 nov sobre que \"estas posiciones son sumamente temporales\". No es un cambio confirmado.",
+            "url": "https://www.infobae.com/mexico/2026/11/22/omar-garcia-harfuch-y-los-rumores-sobre-su-renuncia-que-dijo-y-por-que-se-habla-de-su-salida/"
           }
         ],
-        "nota": "Cambio de alcance: pasa de 0 originales a 2 hits (2,096,340) y queda 1º."
+        "nota": "En X no publicó originales en 24 h (ayer 1º con 2,096,340 en 2 posts). Sale del ranking del día."
       },
       {
         "nombre": "Marcelo Ebrard",
         "handle": "@m_ebrard",
         "novedades": [
           {
-            "texto": "Desde Beijing anunció una reunión el lunes 23 de noviembre con su homólogo chino para buscar un comercio más equilibrado: dijo que China exporta a México 12 veces más de lo que México vende allá.",
-            "url": "https://www.infobae.com/mexico/2026/11/21/marcelo-ebrard-busca-equilibrar-el-comercio-entre-mexico-y-china-durante-visita-a-beijing/"
+            "texto": "Su reunión en Beijing con el ministro de Comercio de China, Wang Wentao, está programada para hoy lunes 23 nov, para buscar un comercio más equilibrado (SDP Noticias). Aún no hay resultados publicados.",
+            "url": "https://www.sdpnoticias.com/mexico/marcelo-ebrard-se-reunira-con-homologo-de-china-para-buscar-comercio-equilibrado/"
+          },
+          {
+            "texto": "En X publicó el video \"China y la innovación\" (14,597) y unas condolencias por la muerte de Mariel Ibarra (2,544).",
+            "url": "https://x.com/m_ebrard/status/2124704565216047320"
           }
         ],
-        "nota": "En X sube de 1 hit (11,843) a 2 (57,319; el video de Beijing, 48,669). Queda 6º."
+        "nota": "En X baja de 2 hits (57,319) a 1 (14,597). Queda 6º."
       },
       {
         "nombre": "Lilly Téllez",
         "handle": "@LillyTellez",
         "novedades": [
           {
-            "texto": "Felicitó al secretario de la Defensa y a Harfuch por la captura de \"El Chapo Isidro\" y después dio el pésame a las familias de los cuatro militares.",
-            "url": "https://www.infobae.com/mexico/2026/11/21/lilly-tellez-celebra-detencion-de-el-chapo-isidro-mientras-alvarez-maynez-cuestiona-violencia-y-pide-recuperar-acuerdo-de-paz-de-la-iglesia/"
+            "texto": "Llamó \"otra burrada de Clara Brugada\" al programa de gallinas en casa de CDMX, por riesgos a la salud (Infobae, 22 nov).",
+            "url": "https://www.infobae.com/mexico/2026/11/22/otra-burrada-de-clara-brugada-lilly-tellez-sena-que-el-programa-de-gallinas-en-cdmx-representa-un-riesgo-a-la-salud/"
+          },
+          {
+            "texto": "Respaldó un comentario de J.K. Rowling sobre identidad trans con \"Absolutamente de acuerdo\" (Infobae, 22 nov); ese post tiene 21,032 vistas.",
+            "url": "https://www.infobae.com/mexico/2026/11/22/lilly-tellez-apoya-comentarios-transfobico-de-creadora-de-harry-potter/"
           }
         ],
-        "nota": "En X sube de 2 hits (105,489) a 3 (275,456; pésame 138,251 y felicitación 124,340). Pasa a 3ª."
+        "nota": "En X baja de 3 hits (275,456) a 2 (43,050: noticiario 22,018 y la cita 21,032). Queda 4ª."
       },
       {
         "nombre": "Jorge Romero",
         "handle": "@JorgeRoHe",
         "novedades": [
           {
-            "texto": "En Tepic, Nayarit, acompañó el informe de la senadora Ivideliza Reyes y repitió que el PAN irá a la \"resistencia civil\" si se impone a una persona cercana al oficialismo en el INE (ya lo había dicho el 20 nov).",
-            "url": "https://tu.revistaperfiles.org/archivos/jorge-romero-pan-ine-resistencia-civil-ivideliza-reyes-tepic/"
+            "texto": "El PAN que dirige demandó ante el Tribunal Electoral que la Cámara de Diputados inicie la renovación de la presidencia del INE y respondió a Monreal: \"ya hay condiciones\" (Infobae, 22 nov).",
+            "url": "https://www.infobae.com/mexico/2026/11/22/pan-demanda-ante-el-tribunal-electoral-que-se-inicie-la-renovacion-del-ine-y-responde-a-monreal-ya-hay-condiciones/"
+          },
+          {
+            "texto": "En X: propuesta de deducir todos los gastos médicos, dentales y educativos con factura (18,378).",
+            "url": "https://x.com/JorgeRoHe/status/2124527217874993636"
           }
         ],
-        "nota": "En X baja de 11 hits (187,134) a 7 (131,586), con menos posts de gira; su top es \"los gobiernos del PAN son los mejor evaluados\" (25,958). Queda 4º."
+        "nota": "En X baja de 7 hits (131,586) a 2 (32,490). Queda 5º."
       },
       {
         "nombre": "Samuel García",
         "handle": "@samuel_garcias",
         "novedades": [
           {
-            "texto": "Presentó su Quinto Informe de Gobierno con el lema \"Lo nuevo sí cumple\": dijo que cumplió 81 proyectos, salvo estaciones del Metro y el Hospital Infantil, y que bajó 90% los homicidios (cifras dichas por él en su informe).",
-            "url": "https://www.eluniversal.com.mx/estados/samuel-garcia-presenta-su-quinto-informe-de-gobierno-destaca-inversion-seguridad-y-obra-publica/"
+            "texto": "Milenio (22 nov): en el informe criticó a \"la vieja política\" y a exgobernadores, presumió 80 de calificación en Cómo Vamos y se quejó de que en 3 de 5 años el Congreso no le aprobó el paquete fiscal.",
+            "url": "https://www.milenio.com/politica/samuel-garcia-llama-frenar-vieja-politica-senala-avances-quinto-inform"
+          },
+          {
+            "texto": "En X, su post del DIF Capullos con fotos llegó a 54,597, pero con solo 96 likes.",
+            "url": "https://x.com/samuel_garcias/status/2124623815971860787"
           }
         ],
-        "nota": "En X mantiene 3 hits pero cae de 98,238 a 18,199 (el mejor, 6,579). Queda 8º."
+        "nota": "En X sube de 3 hits (18,199) a 2 (65,104). Queda 3º."
       },
       {
         "nombre": "Guadalupe Acosta Naranjo",
         "handle": "@acostanaranjo",
         "novedades": [
           {
-            "texto": "Como dirigente de SOMOS, dijo que es la Presidenta quien deslegitima la elección de 2027 y que Morena busca imponer a la titular del INE (Infobae, 22 nov).",
-            "url": "https://www.infobae.com/mexico/2026/11/22/oposicion-acusa-a-claudia-sheinbaum-y-a-morena-de-descarrilar-la-eleccion-de-2027-al-apoderarse-del-ine/"
+            "texto": "Publicó una carta abierta a la Presidenta: rechaza que lo vinculen con la crisis del INE, la acusa de restaurar un régimen de partido único y de negar el diálogo, y dice que \"la corrupción de Taddei es de Taddei y de Morena\" (Infobae y Etcétera, 22 nov).",
+            "url": "https://www.infobae.com/mexico/2026/11/22/acosta-naranjo-presidente-de-somos-compara-al-gobierno-de-sheinbaum-con-el-regimen-de-partido-unico/"
+          },
+          {
+            "texto": "En X, la carta es el 2º post más visto de la lista (81,010).",
+            "url": "https://x.com/acostanaranjo/status/2124560451182772237"
           }
         ],
-        "nota": "En X regresa con 2 hits (29,720; \"Así es\" 16,958 y \"Atención, mucha atención\" 12,762); ayer en la mañana no tenía originales. Queda 7º."
+        "nota": "Cambio de alcance: de 2 hits (29,720) a 1 de 81,010. Queda 2º."
       },
       {
-        "nombre": "Alejandro Moreno",
-        "handle": "@alitomorenoc",
+        "nombre": "Maru Campos",
+        "handle": "@MaruCampos_G",
         "novedades": [
           {
-            "texto": "Dijo que el PRI arma una alianza opositora \"amplia y competitiva\" para 2027, con acuerdos en curso en Sonora, Nuevo León, Zacatecas, Querétaro y Michoacán (dicho por él).",
-            "url": "https://www.eluniversal.com.mx/nacion/alito-moreno-garantiza-alianza-opositora-amplia-y-competitiva-rumbo-a-2027-en-morena-estan-preocupados-afirma/"
+            "texto": "Anunció la reparación de baches en Chihuahua capital tras las lluvias (En Blanco y Negro, 22 nov). El alcalde de Juárez, Cruz Pérez Cuéllar (Morena), la criticó por no visitar varios municipios en 5 años (La Jornada, 22 nov).",
+            "url": "https://www.jornada.com.mx/noticia/2026/11/22/estados/maru-campos-no-ha-visitado-varios-municipios-en-chihuahua-en-mas-de-5-anos-de-gobierno-perez-cuellar"
           }
         ],
-        "nota": "En X cae de 4 hits (108,294) a ninguno: 6 citas de giras del PRI con 1,537 a 1,998 vistas cada una."
+        "nota": "En X baja de 1 hit (6,902) a ninguno: 1 video de baches con 720 vistas."
       }
     ],
     "sin_cambios": [
       {
-        "nombre": "Maru Campos",
-        "handle": "@MaruCampos_G",
-        "nota": "Sin novedades confirmadas (solo un aviso de precaución por vientos y tolvaneras, La Gaceta Chihuahua). En X, 1 hit (6,902, un pésame) y otro post con 762. Queda 9ª."
+        "nombre": "Alejandro Moreno",
+        "handle": "@alitomorenoc",
+        "nota": "Sin novedades confirmadas (las síntesis repiten lo de la alianza opositora del 21 nov). En X, 16 citas de giras del PRI con 923 a 2,314 vistas cada una; sigue sin hits."
       }
     ]
   },
   "leaderboards": {
-    "as_of": "2026-11-22",
+    "as_of": "2026-11-23",
     "tracking_start": "2026-10-26",
     "days_included": [
-      "2026-11-16",
       "2026-11-17",
       "2026-11-18",
       "2026-11-19",
       "2026-11-20",
       "2026-11-21",
-      "2026-11-22"
+      "2026-11-22",
+      "2026-11-23"
     ],
     "month_days_included": [
       "2026-11-01",
@@ -1531,30 +1290,31 @@
       "2026-11-19",
       "2026-11-20",
       "2026-11-21",
-      "2026-11-22"
+      "2026-11-22",
+      "2026-11-23"
     ],
     "week": {
       "label": "Semana",
       "range": [
-        "2026-11-16",
-        "2026-11-22"
+        "2026-11-17",
+        "2026-11-23"
       ],
       "entries": [
         {
           "handle": "@Claudiashein",
           "name": "Claudia Sheinbaum Pardo",
-          "hits": 17,
-          "days": 6,
-          "views": 5918505,
-          "best": 1233596,
-          "best_url": "https://x.com/Claudiashein/status/2122205377345605643"
+          "hits": 15,
+          "days": 5,
+          "views": 4366998,
+          "best": 714932,
+          "best_url": "https://x.com/Claudiashein/status/2123654488347267264"
         },
         {
           "handle": "@ricardobsalinas",
           "name": "Ricardo B. Salinas",
-          "hits": 27,
-          "days": 7,
-          "views": 3634157,
+          "hits": 26,
+          "days": 6,
+          "views": 3599740,
           "best": 434925,
           "best_url": "https://x.com/RicardoBSalinas/status/2122733378323558640"
         },
@@ -1570,18 +1330,18 @@
         {
           "handle": "@m_ebrard",
           "name": "Marcelo Ebrard C.",
-          "hits": 22,
+          "hits": 17,
           "days": 7,
-          "views": 1154856,
+          "views": 1025156,
           "best": 549841,
           "best_url": "https://x.com/m_ebrard/status/2123286834004496652"
         },
         {
           "handle": "@JorgeRoHe",
           "name": "Jorge Romero Herrera",
-          "hits": 43,
-          "days": 7,
-          "views": 918400,
+          "hits": 40,
+          "days": 6,
+          "views": 872407,
           "best": 173525,
           "best_url": "https://x.com/JorgeRoHe/status/2123247393944621490"
         },
@@ -1590,25 +1350,25 @@
           "name": "Lilly Téllez",
           "hits": 13,
           "days": 6,
-          "views": 576679,
+          "views": 610034,
           "best": 138251,
           "best_url": "https://x.com/LillyTellez/status/2124230473576595472"
         },
         {
           "handle": "@samuel_garcias",
           "name": "Samuel García",
-          "hits": 25,
+          "hits": 23,
           "days": 7,
-          "views": 395629,
+          "views": 435888,
           "best": 160245,
           "best_url": "https://x.com/samuel_garcias/status/2123895607622541823"
         },
         {
           "handle": "@alitomorenoc",
           "name": "Alejandro Moreno",
-          "hits": 11,
-          "days": 4,
-          "views": 346237,
+          "hits": 8,
+          "days": 3,
+          "views": 311453,
           "best": 199323,
           "best_url": "https://x.com/alitomorenoc/status/2124008745348854088"
         },
@@ -1617,8 +1377,8 @@
           "name": "Guadalupe Acosta Naranjo",
           "hits": 3,
           "days": 2,
-          "views": 58421,
-          "best": 28701,
+          "views": 110730,
+          "best": 81010,
           "best_url": "https://x.com/acostanaranjo/status/2124560451182772237"
         },
         {
@@ -1626,8 +1386,8 @@
           "name": "Maru Campos",
           "hits": 1,
           "days": 1,
-          "views": 11262,
-          "best": 11262,
+          "views": 12633,
+          "best": 12633,
           "best_url": "https://x.com/MaruCampos_G/status/2124231131990008058"
         }
       ]
@@ -1636,7 +1396,7 @@
       "label": "Mes",
       "range": [
         "2026-11-01",
-        "2026-11-22"
+        "2026-11-23"
       ],
       "entries": [
         {
@@ -1644,7 +1404,7 @@
           "name": "Ricardo B. Salinas",
           "hits": 72,
           "days": 21,
-          "views": 11016143,
+          "views": 11081887,
           "best": 1760231,
           "best_url": "https://x.com/RicardoBSalinas/status/2120331518199447789"
         },
@@ -1653,7 +1413,7 @@
           "name": "Claudia Sheinbaum Pardo",
           "hits": 52,
           "days": 21,
-          "views": 9453943,
+          "views": 9467484,
           "best": 1233596,
           "best_url": "https://x.com/Claudiashein/status/2122205377345605643"
         },
@@ -1671,7 +1431,7 @@
           "name": "Lilly Téllez",
           "hits": 47,
           "days": 18,
-          "views": 2801090,
+          "views": 2834445,
           "best": 362891,
           "best_url": "https://x.com/LillyTellez/status/2120337524786864251"
         },
@@ -1680,25 +1440,25 @@
           "name": "Jorge Romero Herrera",
           "hits": 138,
           "days": 22,
-          "views": 2709038,
+          "views": 2709623,
           "best": 209875,
           "best_url": "https://x.com/JorgeRoHe/status/2120347226606067917"
         },
         {
           "handle": "@m_ebrard",
           "name": "Marcelo Ebrard C.",
-          "hits": 46,
-          "days": 16,
-          "views": 1411569,
+          "hits": 47,
+          "days": 17,
+          "views": 1426834,
           "best": 549841,
           "best_url": "https://x.com/m_ebrard/status/2123286834004496652"
         },
         {
           "handle": "@samuel_garcias",
           "name": "Samuel García",
-          "hits": 78,
-          "days": 22,
-          "views": 1100792,
+          "hits": 80,
+          "days": 23,
+          "views": 1180483,
           "best": 160245,
           "best_url": "https://x.com/samuel_garcias/status/2123895607622541823"
         },
@@ -1716,7 +1476,7 @@
           "name": "Guadalupe Acosta Naranjo",
           "hits": 12,
           "days": 8,
-          "views": 526961,
+          "views": 579270,
           "best": 249849,
           "best_url": "https://x.com/acostanaranjo/status/2120696928145203512"
         },
@@ -1725,8 +1485,8 @@
           "name": "Maru Campos",
           "hits": 3,
           "days": 3,
-          "views": 25041,
-          "best": 11262,
+          "views": 26412,
+          "best": 12633,
           "best_url": "https://x.com/MaruCampos_G/status/2124231131990008058"
         }
       ]

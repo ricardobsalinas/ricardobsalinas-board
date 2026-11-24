@@ -34,158 +34,97 @@
   "virals_window": "últimas 24 h",
   "virals_target": 20,
   "timezone": "America/Mexico_City",
-  "title": "Digest de la mañana en X — 2026-11-24",
+  "title": "Digest de la tarde en X — 2026-11-24",
   "date": "2026-11-24",
-  "updated": "2026-11-24T06:00:50-06:00",
+  "updated": "2026-11-24T16:58:51-06:00",
   "hits": [
     {
-      "id": "2124948677206900768",
+      "id": "2125238668268827056",
+      "handle": "@samuel_garcias",
+      "display_name": "Samuel García",
+      "name": "Samuel García",
+      "followers": 444189,
+      "text": "COLOQUIO DOCTORAL EN LA UNIVERSIDAD DE @LaSalle_MX \n\nLes dejo mi exposición de anoche de mis avances de tesis sobre el cumplimiento normativo (compliance) de los estados y municipios y cómo se ve afectado por factores financieros, políticos e intergubernamentales. \n\nAgradezco al https://t.co/xTngpOzCEH",
+      "original_en": "COLOQUIO DOCTORAL EN LA UNIVERSIDAD DE @LaSalle_MX \n\nLes dejo mi exposición de anoche de mis avances de tesis sobre el cumplimiento normativo (compliance) de los estados y municipios y cómo se ve afectado por factores financieros, políticos e intergubernamentales. \n\nAgradezco al https://t.co/xTngpOzCEH",
+      "views": 128034,
+      "views_label": "128,034",
+      "likes": 224,
+      "reposts": 14,
+      "replies": 300,
+      "quotes": 20,
+      "bookmarks": 72,
+      "url": "https://x.com/samuel_garcias/status/2125238668268827056",
+      "status_url": "https://x.com/samuel_garcias/status/2125238668268827056",
+      "created_local": "2026-11-24 08:42",
+      "created_at": "2026-11-24T14:42:38.000Z",
+      "posted_at": "2026-11-24T14:42:38.000Z",
+      "lang": null,
+      "media": [
+        "video"
+      ],
+      "star": true,
+      "highlight": true,
+      "quote": false,
+      "draft_en": "Nunca se deja de aprender. El que estudia, se prepara y se atreve a preguntar siempre encuentra una puerta abierta, aunque el mundo cambie.\nLa mejor inversión de un país es la preparación de su gente. 📚🇲🇽",
+      "video_tip": "Video vertical de 15 s: un estudiante que lee de noche en la mesa de la cocina, una señora mayor que aprende a usar una tableta, un técnico en un curso y una graduación con abrazo familiar; rótulos \"Estudia\" · \"Prepárate\" · \"Avanza\". Música optimista; sin marcas, escuelas identificables ni personas públicas.",
+      "draft_keywords": [
+        "preparación",
+        "estudio",
+        "jóvenes",
+        "aprender"
+      ],
+      "top10_rank": 1,
+      "category": "Gobierno y políticas públicas"
+    },
+    {
+      "id": "2125301576520589588",
       "handle": "@OHarfuch",
       "display_name": "Omar H Garcia Harfuch",
       "name": "Omar H Garcia Harfuch",
-      "followers": 816620,
-      "text": "Por instrucciones de la Presidenta @Claudiashein, el Gabinete de Seguridad @GabSeguridadMX mantiene su presencia en Sinaloa para proteger a las familias, detener a quienes generan violencia y fortalecer a las instituciones estatales y municipales.\n\nDel 1 de octubre de 2024 al 15 https://t.co/qTQxA2XTQk",
-      "original_en": "Por instrucciones de la Presidenta @Claudiashein, el Gabinete de Seguridad @GabSeguridadMX mantiene su presencia en Sinaloa para proteger a las familias, detener a quienes generan violencia y fortalecer a las instituciones estatales y municipales.\n\nDel 1 de octubre de 2024 al 15 https://t.co/qTQxA2XTQk",
-      "views": 353288,
-      "views_label": "353,288",
-      "likes": 3135,
-      "reposts": 684,
-      "replies": 223,
-      "quotes": 38,
-      "bookmarks": 80,
-      "url": "https://x.com/OHarfuch/status/2124948677206900768",
-      "status_url": "https://x.com/OHarfuch/status/2124948677206900768",
-      "created_local": "2026-11-23 13:30",
-      "created_at": "2026-11-23T19:30:18.000Z",
-      "posted_at": "2026-11-23T19:30:18.000Z",
-      "lang": null,
+      "followers": 816823,
+      "text": "Por instrucciones de la Presidenta @Claudiashein, estamos en Culiacán Sinaloa con el Gral Ricardo Trevilla @Defensamx1 , el almirante Raymundo Pedro Morales @SEMAR_mx Ángeles, secretario de Marina, y el general Guillermo Briseño Lobera @GN_MEXICO_ , nos reunimos con la gobernadora Graciela Domínguez Nava (@GracielaDguezN) para evaluar las acciones de seguridad en el estado. Agradecemos su coordinación y compromiso.\n\nHoy entregamos 104 unidades a la Policía Estatal de Sinaloa y a la Policía Municipal de Culiacán. Esta entrega forma parte de un programa que contempla más de 200 vehículos, entre patrullas, motocicletas, cuatrimotos y vehículos tácticos blindados, para que las policías cuenten con mejores medios para responder cuando una familia necesita ayuda.\n\nTambién fortalecemos la vigilancia y la investigación con unidades Águila equipadas con drones y nuevos equipos de inteligencia. El Centro de Monitoreo Carretero Federal (C4 Carretero) contará con 240 puntos de monitoreo, 720 cámaras y 30 lectores de placas para reforzar la seguridad en las carreteras de Sinaloa.\n\nLa próxima semana estaremos en Mazatlán para continuar con la entrega de patrullas y vehículos blindados a la Policía Municipal de Mazatlán y a la Policía Estatal de Sinaloa. Después sostendremos una reunión de seguridad para evaluar los avances de la estrategia y nos reuniremos con representantes de distintos sectores de la sociedad sinaloense para escuchar sus inquietudes y propuestas.\n\nRegresaremos periódicamente a Sinaloa para revisar los resultados y seguir fortaleciendo a las instituciones estatales y municipales.",
+      "original_en": "Por instrucciones de la Presidenta @Claudiashein, estamos en Culiacán Sinaloa con el Gral Ricardo Trevilla @Defensamx1 , el almirante Raymundo Pedro Morales @SEMAR_mx Ángeles, secretario de Marina, y el general Guillermo Briseño Lobera @GN_MEXICO_ , nos reunimos con la gobernadora Graciela Domínguez Nava (@GracielaDguezN) para evaluar las acciones de seguridad en el estado. Agradecemos su coordinación y compromiso.\n\nHoy entregamos 104 unidades a la Policía Estatal de Sinaloa y a la Policía Municipal de Culiacán. Esta entrega forma parte de un programa que contempla más de 200 vehículos, entre patrullas, motocicletas, cuatrimotos y vehículos tácticos blindados, para que las policías cuenten con mejores medios para responder cuando una familia necesita ayuda.\n\nTambién fortalecemos la vigilancia y la investigación con unidades Águila equipadas con drones y nuevos equipos de inteligencia. El Centro de Monitoreo Carretero Federal (C4 Carretero) contará con 240 puntos de monitoreo, 720 cámaras y 30 lectores de placas para reforzar la seguridad en las carreteras de Sinaloa.\n\nLa próxima semana estaremos en Mazatlán para continuar con la entrega de patrullas y vehículos blindados a la Policía Municipal de Mazatlán y a la Policía Estatal de Sinaloa. Después sostendremos una reunión de seguridad para evaluar los avances de la estrategia y nos reuniremos con representantes de distintos sectores de la sociedad sinaloense para escuchar sus inquietudes y propuestas.\n\nRegresaremos periódicamente a Sinaloa para revisar los resultados y seguir fortaleciendo a las instituciones estatales y municipales.",
+      "views": 81371,
+      "views_label": "81,371",
+      "likes": 1668,
+      "reposts": 364,
+      "replies": 83,
+      "quotes": 18,
+      "bookmarks": 44,
+      "url": "https://x.com/OHarfuch/status/2125301576520589588",
+      "status_url": "https://x.com/OHarfuch/status/2125301576520589588",
+      "created_local": "2026-11-24 12:52",
+      "created_at": "2026-11-24T18:52:36.000Z",
+      "posted_at": "2026-11-24T18:52:36.000Z",
+      "lang": "es",
       "media": [
         "photo",
-        "video",
+        "photo",
+        "photo",
+        "photo",
         "photo"
       ],
       "star": true,
       "highlight": true,
       "quote": false,
-      "top10_rank": 1,
-      "category": "Seguridad"
-    },
-    {
-      "id": "2124899153469686079",
-      "handle": "@RicardoBSalinas",
-      "display_name": "Don Ricardo Salinas Pliego",
-      "name": "Don Ricardo Salinas Pliego",
-      "followers": 2238395,
-      "text": "A mis clientes les quitaron su tiempo y los dejó sin su dinero. El gobierno corrupto les congeló las cuentas que tenían con nosotros sin ninguna razón. Lo hicieron por persecución política y venganza.\n\n¿Y ahora quién va a dar la cara? ¿Quién les va a devolver lo que perdieron mis https://t.co/GVeUT2UZac",
-      "original_en": "A mis clientes les quitaron su tiempo y los dejó sin su dinero. El gobierno corrupto les congeló las cuentas que tenían con nosotros sin ninguna razón. Lo hicieron por persecución política y venganza.\n\n¿Y ahora quién va a dar la cara? ¿Quién les va a devolver lo que perdieron mis https://t.co/GVeUT2UZac",
-      "views": 110895,
-      "views_label": "110,895",
-      "likes": 3496,
-      "reposts": 973,
-      "replies": 111,
-      "quotes": 5,
-      "bookmarks": 38,
-      "url": "https://x.com/RicardoBSalinas/status/2124899153469686079",
-      "status_url": "https://x.com/RicardoBSalinas/status/2124899153469686079",
-      "created_local": "2026-11-23 10:13",
-      "created_at": "2026-11-23T16:13:31.000Z",
-      "posted_at": "2026-11-23T16:13:31.000Z",
-      "lang": null,
-      "media": [],
-      "star": true,
-      "highlight": true,
-      "quote": true,
       "top10_rank": 2,
-      "category": "Economía y empleo"
-    },
-    {
-      "id": "2124861291747512628",
-      "handle": "@Claudiashein",
-      "display_name": "Claudia Sheinbaum Pardo",
-      "name": "Claudia Sheinbaum Pardo",
-      "followers": 5265938,
-      "text": "La paz y la tranquilidad son frutos de la justicia. https://t.co/pR7eruLLe9",
-      "original_en": "La paz y la tranquilidad son frutos de la justicia. https://t.co/pR7eruLLe9",
-      "views": 73783,
-      "views_label": "73,783",
-      "likes": 2312,
-      "reposts": 884,
-      "replies": 360,
-      "quotes": 90,
-      "bookmarks": 42,
-      "url": "https://x.com/Claudiashein/status/2124861291747512628",
-      "status_url": "https://x.com/Claudiashein/status/2124861291747512628",
-      "created_local": "2026-11-23 07:43",
-      "created_at": "2026-11-23T13:43:04.000Z",
-      "posted_at": "2026-11-23T13:43:04.000Z",
-      "lang": "es",
-      "media": [],
-      "star": true,
-      "highlight": true,
-      "quote": false,
-      "draft_en": "La justicia no se presume: se demuestra con reglas claras e iguales para todos.\nSin certeza no hay inversión, y sin inversión no hay empleo. Así de sencillo. ⚖️🇲🇽",
-      "video_tip": "Video vertical de 12 a 15 s: manos que firman un contrato, la cortina de un negocio que sube al amanecer y un trabajador que llega a su turno. Rótulos grandes \"Reglas claras\" · \"Para todos\" · \"Más empleo\". Música sobria; sin personas públicas, partidos ni logotipos.",
-      "draft_keywords": [
-        "justicia",
-        "reglas claras",
-        "certeza",
-        "empleo"
-      ],
-      "top10_rank": 3,
-      "category": "Otros"
-    },
-    {
-      "id": "2124910289271283807",
-      "handle": "@Claudiashein",
-      "display_name": "Claudia Sheinbaum Pardo",
-      "name": "Claudia Sheinbaum Pardo",
-      "followers": 5265938,
-      "text": "201 Aniversario de la Consolidación de la Independencia en la Mar. Ciudad de México https://t.co/Ru3j9VvKz6",
-      "original_en": "201 Aniversario de la Consolidación de la Independencia en la Mar. Ciudad de México https://t.co/Ru3j9VvKz6",
-      "views": 49664,
-      "views_label": "49,664",
-      "likes": 1668,
-      "reposts": 567,
-      "replies": 151,
-      "quotes": 33,
-      "bookmarks": 27,
-      "url": "https://x.com/Claudiashein/status/2124910289271283807",
-      "status_url": "https://x.com/Claudiashein/status/2124910289271283807",
-      "created_local": "2026-11-23 10:57",
-      "created_at": "2026-11-23T16:57:46.000Z",
-      "posted_at": "2026-11-23T16:57:46.000Z",
-      "lang": "es",
-      "media": [],
-      "star": true,
-      "highlight": true,
-      "quote": false,
-      "draft_en": "A quienes cuidan nuestros mares y a quienes salen cada madrugada a pescar: México se sostiene con gente que trabaja sin pedir permiso para ser grande.\nRespeto y gratitud. ⚓🇲🇽",
-      "video_tip": "Video de 15 s con tomas de puerto al amanecer: lanchas que salen, redes, un marino en cubierta de espaldas y la bandera al viento. Texto final \"Respeto y gratitud\". Usar material propio o de banco de imágenes; sin uniformes con nombres ni funcionarios.",
-      "draft_keywords": [
-        "Armada",
-        "mar",
-        "trabajo",
-        "gratitud",
-        "México"
-      ],
-      "top10_rank": 4,
-      "category": "Otros"
+      "category": "Corrupción y justicia"
     },
     {
       "id": "2125042225813864643",
       "handle": "@Claudiashein",
       "display_name": "Claudia Sheinbaum Pardo",
       "name": "Claudia Sheinbaum Pardo",
-      "followers": 5265938,
+      "followers": 5265896,
       "text": "201 Aniversario de la Consolidación de la Independencia en la Mar. https://t.co/JnFvZDFkxM",
       "original_en": "201 Aniversario de la Consolidación de la Independencia en la Mar. https://t.co/JnFvZDFkxM",
-      "views": 44492,
-      "views_label": "44,492",
-      "likes": 1945,
-      "reposts": 565,
-      "replies": 112,
-      "quotes": 28,
-      "bookmarks": 35,
+      "views": 68884,
+      "views_label": "68,884",
+      "likes": 2873,
+      "reposts": 808,
+      "replies": 163,
+      "quotes": 36,
+      "bookmarks": 46,
       "url": "https://x.com/Claudiashein/status/2125042225813864643",
       "status_url": "https://x.com/Claudiashein/status/2125042225813864643",
       "created_local": "2026-11-23 19:42",
@@ -198,128 +137,188 @@
       "star": true,
       "highlight": true,
       "quote": false,
+      "top10_rank": 3,
+      "category": "Otros"
+    },
+    {
+      "id": "2125145840142766305",
+      "handle": "@RicardoBSalinas",
+      "display_name": "Don Ricardo Salinas Pliego",
+      "name": "Don Ricardo Salinas Pliego",
+      "followers": 2238321,
+      "text": "Esto es increíblemente bueno. https://t.co/6Cd89aZaiR",
+      "original_en": "Esto es increíblemente bueno. https://t.co/6Cd89aZaiR",
+      "views": 49318,
+      "views_label": "49,318",
+      "likes": 422,
+      "reposts": 72,
+      "replies": 36,
+      "quotes": 3,
+      "bookmarks": 49,
+      "url": "https://x.com/RicardoBSalinas/status/2125145840142766305",
+      "status_url": "https://x.com/RicardoBSalinas/status/2125145840142766305",
+      "created_local": "2026-11-24 02:33",
+      "created_at": "2026-11-24T08:33:46.000Z",
+      "posted_at": "2026-11-24T08:33:46.000Z",
+      "lang": "es",
+      "media": [],
+      "star": true,
+      "highlight": true,
+      "quote": true,
+      "top10_rank": 4,
+      "category": "Otros"
+    },
+    {
+      "id": "2125222453660074131",
+      "handle": "@Claudiashein",
+      "display_name": "Claudia Sheinbaum Pardo",
+      "name": "Claudia Sheinbaum Pardo",
+      "followers": 5265896,
+      "text": "El acceso a la salud es un derecho y cada día se hace más efectivo. Vamos avanzando. https://t.co/KUovI96lqv",
+      "original_en": "El acceso a la salud es un derecho y cada día se hace más efectivo. Vamos avanzando. https://t.co/KUovI96lqv",
+      "views": 48087,
+      "views_label": "48,087",
+      "likes": 1236,
+      "reposts": 508,
+      "replies": 293,
+      "quotes": 86,
+      "bookmarks": 13,
+      "url": "https://x.com/Claudiashein/status/2125222453660074131",
+      "status_url": "https://x.com/Claudiashein/status/2125222453660074131",
+      "created_local": "2026-11-24 07:38",
+      "created_at": "2026-11-24T13:38:12.000Z",
+      "posted_at": "2026-11-24T13:38:12.000Z",
+      "lang": "es",
+      "media": [],
+      "star": true,
+      "highlight": true,
+      "quote": false,
       "top10_rank": 5,
       "category": "Otros"
     },
     {
-      "id": "2124857655101706688",
-      "handle": "@m_ebrard",
-      "display_name": "Marcelo Ebrard C.",
-      "name": "Marcelo Ebrard C.",
-      "followers": 2709415,
-      "text": "Buenas noticias : https://t.co/FsoO7DhEWj",
-      "original_en": "Buenas noticias : https://t.co/FsoO7DhEWj",
-      "views": 41496,
-      "views_label": "41,496",
-      "likes": 1874,
-      "reposts": 478,
-      "replies": 100,
-      "quotes": 18,
-      "bookmarks": 49,
-      "url": "https://x.com/m_ebrard/status/2124857655101706688",
-      "status_url": "https://x.com/m_ebrard/status/2124857655101706688",
-      "created_local": "2026-11-23 07:28",
-      "created_at": "2026-11-23T13:28:37.000Z",
-      "posted_at": "2026-11-23T13:28:37.000Z",
-      "lang": "es",
-      "media": [
-        "photo"
-      ],
+      "id": "2125255867968917671",
+      "handle": "@RicardoBSalinas",
+      "display_name": "Don Ricardo Salinas Pliego",
+      "name": "Don Ricardo Salinas Pliego",
+      "followers": 2238321,
+      "text": "https://t.co/vhOdh0Ndxy",
+      "original_en": "https://t.co/vhOdh0Ndxy",
+      "views": 38540,
+      "views_label": "38,540",
+      "likes": 315,
+      "reposts": 99,
+      "replies": 44,
+      "quotes": 4,
+      "bookmarks": 11,
+      "url": "https://x.com/RicardoBSalinas/status/2125255867968917671",
+      "status_url": "https://x.com/RicardoBSalinas/status/2125255867968917671",
+      "created_local": "2026-11-24 09:50",
+      "created_at": "2026-11-24T15:50:58.000Z",
+      "posted_at": "2026-11-24T15:50:58.000Z",
+      "lang": "zxx",
+      "media": [],
       "star": true,
       "highlight": true,
       "quote": false,
+      "draft_en": "Un empleo formal es más que un sueldo: es seguro médico, ahorro para el retiro y la tranquilidad de una familia.\nMéxico necesita que contratar sea más fácil que no hacerlo. Cuando crece el empleo, crece todo el país. 💼🇲🇽",
+      "video_tip": "Video de 12 a 15 s: una barra de gráfica que sube (3 s, solo con datos públicos del IMSS o INEGI si se citan), una joven que recibe su primer gafete, un taller que contrata y una familia en consulta médica; rótulos \"Empleo formal\" · \"Seguridad\" · \"Futuro\". Sin nombres ni partidos.",
+      "draft_keywords": [
+        "empleo",
+        "empleo formal",
+        "oportunidades",
+        "emprender"
+      ],
       "top10_rank": 6,
       "category": "Otros"
     },
     {
-      "id": "2124939221043736998",
-      "handle": "@m_ebrard",
-      "display_name": "Marcelo Ebrard C.",
-      "name": "Marcelo Ebrard C.",
-      "followers": 2709415,
-      "text": "Resultados de la reunión del Grupo de Alto Nivel México-China https://t.co/YUgHILOlH0",
-      "original_en": "Resultados de la reunión del Grupo de Alto Nivel México-China https://t.co/YUgHILOlH0",
-      "views": 32201,
-      "views_label": "32,201",
-      "likes": 838,
-      "reposts": 229,
-      "replies": 27,
-      "quotes": 13,
-      "bookmarks": 34,
-      "url": "https://x.com/m_ebrard/status/2124939221043736998",
-      "status_url": "https://x.com/m_ebrard/status/2124939221043736998",
-      "created_local": "2026-11-23 12:52",
-      "created_at": "2026-11-23T18:52:44.000Z",
-      "posted_at": "2026-11-23T18:52:44.000Z",
+      "id": "2125289325709668723",
+      "handle": "@RicardoBSalinas",
+      "display_name": "Don Ricardo Salinas Pliego",
+      "name": "Don Ricardo Salinas Pliego",
+      "followers": 2238321,
+      "text": "A pesar de que en @gruposalinas NO somos Gobierno, publicamos puntualmente los impuestos que le hemos pagado a los Mexicanos solo en éste periodo para que sepan de qué tamaño es nuestra aportación para que exista un México mejor.\n\nCreemos que la transparencia debe ir en ambos sentidos. Entonces, si nosotros publicamos cuánto pagamos, de la misma manera, el gobierno tiene la obligación de explicar con claridad y detalle en qué se usa cada peso que aportamos todos los mexicanos. \n\nRendir cuentas no es un favor del gobierno al pueblo, es una obligación que no cumplen.",
+      "original_en": "A pesar de que en @gruposalinas NO somos Gobierno, publicamos puntualmente los impuestos que le hemos pagado a los Mexicanos solo en éste periodo para que sepan de qué tamaño es nuestra aportación para que exista un México mejor.\n\nCreemos que la transparencia debe ir en ambos sentidos. Entonces, si nosotros publicamos cuánto pagamos, de la misma manera, el gobierno tiene la obligación de explicar con claridad y detalle en qué se usa cada peso que aportamos todos los mexicanos. \n\nRendir cuentas no es un favor del gobierno al pueblo, es una obligación que no cumplen.",
+      "views": 36657,
+      "views_label": "36,657",
+      "likes": 1306,
+      "reposts": 331,
+      "replies": 200,
+      "quotes": 7,
+      "bookmarks": 14,
+      "url": "https://x.com/RicardoBSalinas/status/2125289325709668723",
+      "status_url": "https://x.com/RicardoBSalinas/status/2125289325709668723",
+      "created_local": "2026-11-24 12:03",
+      "created_at": "2026-11-24T18:03:55.000Z",
+      "posted_at": "2026-11-24T18:03:55.000Z",
       "lang": "es",
-      "media": [
-        "video"
-      ],
+      "media": [],
       "star": true,
       "highlight": true,
-      "quote": false,
+      "quote": true,
+      "draft_en": "Cada peso de impuestos sale del trabajo de alguien: del que abre su negocio temprano, del que cumple con su nómina, del que ahorra para sus hijos.\nPor eso las cuentas claras son respeto. Rendir cuentas no es un favor: es una obligación con el esfuerzo de todos. 🇲🇽",
+      "video_tip": "Video vertical de 15 s: un panadero sube la cortina a las 6 a.m., una mano firma una nómina, una moneda cae en una alcancía y la toma se funde con una escuela y una clínica iluminadas; rótulos \"Tu esfuerzo\" · \"Tus impuestos\" · \"Cuentas claras\". Sin logotipos, partidos ni personas públicas.",
+      "draft_keywords": [
+        "transparencia",
+        "impuestos",
+        "rendir cuentas",
+        "esfuerzo"
+      ],
       "top10_rank": 7,
-      "category": "Internacional"
+      "category": "Economía y empleo"
     },
     {
-      "id": "2124873908406911401",
-      "handle": "@JorgeRoHe",
-      "display_name": "Jorge Romero Herrera",
-      "name": "Jorge Romero Herrera",
-      "followers": 105565,
-      "text": "Comer fuera no debería ser un lujo. En @AccionNacional propusimos bajar el IVA del 16% al 10% para que tu dinero rinda más.\n\n¡Sí hay soluciones!\n\n#SolucionesParaMéxico https://t.co/XNZHou0oCU",
-      "original_en": "Comer fuera no debería ser un lujo. En @AccionNacional propusimos bajar el IVA del 16% al 10% para que tu dinero rinda más.\n\n¡Sí hay soluciones!\n\n#SolucionesParaMéxico https://t.co/XNZHou0oCU",
-      "views": 30458,
-      "views_label": "30,458",
-      "likes": 291,
-      "reposts": 121,
-      "replies": 530,
+      "id": "2125217775933137005",
+      "handle": "@samuel_garcias",
+      "display_name": "Samuel García",
+      "name": "Samuel García",
+      "followers": 444189,
+      "text": "Compadre @colosioriojas \nAplaudo tu decisión de buscar la candidatura para la gubernatura de Sonora por @MovCiudadanoMX y sobre todo, que pones al frente de esa decisión a tus hijos. \n\nComo tu compadre y amigo, y como ciudadano preocupado por construir un Nuevo México para https://t.co/qrhgBSE6zN",
+      "original_en": "Compadre @colosioriojas \nAplaudo tu decisión de buscar la candidatura para la gubernatura de Sonora por @MovCiudadanoMX y sobre todo, que pones al frente de esa decisión a tus hijos. \n\nComo tu compadre y amigo, y como ciudadano preocupado por construir un Nuevo México para https://t.co/qrhgBSE6zN",
+      "views": 30255,
+      "views_label": "30,255",
+      "likes": 277,
+      "reposts": 31,
+      "replies": 172,
       "quotes": 20,
-      "bookmarks": 2,
-      "url": "https://x.com/JorgeRoHe/status/2124873908406911401",
-      "status_url": "https://x.com/JorgeRoHe/status/2124873908406911401",
-      "created_local": "2026-11-23 08:33",
-      "created_at": "2026-11-23T14:33:12.000Z",
-      "posted_at": "2026-11-23T14:33:12.000Z",
-      "lang": "es",
+      "bookmarks": 12,
+      "url": "https://x.com/samuel_garcias/status/2125217775933137005",
+      "status_url": "https://x.com/samuel_garcias/status/2125217775933137005",
+      "created_local": "2026-11-24 07:19",
+      "created_at": "2026-11-24T13:19:37.000Z",
+      "posted_at": "2026-11-24T13:19:37.000Z",
+      "lang": null,
       "media": [
         "photo"
       ],
       "star": true,
       "highlight": true,
       "quote": false,
-      "draft_en": "Que tu dinero rinda más no debería ser un lujo, sino una meta de país: menos trámites, impuestos sensatos y más oportunidades para emprender.\nCuando le va bien al que emprende, le va bien a México. 💪",
-      "video_tip": "Video de 25 a 30 s: tres pequeños negocios (tortillería, taller, puesto de mercado) abriendo; cada dueño dice en una frase qué le ayudaría a crecer. Cierre con rótulo \"Que tu dinero rinda más\". Subtítulos grandes para ver sin sonido.",
-      "draft_keywords": [
-        "tu dinero",
-        "emprender",
-        "impuestos",
-        "oportunidades"
-      ],
       "top10_rank": 8,
-      "category": "Economía y empleo"
+      "category": "Otros"
     },
     {
-      "id": "2124839237409443882",
-      "handle": "@m_ebrard",
-      "display_name": "Marcelo Ebrard C.",
-      "name": "Marcelo Ebrard C.",
-      "followers": 2709415,
-      "text": "Sostuve cordial reunión de trabajo con Wang Wentao , Ministro de Comercio de la República Popular China . https://t.co/Psjhlu5Wqv",
-      "original_en": "Sostuve cordial reunión de trabajo con Wang Wentao , Ministro de Comercio de la República Popular China . https://t.co/Psjhlu5Wqv",
-      "views": 17519,
-      "views_label": "17,519",
-      "likes": 852,
-      "reposts": 163,
-      "replies": 14,
-      "quotes": 3,
-      "bookmarks": 15,
-      "url": "https://x.com/m_ebrard/status/2124839237409443882",
-      "status_url": "https://x.com/m_ebrard/status/2124839237409443882",
-      "created_local": "2026-11-23 06:15",
-      "created_at": "2026-11-23T12:15:26.000Z",
-      "posted_at": "2026-11-23T12:15:26.000Z",
-      "lang": "es",
+      "id": "2125320875616465278",
+      "handle": "@JorgeRoHe",
+      "display_name": "Jorge Romero Herrera",
+      "name": "Jorge Romero Herrera",
+      "followers": 105568,
+      "text": "Querida @marianagc, lamento profundamente el fallecimiento de tu esposo Michel Pesquera. Te expreso mis más sinceras condolencias y acompaño a tu familia en este momento tan difícil.\n\nTe envío un abrazo. Deseo que tú y tus seres queridos encuentren consuelo en los recuerdos que https://t.co/JEmsLBCEy0",
+      "original_en": "Querida @marianagc, lamento profundamente el fallecimiento de tu esposo Michel Pesquera. Te expreso mis más sinceras condolencias y acompaño a tu familia en este momento tan difícil.\n\nTe envío un abrazo. Deseo que tú y tus seres queridos encuentren consuelo en los recuerdos que https://t.co/JEmsLBCEy0",
+      "views": 21650,
+      "views_label": "21,650",
+      "likes": 263,
+      "reposts": 108,
+      "replies": 15,
+      "quotes": 1,
+      "bookmarks": 0,
+      "url": "https://x.com/JorgeRoHe/status/2125320875616465278",
+      "status_url": "https://x.com/JorgeRoHe/status/2125320875616465278",
+      "created_local": "2026-11-24 14:09",
+      "created_at": "2026-11-24T20:09:17.000Z",
+      "posted_at": "2026-11-24T20:09:17.000Z",
+      "lang": null,
       "media": [
         "photo"
       ],
@@ -327,29 +326,29 @@
       "highlight": true,
       "quote": false,
       "top10_rank": 9,
-      "category": "Internacional"
+      "category": "Otros"
     },
     {
-      "id": "2124908162470043745",
+      "id": "2125240861021880477",
       "handle": "@JorgeRoHe",
       "display_name": "Jorge Romero Herrera",
       "name": "Jorge Romero Herrera",
-      "followers": 105565,
-      "text": "¡Muchas felicidades, @dipMarioiniguez! \n\nTe deseo un cumpleaños lleno de alegría, salud y momentos especiales con tus seres queridos. Que sea un gran año, con nuevos retos y muchas satisfacciones.\n\n ¡Te mando un fuerte abrazo! https://t.co/I2gA4xQ2SS",
-      "original_en": "¡Muchas felicidades, @dipMarioiniguez! \n\nTe deseo un cumpleaños lleno de alegría, salud y momentos especiales con tus seres queridos. Que sea un gran año, con nuevos retos y muchas satisfacciones.\n\n ¡Te mando un fuerte abrazo! https://t.co/I2gA4xQ2SS",
-      "views": 16580,
-      "views_label": "16,580",
-      "likes": 260,
-      "reposts": 83,
-      "replies": 11,
-      "quotes": 1,
-      "bookmarks": 0,
-      "url": "https://x.com/JorgeRoHe/status/2124908162470043745",
-      "status_url": "https://x.com/JorgeRoHe/status/2124908162470043745",
-      "created_local": "2026-11-23 10:49",
-      "created_at": "2026-11-23T16:49:19.000Z",
-      "posted_at": "2026-11-23T16:49:19.000Z",
-      "lang": "es",
+      "followers": 105568,
+      "text": "Tu esfuerzo es tuyo y merece rendir más. En @AccionNacional propusimos que quienes ganan hasta $12 mil pesos no paguen ISR.\n\n¡Hay #SolucionesParaMéxico! https://t.co/bdegTPIPSS",
+      "original_en": "Tu esfuerzo es tuyo y merece rendir más. En @AccionNacional propusimos que quienes ganan hasta $12 mil pesos no paguen ISR.\n\n¡Hay #SolucionesParaMéxico! https://t.co/bdegTPIPSS",
+      "views": 19729,
+      "views_label": "19,729",
+      "likes": 246,
+      "reposts": 111,
+      "replies": 16,
+      "quotes": 0,
+      "bookmarks": 1,
+      "url": "https://x.com/JorgeRoHe/status/2125240861021880477",
+      "status_url": "https://x.com/JorgeRoHe/status/2125240861021880477",
+      "created_local": "2026-11-24 08:51",
+      "created_at": "2026-11-24T14:51:20.000Z",
+      "posted_at": "2026-11-24T14:51:20.000Z",
+      "lang": null,
       "media": [
         "photo"
       ],
@@ -360,25 +359,54 @@
       "category": "Otros"
     },
     {
-      "id": "2124927026821988791",
-      "handle": "@LillyTellez",
-      "display_name": "Lilly Téllez",
-      "name": "Lilly Téllez",
-      "followers": 1128826,
-      "text": "Brugada y sus burradas 🐓🐓🐓🐓🐓🐓🐓🐓🐓🐓🐓🐓🐓🐓🐓\nhttps://t.co/SQ3UQZFwVJ https://t.co/R7xJpDbr1P",
-      "original_en": "Brugada y sus burradas 🐓🐓🐓🐓🐓🐓🐓🐓🐓🐓🐓🐓🐓🐓🐓\nhttps://t.co/SQ3UQZFwVJ https://t.co/R7xJpDbr1P",
-      "views": 14836,
-      "views_label": "14,836",
-      "likes": 1596,
-      "reposts": 466,
-      "replies": 57,
-      "quotes": 1,
-      "bookmarks": 8,
-      "url": "https://x.com/LillyTellez/status/2124927026821988791",
-      "status_url": "https://x.com/LillyTellez/status/2124927026821988791",
-      "created_local": "2026-11-23 12:04",
-      "created_at": "2026-11-23T18:04:17.000Z",
-      "posted_at": "2026-11-23T18:04:17.000Z",
+      "id": "2125271608197591351",
+      "handle": "@JorgeRoHe",
+      "display_name": "Jorge Romero Herrera",
+      "name": "Jorge Romero Herrera",
+      "followers": 105568,
+      "text": "¡Muchas felicidades, @pelaezaldo! \n\nTe deseo un cumpleaños lleno de alegría, salud y grandes momentos.\n\n ¡Te mando un fuerte abrazo hasta Zacatecas! https://t.co/Avrm5Tr7Ro",
+      "original_en": "¡Muchas felicidades, @pelaezaldo! \n\nTe deseo un cumpleaños lleno de alegría, salud y grandes momentos.\n\n ¡Te mando un fuerte abrazo hasta Zacatecas! https://t.co/Avrm5Tr7Ro",
+      "views": 17559,
+      "views_label": "17,559",
+      "likes": 273,
+      "reposts": 93,
+      "replies": 6,
+      "quotes": 0,
+      "bookmarks": 0,
+      "url": "https://x.com/JorgeRoHe/status/2125271608197591351",
+      "status_url": "https://x.com/JorgeRoHe/status/2125271608197591351",
+      "created_local": "2026-11-24 10:53",
+      "created_at": "2026-11-24T16:53:31.000Z",
+      "posted_at": "2026-11-24T16:53:31.000Z",
+      "lang": null,
+      "media": [
+        "photo"
+      ],
+      "star": true,
+      "highlight": true,
+      "quote": false,
+      "category": "Otros"
+    },
+    {
+      "id": "2125358530136097112",
+      "handle": "@Claudiashein",
+      "display_name": "Claudia Sheinbaum Pardo",
+      "name": "Claudia Sheinbaum Pardo",
+      "followers": 5265896,
+      "text": "En enero de 2027 estarán listos cerca de 6 mil de los primeros consultorios del Servicio Universal de Salud. Aquí les platico. https://t.co/f496ojCARP",
+      "original_en": "En enero de 2027 estarán listos cerca de 6 mil de los primeros consultorios del Servicio Universal de Salud. Aquí les platico. https://t.co/f496ojCARP",
+      "views": 11057,
+      "views_label": "11,057",
+      "likes": 241,
+      "reposts": 108,
+      "replies": 32,
+      "quotes": 4,
+      "bookmarks": 4,
+      "url": "https://x.com/Claudiashein/status/2125358530136097112",
+      "status_url": "https://x.com/Claudiashein/status/2125358530136097112",
+      "created_local": "2026-11-24 16:38",
+      "created_at": "2026-11-24T22:38:55.000Z",
+      "posted_at": "2026-11-24T22:38:55.000Z",
       "lang": "es",
       "media": [
         "video"
@@ -389,26 +417,26 @@
       "category": "Otros"
     },
     {
-      "id": "2125145840142766305",
+      "id": "2125357326026821927",
       "handle": "@RicardoBSalinas",
       "display_name": "Don Ricardo Salinas Pliego",
       "name": "Don Ricardo Salinas Pliego",
-      "followers": 2238395,
-      "text": "Esto es increíblemente bueno. https://t.co/6Cd89aZaiR",
-      "original_en": "Esto es increíblemente bueno. https://t.co/6Cd89aZaiR",
-      "views": 10357,
-      "views_label": "10,357",
-      "likes": 76,
-      "reposts": 16,
-      "replies": 6,
-      "quotes": 1,
-      "bookmarks": 10,
-      "url": "https://x.com/RicardoBSalinas/status/2125145840142766305",
-      "status_url": "https://x.com/RicardoBSalinas/status/2125145840142766305",
-      "created_local": "2026-11-24 02:33",
-      "created_at": "2026-11-24T08:33:46.000Z",
-      "posted_at": "2026-11-24T08:33:46.000Z",
-      "lang": null,
+      "followers": 2238321,
+      "text": "😂 en realidad Pedro, es que nomás la mía les empalaga. https://t.co/ZhYwoiGiqa",
+      "original_en": "😂 en realidad Pedro, es que nomás la mía les empalaga. https://t.co/ZhYwoiGiqa",
+      "views": 11023,
+      "views_label": "11,023",
+      "likes": 278,
+      "reposts": 46,
+      "replies": 13,
+      "quotes": 0,
+      "bookmarks": 4,
+      "url": "https://x.com/RicardoBSalinas/status/2125357326026821927",
+      "status_url": "https://x.com/RicardoBSalinas/status/2125357326026821927",
+      "created_local": "2026-11-24 16:34",
+      "created_at": "2026-11-24T22:34:08.000Z",
+      "posted_at": "2026-11-24T22:34:08.000Z",
+      "lang": "es",
       "media": [],
       "star": true,
       "highlight": true,
@@ -416,25 +444,25 @@
       "category": "Otros"
     },
     {
-      "id": "2124916000797897211",
+      "id": "2125295415700447399",
       "handle": "@samuel_garcias",
       "display_name": "Samuel García",
       "name": "Samuel García",
-      "followers": 444170,
-      "text": "👊⚽️🇲🇽 https://t.co/SgHznmlDDV",
-      "original_en": "👊⚽️🇲🇽 https://t.co/SgHznmlDDV",
-      "views": 5629,
-      "views_label": "5,629",
-      "likes": 50,
-      "reposts": 3,
-      "replies": 5,
-      "quotes": 0,
-      "bookmarks": 2,
-      "url": "https://x.com/samuel_garcias/status/2124916000797897211",
-      "status_url": "https://x.com/samuel_garcias/status/2124916000797897211",
-      "created_local": "2026-11-23 11:20",
-      "created_at": "2026-11-23T17:20:28.000Z",
-      "posted_at": "2026-11-23T17:20:28.000Z",
+      "followers": 444189,
+      "text": "El mejor festival de México está en NUEVO LEÓN. Se viene el XV aniversario de @TecatePalNorte. ¿Están listos? https://t.co/i0jnKffOWg",
+      "original_en": "El mejor festival de México está en NUEVO LEÓN. Se viene el XV aniversario de @TecatePalNorte. ¿Están listos? https://t.co/i0jnKffOWg",
+      "views": 7829,
+      "views_label": "7,829",
+      "likes": 109,
+      "reposts": 4,
+      "replies": 28,
+      "quotes": 1,
+      "bookmarks": 1,
+      "url": "https://x.com/samuel_garcias/status/2125295415700447399",
+      "status_url": "https://x.com/samuel_garcias/status/2125295415700447399",
+      "created_local": "2026-11-24 12:28",
+      "created_at": "2026-11-24T18:28:07.000Z",
+      "posted_at": "2026-11-24T18:28:07.000Z",
       "lang": null,
       "media": [
         "photo"
@@ -445,256 +473,243 @@
       "category": "Otros"
     }
   ],
-  "hits_count": 13,
+  "hits_count": 14,
   "virals": [],
   "outsiders": [],
   "outsiders_count": 0,
   "day_roster": [
     {
-      "handle": "@OHarfuch",
-      "name": "Omar H Garcia Harfuch",
-      "display_name": "Omar H Garcia Harfuch",
-      "hits": 1,
-      "total": 353288,
-      "views": 353288,
-      "best": 353288,
-      "best_url": "https://x.com/OHarfuch/status/2124948677206900768",
-      "posts": 1,
+      "handle": "@samuel_garcias",
+      "name": "Samuel García",
+      "display_name": "Samuel García",
+      "hits": 3,
+      "total": 166118,
+      "views": 166118,
+      "best": 128034,
+      "best_url": "https://x.com/samuel_garcias/status/2125238668268827056",
+      "posts": 3,
       "rank": 1
+    },
+    {
+      "handle": "@RicardoBSalinas",
+      "name": "Don Ricardo Salinas Pliego",
+      "display_name": "Don Ricardo Salinas Pliego",
+      "hits": 4,
+      "total": 135538,
+      "views": 135538,
+      "best": 49318,
+      "best_url": "https://x.com/RicardoBSalinas/status/2125145840142766305",
+      "posts": 4,
+      "rank": 2
     },
     {
       "handle": "@Claudiashein",
       "name": "Claudia Sheinbaum Pardo",
       "display_name": "Claudia Sheinbaum Pardo",
       "hits": 3,
-      "total": 167939,
-      "views": 167939,
-      "best": 73783,
-      "best_url": "https://x.com/Claudiashein/status/2124861291747512628",
+      "total": 128028,
+      "views": 128028,
+      "best": 68884,
+      "best_url": "https://x.com/Claudiashein/status/2125042225813864643",
       "posts": 3,
-      "rank": 2
-    },
-    {
-      "handle": "@RicardoBSalinas",
-      "name": "Don Ricardo Salinas Pliego",
-      "display_name": "Don Ricardo Salinas Pliego",
-      "hits": 2,
-      "total": 121252,
-      "views": 121252,
-      "best": 110895,
-      "best_url": "https://x.com/RicardoBSalinas/status/2124899153469686079",
-      "posts": 2,
       "rank": 3
     },
     {
-      "handle": "@m_ebrard",
-      "name": "Marcelo Ebrard C.",
-      "display_name": "Marcelo Ebrard C.",
-      "hits": 3,
-      "total": 91216,
-      "views": 91216,
-      "best": 41496,
-      "best_url": "https://x.com/m_ebrard/status/2124857655101706688",
-      "posts": 3,
+      "handle": "@OHarfuch",
+      "name": "Omar H Garcia Harfuch",
+      "display_name": "Omar H Garcia Harfuch",
+      "hits": 1,
+      "total": 81371,
+      "views": 81371,
+      "best": 81371,
+      "best_url": "https://x.com/OHarfuch/status/2125301576520589588",
+      "posts": 1,
       "rank": 4
     },
     {
       "handle": "@JorgeRoHe",
       "name": "Jorge Romero Herrera",
       "display_name": "Jorge Romero Herrera",
-      "hits": 2,
-      "total": 47038,
-      "views": 47038,
-      "best": 30458,
-      "best_url": "https://x.com/JorgeRoHe/status/2124873908406911401",
-      "posts": 2,
+      "hits": 3,
+      "total": 58938,
+      "views": 58938,
+      "best": 21650,
+      "best_url": "https://x.com/JorgeRoHe/status/2125320875616465278",
+      "posts": 3,
       "rank": 5
-    },
-    {
-      "handle": "@LillyTellez",
-      "name": "Lilly Téllez",
-      "display_name": "Lilly Téllez",
-      "hits": 1,
-      "total": 14836,
-      "views": 14836,
-      "best": 14836,
-      "best_url": "https://x.com/LillyTellez/status/2124927026821988791",
-      "posts": 1,
-      "rank": 6
-    },
-    {
-      "handle": "@samuel_garcias",
-      "name": "Samuel García",
-      "display_name": "Samuel García",
-      "hits": 1,
-      "total": 5629,
-      "views": 5629,
-      "best": 5629,
-      "best_url": "https://x.com/samuel_garcias/status/2124916000797897211",
-      "posts": 1,
-      "rank": 7
     }
   ],
   "you_rank": {
-    "rank": 3,
-    "of": 7,
+    "rank": 2,
+    "of": 5,
     "handle": "@RicardoBSalinas",
-    "hits": 2,
-    "total": 121252,
-    "best": 110895,
-    "best_url": "https://x.com/RicardoBSalinas/status/2124899153469686079",
-    "best_views": 110895,
-    "total_views": 121252,
-    "rank_among_watchlist": 3,
-    "total_accounts": 7,
+    "hits": 4,
+    "total": 135538,
+    "best": 49318,
+    "best_url": "https://x.com/RicardoBSalinas/status/2125145840142766305",
+    "best_views": 49318,
+    "total_views": 135538,
+    "rank_among_watchlist": 2,
+    "total_accounts": 5,
     "vs_5k": "done",
     "vs_10k": "done"
   },
   "no_hits": [
     {
       "handle": "@MaruCampos_G",
-      "reason": "2 post(s) original(es) en 24 h; máximo 2,552 vistas.",
-      "max_views": 2552
+      "reason": "2 post(s) original(es) en 24 h; máximo 1,072 vistas.",
+      "max_views": 1072
+    },
+    {
+      "handle": "@LillyTellez",
+      "reason": "Sin posts originales en las últimas 24 h.",
+      "max_views": 0
+    },
+    {
+      "handle": "@m_ebrard",
+      "reason": "1 post(s) original(es) en 24 h; máximo 3,902 vistas.",
+      "max_views": 3902
     },
     {
       "handle": "@alitomorenoc",
-      "reason": "3 post(s) original(es) en 24 h; máximo 2,479 vistas.",
-      "max_views": 2479
+      "reason": "4 post(s) original(es) en 24 h; máximo 4,113 vistas.",
+      "max_views": 4113
     },
     {
       "handle": "@acostanaranjo",
-      "reason": "1 post(s) original(es) en 24 h; máximo 1,330 vistas.",
-      "max_views": 1330
+      "reason": "1 post(s) original(es) en 24 h; máximo 3,984 vistas.",
+      "max_views": 3984
     }
   ],
   "previous_day": {
-    "date": "2026-11-23 (corte 17:00)",
-    "hits_count": 14,
-    "total_views": 402187
+    "date": "2026-11-24 (corte 06:00)",
+    "hits_count": 13,
+    "total_views": 801198
   },
   "trend_input_only_posts": [],
   "trend_input_only": [],
   "drafts_top10": [
     {
-      "rank": 3,
-      "handle": "@Claudiashein",
-      "url": "https://x.com/Claudiashein/status/2124861291747512628",
-      "draft_en": "La justicia no se presume: se demuestra con reglas claras e iguales para todos.\nSin certeza no hay inversión, y sin inversión no hay empleo. Así de sencillo. ⚖️🇲🇽",
-      "video_tip": "Video vertical de 12 a 15 s: manos que firman un contrato, la cortina de un negocio que sube al amanecer y un trabajador que llega a su turno. Rótulos grandes \"Reglas claras\" · \"Para todos\" · \"Más empleo\". Música sobria; sin personas públicas, partidos ni logotipos.",
+      "rank": 1,
+      "handle": "@samuel_garcias",
+      "url": "https://x.com/samuel_garcias/status/2125238668268827056",
+      "draft_en": "Nunca se deja de aprender. El que estudia, se prepara y se atreve a preguntar siempre encuentra una puerta abierta, aunque el mundo cambie.\nLa mejor inversión de un país es la preparación de su gente. 📚🇲🇽",
+      "video_tip": "Video vertical de 15 s: un estudiante que lee de noche en la mesa de la cocina, una señora mayor que aprende a usar una tableta, un técnico en un curso y una graduación con abrazo familiar; rótulos \"Estudia\" · \"Prepárate\" · \"Avanza\". Música optimista; sin marcas, escuelas identificables ni personas públicas.",
       "keywords": [
-        "justicia",
-        "reglas claras",
-        "certeza",
-        "empleo"
+        "preparación",
+        "estudio",
+        "jóvenes",
+        "aprender"
       ]
     },
     {
-      "rank": 4,
-      "handle": "@Claudiashein",
-      "url": "https://x.com/Claudiashein/status/2124910289271283807",
-      "draft_en": "A quienes cuidan nuestros mares y a quienes salen cada madrugada a pescar: México se sostiene con gente que trabaja sin pedir permiso para ser grande.\nRespeto y gratitud. ⚓🇲🇽",
-      "video_tip": "Video de 15 s con tomas de puerto al amanecer: lanchas que salen, redes, un marino en cubierta de espaldas y la bandera al viento. Texto final \"Respeto y gratitud\". Usar material propio o de banco de imágenes; sin uniformes con nombres ni funcionarios.",
+      "rank": 6,
+      "handle": "@RicardoBSalinas",
+      "url": "https://x.com/RicardoBSalinas/status/2125255867968917671",
+      "draft_en": "Un empleo formal es más que un sueldo: es seguro médico, ahorro para el retiro y la tranquilidad de una familia.\nMéxico necesita que contratar sea más fácil que no hacerlo. Cuando crece el empleo, crece todo el país. 💼🇲🇽",
+      "video_tip": "Video de 12 a 15 s: una barra de gráfica que sube (3 s, solo con datos públicos del IMSS o INEGI si se citan), una joven que recibe su primer gafete, un taller que contrata y una familia en consulta médica; rótulos \"Empleo formal\" · \"Seguridad\" · \"Futuro\". Sin nombres ni partidos.",
       "keywords": [
-        "Armada",
-        "mar",
-        "trabajo",
-        "gratitud",
-        "México"
+        "empleo",
+        "empleo formal",
+        "oportunidades",
+        "emprender"
       ]
     },
     {
-      "rank": 8,
-      "handle": "@JorgeRoHe",
-      "url": "https://x.com/JorgeRoHe/status/2124873908406911401",
-      "draft_en": "Que tu dinero rinda más no debería ser un lujo, sino una meta de país: menos trámites, impuestos sensatos y más oportunidades para emprender.\nCuando le va bien al que emprende, le va bien a México. 💪",
-      "video_tip": "Video de 25 a 30 s: tres pequeños negocios (tortillería, taller, puesto de mercado) abriendo; cada dueño dice en una frase qué le ayudaría a crecer. Cierre con rótulo \"Que tu dinero rinda más\". Subtítulos grandes para ver sin sonido.",
+      "rank": 7,
+      "handle": "@RicardoBSalinas",
+      "url": "https://x.com/RicardoBSalinas/status/2125289325709668723",
+      "draft_en": "Cada peso de impuestos sale del trabajo de alguien: del que abre su negocio temprano, del que cumple con su nómina, del que ahorra para sus hijos.\nPor eso las cuentas claras son respeto. Rendir cuentas no es un favor: es una obligación con el esfuerzo de todos. 🇲🇽",
+      "video_tip": "Video vertical de 15 s: un panadero sube la cortina a las 6 a.m., una mano firma una nómina, una moneda cae en una alcancía y la toma se funde con una escuela y una clínica iluminadas; rótulos \"Tu esfuerzo\" · \"Tus impuestos\" · \"Cuentas claras\". Sin logotipos, partidos ni personas públicas.",
       "keywords": [
-        "tu dinero",
-        "emprender",
+        "transparencia",
         "impuestos",
-        "oportunidades"
+        "rendir cuentas",
+        "esfuerzo"
       ]
     }
   ],
   "last24h": {
-    "start": "2026-11-23T11:55:00Z",
-    "end": "2026-11-24T11:55:00Z"
+    "start": "2026-11-23T22:55:00Z",
+    "end": "2026-11-24T22:55:00Z"
   },
-  "virals_narrative": "Ventana: del 23 nov, 5:55 a.m. al 24 nov, 5:55 a.m. (hora del centro de México). 25 posts originales revisados (sin respuestas ni reposts) de las 10 cuentas; 13 superaron 5,000 vistas y 12 pasaron de 10,000; 10 ya estaban en el corte de ayer 5:00 p.m. (no se cuentan doble en semana/mes). Sin publicación arriba de 5,000: @MaruCampos_G (2 post(s) original(es) en 24 h; máximo 2,552 vistas.), @alitomorenoc (3 post(s) original(es) en 24 h; máximo 2,479 vistas.), @acostanaranjo (1 post(s) original(es) en 24 h; máximo 1,330 vistas.).",
+  "virals_narrative": "Ventana: del 23 nov, 4:55 p.m. al 24 nov, 4:55 p.m. (hora del centro de México). 25 posts originales revisados (sin respuestas ni reposts) de 10 cuentas (@LillyTellez sin originales en la ventana); 14 superaron 5,000 vistas y 13 pasaron de 10,000. Sin publicación arriba de 5,000: @MaruCampos_G (2 post(s) original(es) en 24 h; máximo 1,072 vistas.), @LillyTellez (Sin posts originales en las últimas 24 h.), @m_ebrard (1 post(s) original(es) en 24 h; máximo 3,902 vistas.), @alitomorenoc (4 post(s) original(es) en 24 h; máximo 4,113 vistas.), @acostanaranjo (1 post(s) original(es) en 24 h; máximo 3,984 vistas.). Sin sección Rivales nueva (corrida de la tarde; se conserva la de la mañana).",
   "patterns": [
-    "Seguridad con anuncio concreto y video/fotos: @OHarfuch, Sinaloa, 353,288",
-    "Frase corta de valores sin imagen: @Claudiashein, \"La paz y la tranquilidad son frutos de la justicia\", 73,783",
-    "Efeméride institucional (Día de la Armada): @Claudiashein, 49,664 y 44,492",
-    "\"Buenas noticias\" con resultados concretos de una negociación: @m_ebrard, 41,496 y 32,201",
-    "Propuesta de bolsillo con foto: @JorgeRoHe, bajar el IVA al 10%, 30,458",
-    "Defensa de clientes con un fallo judicial de por medio: @RicardoBSalinas, 110,895 (riesgo: \"gobierno corrupto\" y \"persecución política\" no salen del fallo)"
+    "Ceremonia institucional con foto: @Claudiashein Día de la Armada 68,884 (2,873 likes)",
+    "Seguridad con datos concretos: @OHarfuch 104 patrullas en Culiacán 81,371",
+    "Preparación personal en video largo: @samuel_garcias coloquio doctoral 128,034 (224 likes)",
+    "Transparencia con cifras propias: @RicardoBSalinas impuestos de Grupo Salinas 36,657 (1,306 likes)",
+    "Artículo con datos de empleo: @RicardoBSalinas 38,540",
+    "Mensajes personales breves: @JorgeRoHe condolencias 21,650 y cumpleaños 17,559",
+    "Actos de partido y avisos de agenda no despegan: @alitomorenoc máximo 4,113; @MaruCampos_G máximo 1,072"
   ],
-  "narrative_synthesis": "Lunes con mañanera centrada en Sinaloa: tras la captura del \"Chapo Isidro\", el Gabinete de Seguridad anunció refuerzos y @OHarfuch se llevó el día (353,288). La Presidenta volvió a publicar con una frase corta sobre paz y justicia y con el Día de la Armada; @m_ebrard presumió los acuerdos con China (compras de atún, camarón y limón). @RicardoBSalinas sostuvo su alcance con la cita sobre sus clientes tras el fallo que ordena devolver el permiso de Ganador Azteca (110,895).",
+  "narrative_synthesis": "Martes de gobierno y datos: @OHarfuch reporta desde Culiacán la entrega de 104 unidades a policías de Sinaloa (81,371) y @Claudiashein suma salud y el Día de la Armada (128,028 en 3). @samuel_garcias encabeza por un video de 8 minutos de su tesis doctoral (128,034, con poca interacción). @RicardoBSalinas publica 4 originales: una cita sobre IA (49,318), un artículo de X con gráficas de empleo por sexenio (38,540), una cita sobre los impuestos pagados por Grupo Salinas en la que pide transparencia al gobierno (36,657) y una broma sobre los cajeros automáticos (11,023). En la conversación pesan la multa de la CNBV a TV Azteca (confirmada por La Jornada y El Imparcial) y el anuncio presidencial para regular apuestas digitales. Para los borradores: cuentas claras, empleo formal y preparación, sin nombres ni ataques.",
   "trend_keywords": [
-    "Sinaloa",
+    "transparencia",
+    "impuestos",
+    "rendir cuentas",
+    "empleo",
+    "empleo formal",
+    "IMSS",
+    "ISR",
     "seguridad",
-    "paz",
-    "justicia",
+    "Sinaloa",
     "Armada",
-    "Independencia en la Mar",
-    "China",
-    "buenas noticias",
-    "exportaciones",
-    "IVA",
-    "tu dinero rinda más",
-    "clientes",
-    "Ganador Azteca",
-    "certeza jurídica",
+    "salud",
+    "consultorios",
+    "preparación",
+    "estudio",
+    "condolencias",
     "IA"
   ],
   "trend_radar": {
     "date": "2026-11-24",
     "title": "Trends and post ideas",
     "window": {
-      "end": "2026-11-24T11:55:00+00:00",
-      "label24": "23.11 11:55 - 24.11 11:55 UTC",
-      "label48": "22.11 11:55 - 24.11 11:55 UTC"
+      "end": "2026-11-24T22:55:00+00:00",
+      "label24": "23.11 22:55 - 24.11 22:55 UTC",
+      "label48": "22.11 22:55 - 24.11 22:55 UTC"
     },
     "corpus": {
-      "posts": 13,
+      "posts": 14,
       "min_views": 5000,
       "lanes": {
-        "watchlist": 13,
+        "watchlist": 14,
         "outsider": 0,
         "24h": 0,
         "trend_input": 0
       }
     },
     "summary": {
-      "top10_line": "1) @OHarfuch \"Por instrucciones de la Presidenta @Claudiashein, el Gabinet\" 353,288; 2) @RicardoBSalinas \"A mis clientes les quitaron su tiempo y los dejó sin su dine\" 110,895; 3) @Claudiashein \"La paz y la tranquilidad son frutos de la justicia. https://\" 73,783; 4) @Claudiashein \"201 Aniversario de la Consolidación de la Independencia en l\" 49,664; 5) @Claudiashein \"201 Aniversario de la Consolidación de la Independencia en l\" 44,492; 6) @m_ebrard \"Buenas noticias : https://t.co/FsoO7DhEWj\" 41,496; 7) @m_ebrard \"Resultados de la reunión del Grupo de Alto Nivel México-Chin\" 32,201; 8) @JorgeRoHe \"Comer fuera no debería ser un lujo. En @AccionNacional propu\" 30,458; 9) @m_ebrard \"Sostuve cordial reunión de trabajo con Wang Wentao , Ministr\" 17,519; 10) @JorgeRoHe \"¡Muchas felicidades, @dipMarioiniguez!\" 16,580.",
-      "headline": "Lunes de seguridad y diplomacia: @OHarfuch es 1º con 353,288 vistas (Gabinete de Seguridad en Sinaloa). @Claudiashein vuelve con 3 hits (167,939) y @RicardoBSalinas queda 3º de 7 con 121,252 en 2 originales, casi todo de su cita sobre sus clientes y Ganador Azteca (110,895). @m_ebrard suma 3 hits (91,216) con los resultados de su gira en China.",
-      "takeaway": "Lo que jala: (1) seguridad con anuncio concreto y fotos/video: @OHarfuch 353,288; (2) frase corta de valores (\"La paz y la tranquilidad son frutos de la justicia\"): @Claudiashein 73,783 sin imagen; (3) efeméride institucional (Día de la Armada) en 2 posts: 94,156; (4) \"Buenas noticias\" con resultados concretos: @m_ebrard 41,496; (5) propuesta de bolsillo con foto: @JorgeRoHe, IVA al 10%, 30,458. Lo que no: lemas repetidos (@samuel_garcias, de 2,043 a 3,534) y avisos de gira (@alitomorenoc, menos de 2,500).",
+      "top10_line": "1) @samuel_garcias \"COLOQUIO DOCTORAL EN LA UNIVERSIDAD DE @LaSalle_MX\" 128,034; 2) @OHarfuch \"Por instrucciones de la Presidenta @Claudiashein, estamos en\" 81,371; 3) @Claudiashein \"201 Aniversario de la Consolidación de la Independencia en l\" 68,884; 4) @RicardoBSalinas \"Esto es increíblemente bueno. https://t.co/6Cd89aZaiR\" 49,318; 5) @Claudiashein \"El acceso a la salud es un derecho y cada día se hace más ef\" 48,087; 6) @RicardoBSalinas \"https://t.co/vhOdh0Ndxy\" 38,540; 7) @RicardoBSalinas \"A pesar de que en @gruposalinas NO somos Gobierno, publicamo\" 36,657; 8) @samuel_garcias \"Compadre @colosioriojas\" 30,255; 9) @JorgeRoHe \"Querida @marianagc, lamento profundamente el fallecimiento d\" 21,650; 10) @JorgeRoHe \"Tu esfuerzo es tuyo y merece rendir más. En @AccionNacional\" 19,729.",
+      "headline": "Tarde del 24 de noviembre: @samuel_garcias queda 1º con 166,118 vistas en 3 originales (video de su coloquio doctoral, 128,034); @RicardoBSalinas 2º de 5 con 135,538 en 4 originales (cita sobre IA 49,318, artículo de empleo 38,540 e impuestos de Grupo Salinas 36,657); @Claudiashein 3ª con 128,028 en 3. @LillyTellez no publicó originales en la ventana.",
+      "takeaway": "Lo que jala: (1) ceremonia institucional con foto (@Claudiashein, Día de la Armada, 68,884 y 2,873 likes); (2) despliegue de seguridad con datos concretos (@OHarfuch, 104 patrullas en Culiacán, 81,371 y 1,668 likes); (3) contenido largo de preparación personal (@samuel_garcias, coloquio doctoral, 128,034, aunque solo 224 likes); (4) transparencia con cifras propias (@RicardoBSalinas, impuestos de Grupo Salinas, 36,657, 1,306 likes) y datos de empleo en artículo (38,540); (5) mensajes personales breves (@JorgeRoHe, condolencias 21,650 y cumpleaños 17,559) y propuesta de bolsillo (ISR, 19,729). Lo que no jala: actos de partido (@alitomorenoc, máximo 4,113), avisos de agenda (@MaruCampos_G, máximo 1,072) y el enlace sin contexto (@m_ebrard, inversión extranjera, 3,902).",
       "stats": {
         "all": {
-          "n": 13,
-          "trend_n": 0,
-          "trend_pct": 0,
-          "avg_trend": null,
-          "avg_other": 61631,
-          "median_trend": null,
-          "median_other": 32201,
+          "n": 14,
+          "trend_n": 1,
+          "trend_pct": 7,
+          "avg_trend": 36657,
+          "avg_other": 41026,
+          "median_trend": 36657,
+          "median_other": 30255,
           "verdicts": {
-            "tendencia": 0,
+            "tendencia": 1,
             "visual": 9,
             "autor/audiencia": 4,
             "coincidencia/otro": 0
           }
         },
         "watchlist": {
-          "n": 13,
-          "trend_n": 0,
-          "trend_pct": 0,
-          "avg_trend": null,
-          "avg_other": 61631,
-          "median_trend": null,
-          "median_other": 32201,
+          "n": 14,
+          "trend_n": 1,
+          "trend_pct": 7,
+          "avg_trend": 36657,
+          "avg_other": 41026,
+          "median_trend": 36657,
+          "median_other": 30255,
           "verdicts": {
-            "tendencia": 0,
+            "tendencia": 1,
             "visual": 9,
             "autor/audiencia": 4,
             "coincidencia/otro": 0
@@ -717,187 +732,194 @@
         },
         "top10": {
           "n": 10,
-          "trend_n": 0,
-          "trend_pct": 0,
-          "avg_trend": null,
-          "avg_other": 77038,
-          "median_trend": null,
-          "median_other": 42994,
+          "trend_n": 1,
+          "trend_pct": 10,
+          "avg_trend": 36657,
+          "avg_other": 53985,
+          "median_trend": 36657,
+          "median_other": 48087,
           "verdicts": {
-            "tendencia": 0,
-            "visual": 7,
+            "tendencia": 1,
+            "visual": 6,
             "autor/audiencia": 3,
             "coincidencia/otro": 0
           }
         },
         "media": {
-          "video_n": 4,
-          "median_video": 38346,
-          "other_n": 9,
-          "median_other": 30458
+          "video_n": 3,
+          "median_video": 68884,
+          "other_n": 11,
+          "median_other": 30255
         }
       }
     },
     "topics": [
       {
-        "name": "Seguridad en Sinaloa con anuncio concreto (@OHarfuch)",
+        "name": "Seguridad con datos en Sinaloa (@OHarfuch)",
         "keywords": [
           "Sinaloa",
-          "Gabinete de Seguridad",
-          "familias",
-          "violencia"
+          "Culiacán",
+          "patrullas",
+          "seguridad",
+          "Marina"
         ],
         "posts_24h": 1,
-        "views_24h": 353288,
+        "views_24h": 81371,
         "momentum": "sigue",
         "evidence": [
-          "https://x.com/OHarfuch/status/2124948677206900768"
+          "https://x.com/OHarfuch/status/2125301576520589588"
         ]
       },
       {
-        "name": "Paz y justicia en frase corta (@Claudiashein)",
+        "name": "Salud y Día de la Armada (@Claudiashein)",
         "keywords": [
-          "paz",
-          "tranquilidad",
-          "justicia"
-        ],
-        "posts_24h": 1,
-        "views_24h": 73783,
-        "momentum": "nuevo",
-        "evidence": [
-          "https://x.com/Claudiashein/status/2124861291747512628"
-        ]
-      },
-      {
-        "name": "Día de la Armada / Independencia en la Mar",
-        "keywords": [
+          "salud",
+          "consultorios",
           "Armada",
-          "Independencia en la Mar",
-          "201 aniversario"
-        ],
-        "posts_24h": 2,
-        "views_24h": 94156,
-        "momentum": "nuevo",
-        "evidence": [
-          "https://x.com/Claudiashein/status/2124910289271283807",
-          "https://x.com/Claudiashein/status/2125042225813864643"
-        ]
-      },
-      {
-        "name": "Resultados con China (@m_ebrard)",
-        "keywords": [
-          "China",
-          "buenas noticias",
-          "Wang Wentao",
-          "exportaciones"
+          "derecho"
         ],
         "posts_24h": 3,
-        "views_24h": 91216,
+        "views_24h": 128028,
         "momentum": "sigue",
         "evidence": [
-          "https://x.com/m_ebrard/status/2124857655101706688",
-          "https://x.com/m_ebrard/status/2124939221043736998",
-          "https://x.com/m_ebrard/status/2124839237409443882"
+          "https://x.com/Claudiashein/status/2125042225813864643",
+          "https://x.com/Claudiashein/status/2125222453660074131",
+          "https://x.com/Claudiashein/status/2125358530136097112"
         ]
       },
       {
-        "name": "Propuesta de bolsillo con foto (@JorgeRoHe)",
+        "name": "Transparencia, impuestos y empleo con datos (@RicardoBSalinas)",
         "keywords": [
-          "IVA",
-          "10%",
-          "tu dinero rinda más"
+          "impuestos",
+          "transparencia",
+          "rendir cuentas",
+          "empleo",
+          "IMSS"
         ],
-        "posts_24h": 1,
-        "views_24h": 30458,
-        "momentum": "sigue",
+        "posts_24h": 2,
+        "views_24h": 75197,
+        "momentum": "nuevo",
         "evidence": [
-          "https://x.com/JorgeRoHe/status/2124873908406911401"
+          "https://x.com/RicardoBSalinas/status/2125289325709668723",
+          "https://x.com/RicardoBSalinas/status/2125255867968917671"
         ]
       },
       {
-        "name": "Clientes y certeza jurídica (@RicardoBSalinas)",
+        "name": "Tecnología e IA",
         "keywords": [
-          "clientes",
-          "Ganador Azteca",
-          "tribunal",
-          "cuentas congeladas"
+          "IA",
+          "tecnología",
+          "cajeros"
         ],
-        "posts_24h": 1,
-        "views_24h": 110895,
+        "posts_24h": 2,
+        "views_24h": 60341,
         "momentum": "sigue",
         "evidence": [
-          "https://x.com/RicardoBSalinas/status/2124899153469686079"
+          "https://x.com/RicardoBSalinas/status/2125145840142766305",
+          "https://x.com/RicardoBSalinas/status/2125357326026821927"
         ]
       },
       {
-        "name": "Burla política (@LillyTellez)",
+        "name": "Preparación y estudio (@samuel_garcias)",
         "keywords": [
-          "Brugada",
-          "burradas"
+          "coloquio",
+          "tesis",
+          "doctorado",
+          "preparación"
         ],
         "posts_24h": 1,
-        "views_24h": 14836,
-        "momentum": "baja",
+        "views_24h": 128034,
+        "momentum": "nuevo",
         "evidence": [
-          "https://x.com/LillyTellez/status/2124927026821988791"
+          "https://x.com/samuel_garcias/status/2125238668268827056"
+        ]
+      },
+      {
+        "name": "Propuesta de bolsillo: ISR (@JorgeRoHe)",
+        "keywords": [
+          "ISR",
+          "12 mil pesos",
+          "tu esfuerzo",
+          "Soluciones para México"
+        ],
+        "posts_24h": 1,
+        "views_24h": 19729,
+        "momentum": "sigue",
+        "evidence": [
+          "https://x.com/JorgeRoHe/status/2125240861021880477"
+        ]
+      },
+      {
+        "name": "Mensajes personales: condolencias, cumpleaños y amistades",
+        "keywords": [
+          "condolencias",
+          "felicidades",
+          "compadre"
+        ],
+        "posts_24h": 3,
+        "views_24h": 69464,
+        "momentum": "sigue",
+        "evidence": [
+          "https://x.com/JorgeRoHe/status/2125320875616465278",
+          "https://x.com/JorgeRoHe/status/2125271608197591351",
+          "https://x.com/samuel_garcias/status/2125217775933137005"
         ]
       }
     ],
     "ideas": [
       {
-        "title": "Reglas claras para todos",
-        "topic": "Justicia y certeza",
+        "title": "Cuentas claras",
+        "topic": "Transparencia",
         "keywords": [
-          "justicia",
-          "reglas claras",
-          "certeza",
-          "empleo"
-        ],
-        "format": "video",
-        "visual_type": "video",
-        "visual": "Firma de contrato, cortina de negocio que sube, trabajador que llega a su turno",
-        "angle": "Justicia en positivo y en frase corta, sin acusar a nadie",
-        "hook_en": "La justicia no se presume: se demuestra.",
-        "why": "La frase corta sobre paz y justicia llegó a 73,783 vistas (@Claudiashein) sin imagen.",
-        "x_keywords": [],
-        "x_rank": null,
-        "source": "watchlist"
-      },
-      {
-        "title": "Gratitud a quienes trabajan en el mar",
-        "topic": "Armada y pesca",
-        "keywords": [
-          "Armada",
-          "mar",
-          "trabajo",
-          "gratitud",
-          "México"
-        ],
-        "format": "video",
-        "visual_type": "video",
-        "visual": "Puerto al amanecer, lanchas, redes y un marino de espaldas",
-        "angle": "Respeto institucional y orgullo por el trabajo, sin partidos",
-        "hook_en": "México se sostiene con gente que trabaja.",
-        "why": "El Día de la Armada sumó 49,664 y 44,492 vistas (@Claudiashein); Ebrard anunció compras chinas de atún y camarón.",
-        "x_keywords": [],
-        "x_rank": null,
-        "source": "watchlist"
-      },
-      {
-        "title": "Que tu dinero rinda más",
-        "topic": "Economía de bolsillo",
-        "keywords": [
-          "tu dinero",
-          "emprender",
+          "transparencia",
           "impuestos",
-          "oportunidades"
+          "rendir cuentas",
+          "esfuerzo"
         ],
         "format": "video",
         "visual_type": "video",
-        "visual": "Tres pequeños negocios abriendo y sus dueños en una frase",
-        "angle": "Emprender y bajar trámites, en positivo",
-        "hook_en": "Cuando le va bien al que emprende, le va bien a México.",
-        "why": "La propuesta del IVA al 10% con foto llegó a 30,458 vistas (@JorgeRoHe).",
+        "visual": "Panadero que abre, nómina firmada, alcancía que se funde con escuela y clínica",
+        "angle": "Transparencia como respeto al esfuerzo, sin acusar a nadie",
+        "hook_en": "Cada peso de impuestos sale del trabajo de alguien.",
+        "why": "Su cita sobre los impuestos de Grupo Salinas sumó 36,657 vistas y 1,306 likes; contado en positivo se quita el tono de pleito.",
+        "x_keywords": [],
+        "x_rank": null,
+        "source": "watchlist"
+      },
+      {
+        "title": "El empleo formal da tranquilidad",
+        "topic": "Empleo",
+        "keywords": [
+          "empleo",
+          "empleo formal",
+          "oportunidades",
+          "emprender"
+        ],
+        "format": "video",
+        "visual_type": "video",
+        "visual": "Gráfica que sube, primer gafete, taller que contrata, consulta médica",
+        "angle": "Empleo formal como seguridad para la familia",
+        "hook_en": "Un empleo formal es más que un sueldo.",
+        "why": "Su artículo con gráficas de empleo llegó a 38,540 vistas; la propuesta de bolsillo sobre el ISR (@JorgeRoHe) a 19,729.",
+        "x_keywords": [],
+        "x_rank": null,
+        "source": "watchlist"
+      },
+      {
+        "title": "Nunca se deja de aprender",
+        "topic": "Preparación",
+        "keywords": [
+          "preparación",
+          "estudio",
+          "jóvenes",
+          "aprender"
+        ],
+        "format": "video",
+        "visual_type": "video",
+        "visual": "Estudio de noche, adulta mayor con tableta, técnico en curso, graduación",
+        "angle": "Preparación y superación, sin partidos",
+        "hook_en": "Nunca se deja de aprender.",
+        "why": "El video del coloquio doctoral de @samuel_garcias llegó a 128,034 vistas; une con su mensaje de que la tecnología no le quita el trabajo a quien se prepara.",
         "x_keywords": [],
         "x_rank": null,
         "source": "watchlist"
@@ -906,184 +928,51 @@
     "articles": [],
     "why_hit": [
       {
-        "id": "2124948677206900768",
-        "handle": "@OHarfuch",
+        "id": "2125238668268827056",
+        "handle": "@samuel_garcias",
         "lane": "watchlist",
-        "views": 353288,
-        "trend_match": 49,
+        "views": 128034,
+        "trend_match": 20,
         "verdict": "visual",
         "matched_keywords": [
-          "Sinaloa",
-          "seguridad",
           "IA"
         ],
         "media": "video",
-        "followers": 816620,
+        "followers": 444189,
         "topic": null,
         "self_quote": false,
         "note": ""
       },
       {
-        "id": "2124899153469686079",
-        "handle": "@RicardoBSalinas",
+        "id": "2125301576520589588",
+        "handle": "@OHarfuch",
         "lane": "watchlist",
-        "views": 110895,
-        "trend_match": 20,
-        "verdict": "autor/audiencia",
-        "matched_keywords": [
-          "clientes"
-        ],
-        "media": "sin datos",
-        "followers": 2238395,
-        "topic": null,
-        "self_quote": false,
-        "note": "media: sin datos"
-      },
-      {
-        "id": "2124861291747512628",
-        "handle": "@Claudiashein",
-        "lane": "watchlist",
-        "views": 73783,
+        "views": 81371,
         "trend_match": 49,
-        "verdict": "autor/audiencia",
+        "verdict": "visual",
         "matched_keywords": [
-          "paz",
-          "justicia",
+          "seguridad",
+          "Sinaloa",
           "IA"
         ],
-        "media": "sin datos",
-        "followers": 5265938,
+        "media": "photo",
+        "followers": 816823,
         "topic": null,
         "self_quote": false,
-        "note": "media: sin datos"
-      },
-      {
-        "id": "2124910289271283807",
-        "handle": "@Claudiashein",
-        "lane": "watchlist",
-        "views": 49664,
-        "trend_match": 36,
-        "verdict": "autor/audiencia",
-        "matched_keywords": [
-          "Independencia en la Mar",
-          "IA"
-        ],
-        "media": "sin datos",
-        "followers": 5265938,
-        "topic": null,
-        "self_quote": false,
-        "note": "media: sin datos"
+        "note": ""
       },
       {
         "id": "2125042225813864643",
         "handle": "@Claudiashein",
         "lane": "watchlist",
-        "views": 44492,
-        "trend_match": 36,
-        "verdict": "visual",
-        "matched_keywords": [
-          "Independencia en la Mar",
-          "IA"
-        ],
-        "media": "video",
-        "followers": 5265938,
-        "topic": null,
-        "self_quote": false,
-        "note": ""
-      },
-      {
-        "id": "2124857655101706688",
-        "handle": "@m_ebrard",
-        "lane": "watchlist",
-        "views": 41496,
-        "trend_match": 36,
-        "verdict": "visual",
-        "matched_keywords": [
-          "buenas noticias",
-          "IA"
-        ],
-        "media": "photo",
-        "followers": 2709415,
-        "topic": null,
-        "self_quote": false,
-        "note": ""
-      },
-      {
-        "id": "2124939221043736998",
-        "handle": "@m_ebrard",
-        "lane": "watchlist",
-        "views": 32201,
-        "trend_match": 20,
-        "verdict": "visual",
-        "matched_keywords": [
-          "China"
-        ],
-        "media": "video",
-        "followers": 2709415,
-        "topic": null,
-        "self_quote": false,
-        "note": ""
-      },
-      {
-        "id": "2124873908406911401",
-        "handle": "@JorgeRoHe",
-        "lane": "watchlist",
-        "views": 30458,
-        "trend_match": 36,
-        "verdict": "visual",
-        "matched_keywords": [
-          "IVA",
-          "tu dinero rinda más"
-        ],
-        "media": "photo",
-        "followers": 105565,
-        "topic": null,
-        "self_quote": false,
-        "note": ""
-      },
-      {
-        "id": "2124839237409443882",
-        "handle": "@m_ebrard",
-        "lane": "watchlist",
-        "views": 17519,
-        "trend_match": 36,
-        "verdict": "visual",
-        "matched_keywords": [
-          "China",
-          "IA"
-        ],
-        "media": "photo",
-        "followers": 2709415,
-        "topic": null,
-        "self_quote": false,
-        "note": ""
-      },
-      {
-        "id": "2124908162470043745",
-        "handle": "@JorgeRoHe",
-        "lane": "watchlist",
-        "views": 16580,
+        "views": 68884,
         "trend_match": 20,
         "verdict": "visual",
         "matched_keywords": [
           "IA"
         ],
-        "media": "photo",
-        "followers": 105565,
-        "topic": null,
-        "self_quote": false,
-        "note": ""
-      },
-      {
-        "id": "2124927026821988791",
-        "handle": "@LillyTellez",
-        "lane": "watchlist",
-        "views": 14836,
-        "trend_match": 0,
-        "verdict": "visual",
-        "matched_keywords": [],
         "media": "video",
-        "followers": 1128826,
+        "followers": 5265896,
         "topic": null,
         "self_quote": false,
         "note": ""
@@ -1092,26 +981,169 @@
         "id": "2125145840142766305",
         "handle": "@RicardoBSalinas",
         "lane": "watchlist",
-        "views": 10357,
+        "views": 49318,
         "trend_match": 0,
         "verdict": "autor/audiencia",
         "matched_keywords": [],
         "media": "sin datos",
-        "followers": 2238395,
+        "followers": 2238321,
         "topic": null,
         "self_quote": false,
         "note": "media: sin datos"
       },
       {
-        "id": "2124916000797897211",
+        "id": "2125222453660074131",
+        "handle": "@Claudiashein",
+        "lane": "watchlist",
+        "views": 48087,
+        "trend_match": 20,
+        "verdict": "autor/audiencia",
+        "matched_keywords": [
+          "salud"
+        ],
+        "media": "sin datos",
+        "followers": 5265896,
+        "topic": null,
+        "self_quote": false,
+        "note": "media: sin datos"
+      },
+      {
+        "id": "2125255867968917671",
+        "handle": "@RicardoBSalinas",
+        "lane": "watchlist",
+        "views": 38540,
+        "trend_match": 0,
+        "verdict": "autor/audiencia",
+        "matched_keywords": [],
+        "media": "sin datos",
+        "followers": 2238321,
+        "topic": null,
+        "self_quote": false,
+        "note": "media: sin datos"
+      },
+      {
+        "id": "2125289325709668723",
+        "handle": "@RicardoBSalinas",
+        "lane": "watchlist",
+        "views": 36657,
+        "trend_match": 59,
+        "verdict": "tendencia",
+        "matched_keywords": [
+          "transparencia",
+          "impuestos",
+          "rendir cuentas",
+          "IA"
+        ],
+        "media": "sin datos",
+        "followers": 2238321,
+        "topic": null,
+        "self_quote": false,
+        "note": "media: sin datos"
+      },
+      {
+        "id": "2125217775933137005",
         "handle": "@samuel_garcias",
         "lane": "watchlist",
-        "views": 5629,
+        "views": 30255,
         "trend_match": 0,
         "verdict": "visual",
         "matched_keywords": [],
         "media": "photo",
-        "followers": 444170,
+        "followers": 444189,
+        "topic": null,
+        "self_quote": false,
+        "note": ""
+      },
+      {
+        "id": "2125320875616465278",
+        "handle": "@JorgeRoHe",
+        "lane": "watchlist",
+        "views": 21650,
+        "trend_match": 36,
+        "verdict": "visual",
+        "matched_keywords": [
+          "condolencias",
+          "IA"
+        ],
+        "media": "photo",
+        "followers": 105568,
+        "topic": null,
+        "self_quote": false,
+        "note": ""
+      },
+      {
+        "id": "2125240861021880477",
+        "handle": "@JorgeRoHe",
+        "lane": "watchlist",
+        "views": 19729,
+        "trend_match": 20,
+        "verdict": "visual",
+        "matched_keywords": [
+          "ISR"
+        ],
+        "media": "photo",
+        "followers": 105568,
+        "topic": null,
+        "self_quote": false,
+        "note": ""
+      },
+      {
+        "id": "2125271608197591351",
+        "handle": "@JorgeRoHe",
+        "lane": "watchlist",
+        "views": 17559,
+        "trend_match": 20,
+        "verdict": "visual",
+        "matched_keywords": [
+          "salud"
+        ],
+        "media": "photo",
+        "followers": 105568,
+        "topic": null,
+        "self_quote": false,
+        "note": ""
+      },
+      {
+        "id": "2125358530136097112",
+        "handle": "@Claudiashein",
+        "lane": "watchlist",
+        "views": 11057,
+        "trend_match": 36,
+        "verdict": "visual",
+        "matched_keywords": [
+          "salud",
+          "consultorios"
+        ],
+        "media": "video",
+        "followers": 5265896,
+        "topic": null,
+        "self_quote": false,
+        "note": ""
+      },
+      {
+        "id": "2125357326026821927",
+        "handle": "@RicardoBSalinas",
+        "lane": "watchlist",
+        "views": 11023,
+        "trend_match": 0,
+        "verdict": "autor/audiencia",
+        "matched_keywords": [],
+        "media": "sin datos",
+        "followers": 2238321,
+        "topic": null,
+        "self_quote": false,
+        "note": "media: sin datos"
+      },
+      {
+        "id": "2125295415700447399",
+        "handle": "@samuel_garcias",
+        "lane": "watchlist",
+        "views": 7829,
+        "trend_match": 0,
+        "verdict": "visual",
+        "matched_keywords": [],
+        "media": "photo",
+        "followers": 444189,
         "topic": null,
         "self_quote": false,
         "note": ""
@@ -1130,222 +1162,256 @@
     "legend": "Trend match 0-100% = 1 - prod(1 - w) over matched 24 h keywords that another author also used in the 48 h window (w: rank 1-10 0.35, 11-25 0.22, 26-40 0.12, curated 0.20). Verdict: >= 50% -> tendencia; else video/image in the post data -> visual; else >= 100K followers (outsiders without follower data: >= 500K views, estimate) -> autor/audiencia; else coincidencia/otro. Missing data shows as 'sin datos'. Heat = sum log10(views) of topic posts (24 h x1, 24-48 h x0.5), scaled to 100. Momentum = log-views last 24 h / previous 24 h. Trend-input-only accounts feed the corpus but are never shown as hits."
   },
   "imagen_rsp": {
-    "fecha": "2026-11-24 (06:00)",
+    "fecha": "2026-11-24 (17:00)",
     "parcial": false,
-    "ventana": "2026-11-23T11:55Z a 2026-11-24T11:55Z (23 nov 5:55 a.m. a 24 nov 5:55 a.m., hora del centro de México)",
+    "ventana": "2026-11-23T22:55Z a 2026-11-24T22:55Z (23 nov 4:55 p.m. a 24 nov 4:55 p.m., hora del centro de México)",
     "posts_propios": {
+      "originales": 4,
+      "vistas": 135538,
+      "likes": 2321,
+      "reposts": 548,
+      "respuestas": 293,
+      "citas": 14,
+      "guardados": 78,
+      "top": "https://x.com/RicardoBSalinas/status/2125145840142766305",
+      "detalle": [
+        {
+          "url": "https://x.com/RicardoBSalinas/status/2125145840142766305",
+          "vistas": 49318,
+          "likes": 422,
+          "reposts": 72,
+          "respuestas": 36,
+          "citas": 3,
+          "guardados": 49,
+          "nota": "24 nov 2:33 a.m. (hora del centro). Cita \"Esto es increíblemente bueno\" a un video en inglés de @telsopian sobre los riesgos de la IA. Sube de 10,357 (6:00) a 49,318; sin riesgo, pero poca reacción para su alcance y fuera de su tema de estadista."
+        },
+        {
+          "url": "https://x.com/RicardoBSalinas/status/2125255867968917671",
+          "vistas": 38540,
+          "likes": 315,
+          "reposts": 99,
+          "respuestas": 44,
+          "citas": 4,
+          "guardados": 11,
+          "nota": "24 nov 9:50 a.m. Artículo de X \"Lo que se crea, lo que falta y lo que cuesta contratar\": gráficas de empleo formal e informal por sexenio (IMSS, INEGI-ENOE, Banxico, OCDE) y costo de contratar frente a 8 países. Positivo y de estadista; ojo: las proyecciones a 2030 son elaboración propia de Grupo Salinas, no dato oficial. 38,540 vistas."
+        },
+        {
+          "url": "https://x.com/RicardoBSalinas/status/2125289325709668723",
+          "vistas": 36657,
+          "likes": 1306,
+          "reposts": 331,
+          "respuestas": 200,
+          "citas": 7,
+          "guardados": 14,
+          "nota": "24 nov 12:03 p.m. Cita a @gruposalinas (más de 40.4 mil mdp pagados en 2026 y más de 325 mil mdp en 21 años, cifra que reporta la propia empresa): pide que el gobierno explique en qué usa cada peso. Mensaje de transparencia que conecta (1,306 likes); el remate \"es una obligación que no cumplen\" es su opinión. 36,657 vistas."
+        },
+        {
+          "url": "https://x.com/RicardoBSalinas/status/2125357326026821927",
+          "vistas": 11023,
+          "likes": 278,
+          "reposts": 46,
+          "respuestas": 13,
+          "citas": 0,
+          "guardados": 4,
+          "nota": "24 nov 4:34 p.m. Cita en broma a @pedroferriz3 sobre los cajeros automáticos (\"nomás la mía les empalaga\"). Sin riesgo; tono ligero. 11,023 vistas, recién publicada."
+        }
+      ],
+      "nota": "4 originales (3 citas y 1 artículo), sin contar 1 respuesta: 135,538 vistas, 2,321 likes, 548 reposts y 293 respuestas. Contra el corte de las 6:00 (2 originales, 121,252, 3.º de 7) sube +11.8%; contra ayer 5:00 p.m. (1 original, 66,732, 3.º de 7) sube +103.1%. Queda 2.º de 5, detrás de @samuel_garcias (166,118 en 3). Más likes que respuestas en todas."
+    },
+    "dia_previo_referencia": {
+      "fecha": "2026-11-24 (06:00)",
       "originales": 2,
       "vistas": 121252,
       "likes": 3572,
       "reposts": 989,
       "respuestas": 117,
-      "citas": 6,
-      "guardados": 48,
-      "top": "https://x.com/RicardoBSalinas/status/2124899153469686079",
-      "detalle": [
-        {
-          "url": "https://x.com/RicardoBSalinas/status/2124899153469686079",
-          "vistas": 110895,
-          "likes": 3496,
-          "reposts": 973,
-          "respuestas": 111,
-          "citas": 5,
-          "guardados": 38,
-          "nota": "23 nov 10:13 a.m. (hora del centro). Cita sobre sus clientes de Ganador Azteca: \"A mis clientes les quitaron su tiempo y los dejó sin su dinero… ¿Quién les va a devolver lo que perdieron?\". Sube de 66,732 (ayer 5:00 p.m.) a 110,895. El fallo está confirmado: un tribunal federal ordenó a Segob devolver el permiso porque la suspensión no tuvo sustento penal (El Imparcial, El Heraldo de Aguascalientes, 23 nov), pero la empresa está en concurso mercantil y eso complica que vuelva a operar. Riesgo: \"gobierno corrupto\" y \"persecución política y venganza\" no salen del fallo."
-        },
-        {
-          "url": "https://x.com/RicardoBSalinas/status/2125145840142766305",
-          "vistas": 10357,
-          "likes": 76,
-          "reposts": 16,
-          "respuestas": 6,
-          "citas": 1,
-          "guardados": 10,
-          "nota": "24 nov 2:33 a.m. Cita \"Esto es increíblemente bueno\" a un video en inglés de @telsopian sobre los riesgos de la IA (597,186 vistas ese video). Sin riesgo, pero con poca reacción (76 likes) y fuera de su tema de estadista."
-        }
-      ],
-      "nota": "2 originales (2 citas), sin contar respuestas ni reposts: 121,252 vistas, 3,572 likes, 989 reposts y 117 respuestas. Contra ayer 5:00 p.m. (1 original, 66,732, 3.º de 7) sube +81.7%; contra ayer 6:00 a.m. (1 original, 84,763, 1.º de 6) sube +43.0%. Queda 3.º de 7, detrás de @OHarfuch y @Claudiashein."
-    },
-    "dia_previo_referencia": {
-      "fecha": "2026-11-23 (17:00)",
-      "originales": 1,
-      "vistas": 66732,
-      "likes": 2052,
-      "reposts": 550,
-      "respuestas": 79,
       "rank": "3 de 7"
     },
     "posts_previos_actualizados": [
       {
-        "url": "https://x.com/RicardoBSalinas/status/2124526744585617754",
-        "vistas": 113871,
-        "likes": 8653,
-        "reposts": 3398,
-        "respuestas": 204,
-        "nota": "Cita sobre la FGR y el INE (\"justicia pareja\"): +7.8% contra 105,594 de ayer 5:00 p.m. Riesgo vigente: \"narco senador\" con nombre."
-      },
-      {
-        "url": "https://x.com/RicardoBSalinas/status/2124412588566134965",
-        "vistas": 131629,
-        "likes": 7740,
-        "reposts": 2578,
-        "respuestas": 110,
-        "nota": "Cita \"Wow no podría creerse\" (boda en Yucatán): +5.5% contra 124,805 de ayer 5:00 p.m. Ahora hay fuente: Infobae (23 nov) reporta que Lilly Téllez pidió investigar al director del Conalep de Morelos por esa boda, estimada en 8 millones de pesos; la cifra es estimación, no dato oficial."
-      },
-      {
         "url": "https://x.com/RicardoBSalinas/status/2124209093694939379",
-        "vistas": 526229,
-        "likes": 9611,
-        "reposts": 2735,
-        "respuestas": 2803,
-        "nota": "Video \"La tecnología no le quita el trabajo a nadie que se prepara\": +1.5% contra 518,638 de ayer 5:00 p.m."
+        "vistas": 530318,
+        "likes": 9653,
+        "reposts": 2749,
+        "respuestas": 2831,
+        "nota": "Video \"La tecnología no le quita el trabajo a nadie que se prepara\": +0.8% contra 526,229 de las 6:00."
       },
       {
         "url": "https://x.com/RicardoBSalinas/status/2123987913859805494",
-        "vistas": 461407,
+        "vistas": 462481,
         "likes": 19152,
         "reposts": 5672,
-        "respuestas": 694,
-        "nota": "Video de Sinaloa (\"Narco gobernador…\"): +0.6% contra 458,845 de ayer 5:00 p.m. Riesgo principal vigente."
+        "respuestas": 693,
+        "nota": "Video de Sinaloa (\"Narco gobernador…\"): +0.2% contra 461,407 de las 6:00."
       },
       {
         "url": "https://x.com/RicardoBSalinas/status/2123525282040881319",
-        "vistas": 327616,
+        "vistas": 328322,
         "likes": 10915,
         "reposts": 4489,
         "respuestas": 254,
-        "nota": "Cita sobre la reforma judicial: +0.3% contra 326,765 de ayer 5:00 p.m. Riesgo vigente."
+        "nota": "Cita sobre la reforma judicial: +0.2% contra 327,616 de las 6:00."
       },
       {
         "url": "https://x.com/RicardoBSalinas/status/2124174418259685469",
-        "vistas": 215483,
-        "likes": 6170,
+        "vistas": 216340,
+        "likes": 6173,
         "reposts": 1064,
-        "respuestas": 264,
-        "nota": "Cita a @FarmaciasGdl: +0.6% contra 214,200 de ayer 5:00 p.m. \"Cartel de Tabasco\" sin fuente: riesgo vigente."
+        "respuestas": 266,
+        "nota": "Cita a @FarmaciasGdl: +0.4% contra 215,483 de las 6:00."
       },
       {
         "url": "https://x.com/RicardoBSalinas/status/2124225794247635106",
-        "vistas": 211278,
-        "likes": 5567,
-        "reposts": 876,
+        "vistas": 212453,
+        "likes": 5569,
+        "reposts": 877,
         "respuestas": 411,
-        "nota": "Cita \"¿Ya se les olvidó?\": +0.8% contra 209,511 de ayer 5:00 p.m."
+        "nota": "Cita \"¿Ya se les olvidó?\": +0.6% contra 211,278 de las 6:00."
+      },
+      {
+        "url": "https://x.com/RicardoBSalinas/status/2124899153469686079",
+        "vistas": 140203,
+        "likes": 4562,
+        "reposts": 1335,
+        "respuestas": 139,
+        "nota": "Cita sobre sus clientes de Ganador Azteca (\"¿Quién les va a devolver lo que perdieron?\"): +26.4% contra 110,895 de las 6:00. Salió de la ventana; sigue creciendo. Riesgo vigente: \"gobierno corrupto\" no sale del fallo y la empresa sigue en concurso mercantil."
+      },
+      {
+        "url": "https://x.com/RicardoBSalinas/status/2124412588566134965",
+        "vistas": 133821,
+        "likes": 7764,
+        "reposts": 2593,
+        "respuestas": 109,
+        "nota": "Cita \"Wow no podría creerse\" (boda en Yucatán): +1.7% contra 131,629 de las 6:00."
+      },
+      {
+        "url": "https://x.com/RicardoBSalinas/status/2124526744585617754",
+        "vistas": 118859,
+        "likes": 8949,
+        "reposts": 3523,
+        "respuestas": 208,
+        "nota": "Cita sobre la FGR y el INE (\"justicia pareja\"): +4.4% contra 113,871 de las 6:00."
       },
       {
         "url": "https://x.com/RicardoBSalinas/status/2123621524565369157",
-        "vistas": 81809,
-        "likes": 2176,
+        "vistas": 82205,
+        "likes": 2177,
         "reposts": 465,
         "respuestas": 255,
-        "nota": "Video de colaboradores (25 a 50 años): +0.6% contra 81,289 de ayer 5:00 p.m. Positivo."
+        "nota": "Video de colaboradores (25 a 50 años): +0.5% contra 81,809 de las 6:00."
       },
       {
         "url": "https://x.com/RicardoBSalinas/status/2123849642995548641",
-        "vistas": 78497,
-        "likes": 2630,
+        "vistas": 78948,
+        "likes": 2631,
         "reposts": 679,
         "respuestas": 149,
-        "nota": "Cita \"Los MoreNarcos son los verdaderos FASCISTAS\": +0.8% contra 77,910 de ayer 5:00 p.m. Riesgo vigente."
+        "nota": "Cita \"Los MoreNarcos son los verdaderos FASCISTAS\": +0.6% contra 78,497 de las 6:00."
       },
       {
         "url": "https://x.com/RicardoBSalinas/status/2124147816867995666",
-        "vistas": 53462,
-        "likes": 597,
-        "reposts": 35,
+        "vistas": 53939,
+        "likes": 600,
+        "reposts": 36,
         "respuestas": 80,
-        "nota": "Cita \"Felicidades Javier\": +1.2% contra 52,840 de ayer 5:00 p.m. Sin riesgo."
+        "nota": "Cita \"Felicidades Javier\": +0.9% contra 53,462 de las 6:00."
       }
     ],
     "respuestas_destacadas": [
       {
-        "url": "https://x.com/RicardoBSalinas/status/2124948697960092052",
-        "vistas": 7354,
-        "likes": 542,
-        "nota": "Respuesta a @MarxArriaga: \"¿Risa?\". Sigue el pleito de ayer (burlas sobre sus pies); no cuenta como original."
+        "url": "https://x.com/RicardoBSalinas/status/2125342015953203516",
+        "vistas": 3362,
+        "likes": 402,
+        "nota": "Respuesta \"😂😂😂\" a @MarxArriaga (3:33 p.m.): sigue el pleito de ayer; no cuenta como original, pero mantiene viva la burla."
       }
     ],
     "menciones": {
-      "volumen_24h": 2717,
-      "volumen_24h_previas": 4648,
-      "nota_volumen": "Conteo de X por hora para 'Salinas Pliego' / 'Ricardo Salinas' / @RicardoBSalinas, sin reposts, 23 nov 12:00Z a 24 nov 11:55Z: 2,717, −41.5% contra las 24 h anteriores (4,648) y −11.3% contra el corte de ayer 5:00 p.m. (3,063, otra ventana). El pico fue de 192 por hora entre 1 y 2 p.m. (hora del centro), cuando se difundió lo del permiso de Ganador Azteca; bajó a 20-23 por hora de 2 a 5 a.m.",
+      "volumen_24h": 2925,
+      "volumen_24h_previas": 3083,
+      "nota_volumen": "Conteo de X por hora para 'Salinas Pliego' / 'Ricardo Salinas' / @RicardoBSalinas, sin reposts, 23 nov 23:00Z a 24 nov ~22:57Z (la última hora incompleta): 2,925, -5.1% contra las 24 h anteriores (3,083) y +7.7% contra el corte de las 6:00 (2,717, otra ventana). El pico fue de 262 por hora entre 12 y 1 p.m. (hora del centro), tras la mañanera y la nota de la CNBV; el mínimo, 20 por hora entre 2 y 3 a.m.",
       "muestra": 50,
       "repetidas": 2,
       "excluidas_bots": 12,
-      "excluidas_pro_morena": 5,
-      "excluidas_fuera_de_tema": 8,
-      "excluidas_no_verificadas": 2,
-      "nota_filtro": "Filtro habitual sobre 50 menciones (25 por relevancia y 25 más recientes; sin respuestas, sin reposts y sin posts propios; 2 repetidas, quedan 48). Bots (12) = 9 handles con largas cadenas de dígitos o cuentas nuevas con decenas de miles de posts y texto copiado (dos publican el mismo texto palabra por palabra), 1 cuenta de 2024 con 15 seguidores y 2 publicaciones automáticas idénticas de Frontera y La Crónica que repiten la nota de El Imparcial. Pro-Morena (5) = bios o nombres \"YO CON CLAUDIA\", \"PacoObradorista\", \"El Obradorismo…\", \"AMLO es amar México\" y un activista de \"la transformación\" que lo llama impulsor del fascismo (7,084 vistas). Fuera de tema (8) = solo etiquetas o enlaces, peticiones de ayuda y chismes del reality. No verificadas (2) = acusaciones de una supuesta red criminal sin ninguna fuente; no se repiten.",
+      "excluidas_pro_morena": 4,
+      "excluidas_fuera_de_tema": 6,
+      "excluidas_no_verificadas": 4,
+      "nota_filtro": "Filtro habitual sobre 50 menciones (25 por relevancia y 25 más recientes; sin respuestas, sin reposts y sin posts propios; 2 repetidas, quedan 48). Bots (12) = handles con largas cadenas de dígitos y texto copiado palabra por palabra (3 posts idénticos de 2 cuentas), cuentas creadas en 2026 con 0 a 88 seguidores, y cuentas con más de 140 mil posts. Pro-Morena (4) = bios o etiquetas \"#4T\", \"Obradorista al 100%\", \"La Mejor PresidentA\" y una cuenta dedicada a defender a la 4T. Fuera de tema (6) = quejas solo con enlace, chismes del reality y posts sobre terceros. No verificadas (4) = acusaciones sin fuente (redes criminales, archivos Epstein, fraude y \"narco\" a un tercero); no se repiten.",
+      "analizadas": 22,
+      "tono": "De 22 menciones válidas: 12 críticas, 4 favorables y 6 informativas. La más vista es favorable (@avieu, 21,286).",
       "temas": [
-        "Ganador Azteca: medios informan que el tribunal ordenó devolver el permiso, pero la empresa está en concurso mercantil y difícilmente podrá operar (El Imparcial, El Heraldo de Aguascalientes, Polemón).",
-        "Automatización de sucursales: siguen las críticas por su postura ante la jornada de 40 horas y el salario mínimo (Poder & Crítica).",
-        "El pleito con Marx Arriaga: La Derecha Diario lo celebra (\"LO DESTRUYÓ\", 2,974 vistas), pero cita sus insultos sobre los pies, que chocan con la imagen de estadista.",
-        "Vicente Fox y Fortaleza Mexicana: vuelve a circular el respaldo de Fox (El Debate, 21 nov), con poco alcance hoy (912).",
-        "Columna de Federico Arreola en SDP Noticias que cuestiona la \"tolerancia\" de María Amparo Casar con él (575)."
+        "Multa de la CNBV a TV Azteca por 2.69 mdp por omitir información al mercado en 2021; la televisora impugnará (La Jornada, El Imparcial, 24 nov).",
+        "Regulación de apuestas digitales: la Presidenta anunció que retomará una iniciativa por el aumento de la ludopatía (El Universal, La Jornada, 24 nov); se cruza con el fallo de Ganador Azteca.",
+        "Impuestos de Grupo Salinas y transparencia: su cita y la de TV Azteca Morelos.",
+        "Cajeros automáticos y empleo: sigue el debate (Diario de Sonora).",
+        "Respaldo de Vicente Fox y Fortaleza Mexicana (El Debate, 21 nov).",
+        "Quejas de clientes de Totalplay por fallas del servicio."
       ],
-      "tono": "Volumen a la baja (2,717; −41.5%) y tono mayormente crítico: de 21 menciones válidas, 15 críticas, 2 favorables y 4 informativas. Ninguna mención válida pasa de 3,000 vistas.",
       "menciones_destacadas": [
         {
+          "handle": "@avieu",
+          "vistas": 21286,
+          "likes": 468,
+          "url": "https://x.com/avieu/status/2125248870955339921",
+          "texto": "Favorable: cuestiona que, un día después del fallo que ordena devolver el permiso de Ganador Azteca, el gobierno anuncie regular apuestas con el argumento de la ludopatía (el anuncio está confirmado por El Universal y La Jornada, 24 nov)."
+        },
+        {
           "handle": "@DerechaDiarioMX",
-          "vistas": 2974,
-          "likes": 152,
+          "vistas": 4882,
+          "likes": 290,
           "url": "https://x.com/DerechaDiarioMX/status/2125046548811690349",
           "texto": "Favorable en tono, pero amplifica sus insultos a Marx Arriaga (\"pies asquerosos\"): riesgo de imagen."
         },
         {
+          "handle": "@juncalssolano",
+          "vistas": 2694,
+          "likes": 137,
+          "url": "https://x.com/juncalssolano/status/2125209361580708272",
+          "texto": "Crítica: TV Azteca y sus inversionistas, a raíz de la multa de la CNBV."
+        },
+        {
+          "handle": "@MXReferencia",
+          "vistas": 2450,
+          "likes": 27,
+          "url": "https://x.com/MXReferencia/status/2125227044090843382",
+          "texto": "Informativa: la CNBV multó a TV Azteca con 2.69 mdp por omitir información al mercado en 2021; la televisora impugnará (La Jornada y El Imparcial, 24 nov)."
+        },
+        {
           "handle": "@SinLinea_Mx",
-          "vistas": 912,
-          "likes": 19,
+          "vistas": 1015,
+          "likes": 23,
           "url": "https://x.com/SinLinea_Mx/status/2125039195705983353",
           "texto": "Informativa: el respaldo de Vicente Fox y la invitación a Fortaleza Mexicana (confirmado por El Debate, 21 nov)."
         },
         {
-          "handle": "@sdpnoticias",
-          "vistas": 575,
+          "handle": "@eldiariodeson",
+          "vistas": 160,
           "likes": 2,
-          "url": "https://x.com/sdpnoticias/status/2124958653371302253",
-          "texto": "Crítica (opinión de Federico Arreola): \"¿tolerancia infinita con Salinas Pliego?\"."
-        },
-        {
-          "handle": "@saburguete",
-          "vistas": 426,
-          "likes": 37,
-          "url": "https://x.com/saburguete/status/2124951311938433409",
-          "texto": "Crítica: mensaje contra el discurso del esfuerzo, dirigido a él y a Ninfa Salinas."
-        },
-        {
-          "handle": "@elimparcialcom",
-          "vistas": 370,
-          "likes": 1,
-          "url": "https://x.com/elimparcialcom/status/2124904960496107557",
-          "texto": "Informativa: devuelven el permiso de Ganador Azteca, pero no podrá operar por insolvencia."
-        },
-        {
-          "handle": "@pattyfox64d",
-          "vistas": 257,
-          "likes": 0,
-          "url": "https://x.com/pattyfox64d/status/2125086757431464275",
-          "texto": "Crítica: lo llama \"usurero\" en una campaña contra Banco Azteca."
+          "url": "https://x.com/eldiariodeson/status/2125301915357676018",
+          "texto": "Informativa: el debate por la sustitución de cajeros de ventanilla por cajeros automáticos."
         }
       ]
     },
     "riesgos": [
-      "Cita de sus clientes (110,895): el fallo sí le da la razón en el procedimiento, pero \"gobierno corrupto\" y \"persecución política y venganza\" no salen del fallo, y como Ganador Azteca está en concurso mercantil la pregunta \"¿quién les va a devolver lo que perdieron?\" se le puede revertir.",
-      "Pleito con Marx Arriaga: su respuesta \"¿Risa?\" (7,354) y la nota de La Derecha Diario que repite sus insultos sobre los pies (2,974) mantienen viva la burla; choca con la imagen de estadista.",
-      "Riesgos previos que siguen sumando fuera de ventana: video de Sinaloa (461,407), reforma judicial (327,616), Farmacias Gdl con \"cartel de Tabasco\" (215,483), \"narco senador\" (113,871) y \"MoreNarcos\" (78,497).",
-      "Cuentas excluidas lo ligan sin fuente a redes criminales o a los archivos Epstein; no hay confirmación de medios reputados. Vigilar, no responder."
+      "Multa de la CNBV a TV Azteca (confirmada, 2.69 mdp, conducta de 2021): se suma a la narrativa de \"problemas legales\"; conviene no responder con descalificaciones.",
+      "Pleito con Marx Arriaga: su respuesta \"😂😂😂\" (3,362) y la nota de La Derecha Diario que repite sus insultos (4,882) mantienen viva la burla; choca con la imagen de estadista.",
+      "Cita de impuestos: el remate \"es una obligación que no cumplen\" es opinión; las cifras de 40.4 mil mdp y 325 mil mdp son de la propia empresa.",
+      "Riesgos previos que siguen sumando fuera de ventana: video de Sinaloa, reforma judicial, Farmacias Gdl con \"cartel de Tabasco\", \"narco senador\" y \"MoreNarcos\"."
     ],
     "medios": [
       {
-        "texto": "El Imparcial: tribunal ordena devolver permiso a Ganador Azteca, pero su insolvencia complica que opere (23 nov)",
-        "url": "https://www.elimparcial.com/dinero/2026/11/23/tribunal-ordena-devolver-permiso-a-casinera-de-ricardo-salinas-pliego-tras-detectar-que-segob-la-suspendio-por-sospechas-de-lavado-de-dinero-sin-una-investigacion-penal-pero-su-insolvencia-impide-que-vuelva-a-operar/"
+        "texto": "La Jornada: CNBV multa a TV Azteca por presuntamente omitir información a inversionistas (24 nov)",
+        "url": "https://www.jornada.com.mx/noticia/2026/11/24/economia/cnbv-multa-a-tv-azteca-por-presuntamente-omitir-informacion-a-inversionistas"
       },
       {
-        "texto": "Infobae: Lilly Téllez pide investigar al director del Conalep de Morelos por boda millonaria en Yucatán (23 nov)",
-        "url": "https://www.infobae.com/mexico/2026/11/23/lilly-tellez-exige-que-se-investige-al-director-del-conalep-en-morelos-por-boda-millonaria-celebrada-en-hotel-de-lujo-en-yucatan/"
+        "texto": "El Imparcial: CNBV multa a TV Azteca con 2,688,600 pesos; la televisora anuncia impugnación (24 nov)",
+        "url": "https://www.elimparcial.com/mexico/2026/11/24/cnbv-multa-a-tv-azteca-con-2-millones-688-mil-600-pesos-por-omitir-informacion-al-mercado-bursatil-en-2021-y-la-televisora-anuncia-impugnacion/"
       },
       {
-        "texto": "El Debate: Vicente Fox respalda a Salinas Pliego y lo critican en redes (21 nov)",
+        "texto": "La Jornada: Sheinbaum busca reactivar iniciativa para regular casinos digitales por la ludopatía (24 nov)",
+        "url": "https://www.jornada.com.mx/noticia/2026/11/24/politica/sheinbaum-busca-reactivar-iniciativa-de-ley-que-regule-casinos-digitales-ante-aumento-de-la-ludopatia-en-mexico"
+      },
+      {
+        "texto": "El Debate: Vicente Fox respalda a Salinas Pliego (21 nov)",
         "url": "https://www.debate.com.mx/politica/vicente-fox-respalda-a-salinas-pliego-rumbo-a-la-presidencia-de-mexico-en-2030-y-lo-tunden-en-redes-20261121-0130.html"
       }
     ]
@@ -1518,27 +1584,27 @@
         {
           "handle": "@Claudiashein",
           "name": "Claudia Sheinbaum Pardo",
-          "hits": 15,
+          "hits": 17,
           "days": 6,
-          "views": 3156464,
+          "views": 3240000,
           "best": 714932,
           "best_url": "https://x.com/Claudiashein/status/2123654488347267264"
         },
         {
           "handle": "@ricardobsalinas",
           "name": "Ricardo B. Salinas",
-          "hits": 20,
+          "hits": 23,
           "days": 7,
-          "views": 2390096,
+          "views": 2515277,
           "best": 416174,
           "best_url": "https://x.com/RicardoBSalinas/status/2123987913859805494"
         },
         {
           "handle": "@OHarfuch",
           "name": "Omar H Garcia Harfuch",
-          "hits": 6,
-          "days": 4,
-          "views": 2383281,
+          "hits": 7,
+          "days": 5,
+          "views": 2464652,
           "best": 1722104,
           "best_url": "https://x.com/OHarfuch/status/2124217638306091286"
         },
@@ -1554,11 +1620,20 @@
         {
           "handle": "@JorgeRoHe",
           "name": "Jorge Romero Herrera",
-          "hits": 39,
-          "days": 6,
-          "views": 855024,
+          "hits": 42,
+          "days": 7,
+          "views": 913962,
           "best": 173525,
           "best_url": "https://x.com/JorgeRoHe/status/2123247393944621490"
+        },
+        {
+          "handle": "@samuel_garcias",
+          "name": "Samuel García",
+          "hits": 25,
+          "days": 7,
+          "views": 613489,
+          "best": 160245,
+          "best_url": "https://x.com/samuel_garcias/status/2123895607622541823"
         },
         {
           "handle": "@LillyTellez",
@@ -1568,15 +1643,6 @@
           "views": 551721,
           "best": 138251,
           "best_url": "https://x.com/LillyTellez/status/2124230473576595472"
-        },
-        {
-          "handle": "@samuel_garcias",
-          "name": "Samuel García",
-          "hits": 22,
-          "days": 7,
-          "views": 446714,
-          "best": 160245,
-          "best_url": "https://x.com/samuel_garcias/status/2123895607622541823"
         },
         {
           "handle": "@alitomorenoc",
@@ -1617,27 +1683,27 @@
         {
           "handle": "@ricardobsalinas",
           "name": "Ricardo B. Salinas",
-          "hits": 74,
+          "hits": 77,
           "days": 23,
-          "views": 11158976,
+          "views": 11284157,
           "best": 1760231,
           "best_url": "https://x.com/RicardoBSalinas/status/2120331518199447789"
         },
         {
           "handle": "@Claudiashein",
           "name": "Claudia Sheinbaum Pardo",
-          "hits": 55,
+          "hits": 57,
           "days": 23,
-          "views": 9599533,
+          "views": 9683069,
           "best": 1233596,
           "best_url": "https://x.com/Claudiashein/status/2122205377345605643"
         },
         {
           "handle": "@OHarfuch",
           "name": "Omar H Garcia Harfuch",
-          "hits": 26,
-          "days": 13,
-          "views": 4172019,
+          "hits": 27,
+          "days": 14,
+          "views": 4253390,
           "best": 1722104,
           "best_url": "https://x.com/OHarfuch/status/2124217638306091286"
         },
@@ -1653,9 +1719,9 @@
         {
           "handle": "@JorgeRoHe",
           "name": "Jorge Romero Herrera",
-          "hits": 140,
-          "days": 23,
-          "views": 2752344,
+          "hits": 143,
+          "days": 24,
+          "views": 2811282,
           "best": 209875,
           "best_url": "https://x.com/JorgeRoHe/status/2120347226606067917"
         },
@@ -1671,9 +1737,9 @@
         {
           "handle": "@samuel_garcias",
           "name": "Samuel García",
-          "hits": 82,
+          "hits": 85,
           "days": 24,
-          "views": 1213556,
+          "views": 1380331,
           "best": 160245,
           "best_url": "https://x.com/samuel_garcias/status/2123895607622541823"
         },
